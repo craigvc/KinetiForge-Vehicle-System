@@ -1,0 +1,10252 @@
+# GrayStillPlays GTA 5 challenge catalog
+
+635 challenges from 596 GrayStillPlays GTA 5 videos. Each one has a descriptive name, what the challenge is, what went wrong or surprised him, and a takeaway for designing challenges in KinetiForge.
+
+The summaries were written from auto-generated transcripts fetched with `research/tools/transcriptapi.py`. Longer videos were sampled rather than read in full, so long compilations may be missing some segments.
+
+## Contents
+
+- [Obstacle course / precision driving](#obstacle-course--precision-driving) (182)
+- [Physics experiments & weird mods](#physics-experiments--weird-mods) (67)
+- [Ramps, jumps & launches](#ramps-jumps--launches) (66)
+- [Climbing & traction](#climbing--traction) (63)
+- [Escalating-modifier challenge (gets harder over time / per crash)](#escalating-modifier-challenge-gets-harder-over-time--per-crash) (50)
+- [Vehicle vs. hazard / destruction test](#vehicle-vs-hazard--destruction-test) (47)
+- [Water & boats](#water--boats) (34)
+- [Upgrade / progression run](#upgrade--progression-run) (25)
+- [Survival / chase / escape](#survival--chase--escape) (24)
+- [Racing & time trials](#racing--time-trials) (16)
+- [Air & flight](#air--flight) (15)
+- [Speed & top-speed tests](#speed--top-speed-tests) (6)
+- [Other](#other) (40)
+
+## Obstacle course / precision driving
+
+### 'The Devil' Wide-Car Parkour
+
+A board called 'the devil' in a wide car: scraping around barriers on three wheels, tube-to-tube jumps, a tall wall transfer, a blimp hop, spaced platforms, an orbit slingshot off a curved wall ride, a reverse section and fry-basket hops at the end.
+
+**Issues & surprises**
+
+- The car was too wide for many gaps and lost paint and glass constantly
+- He skipped a tall wall transfer with a jump instead
+- The slingshot needed a very exact release timing
+- A tightrope the same colour as the car was hard to see
+- A loop that looked normal was shaped oddly, which caught him out
+- He switched to a top-down style view to handle a curved tightrope
+
+**Vehicles:** Wide, clumsy car  
+**Design takeaway:** A 'slingshot out of a circular wall ride' moment makes a satisfying timing skill shot when the release window is short but readable.  
+**Video:** [I completed this impossible try not to rage quit challenge](https://www.youtube.com/watch?v=kt_5syFovW4)
+
+### 'The Uninstaller' Wall-to-Wall Jump Board
+
+The final board: a long red wall ride, jumping between separate wall pieces, a rolling tube with moving caution signs, a turn that suddenly snaps 90 degrees before a checkpoint, left/right forks, and wave sections where you can stall.
+
+**Issues & surprises**
+
+- The car loved to drift, which he blamed on not having the usual car
+- Landing from one wall piece to another took many tries to learn
+- A hidden 90-degree turn right before the checkpoint was the main troll
+- He picked the wrong left/right fork again
+- Waves could stall the car
+
+**Vehicles:** Drift-happy car (not the usual T20)  
+**Design takeaway:** Last-moment direction changes punish players at the end, so a small visual hint keeps it from feeling cheap.  
+**Video:** [I completed the 99.999% uninstall challenge in GTA 5](https://www.youtube.com/watch?v=rYFr0CWlH5I)
+
+### 100 Water Slide Marathon
+
+A very long compilation of water-slide boards where the player ragdolls down slides through hoops, pendulums, invisible slides, branching color-coded routes and shooting galleries to finally reach a pool. Checkpoints are sparse and wrong branches loop back to the start.
+
+**Issues & surprises**
+
+- Wrong branch choices sent him back to the beginning, creating a maze-like memorization task
+- Invisible slide sections were a troll he only found by trial
+- Gunfire pushed his ragdoll sideways so he had to aim his arc to compensate
+- On motorcycle sections, landing front wheel first kept him from being bucked off
+- Ragdoll fell through the world at least once
+
+**Vehicles:** Mostly on foot ragdoll, some motorcycles  
+**Design takeaway:** Branching routes with loops back to start add a memorization layer to an otherwise reflex-based descent course.  
+**Video:** [The 100 Most Dangerous Water Slides in GTA 5](https://www.youtube.com/watch?v=8_yj3isV22E)
+
+### 200-Obstacle BMX Gauntlet
+
+The second, longer BMX board: flag-stripe tracks, near-impossible gap jumps, very steep ramps you must pedal up, and a long curving tightrope past swinging no-signs before platform drops to the finish.
+
+**Issues & surprises**
+
+- Some ramps were so steep he had to pedal hard to climb them
+- Pumping the pedals on straights kept enough speed for the tightrope
+- Swinging signs on the curved tightrope knocked him off
+- Following the platforms rather than jumping straight down avoided a fall
+
+**Vehicles:** BMX bike  
+**Design takeaway:** Pedal-powered vehicles make speed upkeep an active rhythm task that suits long tightrope sections.  
+**Video:** [I beat the riskiest 99.99% uninstall bike hop GTA 5 challenge using this secret move](https://www.youtube.com/watch?v=VXjq8xivt-Q)
+
+### AI-Prompted Stunt Challenges
+
+Challenges built from AI-generated concept images: a mega ramp from space with water spouts and a long jump, a timed corkscrew mountain road with giant saw blades and rolling bowling balls, driving through traffic while wrecking balls smash cars, a sky tightrope with moving and spinning segments, and a narrow wall-ride spiral around a skyscraper.
+
+**Issues & surprises**
+
+- Rolling bowling balls hit much harder than expected and knocked cars off the mountain
+- Missing invisible walls let him jump across part of the mountain road
+- Wrecking balls dragged traffic cars into his only path
+- Hydraulics helped clear tightrope gaps by lifting the front
+- First-person view made the narrow skyscraper wall ride easier
+
+**Vehicles:** Various cars, arena car, classic car with good aerodynamics, two wall-ride cars  
+**Design takeaway:** Using generated concept art as a starting point can yield memorable set-pieces, but each needs physics tuning so the idea is actually drivable.  
+**Video:** [Using AI to create endless pain in GTA 5](https://www.youtube.com/watch?v=XDSnCZpm8gI)
+
+### Amphibious Cars vs Loop Puzzles
+
+Puzzle-style loop boards for amphibious cars: a giant loop into water and a jump past a giant chicken where two cars are needed (one launched as a platform for the other); a narrow Lego loop with a gap only a quad fits through; a Saturn-ring loop where hidden rocks must be shot to remove barriers; and a rotating loop with several exits where only one landing pad is correct.
+
+**Issues & surprises**
+
+- The solution for the first board was to launch one car onto the platform, then use a launcher to ragdoll the player over to it
+- Hitting any Lego stud on the loop sent the car flying; first-person view made the narrow line manageable
+- The Saturn board's hidden objective (shoot rocks to lower walls) was not explained; vehicle weapons could not aim high enough until he stood at the edge
+- Boost helped recover after being knocked outside the walls
+- On the rotating loop, timing the exit decided which pad you hit, and boosting would have overshot
+
+**Vehicles:** Sherp, amphibious technical, boost amphibious car, quad, sporty amphibious car, submarine car  
+**Design takeaway:** Mixing puzzle steps (use a second vehicle, shoot switches) into stunt tracks adds variety, but hidden goals need some hint.  
+**Video:** [Boat Cars vs Impossible Loops in GTA 5](https://www.youtube.com/watch?v=YDVRS7asC5I)
+
+### Asymmetric Map-Long Wall Ride
+
+A wall ride several miles long with an irregular coil, hidden hairpins and mid-wall jumps, plus an 'impossible' T20 wall ride over the airport that goes up and then down with transfers and a wall hop. A last golf-course wall ride needs full speed throughout.
+
+**Issues & surprises**
+
+- Hairpin turns appeared without warning in an otherwise steady spiral
+- A balloon was placed exactly where it clipped the roof
+- Just getting onto the T20 wall was the hardest part
+- He found a steering rhythm and focused on watching the left tire
+- Taking the golf-course wall slowly never worked; it needed maximum speed
+
+**Vehicles:** Supercar  
+**Design takeaway:** Asymmetric, unpredictable wall rides are memorisation tests, so give a clear rhythm cue such as colour bands to help players learn them.  
+**Video:** [i completed this 99.99% impossible wall ride challenge](https://www.youtube.com/watch?v=oUK9fC1Jg0M)
+
+### Balance Tightrope Gauntlet
+
+Tightrope sections: an angled tightrope, a tightrope transfer from one side of the car to the other, a 30-second wavy tightrope with bumps, beer-bottle tops, bulging blocks that pop up, a double tightrope jump, and a final 'thumbnail' balancing section past a windmill.
+
+**Issues & surprises**
+
+- Low chassis cars had to grind on their underside, making transfers hard
+- The Wastelander's wheels oddly kept contact even with the chassis lifted
+- Over-correction was the main way runs failed
+- The side-by-side's long-travel independent suspension shifted weight well and made balancing easy
+- Narrow quad was great on bottle tops but struggled with jumps
+- The last section needed slow creeping then a perfectly lined-up burst of speed
+
+**Vehicles:** Three-wheeler, wide Lego-like car, low sports car, Wastelander, quad, 6x6, Canis, side-by-side UTV (winner)  
+**Design takeaway:** Suspension travel and weight transfer matter more than width on balance challenges, which is good to highlight in a physics showcase.  
+**Video:** [Which vehicle has the best balance in GTA 5?](https://www.youtube.com/watch?v=YAX2_W6yU_U)
+
+### Barely-Possible Stunt Sequence (Sticky-Bomb Turbine, Spiral Wall Ride)
+
+A series of near-impossible stunts: jump a ramp while throwing a sticky bomb onto a moving wind turbine blade to knock a target off a pedestal and drop a barrier, then a long twisting wall ride through 'thumbnail hole' rings and a final loop course. Each stunt has to be cleared to unlock the next checkpoint.
+
+**Issues & surprises**
+
+- Invisible walls stopped him from skipping the turbine puzzle
+- The wall ride needed mid-air steering through rings, with almost no room for error
+- Bouncing off walls killed momentum and runs; a restart had to give enough speed for later sections
+- He hit unintended chassis slides yet still recovered
+- Repetition built muscle memory; the final section was cleared much more cleanly than expected
+
+**Vehicles:** Selectable stunt cars; on-foot sticky bomb segment  
+**Design takeaway:** Chain short, very hard stunt segments with checkpoints so players can master each one through repetition without replaying the whole course.  
+**Video:** [Barely possible stunts in GTA 5](https://www.youtube.com/watch?v=0C89AI8y1so)
+
+### Big Rig and Utility Truck Bridge Course
+
+Unusual trucks must cross bridges with no checkpoints: a cola bridge on popsicle sticks with erupting soda cans, a 'cliffhanger' rock bridge, a Domino bridge of stacked trailers, a rusty rainbow pipe bridge, a broken under-construction bridge that shifts, and a spinning tube bridge that disappears.
+
+**Issues & surprises**
+
+- Long trucks were nearly impossible to keep on narrow bridges
+- Rocks shoved the rear of the trucks off the edge
+- The front grille snagged on popsicle sticks and the plow got caught in holes
+- A Jeep-style off-roader handled best but was too slow for the vanishing tube
+- The Mentos truck's flexible trailer helped hold it on the bridge and it was quick off the line
+- He used grenades to clear a stuck truck off the course
+
+**Vehicles:** Big rigs, dump truck full of people, utility trucks, wiener truck, Safari vehicle, armed truck, Jeep-style off-roader, plow truck, Mentos truck with trailer (best)  
+**Design takeaway:** Forcing awkward vehicle classes (trucks, trailers) onto precision courses highlights articulation and length.  
+**Video:** [Mentos vs Coke in GTA 5](https://www.youtube.com/watch?v=xnEKBwZKtcg)
+
+### Black Hole Motorcycle Course
+
+A motorcycle course inside a black hole: thin platforms, windmills whose hit is delayed, cosmic-ray projectiles, a moving hole and fake left/right platforms with an unreliable hint giver.
+
+**Issues & surprises**
+
+- Popping a wheelie before the edge let the bike glide further
+- The delayed-hit windmills were safest to drive straight through
+- Some checkpoints needed ejecting off the bike
+- The target hole moved around
+- Hints alternated between truth and lies
+- Bike began smoking from damage
+
+**Vehicles:** Motorcycle  
+**Design takeaway:** Hazards that break the player's normal rules, like delayed hits, force them to rethink.  
+**Video:** [i completed the infinite black hole challenge](https://www.youtube.com/watch?v=RJmmorWhiG8)
+
+### Boost-Bike Rooftop Course
+
+A city-spanning course mixing on-foot drops and a rocket bike that must land on pads to recharge its boost, through small holes and a climb up a tall building collecting boosts.
+
+**Issues & surprises**
+
+- Boost only recharged if landed on both tires
+- Every landing pad had to be hit, no skipping
+- Fake ledges and invisible walls
+- Climbing the tower needed constant circling to catch each boost
+- Bailing off and opening the chute at the top was needed
+
+**Vehicles:** Rocket boost motorcycle, wingsuit/parachute, on foot  
+**Design takeaway:** Making boost recharge on clean landings rewards good landings.  
+**Video:** [i took superhero challenges to unrealistic extremes in GTA 5](https://www.youtube.com/watch?v=vWcLigaYGV8)
+
+### Box Truck Parkour
+
+A full parkour course built for a top-heavy box truck: tightropes, plane fuselage jumps, chassis slides, hills with boosts and box-breaking sections, across two large areas.
+
+**Issues & surprises**
+
+- Truck was very top-heavy and slow to accelerate
+- Riding the brakes, or reversing, worked on narrow parts
+- Tight turns needed three-wheeling the truck
+- Could not clear plane jumps cleanly, so got the front over and flipped across
+- A hill could only be climbed by backing up for a run-up before the boost
+- Truck was surprisingly tough
+
+**Vehicles:** Box truck (Mule), brief helicopter section  
+**Design takeaway:** Building a course around a deliberately unsuited heavy vehicle highlights mass, centre of gravity and momentum.  
+**Video:** [100% of people go insane attempting this GTA 5 zig zag challenge](https://www.youtube.com/watch?v=KW8cw-S7ang)
+
+### Branching Wall-Ride Transfer Gauntlet
+
+A wall-ride board with long chains of wall-to-wall transfers, launch ramps that fire you off a wall, a spaghetti of branching wall rides where only one path is correct, and a later section ridden in reverse direction. Checkpoints only come after long multi-transfer chains.
+
+**Issues & surprises**
+
+- The camera lags behind fast transfers, so he had to start each transfer several panels early
+- Launches off walls point the car downward, so he had to pitch up mid-air to connect
+- Three-quarter pipe landings kept sliding off until he treated them as wall hops
+- A 'choose your path' wall-ride maze punished wrong guesses with deaths
+- Having no checkpoint after a hard transfer meant redoing the whole sequence many times
+
+**Vehicles:** Single sports car  
+**Design takeaway:** Branching wall-ride paths make a precision course feel like a puzzle, but the camera needs to keep up with fast surface transfers or players fail without seeing why.  
+**Video:** [completing this 0.001% wallride in GTA 5 is absolute torment](https://www.youtube.com/watch?v=0RR6hU-qOns)
+
+### Breakable Glass Bridge Gauntlet
+
+Three bridge boards built largely from breakable glass panes over a drop. The player picks from a lineup of vehicles to cross; boards include an 'IQ' glass board with rope rails, a timed board where gunmen and a helicopter boulder destroy the glass behind and ahead, a Squid-Game style left/right reinforced-glass choice, and a bridge made of invincible T-posing pedestrians.
+
+**Issues & surprises**
+
+- Glass shatters entirely once a pane is even slightly damaged, so speed and weight both matter
+- The 'stupidest' wide vehicle won the first board because its wheel track matched the spacing of the side ropes, letting it ride the ropes at crawling speed
+- Ragdoll pedestrians acted as a slippery, uneven surface; light buggies got stuck between bodies while a big modern tractor with soft suspension crawled over
+- Designer disabled collision on ropes near the end to block a walking exploit
+- Enemies deliberately shooting the floor rather than the player turned the board into a pressure-timed run
+
+**Vehicles:** UTV, Liberator monster truck, motorcycle, dune buggy, bicycle, tractors  
+**Design takeaway:** Destructible floor tiles that break on cumulative damage, plus pressure sources that erode the path, create tense routing decisions about weight, speed and line choice.  
+**Video:** [Crossing the most dangerous bridge in GTA 5](https://www.youtube.com/watch?v=-Wpab65JMGQ)
+
+### Bridge of Jittering Planes and Turbines
+
+The player must cross 'bridges' built from unstable props, such as a line of twitching, spinning planes with rockets flying past and a bridge made of wind turbines, by any means available. One checkpoint exists midway; failing sends him back.
+
+**Issues & surprises**
+
+- Dynamic plane props jittered and spun, flinging any vehicle or walker off unpredictably
+- Plane engines pushed his character off when walking near them, and he discovered he could jump onto tails
+- Using an ejector seat to hop between planes worked but required precise timing with turrets firing
+- The ragdoll glitched badly on foot, so walking was worse than driving
+- The Sherp, with huge low-pressure tires, finally bulldozed across the jank where other vehicles failed
+
+**Vehicles:** Motorcycle, various off-road cars, ejector-seat jet, on foot, Sherp all-terrain vehicle  
+**Design takeaway:** Unstable, moving platforms reward vehicles with big compliant tires and low centre of mass, giving a clear reason to pick an off-road crawler.  
+**Video:** [When you cross a bridge with 100% death rate](https://www.youtube.com/watch?v=Id2ho3jycII)
+
+### Broken Bridge Gauntlet
+
+A chain of broken bridge sections: falling shipping containers, a timed train gap, breakable floors, a rainbow bridge needing one clean jump, a wavy bridge, a damageable condemned bridge, and a volcano that launches rocks.
+
+**Issues & surprises**
+
+- Only one vehicle could finish every section
+- Floors broke on landing, so the landing was the failure point
+- Keeping tires on the wavy bridge rather than jumping gave better traction
+- The volcano rocks needed to hit the car's underside to boost it, which was mostly luck
+
+**Vehicles:** Giant trucks, Liberator, small cars, tanks  
+**Design takeaway:** Environmental launchers you must time and ride (like eruptions) add chaotic but repeatable shortcuts.  
+**Video:** [Giant & Tiny Cars vs Broken Bridge in GTA 5](https://www.youtube.com/watch?v=GLazM38e44M)
+
+### Budget-Tier Bridge Boards
+
+Five bridge boards commissioned at $1, $10, $100, $500 and $1000 budgets. Includes a timed golf-cart tightrope, a gold-plated curved track with bumps and a one-minute limit, and a $1000 food-processor style board with spinning blades and tiny gaps.
+
+**Issues & surprises**
+
+- The golf cart's poor acceleration, handling and lack of suspension were the real challenge
+- Curved gold track edges made the car slide off if he drifted too far
+- Cheap boards were often barely tested and props were misaligned
+- Electric car felt the most controllable on the hardest board
+- Final gaps needed precise timing and speed to squeeze through
+
+**Vehicles:** Golf cart, gold-plated car, electric car, other cars  
+**Design takeaway:** Pairing a deliberately bad vehicle with a timer turns a simple track into a handling challenge.  
+**Video:** [$1 vs $1000 Bridges in GTA 5](https://www.youtube.com/watch?v=G0ZptvBHa1Q)
+
+### Building-Climb Wall Ride with Distance-Guess Jumps
+
+A course that starts by riding up a skyscraper wall, then necktie-thin wall rides, a launch pad that slows you before a jump so you have to pick the right run-up tile, canted spiral wall rides, a reverse section, a timed windmill and a final long jump needing every boost.
+
+**Issues & surprises**
+
+- A launch ramp slowed the car before take-off, so distance depended on the exact run-up tile; second panel from the bottom worked
+- Small differences in wheelspin at launch changed the jump result
+- The spoiler broke off mid-run and he joked about the handling change
+- Half throttle wasn't enough on a spiral wall ride; full throttle was needed
+- The final jump couldn't be made even with all boosts until he left from the corner at an angle
+
+**Vehicles:** Small sports car (lost its spoiler mid-run)  
+**Design takeaway:** Jumps whose outcome depends on the exact run-up distance reward careful players, especially if visible tile markings make the run-up measurable.  
+**Video:** [99.99% of people get trolled by this GTA 5 challenge until they uninstall](https://www.youtube.com/watch?v=OaHDlGaCRFs)
+
+### Bumpy Suspension Gauntlets
+
+Timed tracks covered in slippery bump props (Minecraft-sword speed bumps, 'suspension dominoes'), where walls rise if you are too slow. The goal is to see which suspension handles them well enough to finish in time, ending with a 14-second course that needs a precise stop.
+
+**Issues & surprises**
+
+- The bump props were very slippery, and stopping on them felt like ice
+- Running backwards felt easier than forwards on one course
+- The buggy's suspension worked better the faster it went
+- The monster truck's big tires bridged the gaps easily, but being an inch off was fatal
+- The edges had no invisible walls at first, so he could cut around obstacles
+
+**Vehicles:** ATV, off-road buggy, Liberator monster truck, Wastelander  
+**Design takeaway:** Dense, low-friction bump fields with a time limit show suspension tuning and braking distance clearly.  
+**Video:** [Testing which car has the most satisfying suspension in GTA 5](https://www.youtube.com/watch?v=Agjcv8cEJjw)
+
+### Can't Touch Blue Course
+
+Touching anything blue with the car's tires kills instantly. Sections include a long wall ride with shifting blue segments, following a rolling saucer platform, a shifting route that moves each loop, a one-minute survival arena with a heat-seeking blue ball, and falling blue shipping containers. Beating levels unlocks cars.
+
+**Issues & surprises**
+
+- Only the tires touching blue counted, so the body could brush blue
+- Blue patterns changed or shuffled, requiring memorisation
+- Choosing one car locked out the other at the unlock stage
+- He hid in a corner of the arena where balls never reached
+- Wrecked cars piled up and blocked the route
+- The final jump needed a full-speed run in the T20
+
+**Vehicles:** Starting car, electric car, F1 car, T20 (unlocked)  
+**Design takeaway:** A simple color-based 'floor is lava' rule turns an ordinary course into a precision test, especially if only wheel contact counts.  
+**Video:** [GTA 5 but you can't Touch Blue](https://www.youtube.com/watch?v=zm_gHWLwC1o)
+
+### Car Hauler Survival Course
+
+A course of giant speed bumps, steep hills, fast windmills and ray-gun traps that must be cleared while carrying a working car on a transporter. The cargo car is needed at the end to finish.
+
+**Issues & surprises**
+
+- The tractor lacked horsepower to climb the hill
+- Cargo cars only stayed put if backed onto the hauler, and they jittered or clipped into the bed
+- A long hauler could not fit through fast windmills
+- A fast tow truck kept the towed car stable
+- Flipping the truck at the end popped the cargo car out to use it
+
+**Vehicles:** Tow trucks, flatbeds, car haulers, John Deere tractor, Pinto cargo cars  
+**Design takeaway:** Unsecured cargo that shifts and jitters adds a second physics object the player must protect through bumps.  
+**Video:** [What is the fastest way to transport 100 cars in GTA 5?](https://www.youtube.com/watch?v=SmtSHf_9edY)
+
+### Car-Width Corkscrew Loop, Forward Then Reverse
+
+First of four boards: a long curving loop-the-loop barely wider than the car, lined with metal signs that end the run on any contact. After finishing it you have to ride the same loop back down in reverse.
+
+**Issues & surprises**
+
+- Too little speed fell off the loop and too much overshot, leaving a very narrow working range
+- Touching any edge sign ended the run immediately
+- Going back down in reverse was as hard as going up
+- A tube before the section limited how much speed he could build
+
+**Vehicles:** Sports car  
+**Design takeaway:** Running the same track forward and then backward doubles the content and tests whether the player really learned the line.  
+**Video:** [i completed the most difficult wall ride ever made in GTA 5](https://www.youtube.com/watch?v=D2XxDSWXqAU)
+
+### Cargo Delivery Gauntlet (Boxes, Orbeez, Passengers)
+
+Vehicles must carry loose physics cargo (boxes, beach balls, Orbeez, ragdoll passengers) through obstacle paths with launch pads, stairs, plywood walls and windmills, and deliver at least some of it to the end.
+
+**Issues & surprises**
+
+- Box stacks spilled instantly; beach balls were oddly easier to balance
+- Raised launch tiles flung both vehicle and cargo
+- A clown NPC had to be led past a wall to unlock the end, an odd scripted trigger
+- A launch section needed perfect speed and timing, and some cargo was lost even on success
+- Two ragdoll passengers at once made success much more likely
+
+**Vehicles:** Chicken forklift 'Reginald', various cargo vehicles, Wastelander  
+**Design takeaway:** Cargo that stays in place only through physics turns smooth driving into the challenge, because rough handling loses part of the score.  
+**Video:** [Testing cars vs orbeez in GTA 5](https://www.youtube.com/watch?v=HeCxndi8F_4)
+
+### Cars vs Motorcycles Shark Gauntlet
+
+Cars and motorcycles attempt a shark-themed course: dodging shark projectiles on narrow paths with jumps and a chassis grind, a timed buoy minefield where buoys rise from below and the lane narrows, island-to-island ramp jumps to a lighthouse past a moving wall, and a final giant shark that spits boats.
+
+**Issues & surprises**
+
+- Low cars were sometimes missed by sharks that ricocheted off the wheels
+- The buoy field narrowed sharply in later sections and buoy patterns alternated, defeating memorisation
+- An unassuming luggage-laden car did unexpectedly well on the minefield
+- Cars lacked the acceleration to make the island jumps; invisible walls enforced the set path
+- A fast, thin motorcycle felt like 'easy mode' and won by threading buoys and sticking long jumps
+
+**Vehicles:** Electric microcar, boxy cars, grandpa sedan, scooter, three-wheel motorcycle, flame sport bike  
+**Design takeaway:** Narrowing lane width in stages is a simple, readable way to tighten precision demands and separate wide vehicles from narrow ones.  
+**Video:** [Bikes vs impossible shark challenge in GTA 5](https://www.youtube.com/watch?v=HO5dy0liTRY)
+
+### Chassis Grind Gauntlet
+
+Cars jump onto narrow rails and slide on their chassis: a 69 m rainbow grind, grind transfers between rails past windmills, a 200 m icy grind, lightsaber rails needing a timed push, rotating 'closing grinder' rails, and a final rail with collapsing boost blocks.
+
+**Issues & surprises**
+
+- Staying centred on the long ice grind was very hard; cars drifted right and fell into explosive barrels, taking around 15 tries
+- A grind sometimes failed late for no visible reason, which he blamed on engine physics
+- Car shape mattered: the front end lifting caused drop-offs, while one long car with poor brakes still grinded well
+- He timed the rotating grinders using clock positions (start at roughly '9 o'clock'), and a burnout start helped
+- Teleporters that were not checkpoints caught him out
+
+**Vehicles:** Long underdog car, quad, Saab-style car, muscle car, sports car, tested parkour car  
+**Design takeaway:** Grinding on the chassis is a fun alternate movement mode; long, narrow, low-friction rails test alignment more than speed.  
+**Video:** [Which car completes the 100m grind challenge in GTA 5?](https://www.youtube.com/watch?v=6zSV3stI_gA)
+
+### City-Spanning Mega Stunt Board
+
+An extremely long board across the whole city: tubes that turn you around, a far angled platform landing, a wall ride lasting several minutes, sheer climbs with humps, a quarter-pipe tube boost and flips onto platforms.
+
+**Issues & surprises**
+
+- A tube reversed his direction without warning at the very start
+- The far canted landing needed a brief lean back mid-flight and a late steering correction
+- A wall ride of about three minutes ended in a jump that needed all the speed he had carried
+- A 'normal' climb had hidden humps; flattening the rear of the car on each jump stopped spin-outs
+- A boost only worked on the bottom half of a pipe
+- He often wasn't sure which direction the course continued
+
+**Vehicles:** Grippy sports car  
+**Design takeaway:** Very long sections that end in a speed check punish lapses late, so a checkpoint before the final test keeps it from getting repetitive.  
+**Video:** [I completed this impossible citywide stunt race in GTA 5](https://www.youtube.com/watch?v=MzpajcqMEJk)
+
+### Clown Van Multiple-Choice Parkour
+
+A parkour course in a top-heavy clown van with tightrope ramps, drift crossings and floating arrow signs. The end has colour-coded branching ramps where most choices lead to explosions and only one is right.
+
+**Issues & surprises**
+
+- The van handled badly and turned poorly, but did surprisingly well on tightropes
+- Checkpoints were not lined up with the tightropes, so he had to guess the line
+- Losing the front tires on the van meant the run was over
+- Being slowed down made him worry he would lack momentum for later jumps
+- The colour-coded choice section was mostly guesswork, and one 'correct' path went into explosive canisters
+- He accidentally skipped part of the course with an unplanned wall transfer
+
+**Vehicles:** Clown van (with a short section in another vehicle)  
+**Design takeaway:** Branching 'pick a path' ramps with visible but ambiguous outcomes add a risk-and-guess layer on top of driving skill.  
+**Video:** [completing the make the wrong choice and you die challenge in GTA 5](https://www.youtube.com/watch?v=34srFQGk5nc)
+
+### Collapsing Bridge Series
+
+A run of unstable bridges: one that collapses behind the car, floating logs on choppy water, fragile wooden pallets that break under speed, a 'Magneto' bridge made of levitating cars that sag under weight, an Indiana Jones bridge with a rolling boulder and stop strips, and a bridge that drops on a timer.
+
+**Issues & surprises**
+
+- Floating logs moved unpredictably and tried to swallow the car's front end
+- The pallet bridge rewarded top speed, while a light ATV barely broke any pallets
+- On the Magneto bridge, slow, steady throttle and no over-correction were needed; reversing was oddly easier
+- Heavy vehicles sank the levitating cars too much
+- An all-rounder car that was never best in previous tests won by being decent at everything
+- The boulder required pure speed after stop strips
+
+**Vehicles:** Baller SUV, wheelie truck, Wastelander, ATV, monster truck, heavy fast car, an all-rounder sports car (winner)  
+**Design takeaway:** Bridges that react to vehicle weight and speed (sag, break, float) make mass and throttle control matter on top of steering.  
+**Video:** [Cars vs Collapsing Bridges in GTA 5](https://www.youtube.com/watch?v=IwMWyuzorV4)
+
+### Color-Timed Platforms with Speed-Upgraded Runner
+
+Life stages of a speedster character: platforms where only green is safe and colors cycle every six seconds, rotating strips and multicolor tightropes, then a long-distance super-speed run across the map and over water to a submarine finish.
+
+**Issues & surprises**
+
+- The six-second cycle felt inconsistent, so he counted aloud
+- Standing in the middle of rotating strips prevented being thrown off
+- Stepping rather than diving onto moving parts worked better
+- Super speed let him run on water at the end
+
+**Vehicles:** On foot (super-speed character)  
+**Design takeaway:** Color-cycle safe zones give a readable timing rhythm for precision platforms.  
+**Video:** [I made Sonic 1000x faster in GTA 5](https://www.youtube.com/watch?v=TVGbFgLz_6s)
+
+### Country-Themed Car Challenges
+
+Country-themed hazards (English transforming speed bumps that clamp a boot on the car, Russian uphill potholes, Sandy Shores wrecks, an American police chase with an EMP and a helicopter), each run with a car from a country. The same country cannot be used twice in a row.
+
+**Issues & surprises**
+
+- Speed bumps clamped wheel boots on, so the strategy was to straddle the edge of the road
+- Pothole gaps widened uphill, and fishtailing was fatal
+- The faster UK car could jump the slowdown strip and cheat parts
+- In the chase, an EMP armored car plus a helicopter made a brutal combination; the fleeing car had to be forced into a pylon twice
+
+**Vehicles:** Mini (UK), Liberator (US), others by country; vehicle chosen by teleporter  
+**Design takeaway:** A no-repeat vehicle rule forces players to adapt to unfamiliar handling on each stage.  
+**Video:** [Testing Cars from different Countries in GTA 5](https://www.youtube.com/watch?v=SLCRi_4QWfY)
+
+### Cursed Mixed-Element Stunt Race
+
+A chaotic board with upside-down roads, tubes blocked by moving 'no' signs, undercarriage grinds on rails, tightropes, small platforms, small holes you have to enter sideways, and a big loop into a long final jump.
+
+**Issues & surprises**
+
+- Low-friction tires made precise undercarriage grinds awkward
+- Moving signs blocked tunnel entrances, so he had to time entry
+- Tiny landing platforms forced him to drive a section backwards after landing the wrong way
+- Some holes were too small for the car level, so he jumped through them sideways
+- The final loop needed full throttle with no lift, or the car lacked height for the jump
+- Loud colours on the course distracted him into mistakes
+
+**Vehicles:** Low-friction sports car  
+**Design takeaway:** Moving blockers in tunnel entrances turn a speed section into a timing puzzle without needing new vehicle mechanics.  
+**Video:** [Only 0.001% of people complete this cursed stunt race](https://www.youtube.com/watch?v=FFoZXk_sVqo)
+
+### Cursed Pothole Series
+
+Strange potholes: a fight pit with armed NPCs, a nacho chip vortex with a Pringles can firing chips, a tetanus pothole with a roaming cloud that crushes car engines, a vampire impalement pothole with moving spikes, a human cement pothole whose floor rises and falls, and a jam fountain boss with a blender.
+
+**Issues & surprises**
+
+- Touching the tetanus cloud made the car fold in on itself and kill the engine
+- The creator said a car other than the Wastelander would win, and the Wastelander indeed struggled
+- Some cars always front-flipped on jumps, which was hard to control
+- The rising cement floor needed exact timing, crossing when it was at a specific level
+- The BMX bike oddly outperformed some motor vehicles early on
+
+**Vehicles:** Bus, BMX bike, rust-bucket car, lowrider, Wastelander, chrome car, an all-rounder vehicle (winner)  
+**Design takeaway:** Hazards that gradually deform the vehicle (like the crushing cloud) are a clear way to show off a damage model.  
+**Video:** [Cars vs Cursed Potholes in GTA 5](https://www.youtube.com/watch?v=xTHWNtWeMlc)
+
+### Descent Into the Spike Pit
+
+A board that goes down rather than up: tightropes, a U-shaped track, gravity zones that lift the car, a tiny hole, sideways roads, a spike-strip slalom at idle speed, a steep banked bowl, a long final platform landing and a loop that must be taken at just the right speed to reach a landing pad.
+
+**Issues & surprises**
+
+- The car slowly floated upward in one section, which disoriented him
+- Popping a tire on any spike ended the run, so he idled through spike fields
+- Gravity kept pulling him sideways on a lip section
+- The final platform either bounced him off if he landed high or left him without traction if he landed low
+- The final loop needed a narrow speed range, and each retry meant redoing a tightrope first
+
+**Vehicles:** Sports car  
+**Design takeaway:** Putting a mandatory easy section before a retry-heavy obstacle adds friction, so retries should start right at the hard part.  
+**Video:** [completing this impossible skill test challenge sent me to therapy](https://www.youtube.com/watch?v=kW45Yg5l2Fg)
+
+### Devil Theme Park Mixed-Vehicle Gauntlet
+
+A themed multi-stage parkour park: a car must wall-transfer past a hovering helicopter's rotor, loop, then hit a tiny landing; later a BMX tightrope/ledge section, color-cycling windmill gates, and an ATV chassis-slide down a long slide while NPCs fire flares. Checkpoints separate stages.
+
+**Issues & surprises**
+
+- A helicopter rotor placed between two wall transfers kept swatting the car
+- Windmills pulse and even swap sides, ruining memorized lines
+- Wall-ride loop had hidden bends so the camera could not be used to aim
+- Had to commandeer new BMX bikes from bystanders after each failure
+- Forgot he had a flare gun to remove shooters, taking fire for ages
+- ATV chassis slide was glitchy but fast once shooters were cleared
+
+**Vehicles:** Car, BMX bikes (stolen from NPCs), ATV  
+**Design takeaway:** Hand the player a tool that removes a hazard (e.g. a weapon for turrets) and let discovering it be part of the puzzle.  
+**Video:** [I Created A Roller Coaster That Turns HUMANS INTO GOO in GTA 5](https://www.youtube.com/watch?v=1QUQbJ58TAc)
+
+### Difficulty-Rated Stunt Runs
+
+Stunts labelled with difficulty ratings (30, 55, 69) combine ring jumps, wall grinds, triple flips, loops, wall-to-wall launch transfers and wall ribbons, with checkpoints between stunts.
+
+**Issues & surprises**
+
+- The rating scale was unclear (30 out of what?)
+- Chassis sliding on landings was hard to avoid
+- Losing half the car was fine as long as it still drove
+- The 69-rated stunt took about 80 attempts and he relied on muscle memory
+- Idling the throttle off launch ramps controlled excess speed
+
+**Vehicles:** Stunt car  
+**Design takeaway:** Displaying a difficulty number per stunt sets expectations and gives players a reason to brag.  
+**Video:** [Testing Barely Possible Stunts in GTA 5](https://www.youtube.com/watch?v=QRFdywIx3Ac)
+
+### DIY Ability Cars vs Four Challenges
+
+Five homemade cars, each with a special ability on a hotkey, take on four challenges (corkscrew, wall rides with stairs, weave, a timed climb). Each challenge cleared lowers a wall toward the exit.
+
+**Issues & surprises**
+
+- The Lego car had no ability and weak hydraulics but turned out to be fast
+- The balloon car deformed badly, until its tires were no longer round
+- The jump ability could be held for long hops, which made some sections much easier
+- Wall-hugging grip let one car cheat parts of the board
+- The Coke car only went fast in one direction, so he mastered spinning it 360 to line it up
+
+**Vehicles:** Lego car (no ability), balloon car (floats), ice cream cone car (long jump), Play-Doh car, Coke-and-Mentos rocket car  
+**Design takeaway:** Distinct one-button vehicle abilities (float, jump, burst thrust) let one course be solved several ways and invite players to find shortcuts.  
+**Video:** [Testing DIY Cars in GTA 5](https://www.youtube.com/watch?v=9zIlNjeZu8k)
+
+### Drawn-Sketch Boards Made Real
+
+The player sketched rough challenge ideas and builders turned them into boards: a giant ramp to a landing pad, a scramjet windmill road, a waffle with fake/real platforms revealed by rockets, a spinning 'Pinocchio nose', and a giant face loop.
+
+**Issues & surprises**
+
+- Car kept drifting left on the ramp jump
+- Rocket impacts revealed which platforms were real
+- The custom car had terrible traction on the spinning nose
+- Repetition let him memorize obstacle timing like a rhythm game
+
+**Vehicles:** Ramp car, scramjet, tank, multicolored custom car  
+**Design takeaway:** Letting rough player sketches seed obstacle themes is a fun creative hook for user-generated content.  
+**Video:** [Whatever I draw comes to life in GTA 5](https://www.youtube.com/watch?v=GD9HeGECZVE)
+
+### Endless Mixed Stunt Gauntlet
+
+One very long stunt board mixing half-pipes, a flaming loop, a giant rolling-ball section, sideways wall climbs done several times back and forth, long jumps with no distance marker, tightropes and coils. Progress is checkpoint to checkpoint until the finish.
+
+**Issues & surprises**
+
+- Climbs needed carried speed; losing momentum left him short of the top platform
+- Slow approaches to sideways walls made the car steer away from the wall; only full commitment worked
+- The car's low traction made repeated sideways wall sections miserable
+- Long jumps had no visual cue for run-up length, so he found it by trial and error
+- A checkpoint registered even though he was far below it
+- Dying at the end of a loop still counted the checkpoint, which turned out to be the easy way through
+
+**Vehicles:** Small low-traction car  
+**Design takeaway:** Give long jumps a readable run-up cue and check checkpoint trigger volumes so they can't be cheesed.  
+**Video:** [speedrunning this 99.9% impossible stunt race challenge destroyed my sanity](https://www.youtube.com/watch?v=1oIcs8nmvuI)
+
+### Escalating Loop Size Test
+
+Sections of multiple loops that grow in size and add hazards such as stretchy loops, windmills, meteorites and teleporting loops. Vehicles reuse is unlimited.
+
+**Issues & surprises**
+
+- Loop exits were not straight, causing crashes
+- A sticky car could handle loops with minimal input
+- A Beetle-style car lacked speed for big loops
+- Meteorites blocked runways, limiting acceleration
+- Invisible walls prevented cheating between loop start and end
+
+**Vehicles:** Motorcycles, limo, Beetle-style car, sticky wall-ride car, boosted cars  
+**Design takeaway:** A ladder of increasingly large loops directly tests speed, downforce and grip.  
+**Video:** [Which Car Survives the Biggest Loop in GTA 5?](https://www.youtube.com/watch?v=o9j463EDxMY)
+
+### Escalating Pothole Gauntlet with Boss Pit
+
+A long course of increasingly wide and deep potholes themed in stages (growing, slippery 'alcoholic', stop-stick, dynamic ball, moving, geometric shapes, windmill) ending in a lake-sized boss pothole. Vehicles do not respawn or repair, so each wreck burns one car; all cars get hydraulics to hop.
+
+**Issues & surprises**
+
+- Rear-wheel-drive cars could not climb out of slippery pits; four/six-wheel drive with long wheelbase did much better
+- Dynamic physics balls in the pits behaved unpredictably and heavy trucks blasted them away
+- Geometric-shaped holes (square, triangle) could trap the chassis between edges; approaching from the side worked better
+- A long six-wheeler with soft suspension could 'porpoise' across pits; hydraulic hops at the right moment rescued a stuck car
+- The boss pit was solved by dumping a sacrificial truck into it as a stepping-stone ramp for a second vehicle
+
+**Vehicles:** Many cars with hydraulics: quads, sedans, buggy, 6-wheelers, Liberator, motorcycle, Badger, Cybertruck  
+**Design takeaway:** A finite vehicle roster with no repairs turns each obstacle into a resource-management puzzle, and allowing wrecks to become terrain for later attempts rewards creative play.  
+**Video:** [Testing Cars vs MASSIVE Pot Holes in GTA 5](https://www.youtube.com/watch?v=-swc8CFAlP4)
+
+### Everything Parkour Vehicle-Swap Course
+
+A single long course that swaps vehicles at each checkpoint, each section designed around that vehicle: sideways roads, a limo wall ride in a tube, ring boosts, a jetpack flight through hoops, a skydive through a tunnel, and a final climb over a giant tire with an amphibious car.
+
+**Issues & surprises**
+
+- The limo, expected to be hopeless, slowly climbed the wall-ride tube on its own at low speed
+- A boost pad killed him instead of helping
+- Jetpack required leaning body weight forward to steer
+- Amphibious car had awful traction on the giant tire and kept sliding left
+- Reversing up the obstacle worked better than going forward
+- Parachute needed enough height to deploy before landing
+
+**Vehicles:** Small car, open-wheel racer, bicycle, limousine, dune buggy, motorcycle, jetpack, parachute, amphibious vehicle  
+**Design takeaway:** A vehicle relay where each segment is tailored to one vehicle's quirks tests the whole roster in one run.  
+**Video:** [i completed this 99.9% impossible jetpack challenge in GTA 5](https://www.youtube.com/watch?v=58vxRPD7Ec0)
+
+### Exaggerated Driving Test Exams
+
+Four driving-test skills made extreme: three-point turns on a floating moving platform where you must hit soccer balls and get back on past windmills and pushers; dodging hazards in a timed tunnel where cars drive on the ceiling; reversing around a 69-second snake road; and changing lanes in dense moving traffic to stay inside a moving circle.
+
+**Issues & surprises**
+
+- A quick U-turn worked better than a proper three-point turn and saved crucial seconds
+- Windmills on the platform spun at different speeds and heights
+- In the tunnel, a barrier seemed to teleport to wherever he planned to dodge
+- In reverse, steering was very touchy; cutting inside corners with tiny inputs and steady throttle worked
+- Touching any traffic car started a domino effect that knocked the target circle car off course
+
+**Vehicles:** Different car for each exam, including an electric Ocelot for the reverse section  
+**Design takeaway:** Turning everyday skills like reversing, three-point turns and lane changes into extreme timed tests is a fresh, relatable way to teach a vehicle's controls.  
+**Video:** [Can i pass a real life driving test in GTA 5?](https://www.youtube.com/watch?v=lb0di6DbWfU)
+
+### Extreme Drift Lanes
+
+Drift trials: weave around repelling over-inflated tires in 22 seconds, drift circles on Saturn's ring where dropping below a speed threshold starts a detonation timer, an icy track with wind, wall-ride drifting across turf/dirt/sand surfaces, and a rotating Minecraft tightrope drift where the outer tip moves faster.
+
+**Issues & surprises**
+
+- Touching the tires pushed the car away violently
+- Saturn ring needed a narrow speed band (low 60s mph); too fast flew off, too slow blew up
+- Recovery timer capped at 10 seconds
+- Large-spoiler cars peeled out constantly and couldn't drift fast enough
+- The plain, ordinary-looking car was the best drifter
+- On the rotating tightrope the car had to drive nearly sideways near the tip
+
+**Vehicles:** Various drift cars: big-spoiler cars, low drift car, plain grey sedan  
+**Design takeaway:** A minimum-speed bomb timer on a circular track is a neat way to force sustained drifting rather than cautious driving.  
+**Video:** [Which car is better at drifting in GTA 5](https://www.youtube.com/watch?v=_mV_Su0RLhw)
+
+### Extreme Roundabout Exits
+
+Roundabout stages: a four-way rotating roundabout where only one exit teleporter is real, a roundabout with a chasing boulder and blocking cop car, an asteroid-ringed roundabout where you must survive 16 seconds, and a shrinking spinning roundabout where you must ride a single pink rotating segment until an exit appears.
+
+**Issues & surprises**
+
+- Wrong exits simply didn't teleport, so guessing was costly
+- Drift-prone cars slid out of the roundabout
+- Letting asteroids roll up and then slipping past worked better than charging
+- Messing up reset the timer to 16 seconds
+- Pulsing the throttle kept the car on the moving pink piece
+- A long, infuriating final stage had no shortcut
+
+**Vehicles:** Quad, Macho car, plant-wrapped car, 'new' car, Porsche-style car  
+**Design takeaway:** Rotating platforms with a single safe zone make strong endurance challenges, but need visible cues so players aren't guessing blind.  
+**Video:** [Testing cars vs extreme roundabouts in GTA 5](https://www.youtube.com/watch?v=meHKvIhZ0PA)
+
+### Fall Guys-Style On-Foot Wipeout
+
+An on-foot party-game obstacle course above the airport: tilted surfaces, moving platforms, climbable bars, windmills and spinning hazards. Ends in a final run where speed beats caution.
+
+**Issues & surprises**
+
+- Some tilted platforms were too steep to stand on
+- Clipped inside rocks
+- A moving bar was meant to be dodged, not grabbed
+- Going full speed worked better than careful timing at the end
+
+**Vehicles:** None (on foot), parachute at end  
+**Design takeaway:** Not vehicle-specific, but steepness thresholds on surfaces are a clear readable rule.  
+**Video:** [they made fall guys 1000% more dangerous and this happened](https://www.youtube.com/watch?v=KBX99irMhiU)
+
+### Falling Wall-Transfer Timing Gauntlet
+
+A wall-transfer-heavy board: back-to-back transfers, an offset wall ride out of a tube, a slow-down-stick section that needs a run-up from another platform, and a 'falling transfer' that has to be started much earlier than normal.
+
+**Issues & surprises**
+
+- Transferring too early lost traction and too late missed the next wall
+- He realised one transfer was really a falling transfer and had to start far earlier
+- Speed and timing had a tiny window; too fast or too slow both lost grip
+- He could only clear the slow-down sticks by carrying speed in from a different platform
+- He switched to a controller for most of the board
+
+**Vehicles:** Sports car  
+**Design takeaway:** Transfers whose timing depends on both speed and launch point are deep skill tests, but they need a clear way to tell why you failed.  
+**Video:** [speedrunning this 99.999% impossible wallride in GTA 5 left me emotionally scarred](https://www.youtube.com/watch?v=pWHMQ42EnjU)
+
+### Fast-Food Themed Obstacle Stages
+
+Stages themed after fast-food drive-thrus: shoot teleporting chickens while riding a moving burger patty, survive homing donuts, cross a 30-second wobbly burger-bun tightrope, clear 20 nuggets with a deletion gun while on a tightrope, catch a teleporting spider on a spinning pizza while avoiding pepperoni teleporters, and outrun flamethrower toilets.
+
+**Issues & surprises**
+
+- Bouncy bun surfaces killed speed if he drove near the edges; staying centered was key
+- A car with good suspension, speed and toughness did all stages best
+- Chickens teleported in a fixed pattern, so memorization made it easy
+- Flamethrowers burned off tires, and losing tires ended the run
+- Slowdown circles slowly moved, so muscle memory did not transfer between attempts
+
+**Vehicles:** Various cars, chosen for speed, suspension and ability to absorb hits  
+**Design takeaway:** Mixing driving with simple secondary tasks (shooting targets while balancing) creates multitasking pressure without new physics.  
+**Video:** [Surviving every drive thru in GTA 5](https://www.youtube.com/watch?v=2t25qfCBKV4)
+
+### Figure-8 Variants Gauntlet
+
+Timed figure-8 layouts with tricks: tiny 'hole' gates to thread, figure-8s ringed by windmills, a descending staircase figure-8 with a 24-second limit, and a figure-8 that shrinks, grows and teleports while keeping a speed requirement.
+
+**Issues & surprises**
+
+- Hitting a gate edge popped the tires up and lost lots of speed
+- Weightless-feeling Bandido did surprisingly well
+- Windmills launched cars huge distances and broke engines
+- Poor turning radius limited top speed on tight 8s; a stable rear end mattered more than power
+- Optimal speed around 88-90 mph on the shifting 8; faster meant missing turns
+
+**Vehicles:** Bandido, quad, various sports cars  
+**Design takeaway:** A simple loop shape becomes deep when you vary scale, elevation and motion, forcing players to find the ideal speed-vs-turn-radius balance.  
+**Video:** [Testing cars vs figure 8s in GTA 5](https://www.youtube.com/watch?v=BSq8sdnI9H8)
+
+### Floating 4WD Sky Parkour with Wheel Guides
+
+A long sky-high parkour board with double wheel-guide rails into jumps, tiny landing platforms, wall transfers, block-juggling sections and tubes. Checkpoints are sparse and falling means restarting from the last one; finishing the board is the win condition.
+
+**Issues & surprises**
+
+- Badly underestimated how much speed the wheel-guide jumps needed
+- Only the front tip of the arrow pieces actually catches the car; driving through the rest drops you to your death
+- A sneaky boost pad placed right after a checkpoint flings you off the edge
+- Got completely stuck hung up on an obstacle and had to wobble the car free
+- Switched to a controller for the finer analogue control a long wall ride needed
+- In the tube sections, landing on the tires makes you drive straight out; riding nearly upside down was the trick
+
+**Vehicles:** Amphibious 4WD car  
+**Design takeaway:** Collision shapes that only partly catch the vehicle and boost pads hidden after checkpoints create memorable gotchas, but put a checkpoint after each one so the frustration stays fair.  
+**Video:** [I completed the world's hardest don't uninstall challenge using this technique](https://www.youtube.com/watch?v=-y9ucEtfLRk)
+
+### Flying Motorbike Map-Spanning Parkour
+
+A parkour that spreads across the whole map: slide under low bars, thread the bike through a small hole, then fly between distant floating platforms and narrow pipe openings, mixed with tightropes, spike juggling and wall rides. Checkpoints sit on far-off arrow-marked targets.
+
+**Issues & surprises**
+
+- Arrows marking where to fly didn't say which one to land on, so he flew huge loops looking for it
+- Threading the bike into a tiny pipe opening took many tries; entering from the back was not an option
+- He cleared a stick obstacle by bouncing on the rear wheel almost by accident
+- Ramps needed an early, hard lean back while carrying full speed
+- A wall ride gave only a short grip window before you had to slingshot off it
+- A balloon prop hid part of a tightrope, so he had to remember the line
+
+**Vehicles:** Flying-capable motorcycle (Oppressor-style), BMX bike  
+**Design takeaway:** Mixing ground parkour with a free-flight phase that has to hit small targets changes the pacing, but targets need clearer markers when the course covers a large map.  
+**Video:** [i speedrun this 99.999% impossible GTA 5 tightrope challenge using my secret trick](https://www.youtube.com/watch?v=B9TJlh_GZQw)
+
+### FWD Tightrope and Breakable-Wall Tunnel Course
+
+A French-flag themed course with tightropes guarded by swinging no-signs, including one on a 90-degree corner, a breakable wall into a tunnel, timed pushers, wall transfers on corners and a jump into a hole that hides your car.
+
+**Issues & surprises**
+
+- Front-wheel drive made swinging the rear around hard, so he drove sections in reverse instead
+- Props he assumed were fixed turned out to be movable
+- The breakable wall only gave way when he aimed slightly upward
+- The car stopped instantly under braking but transferred weight unpredictably
+- Some sections hid the car from view, so he couldn't see where it was
+- A flashing obstacle was so visually harsh he left it out of the video
+
+**Vehicles:** Small front-wheel-drive car  
+**Design takeaway:** Drivetrain layout such as FWD vs RWD noticeably changes how players tackle turnarounds, so offering both gives players choices on the same course.  
+**Video:** [99.99% of people fail this hacked stunt race](https://www.youtube.com/watch?v=Y2DVO-G_j1o)
+
+### Giant Monster Water Slide into Car Parkour
+
+A two-part course built around a giant creature: a long water slide with banking turns and windmills, then car parkour up a wall ride and stacked quarter pipes into a tube.
+
+**Issues & surprises**
+
+- Took about two hours just to clear the first slide
+- Shooters with ray guns knocked him off a climbing shortcut
+- Windmill passage was luck
+- The car got stuck on geometry, forcing a restart
+
+**Vehicles:** On foot sliding, then a stunt car  
+**Design takeaway:** Stacked quarter pipes leading into a tube give a vertical car-climbing finale.  
+**Video:** [When trending comes to life in GTA 5](https://www.youtube.com/watch?v=JtRzsAIqq0w)
+
+### Glass-Panel Guessing Bridge
+
+An 'IQ' bridge where the player must guess which glass panel is reinforced (Squid Game style), with no checkpoints so any fall restarts the whole board. Mixed with other early bridges like a ladder climb while bikes are thrown at you.
+
+**Issues & surprises**
+
+- No checkpoints made each wrong guess very costly
+- He tried to read a pattern in which side was safe; it alternated
+- A 'reinforced' panel had effectively no collision
+- Light cars handled sagging, collapsing bridges better
+
+**Vehicles:** Apocalypse vehicle, light cars, cars with jump/hydraulics  
+**Design takeaway:** Memory/guess panels are cheap to build but should pair with checkpoints to avoid tedious full restarts.  
+**Video:** [Testing Cars vs 100 Dangerous Bridges in GTA 5](https://www.youtube.com/watch?v=9-qP4OkF2f0)
+
+### Golf-Course Hedge Wall Ride
+
+The final board is a long wall ride along hedges with only a few inches of margin, where truck tires along the edge don't count as support. The curve gets steeper toward the end.
+
+**Issues & surprises**
+
+- Tire props along the edge didn't act as support, which narrowed the margin a lot
+- The curve tightening near the end kept bouncing him off the top of the wall
+- He only improved once he worked out the pattern of the curve
+
+**Vehicles:** Car  
+**Design takeaway:** A wall ride whose curvature slowly increases is a simple way to make the ending hardest without new obstacles.  
+**Video:** [completing this impossible 0.0001% jump challenge in GTA 5 sent me to therapy](https://www.youtube.com/watch?v=Fa3RIf-39_4)
+
+### Half-Car Ledges and Rolling Ball Field
+
+The final board is a set of standalone mini-challenges: climbing bleachers, ledges only wide enough for part of the car, then a field of slowly moving giant balls to push through. Explosive balls in the last set send you back.
+
+**Issues & surprises**
+
+- Climbing bleachers was surprisingly hard
+- Ledges only fit about three-quarters of the car
+- Bouncy tires made the car hop instead of settle
+- Getting stuck on certain props left no way to recover
+- The moving balls needed enough push to pass them but not so much that you went off the wall; aiming at a tree helped
+- Some of the balls exploded
+
+**Vehicles:** Pink sports car with soft, bouncy tires  
+**Design takeaway:** Movable physics props that must be pushed carefully, not rammed, test throttle control in a way static obstacles can't.  
+**Video:** [I completed this 99.9% impossible precision race in GTA 5](https://www.youtube.com/watch?v=_7G319IpD90)
+
+### Hazard Road Gauntlet (bumps, food props, teleporting potholes)
+
+A long road of themed obstacle sections: growing geometric speed bumps, exploding cacti potholes, bouncing 'popper' potholes, giant food props (chips, pretzels, burgers with drink cups), rock piles, teleporting and sliding potholes and stop sticks. The vehicle that gets furthest wins.
+
+**Issues & surprises**
+
+- Low cars bottomed out immediately on the first speed bumps
+- Undercarriage parts like brush guards, step bars and front grills snagged on props and stopped progress
+- The tank's treads climbed far better than expected but couldn't clear gaps
+- The Liberator needed hydraulic hops and approach angles to climb a burger patty; a later vehicle climbed smooth surfaces with almost no grip
+- Stop sticks could be bypassed by reversing at full speed, since they didn't trigger in reverse
+
+**Vehicles:** Lowrider, lifted 4x4, tank, Liberator monster truck, a smooth-surface climbing off-roader  
+**Design takeaway:** Mix static props with timed/moving hazards and ensure underbody collision shapes matter so ground clearance becomes a real vehicle stat.  
+**Video:** [Every Vehicle vs Dangerous Roads in GTA 5](https://www.youtube.com/watch?v=67oP5JiMr-w)
+
+### Hidden Launch-Strip Wall-Ride Course
+
+A long course of upside-down wall rides, thin transfers, sideways beams and slopes, with hidden launch strips that throw you off if you press forward.
+
+**Issues & surprises**
+
+- Going slowly was easier than full speed
+- Hidden strips launched him if he accelerated
+- Driving backwards helped avoid the strips
+- Landing beams pushed him sideways
+- Default car's poor wall traction needed controller and keyboard at once
+
+**Vehicles:** Default car  
+**Design takeaway:** Making players hold off the throttle is a good contrast to normal speed challenges.  
+**Video:** [i completed this legendary tightrope challenge and this happened](https://www.youtube.com/watch?v=rL6HUVBm4UY)
+
+### Keep-the-Same-Car Precision Course
+
+A long precision course that must be done in one car: loops, three-wheeling, tilted rainbow tightropes, near-sideways uphill beams, an upside-down drop onto a platform and four wall transfers in a row.
+
+**Issues & surprises**
+
+- Tilted road slowly dragged the tires to one side
+- Car barely had the power for an uphill beam
+- Needed a wider run-up to get enough speed for a gap
+- Wall transfers needed a tight line
+- Car slipped through a tiny gap in a barrier
+
+**Vehicles:** Family SUV/car, later a second car  
+**Design takeaway:** Chained identical transfers test consistency rather than a single lucky move.  
+**Video:** [completing this 99.9999% impossible precision challenge in GTA 5](https://www.youtube.com/watch?v=gqWNwXHm2cQ)
+
+### Keyword Puzzle Stunt Course with Infinity Trap
+
+Six stunt challenges each reward a keyword; together they form a riddle that reveals how to beat the board. Stages include a 90-degree wall transfer, a track that turns invisible, a figure-eight with timed teleporters, and an infinity-loop trap that must be moved to launch him to the finish.
+
+**Issues & surprises**
+
+- Transfer onto a sheer wall relied on the car's traction
+- Invisible track sections had to be memorized using ground references
+- Teleporters needed lots of speed, not a stop-and-line-up approach
+- The bottom route was much easier than the top
+- The riddle answer meant repositioning the trap itself
+
+**Vehicles:** High-traction car  
+**Design takeaway:** Hiding a puzzle solution across several skill challenges ties driving to a meta-goal.  
+**Video:** [I found this impossible 2000 IQ challenge in GTA 5](https://www.youtube.com/watch?v=uCnSElIUqhA)
+
+### Kraken Ribbon Roller Coaster
+
+Drive narrow ribbon-like coaster tracks with loops around a giant octopus, then a section with shrinking loops, water spouts and turbines, then a final coaster that rises into the sky.
+
+**Issues & surprises**
+
+- First-person made the narrow ribbon much easier
+- Waves flooded the track so he had to wait
+- Reversing helped on some sections
+- Needed speed to clear water spouts but too much launched him off; used the handbrake
+- An NPC on the track kept getting run over
+
+**Vehicles:** Car on narrow ribbon tracks  
+**Design takeaway:** Narrow ribbon tracks with loops reward camera choice and fine steering.  
+**Video:** [i found a roller coaster that should not exist in GTA 5](https://www.youtube.com/watch?v=Q8tgdIT6Hjg)
+
+### L-Turn Puzzle Course with Passenger Powers
+
+A course of 90-degree L-turns with surprises: turns that appear without warning on a 7-second timer, an icy L-turn, a rotating L-turn to jump across, an L-turn dotted with slowdown circles, and puzzle sections. Each car comes with a passenger whose special power (picking the right gift, summoning a person who extends the road, giving turn-by-turn directions over hidden paths) is needed to finish.
+
+**Issues & surprises**
+
+- On ice he had to start turning far earlier than expected and use a big drift
+- The off-road car's grip made the icy turn manageable
+- Gift choices were reverse-psychology: the 'forbidden' red gift was correct
+- Following the passenger's directions revealed invisible road over apparent gaps
+- He finally jumped a wall to skip the end of the puzzle
+
+**Vehicles:** Cars assigned to passenger characters: 'mom's car', off-road car, side-by-side, others  
+**Design takeaway:** Pairing each vehicle with a passenger ability turns a driving course into a light puzzle about choosing the right combo.  
+**Video:** [Cars vs Turns in GTA 5](https://www.youtube.com/watch?v=__8ojSAkD8w)
+
+### Land-Yacht Turbine and Tightrope Course
+
+A pink-themed parkour driven in a huge, boat-like car: a high wall-launch jump, spinning wind turbines and fans, tightropes where slowing down knocks you off, an arrow-sign climb you must take without losing momentum, and transfer plates into a tiny final hole.
+
+**Issues & surprises**
+
+- The opening jump needed a run-up from the very back of the wall to get enough speed
+- Being slow on the tightrope got you kicked off, but going fast made the long rear fishtail
+- A spinning fan actually helped him once by nudging the car the right way
+- The car lacked torque to restart on the arrow climb; backing up it in reverse worked
+- Later he found that feathering the throttle to barely spin the wheels let it go forward
+- A hidden boost appeared on a section he expected to be calm
+
+**Vehicles:** Long, wide, heavy sedan  
+**Design takeaway:** Putting a big, low-torque vehicle on a course built for nimble cars makes momentum management the core skill.  
+**Video:** [completing the 0.00000001% possible sawblade GTA 5 challenge makes me cry](https://www.youtube.com/watch?v=Su0E8v3eOE8)
+
+### Launch-Less Wall Rides and Container Wall
+
+The '100% impossible' board: a stubborn launch pad, a wall climb you have to slow down for without losing grip, a shipping-container wall ride where wheels snag on container edges, a reverse building climb, and a wall ride with no ramp to get onto the wall.
+
+**Issues & surprises**
+
+- Approaching a wall as a ride rather than a straight climb helped
+- He had to slow before an obstacle, but slowing too much made the car fall off the wall
+- Wheels caught on container edges unless he rode the very top at maximum speed
+- A wall ride with no launch ramp still worked with enough built-up speed
+- Doing the building section backwards was harder than forwards
+
+**Vehicles:** Sports car  
+**Design takeaway:** Seams between modular wall pieces such as containers create real snag points, so collision smoothing or deliberate seams change wall-ride difficulty.  
+**Video:** [I completed this 99.9999% impossible skill test challenge in GTA 5](https://www.youtube.com/watch?v=mAdmuYjuS6I)
+
+### Lava Floor Bridge Course
+
+Broken bridges over lava: a gap bridge blocked by fire trucks, a bridge with teleporting fire columns and a low overhang, a 17-second timed bridge with windmills and S-turns, and a final uneven wooden bridge with a fire spout that chases the car.
+
+**Issues & surprises**
+
+- Contact with fire slowly damaged engine and tires rather than killing instantly; full lava submersion was needed to die
+- Stop sticks were attached to fire, making contact even worse
+- Tall cars couldn't fit under the low bridge, low cars bottomed out in shallow lava
+- The rocket car was fast but its boost was hard to use on the twisty timed section
+- The final stalking fire stayed on the car, burning all tires; he finished on rims just before exploding
+
+**Vehicles:** Wagon, white SUV, boost pickup, sports cars, rocket car, a tall fast car (winner)  
+**Design takeaway:** Damage over time from environmental hazards turns a jump course into a race against a car's degradation.  
+**Video:** [Cars vs Bridges but the Floor is Lava in GTA 5](https://www.youtube.com/watch?v=IH1vr_pZ-vM)
+
+### Left-or-Right Choice Maze Run
+
+First board: a route of repeated left/right forks where one branch is a trap, with wall rides, transfers and a tube climb. Police helicopters shot at him during the run.
+
+**Issues & surprises**
+
+- One 'choice' looked like ordinary track and was easy to miss, which caused a dead end
+- Police helicopters attacking mid-course added a surprise hazard
+- Wrong turns were only found by trying them
+
+**Vehicles:** Default car  
+**Design takeaway:** Fork-choice routes can work as memory challenges, but the forks need to read clearly as choices.  
+**Video:** [speedrunning the world's hardest GTA 5 spike run challenge left me with nothing but regret](https://www.youtube.com/watch?v=GgmkzOVJNcg)
+
+### Life Choices Moving-Block Bike Course
+
+An evolving course where the board moves to kill you: a ramp section, choice crates with only one valid landing, then a floor of sliding and rotating blocks crossed by jumping a bike, ending with a carousel and stream of red walls.
+
+**Issues & surprises**
+
+- Only the pink block had a landing platform, found by scouting
+- Moving floor slid under the bike, so he had to brake the instant he landed
+- Little room to stop after jumps
+- Fell back to the start repeatedly; took about an hour
+
+**Vehicles:** Jumping bike  
+**Design takeaway:** Moving landing surfaces force players to manage momentum after the jump, not just before it.  
+**Video:** [I made GTA 1000x more difficult](https://www.youtube.com/watch?v=5mPnUfNIikM)
+
+### Lightsaber Hazard Gauntlet
+
+A series of themed courses lined with moving/spinning lightsabers that set the car on fire, knock it skyward or slow it down, plus jumps and timed sections. A car that explodes is gone for good, but respawning before it blows up repairs it, so vehicle preservation becomes a resource-management layer.
+
+**Issues & surprises**
+
+- Long vehicles were struck far more often because of their large profile; compact cars fared better
+- Plow-front vehicle couldn't reach the trigger circle and had to turn sideways to activate the script
+- Slow-down sticks placed mid-path were harder than the hazards themselves
+- Leaning a bike forward shrank the hit profile and helped dodge hits
+- Final spinning section felt luck-based; one small hit ended the run
+- Invisible walls blocked a shortcut attempt
+
+**Vehicles:** Large mixed roster incl. train, plow truck, sports cars, motorcycle, small round 'grapefruit' car  
+**Design takeaway:** Permanent vehicle loss on explosion with free repair-on-respawn creates tension about when to bail out, and hazard hitboxes that punish vehicle length reward compact designs.  
+**Video:** [Cars vs lightsabers in GTA 5](https://www.youtube.com/watch?v=2CGq9YeOlgk)
+
+### Limbo Under Ever-Lower Bars
+
+Three stages: 10 levels of progressively lower solid bars with hydraulic bumps lifting the car (25 seconds); 13 levels of destructible low barriers made of different materials (reflectors, cactus, tyres, plywood, Lego, logs, I-beam); and driving on top of destructible balance-beam bars while also passing under others.
+
+**Issues & surprises**
+
+- Each car had a hard cutoff bar it simply couldn't pass; curb boosting squeezed one car past level eight
+- A car's top trim was torn off at level eight, which let it get further
+- Ramming through destructible barriers with a heavy car failed; the very low yellow car slid underneath and flung the I-beam away
+- Heavy vehicles could shift the I-beam but not get past it
+- The ramp car, not built for this, won the balance-beam stage first try by riding both on and under the bars
+
+**Vehicles:** Quad, three-wheeler, sports cars, pink low car, yellow ultra-low car, police car, armoured car, ramp car, electric Ocelot  
+**Design takeaway:** Ride height and roof profile become a real stat when courses include height limits, with detachable parts adding a little leeway.  
+**Video:** [Cars vs Low Bars in GTA 5](https://www.youtube.com/watch?v=nKyJ1McLyNA)
+
+### Long Cars vs Bendy Wall Ride (escalating bend degrees)
+
+Part of a 2-hour long-car compilation: long vehicles attempt wall rides with bends that get sharper by degree, where the vehicle's length catches on each bend.
+
+**Issues & surprises**
+
+- Long chassis caught on bends and ended up riding all four wheels on one side
+- Stopping meant failing; keeping momentum was essential
+- Surprise mini-games appeared, such as counting balls in a pit and racing F1 cars that act as mobile ramps
+
+**Vehicles:** Limo, bus, extended-bed trucks, six-wheel cars  
+**Design takeaway:** Turning up one geometric parameter (bend angle) across levels is a simple difficulty dial for vehicles of different lengths.  
+**Video:** [Testing Level 1 to Level 1,000,000 LONG CARS in GTA 5](https://www.youtube.com/watch?v=NBf_DVA71Z8)
+
+### Long Vehicles Through U-Turn Gauntlet
+
+One vehicle must complete every stage: a 25-second staircase down and up around a U-turn, a split U-turn that rotates and shifts so you must time getting on and off, a 'slidey' U-turn with pushers shoving the car sideways, and a series of tube U-turns with transfers between them, including riding on top of a tube.
+
+**Issues & surprises**
+
+- The semi got surprisingly close on the staircase U-turn; the limo cleared it by hugging the inside line
+- The stretched golf cart could float its rear end when a button was held, letting it teeter over the stairs
+- Lifting the front end before the first stair was critical; a hard stop ended any run
+- The sideways pushers stage was untimed, so slow, patient driving was the answer
+- The tube transfers needed exact exit angles; side markings on the tubes showed where to aim
+- A full-size pickup that didn't drift on U-turns won by completing all four stages
+
+**Vehicles:** Semi truck, beer truck, stretch limo, lifted stretched golf cart, money van, armed vehicle, full-size pickup  
+**Design takeaway:** Tight U-turns are a simple, readable test of wheelbase and turning radius, and moving/rotating sections add timing on top.  
+**Video:** [Long Cars vs U Turns in GTA 5](https://www.youtube.com/watch?v=WLyU37rKhHs)
+
+### Long Vehicles vs Breakaway Bridges
+
+Only the longest vehicles attempt bridges: a dynamic log bridge, a gap bridge with widening gaps and narrowing tracks, an uneven crate bridge that breaks away, a glass half-and-half bridge, a bridge of breakable signs, and a volcano bridge spitting rocks.
+
+**Issues & surprises**
+
+- Length let vehicles bridge gaps but the bus 'see-sawed' on a lip and lost rear traction
+- The stretched F1 car bounced around badly on the loose logs
+- Breakaway crates fell apart faster than most vehicles could cross
+- The stretch Hummer's ground clearance and length made it the winner
+- Volcano rocks could be used as banking points; a rock hit even boosted the final jump
+
+**Vehicles:** Long cars only: stretched F1 car, bus, limo, six-wheel soda truck, extended-bed truck, stretch Hummer (winner)  
+**Design takeaway:** Restrict players to an awkward vehicle class and design hazards where its weakness (length) is sometimes a strength.  
+**Video:** [Testing Longest Cars vs Bridges in GTA 5](https://www.youtube.com/watch?v=NwVP3co5pz8)
+
+### Lowering Beam Bike Limbo
+
+A timed course where each level's clearance shrinks by an inch, with lowering beams, teleporting ramps, popper balloons that burst tyres, glass, slow exploding fish and an underwater section. Bikes can be reused infinitely, and the finale needs a lean-and-dump slide under a gap followed by a loop.
+
+**Issues & surprises**
+
+- A wide 'bike' could not fit between slowdown sticks
+- The Tron bike had excellent handling and no tyres to pop
+- A bike glitched half into the floor while sliding and kept going, extending his best
+- Laying the bike down at the right moment let him slide under the lowest gap
+- A pedestrian had broken the glass prop on one run, changing the course
+
+**Vehicles:** Bicycle, low bikes, wide trike-like 'bike', Shotaro Tron bike, motorcycles  
+**Design takeaway:** A limbo-style height test that rewards deliberately dropping the bike into a slide adds a skill beyond pure speed.  
+**Video:** [Testing Motorcycles vs Smallest Gaps in GTA 5](https://www.youtube.com/watch?v=e5e9TDAb77s)
+
+### Machine-Translated Challenge Prompts
+
+Challenge names were run through many translations and the garbled result became the board: a ramp and chassis-grind jump over juicer blades spraying oranges, a timed 40-second speed-bump maze with colour-coded zones and many dead ends, and a 33-second run to turn pedestrians into money bags while a giant piggy bank fires coins.
+
+**Issues & surprises**
+
+- Only a fast supercar had enough top speed for the orange-juice jumps; a forward lean helped landings
+- The maze could only be beaten by learning the route first and then making a clean run
+- One vehicle came with a top-down camera that would have made the maze far easier, discovered only afterwards
+- Driving around speed bumps rather than over them saved time in the maze
+- Dolphins counted as targets for the money bags, which surprised him
+
+**Vehicles:** Ambulance, small car, arena car, Bandido, older car, supercar; quad and top-down-view vehicle in the maze; jogger SUV for the final  
+**Design takeaway:** A maze for vehicles works best as a learn-then-execute time trial, and optional camera aids can change difficulty drastically.  
+**Video:** [Google translating impossible challenges in GTA 5](https://www.youtube.com/watch?v=zWtY84XaY40)
+
+### Meme Vehicles on Extreme Half-Pipes
+
+Point events for novelty vehicles: a steep half-pipe that curves into a loop transfer and a final jump; an enclosed half-pipe loop you must climb out of to land on a wall; a timed tube half-pipe with growing gaps and plywood walls; and a giant 55-second half-pipe with barriers alternating left and right, where the pipe itself narrows.
+
+**Issues & surprises**
+
+- The lawnmower picked up speed down the steep pipe but lost contact with the ground and flew off
+- The Sherp got far too much air to stay on the half-pipe
+- Its weight and the way it always landed back inside the pipe made the police van the champion, winning two events
+- The trike was the only one with enough speed to exit the enclosed loop; a front flip into the landing worked
+- The Sherp crossed every gap and wall in the tube but couldn't do it in time; a covered transport truck won by hugging the wall
+
+**Vehicles:** Lawnmower, scooter with many mirrors, Sherp, shaded truck, trike, motorcycle, police van, forklift, fire truck, covered transport truck  
+**Design takeaway:** Half-pipes reward a vehicle's ability to stay in contact with curved surfaces and to recover after air time, not just top speed.  
+**Video:** [Lawnmower vs Extreme Half Pipes in GTA 5](https://www.youtube.com/watch?v=rc1a-sneEN0)
+
+### Meme Vehicles vs Pothole Fields
+
+Low-powered novelty vehicles try to cross pothole courses: growing pothole rows, potholes with packing peanuts launching out of them, a twisty road where everything is a pothole, potholes that bulge up out of the ground, and a final rocking road.
+
+**Issues & surprises**
+
+- The lawnmower couldn't even clear the first pothole at about 11 mph
+- The go-kart had no suspension but was so light it flipped and bounced through; zigzagging across pothole edges worked
+- A slow blocky car with a wide wheelbase 'walked' across potholes at 16 mph and was the surprise star until a 90-degree turn
+- Holes bigger than the vehicle meant staying perfectly centred on the pegs between them
+- The final delivery cart, whose body overhung its short wheelbase, cleared everything effortlessly
+
+**Vehicles:** Lawnmower, go-kart, small blocky utility car, forklift, electric burrito van, bumper car, small electric delivery cart  
+**Design takeaway:** Pothole fields reward wheelbase and wheel size relative to hole size, so weak vehicles can beat fast ones on the right terrain.  
+**Video:** [Go Karts vs pot holes in GTA 5](https://www.youtube.com/watch?v=PaAc3ppHZpU)
+
+### Meme Vehicles Waterslide Points Series
+
+Meme vehicles compete in waterslide events (jump transfers, a moving multiple-choice slide puzzle, a skyscraper slide height jump, a spiral loop slide and a long final ride worth two points). Each event won scores a point and the most points wins.
+
+**Issues & surprises**
+
+- The lawnmower topped out around 14 mph and fell absurdly slowly, unable to clear even the first gap
+- Rocking side to side on the slide walls acted like curb boosting and built up speed even for slow vehicles
+- Wide vehicles snagged on barriers, while the forklift had essentially zero control because its wheels never touched the slide
+- Spiral tubes required committing to one loop direction; switching direction caused a fall
+- On the final board, controlled moderate speed (about 50 mph) beat full throttle, letting the slow golf cart win overall
+- The moving puzzle board hid the correct path behind a teleporter and the 'right' fork changed between attempts
+
+**Vehicles:** Lawnmower, inflatable/ball vehicle, fear-themed hot rod, caddy/electric golf cart, hidden trike, taxi, forklift, large cars  
+**Design takeaway:** Low-friction curved slides reward momentum management and wall-rocking, letting slow joke vehicles compete with fast ones through technique.  
+**Video:** [Lawnmowers vs waterslides in GTA 5](https://www.youtube.com/watch?v=6HLt2_QyGNI)
+
+### Microcar Triangle and Pusher Gauntlet
+
+The final long board in a tiny microcar: widening beams, triangle-topped ridges, 90-degree turns on narrow ledges, a stop sign that blocks a wall ride, a building corner that stops tire contact, and rolling pin and hockey-puck props.
+
+**Issues & surprises**
+
+- The car could get stuck balanced on top of a triangle ridge
+- A building corner stopped him riding the wall with his tires
+- A moving stop sign had to be timed and kept blocking him
+- Some sections pushed him off as the track widened unexpectedly
+- A tiny car changed how ramps and gaps felt
+
+**Vehicles:** Tiny microcar  
+**Design takeaway:** A very short-wheelbase car on a course built for normal cars creates new problems such as high-centering on ridges, which is a cheap way to add variety.  
+**Video:** [I completed the impossible don't fall challenge in GTA 5](https://www.youtube.com/watch?v=dh_qkbqB3Ww)
+
+### Modded Character Cars vs Pothole Course
+
+Fan-modded cars tackle potholes: rebar 'Florida' potholes with hidden teleporters, rapid potholes, a Chinese takeout pothole with spinning chopsticks, a pothole hidden in smoke, a heart-shaped pothole, and '4 to 1' potholes that get larger.
+
+**Issues & surprises**
+
+- Modded cars lacked the abilities of the base vehicles (no jump/boost)
+- Low front ends caught on small holes
+- The smoke pothole was found by driving in slowly to locate it
+- The heart-shaped pothole was impossible to jump, so he wall-rode its rim
+- For the last holes he drove into the pothole and timed his exit up its wall
+- Sonic's car had excellent mid-air control
+
+**Vehicles:** Fan-made Sonic character cars: Amy, Shadow truck, 'Sanic', Robotnik monster truck, Tails, Knuckles, Sonic (winner)  
+**Design takeaway:** Potholes too wide to jump can still be crossed by riding their walls, an interesting alternative route.  
+**Video:** [Testing Sonic Cars vs MASSIVE Potholes in GTA 5](https://www.youtube.com/watch?v=fAl9OHK34e8)
+
+### Moon-to-Earth Waterslide Descent
+
+Three increasingly hard waterslides run from the moon down to Earth, driven in a car after a ragdoll intro. Gaps in the slide require keeping full speed for jumps; later sections add pulsing water jets and a zig-zag of jump tubes that must be chained left-right.
+
+**Issues & surprises**
+
+- Losing any speed meant failing the first big gap jump
+- Water spouts looked decorative but actually had strong pressure and ejected him from the car
+- Car progressively lost doors over repeated crashes
+- Zig-zag tubes were too steep to stop on, so jumps had to be chained in rhythm
+- Needed a specific light-momentum approach rather than full speed for the final tubes
+
+**Vehicles:** Car (swapped mid-route), ragdoll on foot  
+**Design takeaway:** A long descending slide with hazards that look harmless until hit teaches players to read the course and manage speed.  
+**Video:** [i found a waterslide that goes to the moon and this happened](https://www.youtube.com/watch?v=3e2sOs2COaQ)
+
+### Motorbike Wall Ride with Breakable Veggie Gates
+
+Two bike boards: a 'BS' wall ride with tree slaloms, low bars to duck under, jumps back onto the wall and a run back through dark scenery, then an 'impossible' bike board with explosives and wind turbines. Some vegetable-stand gates only break after failed attempts.
+
+**Issues & surprises**
+
+- Destructible fruit stands only cleared after earlier crashes, so first attempts almost had to fail
+- He could duck under bars by leaning forward
+- The return trip was dark, so obstacles were hard to see
+- The bike leaned unevenly, worse to one side
+- A generator was placed to block an escape route
+
+**Vehicles:** Motorbike  
+**Design takeaway:** Destructible props that stay broken between attempts make retries progressively easier, which is a hidden assist designers can use on purpose.  
+**Video:** [I completed this 0.01% impossible tightrope race in GTA 5](https://www.youtube.com/watch?v=qGAe_9tKlWg)
+
+### Motorcycle Balance-Beam Parkour
+
+The first of three escalating boards: bent balance beams, crooked tightropes, a conveyor-belt section, uneven tightropes you have to wheelie onto, canted jumps and a wall ride into a blind jump. Failing some sections sends you back to the very beginning.
+
+**Issues & surprises**
+
+- An invisible wall stopped him mid-jump
+- The rider kept getting thrown off the bike on hard landings
+- Knobby tires made tightropes bumpy; going slow first and then speeding up worked
+- One gap pushed the bike to the left with no steering input
+- A jump needed a donut first just to build enough speed, and the bike felt underpowered
+
+**Vehicles:** Motorcycle with lumpy off-road tires  
+**Design takeaway:** Two-wheelers with rider ejection make every landing tense; tuning how easily the rider falls off sets the difficulty.  
+**Video:** [I completed this impossible tightrope challenge using this secret trick in GTA 5](https://www.youtube.com/watch?v=_Y9AjlGnd3g)
+
+### Moving and Rotating Bridge Course
+
+Sections include rotating bridge arms that connect to a central pillar, a broken bridge over a moving subway with teleporter gaps, a 22-second rotating bridge covered in stop sticks, and a 'flying' bridge segment that tilts and moves. Only one car completes all sections.
+
+**Issues & surprises**
+
+- On rotating arms, the far end moves faster, so cars must keep up and drift to turn
+- The motorcycle cleared early sections easily thanks to agility and thin profile
+- The stop-stick bridge could only be beaten in reverse, which favoured cars with fast reverse (motorcycle couldn't reverse at all)
+- An RC car expected to reverse fast enough wasn't quick enough
+- Steering on the moving platform caused skids, as the tilt pulled the car at an angle
+- He timed launches using landmarks in the distance
+
+**Vehicles:** Fuel tanker, quad, YOLO junk car, police cruiser, motorcycle, RC car, a fast car with strong reverse (winner)  
+**Design takeaway:** Moving platforms with tangential speed differences make positioning and timing as important as raw speed.  
+**Video:** [Testing Cars vs Moving Bridges in GTA 5](https://www.youtube.com/watch?v=9SPTXaAaqbw)
+
+### Moving and Trick Tunnel Course
+
+Tunnel challenges: a 'stalking' tunnel that slides left/right toward whichever side you drive on and races away with the checkpoint, a mirrored tunnel of hidden paths, invisible ramps and low thumbnail holes, a timed tunnel with breakaway walls blown open with sticky bombs, and a slowly rotating 'Inception' tunnel ending with a launch into a small raised tube.
+
+**Issues & surprises**
+
+- The stalking tunnel slightly outpaced every car until he stacked car boost, speed strips and curb-boosting together
+- Wide slowdown spheres across the whole tunnel were very punishing
+- Very low thumbnail holes required a low car, but a jumping car could hop over the lowest one instead
+- The F1 car's wall-riding grip let it drive on the rotating tunnel's ceiling
+- Landing upside down left the F1 car unable to right itself
+
+**Vehicles:** Meme car, jet car with rocket boost, drag motorbike, arena car with fast-recharging boost and jump, low 'Squeeze' car, F1 car  
+**Design takeaway:** A goal that moves away from the player and reacts to their position turns a simple tunnel into a chase where every speed source must be stacked.  
+**Video:** [Cars vs secret tunnels in GTA 5](https://www.youtube.com/watch?v=ofSbmKa6T5k)
+
+### Moving Escalator Gauntlet
+
+Vehicles must ride and transfer between escalators: a broken escalator full of gaps, a chain of supermarket escalators where each segment runs faster (from about 20 to 100 mph), a bonus tightrope escalator where segments move in opposite directions, and an airport conveyor where you must stay on a moving platform while ramping luggage and dodging taxiing planes.
+
+**Issues & surprises**
+
+- Areas not covered by the escalator had no collision, so cars fell straight through
+- Each new segment accelerated instantly, so the right move was to launch off the end before the platform ended
+- Long vehicles like the Wastelander had no margin on short segments
+- Boost unexpectedly hurt by over-launching; motorcycles mounted escalators most easily
+- Finishing the bonus challenge did not actually reduce obstacles as promised
+- On the airport conveyor, leaving it entirely triggered a launch-off, but keeping any part of the frame on it was enough
+
+**Vehicles:** Dump truck, primer-white car, motorcycle, trike, Wastelander, boost monster truck, rally car, red-white-blue truck  
+**Design takeaway:** Moving surfaces with step changes in speed make momentum transfer the core skill, and mixing directions adds timing puzzles.  
+**Video:** [Cars vs Escalators in GTA 5](https://www.youtube.com/watch?v=WfyekfRGvJA)
+
+### Moving Road Segments Transfer Challenge
+
+The road splits into fast-moving chunks that the car has to ride and transfer between, including spinning three-way splits and a timed moving tightrope with walls. He has to reach the end before a wall comes up.
+
+**Issues & surprises**
+
+- Road chunks moved much faster than they looked, and where they ended up was random
+- Slow-accelerating cars could not get onto the moving pieces
+- A boost/jump car could skip large parts of the board
+- On moving tightropes the car had to be driven sideways at an angle, as if drifting
+- He finished with only about 3 seconds left
+
+**Vehicles:** Dad's car, bug, various cars, engine-with-handlebars bike, boost/jump car  
+**Design takeaway:** Moving platforms that need speed matching and angled transfers make a good momentum and timing challenge.  
+**Video:** [Cars vs Splitting Roads in GTA 5](https://www.youtube.com/watch?v=BmEu9y9f45Q)
+
+### Moving Stair Platforms Survival
+
+Survive 69 seconds on alternating platforms that rise, fall and shift forward and back, transferring from one to the next at the right moment.
+
+**Issues & surprises**
+
+- The dragster got hung up and its body dragged on the platform edges
+- Each transfer needed a precise back-up-then-jump timing, repeated around seven times without a single mistake
+- Success came down to muscle memory rather than vehicle stats
+
+**Vehicles:** Dragster, plum-colored car  
+**Design takeaway:** Moving-platform transfers turn a car into a timing/platforming tool and reward reading the platform cycle.  
+**Video:** [Testing EVERY Viral Challenge in GTA 5](https://www.youtube.com/watch?v=6noYTwZ08JA)
+
+### Moving Wall Rides and Reverse-Hoop Course
+
+A slide leads to a car section with inverted wall rides, a Geometry-Dash-style wall ride where obstacles move toward you on a backward-moving floor, and a section of reverse hoops he must align while looking backwards.
+
+**Issues & surprises**
+
+- Wall rides were less sticky upside down than hoped
+- Backward-moving floor made turning feel much stronger
+- Hitting a checkpoint off-center failed to teleport him
+- Trick portals sent him back to the start
+- He vaulted the car with a chassis slide around an obstacle
+
+**Vehicles:** Wall-ride car; final super-speed escape  
+**Design takeaway:** Conveyor-like moving floors change effective steering response, a neat physics twist.  
+**Video:** [I found a MOON WATER SLIDE in GTA 5](https://www.youtube.com/watch?v=aUohCy4S86w)
+
+### Multi-Vehicle Transform Gauntlet
+
+A long transform race that keeps swapping vehicles: opening and closing gates, slow-down sticks you must cross backwards, a boosted tube you must fire out of, ball-rolling sections, a shifting tightrope, colour-coded gap walls, and finally flying a motorcycle across the whole map to the finish.
+
+**Issues & surprises**
+
+- Gates that opened and closed rhythmically caught him repeatedly
+- Slow-down sticks meant he had to drive downhill in reverse
+- On the bike, the tube boost made the tires slide, so he couldn't keep the speed to fire out; coming in at a steep angle fixed it
+- A tightrope started shifting side to side halfway across
+- Some vehicles felt like the wrong pick for their section
+- The finish meant flying a bike across the whole map
+
+**Vehicles:** Many transforms: cars, motorcycle, buggy, flying motorcycle  
+**Design takeaway:** Forcing vehicle swaps every section makes players learn many handling models quickly, which suits showing off a varied vehicle roster.  
+**Video:** [Only 0.001% survive this impossible bike tightrope in GTA 5](https://www.youtube.com/watch?v=gkiBB3_-nkE)
+
+### Multiple-Choice Car Drop Maze
+
+First half: a car drops through a vertical maze of choice holes, tubes and a Plinko-like ring of blenders. Wrong holes are walls or fakes, and one target is a moving small hole.
+
+**Issues & surprises**
+
+- Some choices led to a solid wall
+- Had to lean to land on the correct side of blender rings
+- Moving hole required jumping rather than sliding in
+- Car body became heavily deformed
+
+**Vehicles:** Small car  
+**Design takeaway:** A vertical drop maze with choice holes is a simple, readable puzzle for vehicle physics.  
+**Video:** [I took cartoon challenges to unrealistic extremes in GTA 5](https://www.youtube.com/watch?v=owWRPQSSqIk)
+
+### Multiple-Choice Trap Course
+
+A Saw-themed course of choose-the-right-hole tunnels where wrong choices are dead ends or traps, then colour-question gates, breakaway tube floors, timed retracting platforms, loops and a bowling finale.
+
+**Issues & surprises**
+
+- Could not turn around inside choice tunnels
+- Invisible barriers blocked shortcuts
+- Car 'stuck like glue' on walls
+- Tube floors dropped out
+- Platforms extended briefly, needing timing
+- Doing a section backwards worked better
+
+**Vehicles:** Dirt bike, cars  
+**Design takeaway:** Branching choices with irreversible commitment turns a driving course into a memory puzzle.  
+**Video:** [i completed this 99.9% impossible jigsaw challenge in GTA 5](https://www.youtube.com/watch?v=_sxHQkazyks)
+
+### Mystery Box Car vs Curse Draft
+
+Opening a car box first requires opening a curse box, and the curse becomes a hazard on the track, such as an alien ship abduction beam, falling poop rocks or a pink-side rule. The player must clear the course with whatever random car comes out.
+
+**Issues & surprises**
+
+- The first random car was too slow to make a required corkscrew jump
+- An alien ship homed in and abducted the car, resetting progress
+- An invisible wall existed that could be used as a surface
+- The Zentorno proved very good for wall riding
+- Some boxes were harmless, like a burger meal
+
+**Vehicles:** Random cars from boxes, e.g. weak cars, Zentorno, anime car  
+**Design takeaway:** Pairing random vehicle rewards with random added hazards creates roguelike variety on a fixed track.  
+**Video:** [Opening 1000 Cursed Mystery Boxes in GTA 5](https://www.youtube.com/watch?v=OUnY-6HH3aI)
+
+### Narrow Tightrope Series
+
+Five narrow-path sections: a sloped crumbling pipe past windmills, a 16-second timed figure-eight, a tightrope through tree foliage with hidden monkeys, a 90-second partly invisible tightrope that collapses when time runs out, and a spinning platform with long rotating arms leading to the center.
+
+**Issues & surprises**
+
+- Low cars bottomed out on the pipe, so ground clearance mattered even on tightropes
+- Patient, slow driving was required, which clashed with his usual style
+- The ATV's short wheelbase helped balance but it lacked speed for timed sections
+- A tiny microcar turned out to be excellent at tightroping
+- On the spinning platform, outward forces increased with distance from the center, so he had to drift and grind
+- Half the tire overhung the rope even when centred
+
+**Vehicles:** Low sports car, narrow 4x4, ATV, Indy-style car, side-by-side, Canis off-roader, tiny weed-whacker microcar (best), others  
+**Design takeaway:** Narrow paths with time limits force a balance between precision and speed, revealing how stable a vehicle feels at low speed.  
+**Video:** [Testing cars vs Tightropes in GTA 5](https://www.youtube.com/watch?v=PZjRtjFWpAg)
+
+### Narrowing Spiral Mega Ramp (timed)
+
+A long downhill spiral whose ribbon gets thinner each lap, ending in a long jump to a platform, all within 26 seconds. Sections of the ramp shift away if you are too slow.
+
+**Issues & surprises**
+
+- Low-traction muscle cars and trucks could not hold the spiral and fishtailed off
+- He had to stay on full throttle the whole way (about 170 mph) to make the final jump
+- A high-traction two-tone supercar was the only one that made it, barely
+
+**Vehicles:** Muscle car, patriotic truck, pink sports car, two-tone supercar  
+**Design takeaway:** A track that narrows as speed builds creates a natural tension between going fast enough for the jump and slow enough to stay on.  
+**Video:** [Testing EVERY Viral Challenge in GTA 5](https://www.youtube.com/watch?v=6noYTwZ08JA)
+
+### Needle-Spike Wall Ride Run
+
+A long 'epic hard' board: a confusing start where the road is a decoy and the real line is the wall, wall rides through spike and needle obstacles needing exact high/low lines, a near-vertical drop, a loop needing full speed and forward weight, and a final needle maze on a dark background.
+
+**Issues & surprises**
+
+- The obvious road was a trap; riding the wall beside it was easier
+- One wall ride with ramps took about 70 attempts and needed perfect speed, angle and turn timing
+- Shifting weight forward was key to keeping grip on loops and drops
+- Dark needles on a black background were hard to see
+- You couldn't lift off the throttle at all in the final needle path or you lost grip
+- He asked creators for more checkpoints
+
+**Vehicles:** Sports car  
+**Design takeaway:** Making hazards contrast with the background is basic but critical; hard-to-see obstacles turn skill challenges into memory tests.  
+**Video:** [speedrunning this 0.0001% spike run challenge in GTA 5 destroyed my will to live](https://www.youtube.com/watch?v=xLBfrZXL6EI)
+
+### Never-Ending Glitchy Tube Course
+
+A sprawling board that goes on into the distance: hole-threading at the start, a transform into a supercar, shooting out of one tube into another, landing on fans, spike walls you thread carefully, loops, a target bullseye landing, a counterclockwise wall section and no-signs blocking a wall transfer.
+
+**Issues & surprises**
+
+- Tube-to-tube shots needed a nearly vertical approach and full speed
+- Rusty fans broke his fall unexpectedly
+- Spike walls needed exact high and low lines
+- He had to work out the direction around a wraparound section: four laps one way, then the other
+- Timed no-signs at a wall transfer couldn't be waited out because you can't stop mid-wall
+
+**Vehicles:** Starter car, then a transform into a T20 supercar  
+**Design takeaway:** Timing hazards on a wall ride, where the player can't stop, force them to manage speed in advance, which is a strong skill test.  
+**Video:** [99.9999% of people get triggered by this never-ending challenge in GTA 5](https://www.youtube.com/watch?v=uSqgkHubKW4)
+
+### Nine Layers Vehicle-Swap Escape
+
+Themed layers each with a novelty vehicle: a bike carrying several passengers, jumps between slippery bacon platforms, and a long creature vehicle that is hard to see around.
+
+**Issues & surprises**
+
+- Uneven passenger heights made the bike lean to one side
+- Bacon platforms were slippery
+- Couldn't tell where the long vehicle's body ended
+- Visibility issues: switched views to see
+- Controller made the creature vehicle much easier
+
+**Vehicles:** Motorcycle carrying passengers, burger-box vehicle, monster-shaped vehicle  
+**Design takeaway:** Weight distribution from passengers is an easy way to give a familiar vehicle new handling.  
+**Video:** [I drove to the hell in GTA 5](https://www.youtube.com/watch?v=wNyh-yGsMlk)
+
+### No-Brakes Full-Throttle Course and Troll Challenges
+
+Viewer 'troll' challenges: a 69-second course locked at full acceleration with no brakes (sharp turns, proximity mines, water), then a long sequence of numbered jumps between windmills ending in a thumbnail-hole finish.
+
+**Issues & surprises**
+
+- Locked throttle meant fishtailing was the only way to shed speed
+- A downforce car could take the corners, but mines flung it around
+- The Sherp's ability to float made the water section easy
+- Stopping on landing platforms rather than carrying speed made the jump chain easier
+- He could skydive through the finish, which the creator had not intended
+
+**Vehicles:** Under-turning car, downforce supercar, Sherp, others  
+**Design takeaway:** Taking away the brake input forces players to manage speed with steering and drift instead.  
+**Video:** [Surviving your horrible pranks in GTA 5](https://www.youtube.com/watch?v=xOMrEpMvGto)
+
+### Obstacle Trading Stunt Course
+
+An impossible stunt course where the player swaps obstacles for others of equal point value at a trading post, attempting to make it beatable.
+
+**Issues & surprises**
+
+- Some swaps added hazards that hit him from behind
+- Removing one ramp was enough rather than both
+- Sharks and slushies knocked him off walls
+- He tested fake platforms by checking before committing
+
+**Vehicles:** Stunt car  
+**Design takeaway:** Letting players trade obstacles with a point budget creates a level-editing puzzle.  
+**Video:** [$0.01 VS $10,000,000 Stunt Race in GTA 5](https://www.youtube.com/watch?v=p7JqzJoU9PE)
+
+### Old-Gen vs New-Gen Car Triathlon
+
+Three events: barrel through an alley packed with pedestrians before a barrier rises (each hit costs speed), a series of stunt jumps where you must stay above 35 mph and land perfectly straight or the 'stunt jump failed' sequence resets you, and a long wall ride with gaps and transfers.
+
+**Issues & surprises**
+
+- Every pedestrian hit cut about 15 mph, so low wedge-shaped cars that slid under people did best
+- Lifted vehicles were too wide for the alley
+- Landing even slightly sideways triggered a failed stunt jump
+- One ramp had a lip that flipped cars forward unless he leaned back
+- A low grey supercar with strong downforce was dominant on the wall ride
+
+**Vehicles:** GTA 6 trailer cars (sports car, lifted car, convertible, grey supercar) vs GTA 5/San Andreas cars (Turismo, lifted truck)  
+**Design takeaway:** Strict landing-orientation rules on stunt jumps force players to master mid-air pitch and yaw control.  
+**Video:** [GTA 5 vehicles vs GTA 6 vehicles](https://www.youtube.com/watch?v=y5Jb_Ly8Whg)
+
+### Optical-Illusion Car Course
+
+A stunt course built from optical illusions and 'satisfying' shapes: patterned roads, a sphere interior wall ride with same-colored hidden exit holes, and hoops that are partly invisible.
+
+**Issues & surprises**
+
+- Visual patterns made it hard to judge distance
+- The car flipped upside down inside the sphere unexpectedly
+- Exit holes were the same color as the surface
+- A hoop that looked half-missing was actually solid
+- Feathering throttle instead of flooring it was needed
+
+**Vehicles:** Car  
+**Design takeaway:** Visual deception can raise difficulty without changing physics, but needs some readable cues.  
+**Video:** [GTA 5 but every 60 seconds gets more satisfying](https://www.youtube.com/watch?v=YN5SB-72QeU)
+
+### Packed Tunnel Gauntlets
+
+Tunnel events for points: shove a tunnel full of stalled, explosive vehicles out of the way; a one-way tube where vehicles are fired at you and wall- and ceiling-ride unpredictably; a 32-second tunnel packed with movable barriers; and 'Rush Hour', a cluttered crash-scene tunnel with a tight time limit.
+
+**Issues & surprises**
+
+- Wrecked cars chain-exploded, setting the tunnel on fire behind him
+- Heavy trucks moved only a few feet per hit but deformed, so a small car with a plow squeezed past along the side
+- Oncoming cars in the tube behaved randomly, sometimes looping, so the event couldn't be memorised; a nimble open-wheel car that could dodge won
+- Barriers stuck under heavy cars' frames and slowed them
+- A pickup with huge suspension clearance simply drove over/under every barrier and won with a tenth of a second spare
+- A big off-road vehicle was too large to even enter one tunnel
+
+**Vehicles:** Plow-fronted monster truck, scooter, small arena car with plow, open-wheel car, high-clearance 'Bandido' pickup, armoured arena car  
+**Design takeaway:** Confined tunnels with unpredictable traffic make reaction-driven challenges, while clearance and plow tools give clever alternatives to brute force.  
+**Video:** [Cars vs narrow tunnel in GTA 5](https://www.youtube.com/watch?v=Kx5avnfCjbI)
+
+### Packing Peanut Obstacle Boards
+
+Vehicles are picked blind from boxes and cross human-sized floating packing peanuts, speed bumps and a peanut-filled mansion. A vehicle that is lost or stuck cannot be used again, and the finale has an RC car carrying a deer mascot up stairs.
+
+**Issues & surprises**
+
+- The dynamic floating peanuts swallowed the forklift instantly
+- The lifeguard quad got three-quarters of the way across
+- The ATV made it across, though nearly failing several times
+- The RC car could climb stairs but not get through a wooden fence, so it had to jump
+
+**Vehicles:** Forklift, lifeguard quad, ATV, RC car (carrying a deer)  
+**Design takeaway:** Floating dynamic debris as a driving surface tests weight distribution and momentum.  
+**Video:** [Testing cars vs packing peanuts in GTA 5](https://www.youtube.com/watch?v=nHTkLvipJ1M)
+
+### Panel-Count Jump Accuracy Board
+
+An accuracy board: jumps off arrows onto narrow sign tops, a series of hole-threading jumps where each gap needs a different run-up measured in panels (three, four, five), slow hump and drift sections, tiny pink landing pockets with teleports, and a spike-filled final stretch.
+
+**Issues & surprises**
+
+- Landing on the thin sign tops often left only the rear wheels on, which was fatal
+- He found he had to keep all his speed coming off a barrier rather than slowing down
+- Repeated hole jumps weren't evenly spaced, so each needed a different run-up
+- Counting floor panels became his way to measure jump distance
+- A surprise teleport after a landing caught him off guard
+- The end of the board was loaded with spikes and fans
+
+**Vehicles:** Slippery pink sports car  
+**Design takeaway:** Repeated jumps with slightly different distances, plus a floor grid players can count, make a fair, learnable precision test.  
+**Video:** [Only 0.000001% of people can complete this infinite accuracy challenge in GTA 5](https://www.youtube.com/watch?v=YyIOG5te4Lc)
+
+### Pastel Balance-Beam and Zeppelin Transfer Course
+
+A long precision board: upside-down boost platforms into wall transfers, balance beams that only fit three wheels, a transfer onto a blimp, short beam-to-beam jumps with almost no room to turn, candy-corn obstacles and lip pops.
+
+**Issues & surprises**
+
+- A boost right at the start threw him off the course
+- Being upside down reversed his sense of left and right for the following wall ride
+- Boost pads on a wall transfer made the rear wheels slide out; he switched between controller and keyboard
+- Balance beams allowed only three wheels, so lifting one side was needed
+- Each beam jump was different with tiny turning space, and failing sent him back far
+
+**Vehicles:** Beetle-style compact car  
+**Design takeaway:** Narrow beams that fit only part of the vehicle force players to manage weight transfer and wheel lift instead of just steering.  
+**Video:** [speedrunning the ultimate precision platform challenge destroyed my will to live in GTA 5](https://www.youtube.com/watch?v=GE0sFH6I5BE)
+
+### Patriotic Crusher Tube Truck Course
+
+A red-white-and-blue themed parkour driven in an old pickup: loops, breakable wooden barriers, balance beams, fire, a tight crushing-tube section with timed pistons and a ring 'sphincter' gate, tire jumps and rockets. Goal is to clear every checkpoint.
+
+**Issues & surprises**
+
+- Wooden props broke or moved at the worst moment and knocked him off beams
+- The timed crusher gates had bumps in front, so you couldn't blast through at speed; half throttle worked
+- Getting pinched by crushers punched the truck through the floor of the course
+- With no room to turn the truck around, he drove a section in reverse
+- Tire props had glitchy collision; the truck's wheels clipped through them
+
+**Vehicles:** Old pickup truck  
+**Design takeaway:** Timed crushers paired with speed-killing bumps make players think about throttle control instead of just flooring it.  
+**Video:** [i completed this legendary don't delete your account challenge and this happened](https://www.youtube.com/watch?v=2MqdYn-OMSg)
+
+### Pay-Per-Death Escape Rooms
+
+Escape-room style boards where every death costs $100. The first is a timed crushing-wall room where he must find which named car hides the exit by moving it; later boards are spinning-platform and edge-walking parkour.
+
+**Issues & surprises**
+
+- The license plate clues were a red herring and he died repeatedly
+- The solution was ramming one car to move another
+- Spinning platforms needed exact jump timing
+- Death penalty made him nervous; total cost reached $2,600
+
+**Vehicles:** On foot; cars to push in a puzzle room  
+**Design takeaway:** Attaching a visible cost to each death makes routine retries feel high-stakes.  
+**Video:** [GTA but you get paid each time I die](https://www.youtube.com/watch?v=GcMM7N4Skcc)
+
+### Pick-a-Vehicle Branch Gauntlet
+
+Later forks: a wall ride with hidden fan blades and moving no-signs, a helicopter flight through tight shapes, a minivan tightrope over bumps, and a final novelty vehicle with spinning blades. Each left/right choice swaps the vehicle and the challenge.
+
+**Issues & surprises**
+
+- A fan blade was hard to see until it was too late
+- Moving no-signs at wall-ride transfers needed exact timing
+- On the tightrope, bumps knocked the minivan's tires off thanks to its soft suspension
+- Low-grip tires made the wall ride a long grind of attempts
+- Choosing left every time gave the strangest vehicles
+
+**Vehicles:** Low-grip car, helicopter, minivan, washing-machine-like novelty vehicle  
+**Design takeaway:** Letting branch choices decide which vehicle you get adds replay value and shows off different handling on similar obstacles.  
+**Video:** [i completed this 1000% impossible tightrope dodge challenge and this happened](https://www.youtube.com/watch?v=ngynvWdYmxk)
+
+### Pipe Obstacle Course
+
+Pipe-based sections: descending pipes that widen, loose rolling pipes, a suspended double rusty pipe transfer, an ascending pile of pipes, wavy beer-bottle pipes, and a steep downhill 'sea of blood' of giant tubes ending on a landing pad.
+
+**Issues & surprises**
+
+- Rolling pipes moved under the tires and pushed cars sideways; the trick was slowly knocking them flat first
+- Vehicles good at potholes or stairs were bad on pipes
+- The motorcycle could keep speed by timing rear-wheel contact on pipes
+- The Wastelander's width matched the pipe course and it kept momentum
+- The final descent was about keeping the car level and landing on its tires
+
+**Vehicles:** Trailer truck, RC car, Liberator, supercar, long six-wheeler, carb truck, mom's car, Sand King, motorcycle, A-Team van, Wastelander (winner)  
+**Design takeaway:** Loose, rolling dynamic props create a very different traction problem from static terrain.  
+**Video:** [Cars vs Pipes in GTA 5](https://www.youtube.com/watch?v=fYwMhVnYR28)
+
+### Pop-up Speed Bumps and Collapsing Wall Ride
+
+A timed straight of speed bumps that pop out of the ground when a car drives on them, growing taller and more numerous, followed by a beach wall ride whose sections fall away when approached, forcing high/low line changes.
+
+**Issues & surprises**
+
+- Bumps triggered only by vehicles (not bullets) and behaved inconsistently, sometimes doing nothing and sometimes launching the car
+- Rear-wheel-drive cars got stuck correcting oversteer after each bump
+- The vehicle with the most suspension travel cleared the bumps first try with one second left
+- Whole sections of the wall ride, not just parts, detached and could skip the car like a stone
+
+**Vehicles:** Family car, buggy, long-travel off-roader ('69 mobile'), plum-colored car  
+**Design takeaway:** Reactive terrain (bumps that spring up under the tyres, walls that collapse as you near them) is a great showcase for suspension travel and line choice.  
+**Video:** [Testing EVERY Viral Challenge in GTA 5](https://www.youtube.com/watch?v=6noYTwZ08JA)
+
+### Pothole Board with Non-Respawning Cars
+
+A compilation segment with escalating potholes: deeper holes, alcohol-filled holes with stop sticks, rolling ball obstacles, moving potholes, geometric-shaped holes, and a lake-sized final pothole. Each car can only be used once, with hydraulics provided.
+
+**Issues & surprises**
+
+- Rear-wheel-drive cars stalled in liquid potholes; four or six-wheel drive was key
+- Dynamic balls didn't respawn, so they had to be cleared in one try or the board reset
+- Long six-wheel chassis bridged gaps, but got high-centred on triangle-shaped holes
+- Approaching geometric holes from the side worked better than hitting them head-on
+- The final lake was solved by parking a truck as a ramp and launching the Badger off it
+
+**Vehicles:** Quads, buggy, six-wheel trucks, Liberator, motorcycle, Badger off-roader (winner)  
+**Design takeaway:** Let wrecked vehicles stay in the world as usable props so earlier failures become tools for later attempts.  
+**Video:** [Testing 100 Vehicles in GTA 5](https://www.youtube.com/watch?v=8xFRpdjxBrM)
+
+### Pothole Field and Wall-Ride Potholes
+
+Dense pothole fields: sprung potholes with water spouts, shifting potholes, a breakaway wall ride riddled with potholes, abstract teleporter potholes, plywood-covered potholes that explode open, UFO-shaped futuristic potholes, and 30 nacho potholes.
+
+**Issues & surprises**
+
+- Low supercars fell into potholes no matter which line they took
+- Tall vehicles crossed potholes easily but lost all speed on the wall ride
+- A lifeguard vehicle was surprisingly the first to complete the pothole wall ride
+- Plywood potholes hid the layout, so he shot the plywood to reveal it
+- Futuristic potholes needed a steady medium speed rather than full throttle
+- A six-wheeler stuck to the wall ride well
+
+**Vehicles:** Supercar, high-riding vehicles, big-tire truck, lifeguard vehicle, six-wheeler, off-road truck, utility truck, Wastelander (winner)  
+**Design takeaway:** Hiding obstacles under breakable covers makes players choose between scouting and committing.  
+**Video:** [Cars vs 100 Potholes in GTA 5](https://www.youtube.com/watch?v=utuMKDqQ8sg)
+
+### Punching-Fist Gauntlet with Troll Ending
+
+Platforming past giant punching fists, followed by a car section where fists strike the vehicle, ending in a fake finish and a locked-car trap with a delayed hazard.
+
+**Issues & surprises**
+
+- Some fist hits actually knocked him forward onto the next platform, a 'fist assist'
+- He tried to crab the car sideways/upward to survive fist impacts
+- A troll ending appeared after he thought he had won
+- Simply running in a straight line beat the final trap he expected to be hard
+
+**Vehicles:** On foot, then a car run past fists  
+**Design takeaway:** Hazards that can help or hurt depending on timing create emergent shortcuts players love discovering.  
+**Video:** [I Survived 100 Dares In GTA 5](https://www.youtube.com/watch?v=1VbpO3fWtOQ)
+
+### Ragdoll Waterslide Hazard Run
+
+Get up a slide against an endless stream of falling ragdoll bodies, then ragdoll down tube slides and jumps while dodging raining cars, meteors, pulsing water geysers, flames, and a ball pit swept by windmills. Checkpoints between themed scenarios.
+
+**Issues & surprises**
+
+- Endlessly spawning ragdoll bodies were harder than the parkour itself
+- Body steered opposite to input when trying to correct mid-air
+- Landing in the center of the slide mattered more than speed
+- A 'torpedo' posture gave extra speed
+- Geysers swayed side to side, making timing luck-heavy
+- Final finish was achieved by a ball knocking him into the checkpoint
+
+**Vehicles:** Bicycle at start, then on-foot ragdoll sliding  
+**Design takeaway:** Stream of physics debris (bodies, cars, balls) on a track is a cheap, chaotic dynamic obstacle.  
+**Video:** [This IMPOSSIBLE WATERSLIDE Jump Destroyed My Will To Live](https://www.youtube.com/watch?v=3jH8J_mOpE8)
+
+### Rainbow Motorcycle Tightrope Gauntlet
+
+A long motorcycle course: blimp-length run-ups for huge jumps, parachute tightropes, tiny platforms needing a wheelie pop and sideways landing, pool-table rails, tightropes lined with explosive bombs, breakaway floors, a wall ride into holes and a chain tightrope.
+
+**Issues & surprises**
+
+- Needed the full length of a blimp to build enough speed for one jump
+- Bombs on the tightrope were real and exploded
+- Floor panels broke away under the tires
+- Speed window on ramps: too fast hit the hole frame, too slow fell short
+- Going too slow on the chain made the bike slide backwards
+- Wall traction was better than expected
+
+**Vehicles:** Motorcycle  
+**Design takeaway:** Breakaway floors and explosive props on narrow beams add time pressure to precision riding.  
+**Video:** [I literally drove on a rainbow and this happened](https://www.youtube.com/watch?v=SJBFaWWdtXw)
+
+### Random-Car Loop Gauntlet
+
+A spinning drum of cars hands out a random vehicle. Loop challenges include a pink/blue choice loop, an invisible loop, a wobbly 'drunk' loop needing high speed, sheer vertical wall-loops, a chain of 12 loops spaced further apart and thinner each time, and a final twin loop where unused cars become obstacles. The 'end' teleports you back to the start unless you find the hidden real exit.
+
+**Issues & surprises**
+
+- The bumper car could stick to loop walls and clear more loops than real cars
+- The F1 car's downforce helped but its speed ran out on widely spaced loops
+- The rocket car's boost did not recharge fast enough for every loop
+- Each loop cost lots of speed (130 to 95 mph), making later gaps harder
+- Cars marked 'lucky' could be grabbed before the doors locked, bypassing the random draw
+- Unused cars became hazards on the final loop, so trying more cars earlier made it easier
+
+**Vehicles:** Random 'lucky loop' picks: tank, motorbike, three-wheeler, bumper car, dune buggy, dump truck, F1 car, rocket car, arena car, 'lucky' car  
+**Design takeaway:** Loop chains with growing gaps make speed retention through each loop the key stat, and turning previously failed vehicles into obstacles is a clever feedback loop.  
+**Video:** [Cars vs Infinite Loops in GTA 5](https://www.youtube.com/watch?v=lNrMAUtK0ik)
+
+### Rapid Vehicle-Swap Rainbow Course
+
+A colour-themed course where the vehicle changes every minute or so: vertical wall rides, timed opening doors, bouncy carnival slide, transfers, a hoop bowl, and a rocket car chaining boosts.
+
+**Issues & surprises**
+
+- Some landings caused instant explosions
+- Bouncy slide fought slow, careful driving
+- Wall transfers were delicate
+- Rocket recharge chaining was key to a long jump
+- Roll cage made the buggy survive rolls
+
+**Vehicles:** Many cars, a buggy with roll cage, a rocket car  
+**Design takeaway:** Short frequent vehicle swaps keep a long course feeling fresh.  
+**Video:** [i completed this 99.9999% impossible U turn challenge and this happened](https://www.youtube.com/watch?v=y2Ajj0Xewbo)
+
+### RC Car Four-Event Decathlon
+
+Several custom RC cars compete in four point-scoring events on giant household-object courses: a timed tabletop run through food and drinks, a staircase climb, a sheer-wall climb and a demolition round pushing pink cars into a pit before C4 blows up. Points are tallied to crown a winner.
+
+**Issues & surprises**
+
+- A heavy RC car shrugged off chips and food obstacles
+- Lego car was very fast but took deformation damage and got tires yanked out
+- Tracked RC had awful traction and kept spinning 360s
+- Bandido's jump retained forward momentum, letting it hop stairs; a Lego pile served as a ramp
+- One car inexplicably levitated up a wall
+- Demolition round was chaotic with orbital strikes and mines
+
+**Vehicles:** Custom RC cars: Bandido (jumping), Lego brick car, tracked RC, levitating car  
+**Design takeaway:** Tiny vehicles on oversized everyday-object courses plus a multi-event points system highlight different vehicle strengths.  
+**Video:** [Testing RC cars vs impossible obstacles](https://www.youtube.com/watch?v=7JqPpJOP2yE)
+
+### RC Car Rainbow Parkour
+
+A colourful parkour course driven entirely in a tiny RC car: platform hops, perforated floors, rebar fields, tightropes, a chain of parked planes, a UFO launcher and a final wall ride. Checkpoints between sections.
+
+**Issues & surprises**
+
+- Very low mass meant any contact sent the car flailing
+- It reversed faster than it drove forward and stopped instantly
+- Got stuck inside a prop's collision
+- Crossing rebar worked better driving backwards, or simply rolling the car
+- Missing/broken boost forced a brake-bump trick at the plane's nose to clear a gap
+- Car was effectively indestructible even in blender-like hazards
+
+**Vehicles:** Tiny remote-control car  
+**Design takeaway:** A featherweight vehicle turns ordinary-scale obstacles into a new challenge, and shows how much mass matters to handling.  
+**Video:** [i completed this impossible infinite sawblade challenge and this happened](https://www.youtube.com/watch?v=DxkQxcLc0ug)
+
+### Real-Life-Inspired Stunt Course (Two-Wheel Driving, Tightrope, Wall Ride)
+
+A course recreates real-world car stunts: wall rides, tightrope driving, flaming rings, ramp jumps and two-wheel balancing. He has to string them together into one run, including driving onto a wall ride on two wheels.
+
+**Issues & surprises**
+
+- A tall vehicle could not fit through the middle path, forcing another route
+- First-person view seemed to cut down on windshield ejections
+- Hydraulics made two-wheel balancing possible, but it needed speed and exact timing
+- A long tightrope/chassis-grind section took many attempts, and entry angle mattered
+- Coming off the wall ride a little high turned out to be the trick
+
+**Vehicles:** Bus (wall ride), hydraulic vehicle for two-wheel driving  
+**Design takeaway:** Real-world stunts (two-wheel driving, tightropes) make good set pieces when the vehicle has an ability like hydraulics that makes them possible but hard to control.  
+**Video:** [Testing real life stunts vs GTA 5 stunts](https://www.youtube.com/watch?v=2r0uc0FzyOk)
+
+### Reverse-Entry and Turnaround Wall-Ride Course
+
+A wall-ride board where several obstacles have to be entered backwards or need a mid-course U-turn: bounce pads taken in reverse, spike walls, no-signs blocking wall rides, tube-to-tube jumps, sheer climbs and blind left/right forks. It ends with a transform checkpoint.
+
+**Issues & surprises**
+
+- The first bounce obstacle only worked when entered backwards
+- An unmarked left/right fork at the end of a long wall ride sent wrong guesses back to the start
+- Sheer wall sections needed riding high and then drifting down
+- A 'turn around' section had too little space to flip the car, so he drove the whole part in reverse
+- Lifting three wheels off the ground didn't reset him, which surprised him
+- He reached for a controller for a precise low-line wall section
+
+**Vehicles:** Sports car, transforming at the finish  
+**Design takeaway:** Sections that require reversing or a quick 180 test backward handling and car-flip control, which most courses never touch.  
+**Video:** [99.999% lose their mind on this reverse challenge](https://www.youtube.com/watch?v=IN2VPwbyqQk)
+
+### Road Warning Sign Hazard Gauntlet
+
+Each section brings a warning sign to life: a 30-second rockslide on a road that slowly narrows, a deer crossing with a cannon firing deer at the car, a 26-second bumpy road with potholes that get wider, and a final untimed 'every sign' section with uneven ramps, cambered transfers, loops and wall rides.
+
+**Issues & surprises**
+
+- He only noticed partway through that the rockslide road was narrowing
+- Boulders were extremely heavy and crushed light cars
+- Easing off at the right moments to let rocks pass saved time overall
+- Section teleporters were not always checkpoints, and switching vehicles reset progress
+- A grenade could destroy the speed bumps, effectively deleting the obstacle
+- Landing loops precisely and keeping momentum through cambered transfers was the hardest part
+
+**Vehicles:** Liberator, quad, family SUV, small narrow car, roll-cage buggy, fast sports car  
+**Design takeaway:** Turning familiar road signs into literal hazards gives instantly readable telegraphing for each obstacle.  
+**Video:** [Testing Cars vs Every Warning Sign in GTA 5](https://www.youtube.com/watch?v=h2kGrMElImY)
+
+### Rolling Bottle Bed and Bike Balance Run
+
+Drive a 4x4 across beds of giant loose bottles that roll underneath, then a motorcycle over beams, a balance bar and invisible platforms marked only by RPG impacts. Later puzzles include launching an NPC through a window and positioning a car on a lift, ending with a fake-glass guessing bridge.
+
+**Issues & surprises**
+
+- Rolling bottles made the 4x4 unstable; staying on the inside line avoided getting caught
+- Found a shortcut that skipped the intended stop-sign launch
+- Invisible platforms only revealed by where explosions landed
+- Had to bail off the bike mid-jump to reach a too-small platform
+- Launching a ragdoll NPC through a small hole took repeated tries
+
+**Vehicles:** 4x4 truck, motorcycle, utility car  
+**Design takeaway:** Loose rolling physics props as a driving surface make a great traction and balance test.  
+**Video:** [i completed the 99.999% impossible bottle run in GTA 5](https://www.youtube.com/watch?v=5Gbao_UTolQ)
+
+### Rolly-Vehicle Platform Hop Marathon
+
+A very long board: climbing over ball props, beam turns, platform jumps where you arc rather than go straight, vehicle-sized landing pads, riding on a moving plane, balancing on a giant beer bottle, and drift platforms. Another player spawned random cars in the way partway through.
+
+**Issues & surprises**
+
+- The vehicle rolled over easily, often killing the driver
+- Aiming for the tip of a ramp and arcing upward gave better distance than flat launches
+- Platform landings needed exact speed; too fast slid off and too slow fell short
+- He had to start a jump from an earlier platform to get enough speed
+- Random cars placed by someone in the session got in the way
+- Bumps kept nudging the vehicle to the right, so he made small corrections
+
+**Vehicles:** Low-geared, tippy vehicle  
+**Design takeaway:** Vehicle-sized landing pads with a strict speed window make a clean, readable precision test, but keep shared sessions from changing the course.  
+**Video:** [1% of people make the right choice in this impossible stunt race](https://www.youtube.com/watch?v=w_6LDfq8RrU)
+
+### Rooftop Climb to Giant Statue
+
+A course climbing from street level over rooftops, lumber stacks, a loop and a wall ride to a giant statue, including a run of ramps with cutouts on alternating sides and ending with bowling pins.
+
+**Issues & surprises**
+
+- Gaps between early platforms were uneven, the second farther than the first
+- Power lines snagged the car
+- Ramps had thin and thick parts; the cutouts alternated sides and got longer
+- Front wheels seemed to contribute little drive
+- Had to approach at angles rather than straight
+
+**Vehicles:** Sports car with boost  
+**Design takeaway:** Ramps with alternating cut-outs make players change their approach line at each step.  
+**Video:** [i drove to unimaginable places in GTA 5](https://www.youtube.com/watch?v=VIX2TK75qAk)
+
+### Rotating Cube Vehicle Parkour
+
+A huge slowly rotating cube full of moving platforms that must be climbed to an exit at the top using a single arena car with a jump and a boost. Platforms swing in wide circles, some colours hide slowdown sticks, several left/right choices hide teleporters back to the start, and later sections add rolling balls and windmills, with only one or two checkpoints.
+
+**Issues & surprises**
+
+- Jumps needed less speed than expected; overshooting was the common failure
+- Wide swinging platforms required drifting to keep up, and the radius grew higher up
+- Guessing paths was pure trial and error because wrong choices teleported him outside
+- Falls cost more time as the climb got higher
+- Waiting for a windmill to teleport behind him was a safe timing trick
+
+**Vehicles:** One arena car with jump and boost  
+**Design takeaway:** A single vehicle with jump and boost abilities in a vertical, moving environment can carry a whole level if difficulty ramps with height.  
+**Video:** [5000 IQ challenge in GTA 5](https://www.youtube.com/watch?v=YsID4QwKRG0)
+
+### Rotating Windmill Tightrope and Boss Fight
+
+Two bounty boards: the cheaper one is tightrope walking on rotating wind-turbine parts and blades with super run, the expensive one ends with a boss on a hoverboard to knock off while dodging rockets.
+
+**Issues & surprises**
+
+- Super run made precision walking harder, sending him off edges
+- He ragdolled under a windmill gap instead of timing it
+- The real route was walking on moving turbine blades, not the base
+- Blades thin out to a sliver, demanding constant movement
+
+**Vehicles:** On foot (super run)  
+**Design takeaway:** Rotating platforms where the safe path itself moves are a strong precision mechanic.  
+**Video:** [$1 vs $1,000,000 Rainbow Friends in GTA 5](https://www.youtube.com/watch?v=3QMsxuSLThk)
+
+### Rusty Boat-Truck and Sherp Tightrope Course
+
+An underwater-start course in a rusty amphibious truck: tuning-fork gaps, tightropes, slow wall-sticking climbs, a transform into a soft-tired Sherp, a 110-degree tightrope, a sideways tightrope in the rain and a final section where the slope keeps changing.
+
+**Issues & surprises**
+
+- Some sections gave no forward grip, so he had to cut corners hard to get momentum
+- Going slow helped the truck stick to walls
+- On the rain-soaked tightrope, stopping made the truck slide off on its own, so he had to keep rolling
+- The Sherp's grip surprised him after the slippery truck
+- Rain and weather started mid-run and made things harder
+- He tried first-person view, but it only made the falls look worse
+
+**Vehicles:** Amphibious truck with outboard motor, Sherp ATV (transform)  
+**Design takeaway:** A vehicle that slowly slides when stopped on a tilted surface forces constant motion, so 'don't stop' becomes a rule of the challenge.  
+**Video:** [speedrunning this impossible precision challenge caused me emotional trauma](https://www.youtube.com/watch?v=TjD1Bc5dWLc)
+
+### Secret Location Stunt Trails
+
+Each secret location (a sewer pipe, a hidden cave, an aircraft carrier) sits behind a stunt challenge: threading a motorbike through a small hole without touching red blocks, running over enemies in an RC car within a time limit, and long cave and mountain wall rides.
+
+**Issues & surprises**
+
+- Picking the narrower left pipe entrance made it much harder
+- Hitting enemies' heads with a tire killed them instantly, which was the fastest strategy
+- Tires catching on the wall ride's edge caused fishtailing, so he had to stay centered
+- Ramps nearly let him skip parts of the board
+- The natural cave rock made extra obstacles inside the wall ride
+
+**Vehicles:** Motorcycle, oversized RC car, stunt car  
+**Design takeaway:** Putting secret areas behind a vehicle-skill gate makes discovery a reward for mastery.  
+**Video:** [Testing SECRET Locations in GTA 5](https://www.youtube.com/watch?v=LxgmauPkXrw)
+
+### Sedan Frame-Grind Don't-Fall Course
+
+A minimalist parkour driven in a sedan with very few checkpoints: tightrope slides where off-centre signs knock you off, frame grinds across rails, tiny grab platforms, drops into rolls, and slippery switchbacks needing 180s.
+
+**Issues & surprises**
+
+- The start had no checkpoints, so every failure meant repeating a long stretch
+- Signs knocked him off the slide unless he was perfectly centred
+- Some rail sections were done by riding the car's frame across them
+- A ramp area was far more slippery than it looked
+- Simple-looking sections took him longer than most wall rides
+- Turning around on narrow platforms needed swinging the rear out
+
+**Vehicles:** Family sedan  
+**Design takeaway:** Simple geometry with a small margin for error can be as hard as flashy stunts, so checkpoint spacing matters more than obstacle complexity.  
+**Video:** [speedrunning the 0.00000001% possible don't fall challenge left me hating life in GTA 5](https://www.youtube.com/watch?v=S1klj7yw5To)
+
+### Semi Trucks Hauling Trailers Over Reverse Speed Bumps (compilation segment)
+
+Choose a truck and trailer, then cross rebar-style reverse speed bumps in 22 seconds, rotating rainbow dip bumps that must be timed, bumps made of movable balloons, and growing Lego-shaped dips, all without ever losing the trailer.
+
+**Issues & surprises**
+
+- Most combinations bounced or lost the trailer on the first jump; one strangely coloured truck drove over the bumps as if on flat ground
+- The rotating dips had to be entered and left before they turned sideways
+- Balloon bumps moved under the wheels; full throttle worked far better than creeping
+- A jackknifed trailer meant a long multi-point recovery that reset the timer
+- Landing in the 'happy pocket' of each dip, and dropping into dips rather than jumping them, kept momentum
+
+**Vehicles:** Various semi trucks with selectable trailers (presents, cargo, meat, logs), a scoop truck, a six-wheel truck  
+**Design takeaway:** Making the player protect a towed trailer across rough terrain adds an articulated-load dimension that tests hitch and suspension physics.  
+**Video:** [GTA videos to watch while you wait for GTA 6](https://www.youtube.com/watch?v=bAzm16HZzc8)
+
+### Semi-Truck and Trailer Reverse Speed Bump Course
+
+Semis must haul a trailer of their choice, without losing it, through timed dips: a rebar 'reverse speed bump' field with a jump, rotating rainbow dips that flip over, a dip made of loose balloons, Lego-style dips that grow wider, and a giant dip containing smaller ones.
+
+**Issues & surprises**
+
+- Trailer choice changed the outcome; some trailers detached immediately
+- Many-axle rigs bounced over the dips like skiers and had sparks flying from the wheel wells, rarely going above 60 mph
+- Rotating dips had to be entered and exited before they turned sideways; a bird hitting the windshield ruined one run
+- Balloon dips shifted under the wheels; going full speed worked best
+- A jackknifed trailer could be reattached but reset the timer
+- He finished the last board with a cheeky exploit rather than driving it legitimately
+
+**Vehicles:** Various semi cabs (military hauler, classic semi, multicolour cab, scoop/plow truck, six-wheel giant cab) with chosen trailers (gifts, cargo, meat, logs)  
+**Design takeaway:** Making the player keep an articulated trailer attached through dips adds a second body to manage and a clear failure state.  
+**Video:** [Long Trucks vs Reverse Speedbumps](https://www.youtube.com/watch?v=QY5eOWH9rcg)
+
+### Shifting and Unfinished Road Gauntlet
+
+One vehicle must finish every stage (with checkpoints): an alternating U-turn whose road pieces flip in and out of place ending in a bump; a road being laid in real time by machinery while a giant roller chases you and the road speeds up; and an unfinished wall ride with spinning, offset pieces and jumps between them.
+
+**Issues & surprises**
+
+- Road pieces vanished just as the rear tyres reached them, needing near-perfect timing
+- Success on the U-turn came from easing off the throttle at the right time and curb-boosting out of turns
+- The bulky Wastelander could pop over the bump but was too wide and slow; a smaller muscle car won the U-turn
+- On the rolling road, braking was fatal because the road surged forward; you had to stay at the very front edge
+- The wall ride's spinning sections needed timing, and there was no safe point to recover; the Jogger finished it
+
+**Vehicles:** Rover-style car, sports car, Wastelander, Vin Diesel-style muscle car, Jogger and others  
+**Design takeaway:** Roads that build, move or disappear under you turn a straightforward course into a timing and positioning challenge.  
+**Video:** [Cars vs Unfinished Roads in GTA 5](https://www.youtube.com/watch?v=mfRe2mHOkD0)
+
+### Shrinking Gap Squeeze Course
+
+A multi-stage course of ever narrower gaps: natural rock gaps, pushable boulder plug, breakable glass walls, rotating grinder tubes, human crowds, windmill-timed gaps, magnet-pulled tubes and closing walls. Cars do not respawn; a repair pickup sits deep in the course.
+
+**Issues & surprises**
+
+- Some supercars deformed heavily on impact, crushing their bodywork small enough to fit through gaps
+- Lowering a convertible roof helped it squeeze under obstacles
+- Crowds of pedestrians piled onto the hood and wheel wells, stalling cars far more than expected
+- Magnets yanked cars into tubes on a timer and even pulled a passing plane out of the sky
+- The final winner was a tiny car spawned from inside another vehicle
+
+**Vehicles:** 12 cars incl. supercars, 'mom's car' compact, convertible, go-kart, tiny micro car hidden in another car  
+**Design takeaway:** Deformable bodywork that changes collision size gives players an emergent way to 'earn' clearance through damage.  
+**Video:** [Testing Cars vs Smallest Gaps in GTA 5](https://www.youtube.com/watch?v=1n2l5MTS3fM)
+
+### Shrinking-Gap Course
+
+Gaps shrink by half a meter each stage: barrel-roll through a slit, pass hydraulic presses, squeeze into a narrow fissure ('blood clot'), and finally a gap so thin there's no road, requiring a chassis grind along a rail.
+
+**Issues & surprises**
+
+- Landing a barrel roll on the tires was essential for time
+- Skating on top of a hydraulic press accidentally saved a run
+- A tiny cosmetic gap ended an otherwise perfect run
+- Broken axle from landings made cars pull to one side
+- Pointing the car downward in the fissure made it go faster
+- Wide-bodied fast cars clipped walls
+
+**Vehicles:** Pink racing car, 'hardness' heavy car, old small car, short narrow car, electric supercar  
+**Design takeaway:** Progressively narrowing gaps directly test vehicle dimensions and roll control, and a final chassis grind rewards a sturdy undercarriage.  
+**Video:** [Cars vs Thinner and Thinner Gaps in GTA 5](https://www.youtube.com/watch?v=hu9un9eD1h4)
+
+### Shrinking-Timer Disappearing BMX Floors
+
+Viewer-dared obstacle run where BMX floor panels vanish on a countdown that shrinks from three seconds down to one, with windmills sweeping the path. Checkpoints separate each timer stage.
+
+**Issues & surprises**
+
+- The countdown started shorter than promised, leaving almost no margin
+- He tried using a windmill hit to fling himself across the gap
+- Timing had to be counted out loud because the one-second panels were barely crossable
+- Many runs ended from being early rather than late
+
+**Vehicles:** BMX  
+**Design takeaway:** A per-section shrinking timer on collapsing floors is a clean, readable difficulty ramp.  
+**Video:** [I Survived 100 Dares In GTA 5](https://www.youtube.com/watch?v=1VbpO3fWtOQ)
+
+### Six Wall-Ride Flips
+
+In a story map, one section requires six consecutive wall-ride flips over water to cross to another bank. The rest is an on-foot timing course.
+
+**Issues & surprises**
+
+- Took around two hours
+- Wall's top and bottom were hard to read, like an optical illusion
+- Car was falling apart from repeated crashes
+- Later on-foot section had an NPC that knocked him across gaps
+
+**Vehicles:** Car  
+**Design takeaway:** Consecutive identical stunts with damage accumulation test endurance.  
+**Video:** [Can I SPEED RUN A Medical Procedure in GTA 5?](https://www.youtube.com/watch?v=jIvrCkQPBEI)
+
+### Sonic Ring-Collection Stunt Course
+
+A Sonic-themed course where the car must collect floating rings along loops, wall rides, tightropes and precision jumps between platforms. Rocket boost is needed mid-air for some gaps, while RPG shooters, wind turbines and palm trees interfere.
+
+**Issues & surprises**
+
+- Boosting overshot early rings; required speed control rather than full throttle
+- RPG shooters fired at him during a wall ride and were shielded from return fire
+- Palm trees placed exactly to block landings, 'like a goalie'
+- Discovered the rocket boost must be fired while airborne to clear a long gap
+- Car kept getting flicked sideways on approach, demanding a perfectly straight entry
+- Car's traction made the wall-ride portions especially punishing
+
+**Vehicles:** Rocket-boost sports car  
+**Design takeaway:** Collectible rings on a stunt route reward speed control over raw speed and naturally teach players optimal lines.  
+**Video:** [I breached the sound barrier and this happened](https://www.youtube.com/watch?v=1pAhdjplqp0)
+
+### Space Climb, Helicopter-Rotor Slide and Motorcycle Barrage
+
+A multi-stage board: climb toward space past windmills, a punching fist and a torch, slide down a Saturn-themed slide past spinning attack-helicopter rotors, then ride a bike while motorcycles are fired at him like projectiles.
+
+**Issues & surprises**
+
+- Timing the fist and fire was a matter of many retries
+- Helicopter rotors on the slide seemed impassable until a lucky roll
+- Normal pedaling lacked speed but a nose grind tended to send him off the edge
+- Landing on the front wheel kept him on the bike when hit; falling off was unrecoverable
+
+**Vehicles:** On foot, sliding; final bicycle/motorbike section dodging launched motorcycles  
+**Design takeaway:** Vehicles fired as projectiles at a rider create a dodge test where landing stance decides survival.  
+**Video:** [I found a 9,863,827,097 mile high water slide in GTA 5](https://www.youtube.com/watch?v=NlVVzH-jnt0)
+
+### Space Elevator Obstacle Climb
+
+Elevators with spinning blades carry the player up to a board of three increasingly insane loops, including riding on the outside of loops, teleporters, spinning bats and wind turbines on tracks, finishing in a space elevator.
+
+**Issues & surprises**
+
+- A car on an elevator was linked to a pedestrian who must be shot first
+- Wall blades skinned the player
+- Outside-loop riding was a new and confusing surface
+- Windmill positions were nearly impossible to judge
+
+**Vehicles:** On foot, cars on loops  
+**Design takeaway:** Outside-of-loop riding is a novel surface for grip-based vehicles.  
+**Video:** [I found an elevator that goes to space in GTA 5](https://www.youtube.com/watch?v=vRo_UV5WYng)
+
+### Spaced Platform Don't-Fall Board
+
+A sky-high board of widely spaced platforms where each jump needs the right speed, giant rings ridden almost sideways, slides off tilted signs that must be kept level, three-panel jumps, a set of hop-separated ramps and a trippy tube where braking hard was needed.
+
+**Issues & surprises**
+
+- Too much speed overshot platforms and too little fell short
+- On body slides you had to stay level or veer off the side
+- The car slowly slid sideways on its own on a flat section
+- Panel counting worked for jump distance (three panels, not four)
+- A hard brake by reflex in the tube saved the checkpoint
+- Gaps between ramps forced a very slow approach
+
+**Vehicles:** Slippery car  
+**Design takeaway:** Unexplained drift on flat surfaces feels like a bug, so make sure vehicles at rest truly stay at rest unless the slope says otherwise.  
+**Video:** [I completed this legendary don't fall challenge using this godlike technique](https://www.youtube.com/watch?v=pSnRvSMfgTk)
+
+### Spiked Wall Ride with Parachute Car Finish
+
+A troll-heavy board: wall rides covered in spikes and stop sticks, boost pads mid-jump that swing the rear around, a reverse climb, and parachute sections where you jump at the very last moment and pull back hard to reach a tiny target hole.
+
+**Issues & surprises**
+
+- The twitchy car was hard to fly and to keep on wall rides
+- A boost pad during a landing spun the rear out; boosting early fixed it
+- Stop sticks on the wall ride cut speed and caused falls
+- An invisible barrier sent him back to the start
+- Going up a climb backwards turned out to be the trick
+- The final parachute jump needed jumping at the last instant and pitching the nose almost straight up
+
+**Vehicles:** Twitchy high-power car with parachute  
+**Design takeaway:** Mixing ground stunts with a parachute glide finish rewards players who master both modes, as long as there are no invisible walls.  
+**Video:** [99.99% of people uninstall attempting this GTA 5 ramp challenge](https://www.youtube.com/watch?v=ewyTbiKoHXU)
+
+### Spiked Wall-Ride Loops and Creased Roads
+
+A wall-ride-heavy board with spike hazards to dodge, humps that kill you if taken too fast, a fully sideways road, creased road surfaces and fake wall transfers. Sections are checkpointed, with high/low lines to choose on each wall ride.
+
+**Issues & surprises**
+
+- Humps had to be taken slowly or the car launched to its death
+- A simple deep crease in the road was surprisingly hard until he learned the rhythm
+- On wall rides, choosing a high or low line made the difference between keeping and losing speed
+- Something that looked like a wall transfer was really a straight wall ride; leaning back hard did it
+- Riding slowly let the car stick to a winding wall that looked impossible
+
+**Vehicles:** Sports car  
+**Design takeaway:** Small surface features like creases and humps can be as hard as big stunts when the suspension and speed limits are tuned to punish them.  
+**Video:** [speedrunning this impossible spike loop challenge in GTA 5 gave me an existential crisis](https://www.youtube.com/watch?v=23cRhmM1T-A)
+
+### Spiral Road Descent Challenges
+
+A series of timed spiral roads (staircase spiral, thinning asphalt spiral, tube spiral, and a 'hot potato' spiral where an explosive chases you) that cars must get down or through within the time limit.
+
+**Issues & surprises**
+
+- The quad's turn radius cost about a second on a 15 s limit
+- Low stop barriers could be jumped, a cheat that let the Sherp finally complete one stage
+- The Sherp could not wall ride at all
+- The low sports car lost traction bouncing down stairs
+- Lifting off the throttle on drops helped recover control in the tube spiral
+
+**Vehicles:** Quad, Sherp, low sports car, other cars  
+**Design takeaway:** Spirals with a narrowing or tilting surface test cornering grip and throttle control over a continuous radius.  
+**Video:** [Cars vs Spirals in GTA 5](https://www.youtube.com/watch?v=NB49c0vyYRA)
+
+### Squiggly Pipe Tunnel Runs
+
+Point events inside enclosed, undulating pipe-like tunnels: a bumpy 33-second tunnel, a multi-layer tunnel where a flip key turns the car over to drive upside down (then a reverse run with a long flip cooldown), a narrowing tunnel where touching the 'lava' ceiling sets you on fire, and an ant-colony tunnel with gaps you must jump at exactly about 55 mph past a hydraulic ram.
+
+**Issues & surprises**
+
+- Low cars hit the ceiling and dropped from 60 to 30 mph; a taller, lifted vehicle bounced less and won the bumpy tunnel
+- The flip ability randomly left the car facing backwards, so the result partly came down to luck
+- He beat the reverse run by jumping and shunting the arena car back into the course, a big shortcut
+- The narrowing lava tunnel came down to finding the shortest-roof car
+- The gap jumps had almost no tolerance: about 49 mph fell short and 58 mph hit the ceiling
+
+**Vehicles:** Lawnmower, stretch limo, armoured arena car with shunt/jump, Badger off-roader, Jogger, quad, pink two-tone sports car  
+**Design takeaway:** Enclosed tunnels with ceilings that punish you turn vehicle height and precise speed control into the main skill.  
+**Video:** [Driving through twisted tunnels in GTA 5](https://www.youtube.com/watch?v=Sb8Tw1kve0g)
+
+### Storm Motorcycle Course
+
+A storm-themed bike course through wrecked landscape: zigzag wall rides, troll sub/cruise ship choice, boost mountains, tightrope to a tiny landing, a fan you must outrun and a final ragdoll fall.
+
+**Issues & surprises**
+
+- Half the sub was missing on the choice
+- Speed through boost mountain had to be precise
+- Had to glide the bike to reach a small landing
+- Found an unintended trick to cross a gap
+- Had to eject into a teleport
+
+**Vehicles:** Motorcycle, parachute  
+**Design takeaway:** A chasing hazard that forces full speed adds urgency.  
+**Video:** [I Drove Through A CAT 5 HURRICANE in GTA 5](https://www.youtube.com/watch?v=x4UYTcMc2Yo)
+
+### Sun Core Jet, Wingsuit and Wall Ride
+
+Fly a jet inside a hollow sun to shoot 10 targets, wingsuit to the correct teleporter among several, then wall-ride around the sun's surface with high/low platform choices, solar flares and timed propellers.
+
+**Issues & surprises**
+
+- Had to try teleport pads by trial and error to find the real one
+- The wall-ride vehicle was very hard to keep on the wall
+- Some of the high/low platforms were fake or had stop sticks
+- Solar flares hid hazards behind them
+- He switched from aiming at the target to aiming at the platform to succeed
+
+**Vehicles:** Jet, wingsuit, rocket rover-style car  
+**Design takeaway:** Branching high/low lanes with some fakes adds route memory to a long wall ride.  
+**Video:** [i literally drove around the sun and this happened](https://www.youtube.com/watch?v=J6rcK2wf-bs)
+
+### Tall Vehicle Course (Tightropes, Slants, Wall Rides)
+
+The tallest vehicle in each class tackles a multi-choice tightrope descent, increasingly slanted hills, piles of 'rags to riches' props (tents, couches, money, gold bars, cars), wall rides on different surfaces (asphalt, rubber, wood, ice), and huge bulging mounds.
+
+**Issues & surprises**
+
+- Tall vehicles became top-heavy and rolled off the slanted sections
+- The slow dump truck crept surprisingly far on raw torque
+- Wall-ride surfaces changed grip; ice bled speed so much almost nothing could finish it
+- A front brush guard snagged on gold bars; reversing over them worked
+- The winning truck climbed bulges best when approached at an angle with all four wheels on the slope
+- Planes kept crashing onto the board from a nearby flight path
+
+**Vehicles:** Disco bus, luxury car, very tall stretched vehicle, dump truck, plane, Vigilante, spiked hot rod, gold monster truck, Wastelander, tall sports SUV, pastel Hummer-style truck (winner)  
+**Design takeaway:** Wall rides with labelled surface materials are a clear, readable way to show off a tire-grip model.  
+**Video:** [Testing Small Cars vs Tall Cars in GTA 5](https://www.youtube.com/watch?v=IgzSmj37WwA)
+
+### Tangled Spaghetti Ragdoll Waterslide
+
+An extremely long tangled waterslide ridden as a ragdoll, with windmills along the way. A later section has the player wingsuit onto one of many coloured platforms, each starting a different slide, and only one reaches the goal.
+
+**Issues & surprises**
+
+- Parachute backpack flew off on the slide
+- Too little speed left him stuck, too much made him miss a drop
+- Body position seemed only partly under his control
+- Wrong slides teleported him back to the start
+- Had to test colours by elimination
+
+**Vehicles:** None (ragdoll on foot), wingsuit  
+**Design takeaway:** A branching slide network where only one route works turns a physics ride into a route-finding puzzle.  
+**Video:** [I Found a 100,000,000 Mile Long WATER SLIDE in GTA 5](https://www.youtube.com/watch?v=mXkL3xQsCxs)
+
+### Teleporter Stunt Course with Forced Boost
+
+A wall-ride stunt course linked by teleporters. Each teleport forces a short boost and locked full throttle, ending in a seven-layer wall-ride section with shifting pillars and moving teleporters.
+
+**Issues & surprises**
+
+- The forced boost after teleports was needed to climb walls; losing it meant failure
+- Teleport frames were solid and could be hit
+- A helicopter got trapped inside the challenge area
+- Invisible on-ramps after teleports meant guessing the line
+- Moving pillars in the layered section punished hesitation
+
+**Vehicles:** Stock '69' car and other cars  
+**Design takeaway:** Portals that inject fixed velocity or throttle let designers control the player's entry speed into the next stunt.  
+**Video:** [Portals vs Cars in GTA 5](https://www.youtube.com/watch?v=II3GZZnROrA)
+
+### Themed Custom Speed Bump Gauntlet
+
+A board of escalating themed speed bumps: growing humps, a spinning birthday cake with flaming candles, tire-spike strips, abstract art props, a tall 'math exam' wall, an indestructible ring of circling deer, and a final everything-bump that sets the car on fire. One car must reach the end out of around 30 choices.
+
+**Issues & surprises**
+
+- A slow junk truck with super-bouncy suspension cleared early bumps purely through bounce
+- The spinning cake stopped most cars; one rear-drive car ramped it in a single jump
+- Touching candles caused lasting engine knock and fire damage
+- The circling baby deer were effectively immovable and shredded cars; the trick was wedging the car sideways against a wall so the deer ground it through
+- On the last bump the car caught fire on contact, so he had to finish on rims before it exploded
+- Doors kept flying open and parts fell off steadily during the run
+
+**Vehicles:** Bouncy junk truck, kids' quad, Sherp-style ATV, Liberator, rear-drive sports cars, a powerful 4x4 pickup (winner)  
+**Design takeaway:** Give each speed bump a unique twist (rotation, fire, spikes, living obstacles) so the same basic hazard type tests different vehicle traits.  
+**Video:** [Cars vs Custom Speedbumps in GTA 5](https://www.youtube.com/watch?v=6hbfFD4DTFI)
+
+### Themed Loops and Wall-Ride Boards
+
+Four loops each lead to a themed board: a moving wavy wall-ribbon with punching hazards, a dancing 'titan' body course, and a 40-second colour-rule path choice. Finishing unlocks a loop built entirely from boost pads that launches the car into space.
+
+**Issues & surprises**
+
+- Moving wall ribbons demanded rhythm memorization of up and down waves
+- 180-degree turns while wall-riding were very hard and often became 360s
+- Grenades fell through fake floors, revealing which path was real
+- A random ambient train interrupted the course
+- A loop made of boosts accelerated the car so much it left the world
+
+**Vehicles:** Wall-ride capable cars, final vehicle on a loop made of boost pads  
+**Design takeaway:** A loop lined with chained boost pads is a spectacular climax showing how stacked speed affects grip and G-forces.  
+**Video:** [Which loop gives you the strongest G-Force in GTA 5?](https://www.youtube.com/watch?v=Li2-Rx_a7OA)
+
+### Thin Loop Chain and Spreading Crate Hops
+
+Later boards: a chain of very thin loops, one that turns more than the rest, burning loops, a loop that goes straight into a wall ride, then a 'rage race' of crate and fruit-stand hops and rock tightropes. The gaps slowly widen, so you need more speed as you go.
+
+**Issues & surprises**
+
+- The last loop of a set was shaped differently from the others
+- Exploding canisters were used as side bumpers
+- A loop going straight into a wall ride with no checkpoint was tough
+- Hop gaps gradually widened, so the speed that worked early failed later
+- Crates gave no speed of their own; you had to carry it from the first jump
+
+**Vehicles:** Sports car  
+**Design takeaway:** Slowly widening the gaps across a repeated obstacle quietly raises difficulty and makes players adjust instead of repeating one input.  
+**Video:** [i completed the 99,999% rage-quit challenge in GTA 5](https://www.youtube.com/watch?v=Y5-vqdvpwoE)
+
+### Tiered Escape-Room Trap Boards
+
+Five commissioned escape-room maps of rising price/difficulty: a jail cell, a teleporter maze where wrong pads send you back, a hidden-exit cube, a timed invisible-platform course and a final puzzle. Each board is won by finding and reaching the single real exit.
+
+**Issues & surprises**
+
+- Cheapest board was solved by smashing through the jail fence with a ragdolled body rather than the intended route
+- Teleporter maze had decoy pads that reset progress, plus one hidden under a river current that pushed him away
+- Timed disappearing platforms forced him to learn the rhythm before he could chain them
+- An amphibious kiddie buggy unexpectedly let him reach a platform he had been failing on foot
+- Final ramp-into-cube jump only succeeded after several mistimed launches
+
+**Vehicles:** On foot mostly; a ramp car, an amphibious mini buggy and a car for jumps in the top tier  
+**Design takeaway:** Hidden-exit puzzles with decoy teleports and vehicles that unlock alternate routes make good exploration-driven escape levels.  
+**Video:** [$1 vs $1000 Escape Rooms in GTA 5](https://www.youtube.com/watch?v=0TYmcK092Pc)
+
+### Tiered Tightrope Parkour (incl. Build-Your-Own Section)
+
+Five commissioned tightrope boards: jump onto a passing train, dodge shooters, a fully memorized troll route, a build-it-yourself section where he places and freezes props, and a finale hopping between swaying gondolas before a flame burst.
+
+**Issues & surprises**
+
+- The $1 board using a live train was cleared first try
+- The $100 board was a pure memorization run with zero mistakes allowed
+- Having to place his own props was a twist he disliked
+- Gondola sway required waiting for the right swing before jumping
+
+**Vehicles:** On foot; train and moving gondolas as platforms  
+**Design takeaway:** A section where the player builds their own path from limited props is a fresh twist on precision courses.  
+**Video:** [$1 vs $1000 tightrope challenges in GTA 5](https://www.youtube.com/watch?v=BXb3LAxXMMY)
+
+### Tight Gaps Squeeze Course
+
+Part of a compilation: cars must squeeze through ever-narrower gaps including rock gaps, a boulder plug to push, breakable glass, timed grinder tubes, a crowd of people, a 69-inch gap, magnets that yank cars through, and closing walls. Wrecked cars don't respawn, with a single repair pickup.
+
+**Issues & surprises**
+
+- A supercar could be deliberately crushed so its roof compacted, letting it fit lower gaps
+- Lowering a convertible's roof helped it squeeze through
+- Pedestrians climbed onto the car and blocked traction
+- Magnets yanked the car through gaps but also violently damaged it
+- A tiny car hidden inside another vehicle was the only one to finish
+
+**Vehicles:** Deformable supercar, small 'mom's car', convertible 'dad's car', go-kart, tiny car hidden in another car (winner)  
+**Design takeaway:** Use deformation and vehicle size as puzzle tools, rewarding players for shrinking or reshaping their car.  
+**Video:** [Testing 100 Vehicles in GTA 5](https://www.youtube.com/watch?v=8xFRpdjxBrM)
+
+### Tiny-Gap Precision Jumps
+
+Square-ish vehicles must launch through ever-smaller gaps: holes between Minecraft axes and tilted swords, bursting through a breakable wall after tightroping along a row of parked G-wagons, a windmill on rails moving back and forth with a gap in its hub, three wall-ride launches through shrinking Lego-brick holes, and a final ramp and box jump onto a moving train amid explosions.
+
+**Issues & surprises**
+
+- Approach speed was everything; once he found the right speed for a jump he could repeat it reliably
+- Some gaps could simply be jumped over entirely, bypassing the intended hole
+- The trike was surprisingly stable and was the first to clear the sword gap
+- A wide G-wagon got through the early holes but its track was too wide for the row of parked cars
+- Releasing high off the wall rides lined up the Lego holes; landing on a moving train needed picking the flattest cars
+
+**Vehicles:** Tall boost vehicle, six-wheel G-wagon, trike, pink G-wagon, spoiler car, tinted G-wagon, snorkel truck  
+**Design takeaway:** A repeatable launch (fixed ramp, consistent physics) lets precision challenges be learned rather than lucky.  
+**Video:** [Gwagon vs impossible precision in GTA 5](https://www.youtube.com/watch?v=t8-LXrscSWc)
+
+### Top-Down Camera Wall Ride
+
+First trial of a heaven-themed board: complete a wall ride and two small holes while the camera is locked to a top-down view, as punishment for using first-person to cheat.
+
+**Issues & surprises**
+
+- Forced top-down camera made judging the wall ride extremely hard
+- Took around two hours of attempts
+- Had to thread two small holes without a normal view
+
+**Vehicles:** Car  
+**Design takeaway:** Locking or changing the camera is a cheap way to make a known course feel new.  
+**Video:** [i survived 100 years in heaven in GTA 5](https://www.youtube.com/watch?v=IvGtMNTib-4)
+
+### Train-Launch Door Choice into Wall Ride
+
+Choose a door while a train passes (correct side randomizes), then get hit by the train to be launched far enough to reach a wall ride. The wall ride has a spinner blocking a hole, underwater transfers and a final boosted launch to destroy a submarine.
+
+**Issues & surprises**
+
+- The correct door switched sides randomly
+- He realized the train impact itself was the needed launcher
+- Deep, late transfers were required
+- Spinner obstacles blocked the thumbnail hole
+
+**Vehicles:** On foot, train as a launcher; wall-ride car; final rocket car  
+**Design takeaway:** Using a moving hazard as an intended launcher flips player expectations.  
+**Video:** [I found the 200 worst ways to die in GTA 5](https://www.youtube.com/watch?v=uv7GsM8BTDI)
+
+### Transforming Track Supercar Heists
+
+Three boards, each completed to 'steal' a rich person's car. Boards feature a constantly transforming track where sections rotate between wall-ride and floor, a 69-second timed run past barrels, military vehicles and spinning police cars with colour-changing floors, and a final extremely long wall ride ending in a roof-slide into the checkpoint.
+
+**Issues & surprises**
+
+- A track that keeps rotating means no attempt plays out the same way twice
+- Colour-switching floors teleported him back unless timing was perfect
+- A sticky wall-ride car needed very light, slow inputs on coils
+- The final checkpoint needed a roof slide rather than a normal arrival
+
+**Vehicles:** Cybertruck, Jaguar, Entity supercar and other luxury cars  
+**Design takeaway:** Track pieces that continuously rotate between floor and wall orientation make a dynamic wall-ride test for grip and camera handling.  
+**Video:** [Stealing billionaire supercars in GTA 5](https://www.youtube.com/watch?v=Np-ym4JoFRQ)
+
+### Trick Board With Fake Routes and Invisible Hazards
+
+A deliberately deceptive board: choose between a scary-looking wall ride and a block path full of invisible launchers marked only by chalk outlines, a 100-yard 'gamble' teleporter that flips gravity sideways, a bonus route where hitting barrels lowers hidden barriers while some floors are fake and some apparent gaps have invisible bridges, and finally a long stunt track of upside-down slides, loops and wall rides.
+
+**Issues & surprises**
+
+- The intimidating wall ride turned out to be fake geometry with hidden real platforms, much easier than the 'safe' route
+- He tracked an invisible launcher by marking it with grenade damage, and found some outlines could be driven around entirely
+- Throwing grenades revealed where real ground was on the fake-floor section
+- One choice of trigger circle destroyed the car; red and green arrows were misleading
+- A promised bonus did remove obstacles: it stripped the guide barriers from the final stunt track, making it harder
+- He took about 60 attempts on the barrel section
+
+**Vehicles:** Two given cars (one with a booby-trapped door), sports car for the final stunt track  
+**Design takeaway:** Hidden and fake geometry can make a fun trick level, but give players tools (projectiles, markers) to probe what is real.  
+**Video:** [My friend fooled me using mods in GTA](https://www.youtube.com/watch?v=vP4FUHfQnq4)
+
+### Troll Motorcycle Course
+
+A motorcycle course full of fake platforms, fake run-up sections, hidden glass, swinging signs, humps that need speed and a final rotating hole that must be timed.
+
+**Issues & surprises**
+
+- Platforms and even the road before jumps were sometimes fake
+- Going as fast as possible worked better than careful hopping
+- Swinging signs made full-speed runs hard to time
+- An upside-down 180 landing was near impossible, so a wall saved him
+- Jumped from one part of a loop to the next
+- Final hole had about a one-beat timing window
+
+**Vehicles:** Motorcycle, bicycle  
+**Design takeaway:** A few fake platforms make players read the course instead of trusting it, but overuse can feel unfair.  
+**Video:** [99.9% of people make the wrong choice in this jump through hole challenge](https://www.youtube.com/watch?v=ohqZUJj9qXQ)
+
+### Troll Precision Tightrope Course
+
+A long precision course of narrow beams, sideways wall driving, wall transfers, small platforms and escalating hoop jumps. Hidden boosters and fake continuations troll the player.
+
+**Issues & surprises**
+
+- Hidden boosters under ramps launched him too far
+- Narrow bar spacing caught tires
+- Sideways wall section needed exactly the right speed: too fast flew off, too slow slid down
+- Wall transfer only worked by flipping early to keep speed for a hump
+- Small landing shifted the car sideways on impact
+- Each hoop jump needed a little more speed than the last
+
+**Vehicles:** Sports car  
+**Design takeaway:** Speed-window sections where both too fast and too slow fail force players to learn throttle control.  
+**Video:** [i made precision jumps 1000x more challenging in GTA 5](https://www.youtube.com/watch?v=HxGpzxDUTgk)
+
+### Troll-Trap Fork and Tide-Timed Course
+
+A 'troll' board: forks where one side hides a tree or a surprise boost, a wall ride blocked by a timed sign, a tube with a hidden hole and slow-down sticks, an underwater section that must be timed to the waterline, double flip loops with no checkpoint, and a final jump whose landing is hidden behind signs.
+
+**Issues & surprises**
+
+- Hidden boosts everywhere launched him unexpectedly
+- The tube's exit hole sat behind a slight jump, so he had to ride higher than expected
+- Water rose and fell, so he had to wait for the lowest point
+- Landing on explosive tankers broke his fall without blowing up
+- The final landing was hidden; going slowly through the signs was the answer
+- The car fell into a crate asset at one point
+
+**Vehicles:** Sports car  
+**Design takeaway:** Hidden boosts and invisible landings are memorable once, but they work best as optional shortcut secrets rather than mandatory traps.  
+**Video:** [Only 0.001% of people find the secret way to beat this hacked stunt race in GTA 5](https://www.youtube.com/watch?v=hQ822ya-u4A)
+
+### Tube Run with Moving Gaps and Random-Ramp Loop
+
+The last boards: a tube dive with openings to dodge that later start moving, a field of wind turbines, a very long loop with random ramps inside, and a final section with pushers on both walls and a tiny hole you have to fit into.
+
+**Issues & surprises**
+
+- The moving openings made the dodge section much harder than it first looked
+- He found dodging a field of turbines easier than any wall ride
+- The loop's random internal ramps were more nauseating than hard
+- Pushers on both sides of a wall section kept knocking him into gaps
+- Boost pads at the very end kept throwing him off
+
+**Vehicles:** Sports car  
+**Design takeaway:** Raising difficulty within a section, such as static gaps that later start moving, teaches the mechanic first and then tests it.  
+**Video:** [i completed the most difficult wall ride ever made in GTA 5](https://www.youtube.com/watch?v=D2XxDSWXqAU)
+
+### Twisting Bridge Obstacle Course
+
+Bridges that twist and flip: a log-surfaced bridge with a loop, a bridge that rapidly flips between two sides requiring ramp jumps and choosing the correct gate, a neon twisted tube tunnel, a double-twisted bridge with transfers in 15 seconds, and a thinning rainbow spiral. Checkpoints are sparse, so failures send him far back.
+
+**Issues & surprises**
+
+- Log surfaces made suspension go wild so cars could not hold the loop
+- Supercars stayed on the log bridge thanks to downforce at speed
+- Too much airtime with the supercar was a problem; a lower stock car fell faster and landed more reliably
+- Gates hid stop sticks, so picking the right colour was trial and error
+- The twisting road physically swats cars out of the air instead of teleporting
+- On the spiral he had to treat the narrowing track like a wall transfer
+
+**Vehicles:** Buggy, ATV, Canis, supercar, low stock car, Draugur  
+**Design takeaway:** A track that physically rotates over time forces players to time their jumps to the geometry, and rewards cars whose airtime they can predict.  
+**Video:** [Cars vs Twisted Bridge in GTA 5](https://www.youtube.com/watch?v=IQ9OtKsXr8g)
+
+### U-Turn Challenge Course
+
+U-turn themed sections: fragile plywood U-turns that break under heavy cars, a 16-second U-turn speedrun, U-turn wall rides with a 40-second limit, transfers between shrinking U-turn platforms with a plane and helicopter in the way, and fast-moving intersecting U-turn platforms. A final section requires a tiny jumping RC car.
+
+**Issues & surprises**
+
+- Heavy cars broke the plywood; light cars and the open-wheel car did not
+- Corner plywood was weaker than straight sections
+- A short wheelbase was essential to fit on the last tiny platforms
+- Grinding the chassis along a wall shaved the final tenth of a second
+- Deluxo hover mode kept speed through 180-degree turns
+- Each section had an intended cheat path for the weak RC car, including carrying it across with the Deluxo
+
+**Vehicles:** Heavy car, light 'Atomic' car, 'mom's car', open-wheel car, supercar, short-wheelbase roll-cage car, Deluxo, Bandito RC car  
+**Design takeaway:** Turning radius, wheelbase and weight become core stats when the track is built from tight U-turns and breakable surfaces.  
+**Video:** [Cars vs U Turns in GTA 5](https://www.youtube.com/watch?v=FCBJt2dAEUY)
+
+### Ultra-Narrow Wall Transfer Run
+
+A wall-ride board starting with a backwards launch and barrel roll, then transfers with pipes in the way, phasing blockers, small holes and boost walls. Its centrepiece is a wall transfer with almost no landing space and no checkpoint after it.
+
+**Issues & surprises**
+
+- Blockers faded into view late, so they couldn't be seen ahead of time
+- An apparent easier low route had been deliberately blocked
+- Threading two small holes needed full speed, but too much speed overshot the platform
+- The hardest transfer needed a gradual 'ease it in' approach after hundreds of attempts
+- Mixed spikes and thin poles appeared on the walls, plus flips that try to spin you off
+
+**Vehicles:** Sports car  
+**Design takeaway:** Telegraph hazards early: obstacles that appear late lead to deaths players can't learn from in one attempt.  
+**Video:** [i speedrun the world's hardest tightrope wall ride and have a mental breakdown in GTA 5](https://www.youtube.com/watch?v=EgN9k9tDKog)
+
+### Uneven-Coil Thin Spiral Wall Ride
+
+The opening board is one very long, very thin spiral wall ride where the coil tightens unevenly and has pinch points inside the turns. Falling off means starting again.
+
+**Issues & surprises**
+
+- Going slowly made the car fishtail at the pinch points, so it had to be done at full speed
+- The coil suddenly tightened at some points, nearly throwing him off
+- A sudden hard turn needed steering at the exact right moment
+- He found he was much better at right-hand wall rides than left-hand ones
+
+**Vehicles:** Sports car  
+**Design takeaway:** Irregular curvature in a long spiral stops players from settling into one steering input, so they have to read the track ahead.  
+**Video:** [i completed the 99,999% rage-quit challenge in GTA 5](https://www.youtube.com/watch?v=Y5-vqdvpwoE)
+
+### Unfinished Road Construction Course
+
+Sections of incomplete roadway: a spinning frame you must fit through, a rebar-only road with holes, a road piece carried by a crane that slides and teleports, potholes to plug with rubble, a huge gap, and a spinning unfinished section to finish on.
+
+**Issues & surprises**
+
+- The usually dominant Wastelander couldn't fit through the first frame
+- Low supercars bottomed out and tilted on the slightly bent rebar
+- A burger van was the first to drive on rebar as if it were a normal road
+- The crane-carried road slid out from under the car, so timing the jump was vital
+- Rubble and a pushable object could be used as a ramp
+- He found shortcuts like slipping under a parked vehicle
+
+**Vehicles:** Wastelander, small car, RC car, burger van, six-wheeler, T20 supercar, a fast car with decent clearance (winner)  
+**Design takeaway:** Unstable and partially built surfaces test ground clearance and how a vehicle reacts to thin, uneven contact points.  
+**Video:** [Cars vs Unfinished Roads in GTA 5](https://www.youtube.com/watch?v=Z7Aoi612_fY)
+
+### Unstable Bridge Marathon
+
+A long series of themed bridges: sagging human bridges, floating logs, a magnetic bridge, collapsing-behind-you bridges you must outrun, gapped and thinning bridges, a bridge of parked planes, a wind-turbine bridge, breakaway-sign bridges and a 22-second rotating timed bridge.
+
+**Issues & surprises**
+
+- Bridges that collapsed behind him required flat-out speed rather than patience
+- Four-wheeled vehicles fell off narrow plane-wing bridges; a motorcycle hugged them best
+- Wind turbine bridge was extremely janky; small fast vehicles reduced jank
+- On the rotating bridge, steering input before a jump caused skids; zero steering at takeoff was the trick
+- Being hit by ramp cars was unrecoverable
+
+**Vehicles:** Light sports car, hydraulics car, military ATV, motorcycle, SUV truck, plane-surface bridges  
+**Design takeaway:** Bridge variants make a scalable content format: each one changes a single property of the road (stability, width, motion, collapse) to test a different handling trait.  
+**Video:** [Testing Cars vs 100 Dangerous Bridges in GTA 5](https://www.youtube.com/watch?v=9-qP4OkF2f0)
+
+### Vertical Drop and Stop-Stick Roller-Coaster Run
+
+A long coaster-styled car course starting with a 90-degree descent at extreme speed while ramps pop up, then a fork, a curly wall ride with surprise boosters, windmills, and a slow section balanced with slow-down sticks.
+
+**Issues & surprises**
+
+- Side barriers blocked his cheat attempts
+- He spent about 20 minutes on the wrong fork
+- Surprise speed strips pushed him off the track
+- Slow-down sticks rocked the car forward, sometimes saving and sometimes killing him
+
+**Vehicles:** Car  
+**Design takeaway:** A near-vertical drop with pop-up ramps is a dramatic opener that teaches staying centered.  
+**Video:** [I found the most dangerous roller coaster in the world](https://www.youtube.com/watch?v=xQcjS_Gsbck)
+
+### Viewer-Built U-Turn Boards by Budget
+
+Fan-made U-turn boards at $1, $10, $500 and $1,000 tiers: a rotating U-turn feeding multiple-choice exits, a slanted U-turn with windmills, a water-jet ribbon ride, and a transforming board whose ground, water and ramps change on a timer.
+
+**Issues & surprises**
+
+- The $1 board gave no instructions; he had to brute-force which exit was correct
+- The open-wheel car stuck to everything on the slanted U-turn
+- The Jeep had great ground traction but poor wall-ride grip
+- Transforming geometry and timed rockets meant turns had to be taken slowly
+- Too much speed on the final upward U-turn sent him back to the start
+
+**Vehicles:** Spawned cars, open-wheel car, Jeep, various  
+**Design takeaway:** Track pieces that transform on a timer can make one layout feel like several.  
+**Video:** [$1 vs $1,000 U Turns in GTA 5](https://www.youtube.com/watch?v=wjK5k70YCfs)
+
+### Viewer-Comment Challenges
+
+Challenges built from viewer comments: hit a moving mountain lion with a sticky bomb while jumping a chasm on a motorbike, ride a motorbike across a run of tipped-over bottles, a wall ride where you must pick the correct answer to maths problems (with a time-slow power), build a track live with a physics gun while an AI driver runs it, and drive a passenger up snake stairs while the vehicle randomly changes every 10 seconds.
+
+**Issues & surprises**
+
+- On the bottle run the bike drifted side to side like on ice
+- Slowing time did not help turning, so line choice going into each transfer still mattered
+- Building the track live required lowering the AI so it hit slowdown sticks and avoided a windmill
+- Random vehicle swaps sometimes produced boats or limos that could not climb stairs
+- Being hit by the giant saw blade flung even heavy vehicles off the course
+
+**Vehicles:** Motorbike, car with time-slow power, AI-driven car, randomly swapping vehicles every 10 seconds  
+**Design takeaway:** A random vehicle swap on a short timer is a chaotic but readable modifier that tests every vehicle class on the same terrain.  
+**Video:** [Trying your insane GTA 5 ideas](https://www.youtube.com/watch?v=ht9781_omBk)
+
+### Viewer-Designed Joke Cars Obstacle Course
+
+Joke cars suggested by viewers face a 46-second branching course of misspelled direction signs between windmills, a chase to stop a fleeing ramp truck, and a run under hydraulic presses that keep lowering.
+
+**Issues & surprises**
+
+- The brick was heavy enough to shove hay bales that normally act as immovable
+- The Hot Wheels car drove brilliantly but kept crashing the game
+- The wind-turbine truck's blade passed through windmills and wiped out the target truck on contact
+- One car always teleported back to the start; the winged lawnmower was capped at 69 mph and couldn't catch the truck
+- Under the presses, vehicle height decided everything; a low boost car squeezed through
+
+**Vehicles:** Car made of bodies, drivable brick, banana on Sherp wheels, truck carrying a wind turbine, Hot Wheels-style car, boomerang 'back to start' car, mouse-pointer car, winged lawnmower  
+**Design takeaway:** Letting the community suggest absurd vehicles, then pairing them with courses that each favour a different quirk, is an easy source of variety.  
+**Video:** [Your car ideas are actually terrible](https://www.youtube.com/watch?v=VpIdC6hpbI4)
+
+### Viewer-Suggested Death Gauntlet
+
+A long board compiled from viewer ideas: long jumps past single, double and horizontal windmills, a hole guarded by crushing gears, bike tightropes past moving windmills and water spouts, and a punching-fist section ending in a slide.
+
+**Issues & surprises**
+
+- Water spouts turned out to be invisible windmills with a water effect
+- Horizontal windmills felt luck-based
+- Rolling gave the right distance between fists
+- Fist timing was staggered, not uniform
+- Gears that seemed to crush him actually pushed him into the hole
+
+**Vehicles:** On foot; bike on a tightrope  
+**Design takeaway:** Compiling community-suggested hazards into one long course is good for engagement.  
+**Video:** [I found the 100 worst ways to die in GTA 5](https://www.youtube.com/watch?v=ZRR99jl5QYw)
+
+### Water Slides Combined with Boost-Tube Driving
+
+A long fan-made board mixing slides and driving: a slide segment, then a car in a mostly-removed tube with forced boosts, spirals and loops, a rainbow wall ride, water spouts and windmills, ending with a held boost that launches him out of the map.
+
+**Issues & surprises**
+
+- Forced boost pads in a partial tube made fishtailing deadly
+- Keeping the rear from fishtailing needed slow, straight lines
+- He gained gap distance by pumping off to the side
+- Water spouts plus windmills tightened timing
+- Holding boost at the end broke the game world
+
+**Vehicles:** Car on chassis, boost car named for its fragility  
+**Design takeaway:** Forced boost pads remove speed control from the player and test recovery skills.  
+**Video:** [I found a water slide that goes to space](https://www.youtube.com/watch?v=n8hx7ACy9zE)
+
+### Wedge Gauntlet
+
+Courses built from wedge ramps: wedge layers (25s), reversed wedges, growing wedges, electrified 'shocker' wedges, steep wedges and finally spinning Lego wedges like a screwdriver head that must be climbed and dropped from in one perfect timing.
+
+**Issues & surprises**
+
+- RWD car struggled because rear tires needed to catch the ground
+- Wheels caught between back-to-back reversed wedges
+- Small Bandido slipped through a gap others couldn't, giving an alternate route
+- Shocker wedges only launched you if they hit the chassis; tires touching was safe
+- Batmobile boost worked for jumps but tilted on steep wedges
+- Spinning platform demanded a flawless one-try run; patience beat speed
+
+**Vehicles:** Bandido, rear-wheel-drive sports car, Batmobile with boost, Vapid truck, quad  
+**Design takeaway:** One primitive (the wedge) reused with different behaviors (growing, electrified, spinning) can carry a whole course and test undercarriage clearance.  
+**Video:** [Cars vs Wedges in GTA 5](https://www.youtube.com/watch?v=R7t5I5GFM7Q)
+
+### Well-of-Death Wall Ride and Bowl Jumps
+
+A series of funnel-shaped 'death well' stages: wall-ride down a vertical well through a bike-width slot, survive a vortex that sucks in falling vehicles while knocking 10 clowns off and outrunning a chasing mine, jump between cup-shaped bowls, then dive down a spiral, hit a target and launch into a can before a wall closes. The question is which bike can clear each stage.
+
+**Issues & surprises**
+
+- Riding the wall too steeply built excess speed and slammed him into platforms; a shallow line following the wall 'grain' worked
+- A three-wheeled trike was surprisingly capable of wall riding
+- Hitting clowns head-on threw him off the bike; glancing side hits worked better, and a figure-eight pattern became his strategy
+- The chasing mine deleted the vehicle on contact but was always slightly slower than him, so any stop was fatal
+- Physics debris piling up in the well tanked frame rate
+- The bowl-to-bowl gaps grew longer than they looked and needed lean-back for extra distance
+
+**Vehicles:** Scooter, trikes (2 front / 2 rear wheels), sport bikes, drag bike, heavier bike  
+**Design takeaway:** Funnel or bowl geometry that pulls everything to the center makes a great arena for wall-riding and momentum management, and a slow pursuer that only kills you when you stop keeps players moving.  
+**Video:** [Bikes vs Well of Death in GTA 5](https://www.youtube.com/watch?v=3eKGhVyGg5U)
+
+### Windmill Gauntlet and Moving Hole with Limited Bikes
+
+Later trials: drive through a row of windmills at different speeds using a car's jump ability, then jump a motorcycle through a small hole guarded by a moving sign and windmills with only four bikes available. Wrong answers to questions send the player back through.
+
+**Issues & surprises**
+
+- Forgot the car could jump until partway through
+- Windmills ran at different speeds, needing per-blade timing
+- Getting perfectly lined up for the hole on a bike was the main difficulty
+- A limited supply of bikes added pressure
+
+**Vehicles:** Jumping car, motorcycles (only four)  
+**Design takeaway:** Capping attempts with a finite supply of vehicles raises the stakes of a single jump.  
+**Video:** [i survived 100 years in heaven in GTA 5](https://www.youtube.com/watch?v=IvGtMNTib-4)
+
+### Windmill Loop Track
+
+The compilation opens with a loop-shaped track built out of windmill blades, where windmills alternate sides along the route and there are small gaps in the road surface.
+
+**Issues & surprises**
+
+- The uneven blade surface kicked the car sideways, making a straight line hard to hold
+- Windmills switched sides, forcing left-right weaving
+- Small gaps between blades could trap a wheel
+- One car stayed planted on the track far better than the others
+
+**Vehicles:** Assorted 'dangerous' cars including one named Wind  
+**Design takeaway:** Build tracks from moving or uneven parts so even a simple straight demands constant steering correction.  
+**Video:** [Testing 100 Dangerous Vehicles in GTA 5](https://www.youtube.com/watch?v=d7vfd0ao5R4)
+
+### Wipeout-Style Motorcycle Course
+
+A motorcycle course of tilted platforms, a jet-tail tightrope, crate stacks, lifting platforms, rolling bowling balls and logs. Checkpoints are sparse.
+
+**Issues & surprises**
+
+- Platform edges had misleading hitboxes
+- Bike could fall through small checkered holes in platforms
+- Had to pop a very early wheelie to climb the jet tail
+- A box got stuck to the bike and rode along with it
+- Used a rising platform to get lifted over a gap
+- Once off line on the bowling balls there was no recovery
+
+**Vehicles:** Motorcycle  
+**Design takeaway:** Lifting and tilting platforms plus loose props give a bike course variety beyond fixed jumps.  
+**Video:** [only 0.0001% of people make the right choice in this ice and fire challenge](https://www.youtube.com/watch?v=IDhFLQEPYx0)
+
+
+## Physics experiments & weird mods
+
+### 10,000-ft Ragdoll Drop into a Pool Hoop
+
+Ragdolls are knocked off a platform roughly 10,000 ft up, aiming for a small pool and finally a basketball hoop placed in it. He uses blood splats to measure how far off he was and adjusts launch direction and force.
+
+**Issues & surprises**
+
+- Different ragdolls fell at noticeably different speeds; some seemed to drift
+- Hitting with a vehicle from the side worked better than head-on
+- The fire truck itself fell faster than the bodies
+- Launching many bodies at once got results through volume rather than accuracy
+- Bodies snagged on roof ledges and on each other
+
+**Vehicles:** Motorcycles and fire truck as launchers  
+**Design takeaway:** A long-drop accuracy challenge with visible impact marks gives clear feedback for players adjusting launch angle and force.  
+**Video:** [i forced people to dive 10,000 feet into a pool in GTA 5](https://www.youtube.com/watch?v=SMIByRQZdlw)
+
+### Absurd World-Record Attempts
+
+A list of silly 'records' to beat: skydiving through spinning helicopter blades, backflipping a bike through a fire hoop on a moving train, parachute-landing on a steeple tip, high-diving into a teleporting pool ring, and exceeding 62,578 mph with a modded car.
+
+**Issues & surprises**
+
+- Helicopter blades killed on any contact regardless of spin speed
+- Train curves and tunnels made finding a straight section to flip the bike the real challenge
+- Dive animation only triggers if nothing is detected below, so the ring had to teleport in
+- Modded car at extreme speed seemed to levitate, lost its tires and teleported around
+- Spawning many NPCs broke fire and collision behavior
+
+**Vehicles:** Helicopter, motorcycle on a moving train, parachute, modded speed car  
+**Design takeaway:** Short, specific stunt goals on moving platforms (a train) make great bite-size precision challenges.  
+**Video:** [Breaking ridiculous records in GTA 5](https://www.youtube.com/watch?v=OSW5FqpgCMs)
+
+### Altered Gravity and Friction Course
+
+A course with moon-like gravity and changed friction: wall rides, colour-choice paths where wrong picks drop gravity, upside-down sections, carrying NPC workers on the roof across an inverted tightrope, and a timing section where track blocks move.
+
+**Issues & surprises**
+
+- Unclear how much speed was needed on walls with the new physics
+- Wrong colour made the floor give way
+- Anti-cheat barrier blocked a shortcut
+- NPC passengers fell if the car touched the wall
+- Moving blocks gave about three seconds to cross
+- Boost needed first-person to aim
+
+**Vehicles:** High-grip car named 'Sticky'  
+**Design takeaway:** Carrying fragile passengers on the roof adds a smoothness requirement to an otherwise normal route.  
+**Video:** [This IMPOSSIBLE CHALLENGE Defies All Physics](https://www.youtube.com/watch?v=d6yZyKupUoE)
+
+### Animal Cars with Special Abilities
+
+Each animal-themed car has an ability with a timer and must clear a matching board: the shark car hits buttons along a river while driving on water, a tough car survives tanks, a jumping car hops across moving blocks to reach a target, and the eagle car flies to a checkpoint.
+
+**Issues & surprises**
+
+- The shark car disintegrates if it fully leaves the water, though there is a grace period while some wheels are still in it
+- Buttons needed hard hits to trigger
+- Tanks could be tricked into shooting each other
+- Jumping onto moving blocks was tense because the blocks drift under the car
+- The eagle car does not really fly; it boost-glides badly
+
+**Vehicles:** Shark car (drives on water), armored charging car, jumping car, eagle car (glider)  
+**Design takeaway:** Vehicles with ability meters tied to the environment (water-only, jump, glide) can each get their own puzzle board.  
+**Video:** [Testing Animal Cars in GTA 5](https://www.youtube.com/watch?v=7DiSNcE4qH8)
+
+### Ball Pit Crossings
+
+Cross various ball pits: a deep pit with a slowdown stick, a bowling-ball pit with launchers, a ball stack with a windmill, a glitchy ball tube, a coffee cup and a mini-Earth ball pit where balls chase you.
+
+**Issues & surprises**
+
+- Deep pits swallowed vehicles like quicksand
+- Launchers that flung balls also flung the player
+- Rear-wheel drive couldn't get grip on balls until a tire caught something
+- Wastelander lacked speed for the jump; hydraulics helped
+- Driving in reverse turned out much easier in one section
+- Very conservative throttle was needed in the glitchy tube
+
+**Vehicles:** Wastelander, custom RWD hydraulic car, boost meme cars, off-roaders, small low car  
+**Design takeaway:** Loose dynamic-object surfaces like ball pits are a strong test of drivetrain and traction models.  
+**Video:** [Testing cars vs impossible ball challenges in GTA 5](https://www.youtube.com/watch?v=VU_jnfk3Or0)
+
+### Balloon Obstacle Courses
+
+Balloon-themed stages: ramp through balloon walls, push through a balloon-clogged tunnel, jump onto moving houses carried by balloons (Up-style), a timed giant-balloon speedrun, and hitting a moving balloon pig from a moving platform.
+
+**Issues & surprises**
+
+- Balloons were surprisingly heavy and stopped a quad hard
+- Balloons floated realistically and could be climbed by a jump car, killing momentum
+- Low car slipped under/through the clogged tunnel well
+- Balloon cords snagged vehicles
+- Timing jumps onto moving houses required waiting until the house touched the border
+- On the final stage, he went too fast and flew over a wall meant to stop him
+
+**Vehicles:** Quad, jump-ability car, low-to-ground car, motorcycle ('cheat' option), boost cars  
+**Design takeaway:** Buoyant, soft-but-heavy obstacles create a unique mix of pushing and climbing physics.  
+**Video:** [Testing Cars vs Balloons](https://www.youtube.com/watch?v=mGnuoxzcoCg)
+
+### Braking Olympics
+
+A series of braking tests: stop on a grass incline, brake in reverse while holding a heavy rolling container on a slope, brake on ice after a forced-throttle run past a line, brake in mid-air to land on a platform, and stop from a forced 669 mph before a bridge. The vehicle that stops in time in all events wins.
+
+**Issues & surprises**
+
+- The bicycle unexpectedly passed the first downhill braking test when cars could not
+- Light cars turned sideways instead of stopping because they lacked weight
+- The F1 car could stop itself well but could not hold back the added weight
+- Leaning forward onto a slowdown circle launched the car instead of slowing it
+- Light, feathered braking at 669 mph worked better than slamming the brakes
+- The Draugur off-roader was the surprise overall winner
+
+**Vehicles:** Vapid, Sharp, electric supercar, Jeep, bicycle, 6-wheeler, F1 open-wheel car, quad, side-by-side, Ferrari-style car, motorbike, Draugur  
+**Design takeaway:** Braking under different conditions (slope, load, ice, extreme speed) exposes mass, grip and brake-force balance in a way top-speed tests never do.  
+**Video:** [Which car has the best brakes in GTA 5?](https://www.youtube.com/watch?v=DP5ibadpTvs)
+
+### Car-Flip Ddakji and Red Light Green Light
+
+In a game-show parody, the player must flip a car onto its roof by shooting/blasting it (a vehicle version of paper-flipping), jumping to death on each failure. Later stages are a red light/green light parody which he cheats.
+
+**Issues & surprises**
+
+- Flipping a car onto its roof was much harder than expected
+- A car pushed against a wall became almost impossible to flip
+- He moved the car away from the wall to get a clean flip
+- Explosions often sent the car further away instead of rolling it
+
+**Vehicles:** Parked cars flipped by gunfire/explosives  
+**Design takeaway:** A 'flip the car onto its roof with impulses' minigame is a simple, replayable physics toy.  
+**Video:** [i broke every rule in squid game and this happened](https://www.youtube.com/watch?v=CIizZhnwJlM)
+
+### Car-With-Mini-Cars-As-Wheels Course
+
+A single novelty vehicle runs a shifting high/low wall-ride ribbon into a loop, a narrow launcher loop, a timed rally track with varied speed bumps and hairpins, and six laps of an unfinished NASCAR track while a gravity-removing balloon chases from behind.
+
+**Issues & surprises**
+
+- Tiny effective wheels gave poor traction and twitchy steering, and acceleration suffered
+- The mini cars acted as suspension, making landings unusually level and smooth, almost like tracks
+- Chassis-grinding the wall-ride sections worked better than driving them
+- Hairpins needed brake-and-drift turns because the turning circle was wide
+- A section of the rally track could be skipped because there was no invisible wall
+- The chasing balloon got caught on scaffolding, giving him breathing room on the final lap
+
+**Vehicles:** Lamborghini whose four wheels are miniature Lamborghinis (each with its own suspension and tiny wheels)  
+**Design takeaway:** Nested suspension (wheels that are themselves sprung bodies) creates a distinctive ride feel worth testing on loops and bumps.  
+**Video:** [This Lambo literally has tiny Lambos for wheels](https://www.youtube.com/watch?v=V-PIPeLGgF0)
+
+### Crash Ejection and Drop Experiments
+
+Science challenges: crash into a wall at extreme speed to get ejected over it, survive a 69 ft fall on an ATV onto different cushioning materials, and fly planes through a wall of water.
+
+**Issues & surprises**
+
+- A car hit at about 700 mph and was still drivable, with every panel gone except the seats
+- A car later exploded at random after impact
+- Convertibles and certain cars bounced the farthest
+- Curb boosting could not exceed the forced speed limit
+- Planes lost wings or tail in the water wall; a slow tilt-prop plane made it through
+
+**Vehicles:** Various cars at about 700 mph, ATV, small planes  
+**Design takeaway:** Extreme-speed crash tests make good sandbox challenges, but damage should stay readable at very high speeds.  
+**Video:** [Cars vs Science Experiments in GTA 5](https://www.youtube.com/watch?v=wQFK3GQ_1O8)
+
+### Custom Tyre Stair Climb
+
+Trucks fitted with custom-behaving wheels climb stair stages: triangle-spaced stairs, a 60-second staircase of beer bottles with 'drunk' rain, rotating stairs that must be transferred between, and a staircase hanging from a speeding blimp that periodically surges forward.
+
+**Issues & surprises**
+
+- The spiky zero-traction tyres slid like ice skates yet still glitched slowly up tall walls
+- Being hit by the beer rain applied a drunk effect that ruined control
+- Rocking left and right helped the spike-rim truck climb the bottles
+- Saw-blade tyres gripped so well they handled the rotating stairs first try
+- On the blimp stairs any steering input during a surge threw the truck off; a stock Rubicon won by staying straight
+
+**Vehicles:** Trucks/Broncos with custom-programmed tyres: gummy bear, spiky 'girthy', half-track, Reaper spike rims, saw-blade tyres; stock Rubicon  
+**Design takeaway:** Swapping only the tyre model on the same chassis is a clean way to show players how much tyre grip and shape change handling.  
+**Video:** [Reaper Wheels vs Stairs in GTA 5](https://www.youtube.com/watch?v=xdegYjXCJUg)
+
+### DIY Ability Vehicles vs Elaborate Courses
+
+Homemade vehicles with special abilities face elaborate boards: Minecraft blocks that turn to lava over time, a flying school, parkour on a giant chicken, and a ramp that has to be hit at exactly 60 mph to land in a giant mug. Each cleared board opens the path to the finale.
+
+**Issues & surprises**
+
+- Lava sets the vehicle on fire after about 1 s and pops all four tires
+- The jump was not high enough for the blocks until some blocks fell and created a path
+- The DIY plane dropped like a rock and had no landing gear
+- The finale ramp needed exactly about 60 mph; the truck's speed gauge was its 'ability'
+- Timing jumps between rotating chicken wings meant reading the moment the wings were closest
+
+**Vehicles:** Ridable chicken 'Reginald', matchstick tractor (jump), toothpaste plane, 'Colgate' truck with speed gauge  
+**Design takeaway:** A ramp tuned for an exact entry speed, with an on-screen gauge, makes a clear precision objective.  
+**Video:** [DIY cars vs impossible challenges in GTA 5](https://www.youtube.com/watch?v=fy8OIYNsFbA)
+
+### Double-Ended Car Obstacle Course
+
+Cars with a front end mirrored on both sides (same speed either way) tackle: barrier layers of parked cars, SWAT vans, dump trucks and tanks; a road where the driving direction swaps every few seconds; a mine-dodgeball survival for 69 seconds; and a rotating, rising figure-eight track.
+
+**Issues & surprises**
+
+- Driving backwards somehow gave huge pushing power, flinging heavy vehicles aside; forwards got stuck
+- Some cars slid under obstacles, others 'bench-pressed' them upward and lost momentum
+- Damage and repairs applied to both halves, and with twice the engines there was twice as much to break
+- On the direction-swap road, inputs inverted with each swap; the fix was to spin the car 180 at each swap to keep driving the same way
+- Steering was much twitchier in reverse; the long body made dodging mines harder
+
+**Vehicles:** Double-front Sherp, double-ended muscle car, electric double car, double three-wheeler (five wheels), others mirrored front-to-front  
+**Design takeaway:** A forced direction swap on a timer is a simple but nasty input modifier, especially if the player can learn to beat it with a physical 180 turn.  
+**Video:** [Testing double sided cars in GTA 5](https://www.youtube.com/watch?v=OXL8t-FFIdY)
+
+### Ever-More-Wheels Motorcycle Unlock Ladder
+
+Each completed stage unlocks a bike with more wheels. Stages: a 26-second gapped staircase climb that narrows to a tightrope, a 16-second descent, a tight tunnel built for the 12-wheeler, and a vertical climb to 'Saturn' high in the sky.
+
+**Issues & surprises**
+
+- The extra third wheel added weight and its own collision, slowing turns and interrupting wheelies
+- Hitting the stair edges launched the bike hundreds of feet; staying centred with minimal steering was key
+- The 9-wheel bike barely touched the ground, bounced like a pogo stick and fell slowly as if parachuting
+- Leaning back on the 12-wheeler made it lift off and float, turning the stage into a 'Flappy Bird' tap-to-hover course that died if forward speed hit zero
+- The 16-wheel bike climbed straight up for over a minute and could glide across the final gap
+- Physics broke more with every extra wheel, so the bikes ended up behaving like aircraft
+
+**Vehicles:** 2-wheel and 3-wheel bikes, then 9-, 12- and 16-wheel modded motorcycles  
+**Design takeaway:** Unlocking increasingly absurd wheel counts makes a natural progression ladder, and the emergent breakage (hover, glide) can be turned into intentional stage mechanics.  
+**Video:** [Adding wheels to bikes every minute in GTA 5](https://www.youtube.com/watch?v=82yJMHNEmOY)
+
+### Extremely Thin vs Extremely Wide Car Course
+
+Modded cars stretched extremely thin or wide take on ramps, 'cheese' gaps exactly as wide as a car, a spinning track, popper gaps, a 'maw' with stop sticks, a stalking windmill, a tightrope and a final narrow slide.
+
+**Issues & surprises**
+
+- Ultra-thin cars handled like a motorcycle that kept falling over
+- The ultra-wide truck was nearly undrivable and couldn't be righted once flipped
+- Very wide cars had poor air distance
+- The wide supercar's tires had too much power, needing careful throttle
+- He balanced the wide supercar on its middle over a tightrope by centring the spoiler
+
+**Vehicles:** Modded ultra-thin cars, ultra-wide trucks, a wide limo, a wide motorcycle-tricycle, a wide supercar (winner)  
+**Design takeaway:** Scaling a vehicle's width shows how track width affects stability, rollover and steering.  
+**Video:** [Testing Thin vs Thic Cars in GTA 5](https://www.youtube.com/watch?v=lrdbDVzpDOo)
+
+### Fidget-Spinner Wheels Points Gauntlet
+
+Cars with three-lobed fidget-spinner wheels compete across timed boards: a pulsing staircase, underwater pipe tightrope, steepening pipe stairs, widening floating gaps, and a mixed speed-bump course. Each board won earns a point; most points wins.
+
+**Issues & surprises**
+
+- Lobed wheels have real angular hitboxes that bite into stairs and sand, giving more grip than round tyres on steps
+- On flat ground the ride was extremely bumpy and cars tended to fly or drift with the rear sliding constantly
+- Throttle modulation trick: lift off when the wheel rolls onto a flat face, then power through the angled phase
+- The six-spinner car floated and drifted superbly in water, and tracked dead straight over gaps, beating expectations
+- One-sided speed bumps punished the six-wheeler at speed; the monster truck won by going full throttle instead of slowing
+
+**Vehicles:** Low car, six-spinner vehicle, Liberator-style monster truck, scoop/bulldozer-like car, all on fidget-spinner-shaped wheels  
+**Design takeaway:** Non-round wheel shapes create a distinct traction/bounce trade-off that can be the core of a varied obstacle points ladder.  
+**Video:** [Which fidget car can climb the most stairs?](https://www.youtube.com/watch?v=0t0s9mupnXw)
+
+### Glitch-Exploit Myth Course
+
+A checkpoint course deliberately impossible to finish normally; each stage requires a known physics glitch or myth, such as clipping through shrubs, phasing through a building's missing texture, underwater car-door surfing and falling through the map.
+
+**Issues & surprises**
+
+- Shrub-clipping required precise positioning to slip inside the collision
+- A detached car door could be ridden in both directions and survived grenade blasts while still being pushed by them
+- Throwing grenades underwater only worked while riding the door
+- Falling through the world teleported him to the wrong spot
+- A flipped golf cart with a sideways wheel kept driving and its rider took no damage
+
+**Vehicles:** Motorcycle, car door as surfboard, golf cart, misc cars  
+**Design takeaway:** Turning known physics quirks into intentional puzzle solutions can reward players for experimenting with your engine's edge cases.  
+**Video:** [Using only myths to beat GTA 5](https://www.youtube.com/watch?v=48K51sQjOU0)
+
+### GTA Myth-Busting Stunts
+
+He tests viral claims: skydiving through a bridge arch, gliding an Oppressor through a fire tower, mountain lions dying from small falls, deer running faster with a rider, a hover jet surviving Zancudo's interceptor jets, falling onto a jet's exhaust to survive a skyscraper drop, and parachuting onto a spire.
+
+**Issues & surprises**
+
+- Parachute timing needed a fraction-of-a-second precision to clear the arch
+- Starting from higher elevation made the Oppressor glide more controllable
+- Hover-mode spinning made pursuing missiles miss
+- A jet exhaust's blast cone reversed falling momentum, saving the player
+- Rockets fired into shallow water travelled without exploding
+- Deer were no faster with a rider
+
+**Vehicles:** Parachute/on foot, Oppressor hover-bike, hover jet, deer (as mount), car/go-kart for glitching  
+**Design takeaway:** Small, readable physics edge cases (exhaust thrust, water-dampened projectiles) can become their own mini-challenges.  
+**Video:** [Busting TikTok Myths in GTA 5](https://www.youtube.com/watch?v=AsRPCTyxLsQ)
+
+### GTA Physics Myth-Busting Experiments
+
+A series of experiments run as challenges: surviving a quarter-mile fall inside a container, whether a hydrant puts out fire on a tightrope, water jets throwing a car through ring jumps, which animals can trip people, and which vehicle survives explosions under it.
+
+**Issues & surprises**
+
+- Falling inside the container caused no damage at all
+- Escaping the container required shooting exactly into its corner
+- Water jets did not do damage but ragdolled and flung the car
+- A taller car did worse than a small car under explosions because the blasts hit its wheels
+- The tank burned and shed panels but still ran and won
+
+**Vehicles:** Shipping container drop, small cars, tank; animals (bunny, cat, chicken, pug)  
+**Design takeaway:** Turning 'does the engine allow X?' questions into small challenges lets players discover how the physics system behaves.  
+**Video:** [Testing extreme science experiments in GTA 5](https://www.youtube.com/watch?v=WFKMEOaLhKU)
+
+### Hover Vehicle Points Challenge
+
+Custom hover vehicles compete with normal ones: numbered gaps that keep widening, a curved tightrope, a bridge of syringes like speed bumps, and a timed bridge of floating Lego blocks that rock and spin. One point per event.
+
+**Issues & surprises**
+
+- The Oppressor dipped nose-down whenever part of it lost ground under the hover pad
+- The hover Sherp skated like a Roomba in any direction but sat flat and stable on the curved tightrope, winning it
+- A normal car with boost reached gap 8, beating dedicated hover vehicles
+- The Deluxo cleared the final gap by retracting its wheels and nose-grinding the edge
+- The house vehicle was slow and flipped easily
+- On the Lego bridge, waiting for the blocks to settle flat was the trick
+
+**Vehicles:** Quad, Oppressor hover bike, boost car, hover Sherp with turbines, vodka supercar, flying house, Deluxo, white underdog car  
+**Design takeaway:** Hover physics that respond to ground coverage (tipping when partly over a gap) create distinct risks that wheeled cars do not have.  
+**Video:** [Which floating car can float the furthest?](https://www.youtube.com/watch?v=kIEGKyrMlrE)
+
+### Hulk-Powered Human and Shark Cannon
+
+A mod experiment: a super-strong character punches vehicles loaded with ragdolls through a tube to make a 'human shotgun', aiming for maximum distance. The tube gets narrower and longer between tests, and later the projectile is a freight train loaded with sharks.
+
+**Issues & surprises**
+
+- A wide tube wasted momentum; a narrower, longer barrel gave much more distance
+- Riders on a trailer launched hugely once the trailer itself vanished on impact
+- Some pedestrians fell through the world when spawned in crowds
+- Using an ambulance as the projectile often missed entirely
+- The sharks stayed stuck to the freight train for the whole flight
+
+**Vehicles:** Blimp, dump truck, trailers, ambulance, freight train (as projectiles)  
+**Design takeaway:** A 'build the launcher, measure the distance' loop with tweakable barrel geometry is a fun way to let players explore impulse and momentum.  
+**Video:** [taking shark attacks to unrealistic extremes in GTA 5](https://www.youtube.com/watch?v=JlV2FaQxxwk)
+
+### Inflatable Slide Park Runs
+
+Near-frictionless inflatable slides: race your body down slides with gaps, windmills and spikes; rock a vehicle inside a spinning 90-degree loop slide to reach a teleporter; skydive through 16 inflatable shark mouths; then drive vehicles down bouncy slides with gaps and loops, a teleporter that sends cars back to the start, and closing shark jaws.
+
+**Issues & surprises**
+
+- The slides had almost zero friction, faster than ice, so you couldn't brake at all
+- Inside the spinning loop slide, he had to time going up the ramp for when the slide formed a perfect V
+- Touching slide walls lost speed; staying centred gained distance
+- Teleporters only affected vehicles, so jumping out and sliding on foot avoided being reset
+- The bouncy slide surface threw cars unpredictably
+
+**Vehicles:** On foot (ragdoll), quad, Wastelander, Atomic-style car, other cars  
+**Design takeaway:** A bouncy, ultra-low-friction surface material is an easy way to create chaotic but readable challenges that reward staying in the centre.  
+**Video:** [Testing TEMU Wateslides in GTA 5](https://www.youtube.com/watch?v=pDz84kxX0YU)
+
+### Jelly Car Squish Puzzle Levels
+
+Not GTA: he plays a soft-body physics platformer where the car squishes through tiny gaps and later gains abilities to grow big, shrink, and float as a balloon. Levels involve rotating fruit slices, crushers, moving platforms and shifting ground, plus hidden secret exits.
+
+**Issues & surprises**
+
+- The car's soft body squeezed through absurdly narrow cracks
+- Growing from small to large inside an object was used to launch or wedge the car
+- Size changes also helped gain distance and climbing grip
+- Timing-based sections like a lowering rope bridge and collapsing ceiling punished hesitation
+- Balloon steering felt imprecise in the final levels
+
+**Vehicles:** A soft-body 'jelly' car with grow/shrink and later balloon abilities  
+**Design takeaway:** A deformable car with player-controlled size changes opens up puzzle-platforming mechanics beyond normal driving.  
+**Video:** [When supercars hit a wall at 999,999,999 mph](https://www.youtube.com/watch?v=F1DSZ4Bipk8)
+
+### Jet vs. Falling Ragdolls, Catch in Truck Bed
+
+Using mods, he spawns lines of slow-falling ragdoll pedestrians in the sky and flies jets through them at high speed. The goal was to hit them so they tumble and land in the bed of a moving pickup truck below.
+
+**Issues & surprises**
+
+- Working out ragdoll fall speed and forward momentum after impact was very hard to predict
+- Some ragdolls passed straight through the plane without a collision
+- A larger plane's impact pushed bodies along its curved fuselage instead of knocking them down
+- Rolling the plane gave it more surface area and more hits
+- Detached fuselage debris kept rolling around and destroying traffic long after the crash
+- One ragdoll ended up balanced on the nose of the plane
+
+**Vehicles:** Jet airliners (small and large), pickup truck  
+**Design takeaway:** A 'hit the falling object and land it in a moving target' mini-game turns ragdoll and impulse physics into a skill shot with lots of chaotic, replayable outcomes.  
+**Video:** [i sucked people into jet engines in GTA 5](https://www.youtube.com/watch?v=0s_ZaiBGSUU)
+
+### Long Bus vs Reverse Speed Bumps with Slow-Mo
+
+Long vehicles cross reverse speed bumps (dips) of growing width and depth, with a slow-motion button to time hydraulic hops over the widest one.
+
+**Issues & surprises**
+
+- Scripted passengers kept teleporting into the bus and getting thrown out, which seemed to add glitchy propulsion
+- Rocking the bus did not add speed
+- Slow-motion made hydraulic timing awkward because inputs had to be very early
+- In the end a plain jump beat the slow-motion approach
+
+**Vehicles:** Bus full of scripted passengers, military vehicle  
+**Design takeaway:** Dips (negative speed bumps) are an underused obstacle that tests suspension travel and approach speed.  
+**Video:** [Testing Level 1 to Level 1,000,000 LONG CARS in GTA 5](https://www.youtube.com/watch?v=NBf_DVA71Z8)
+
+### Magnet-Force Car Course
+
+Boards built with programmable magnets: magnet force rises each stage, pulling cars across platforms and over obstacles, and the final board is driven through zones of magnets that yank the car sideways near explosives.
+
+**Issues & surprises**
+
+- Higher magnet values got violent and launched cars off course
+- Cars stayed surprisingly on line when pulled by magnets
+- Damage from magnet yanks killed his engine
+- Red magnet zones pulled him toward explosives
+
+**Vehicles:** Cars, clown car, buses, boat  
+**Design takeaway:** Attractor/repulsor force fields on a track create a strong vehicle physics hazard.  
+**Video:** [I spent $1,000 to break GTA 5's physics](https://www.youtube.com/watch?v=MQzKAfV0b70)
+
+### Marble Pushing and Bulldozer Tug-of-War
+
+Game-show parody: push giant marbles into a shape (done with rocket blasts after they barely moved by hand), then win a tug-of-war platform game by bringing bulldozers up a vehicle lift to shove opponents off.
+
+**Issues & surprises**
+
+- Giant marbles barely moved when pushed on foot
+- Explosions to steer marbles were harder than expected
+- Fit two bulldozers on the lift
+- An NPC drove a bulldozer back with surprising torque
+
+**Vehicles:** Bulldozer, vehicle lift  
+**Design takeaway:** Pushing large rolling objects into targets is a simple vehicle-plus-physics sports minigame.  
+**Video:** [i hacked squid game and this happened](https://www.youtube.com/watch?v=ZtJR4jxUK-E)
+
+### Modded Cartoon Cars vs Speed Bump Course
+
+Fan-made custom cars run Alex's speed bump course: explosive speed bumps, rising spaced-out humps, log 'timber' bumps, giant drink cups and a rotating bottle, marble slabs, giant lying Titan statues as bumps, and final Noob/Pro/Legend bumps.
+
+**Issues & surprises**
+
+- Big decorative heads blocked the driver's view on several cars
+- Some bumps were easier to climb in reverse, especially with rear-wheel drive
+- Low cars sometimes climbed logs better than expected thanks to odd collision shapes
+- Squidward's heavy tank-like car couldn't bounce its nose high enough over logs
+- A Titan's karate-chopping arm created an opposing incline that broke the radiator
+- The final Legend bump was skipped via a troll gap, ending the run
+
+**Vehicles:** Fan-made SpongeBob-themed cars: Plankton F1 car, Sandy, Patrick truck, SpongeBob car, Pearl, Squidward tank, Larry, Mr. Krabs lobster car (winner)  
+**Design takeaway:** Custom visual meshes that differ from collision shapes can produce surprising handling, worth testing deliberately.  
+**Video:** [Testing Spongebob Cars vs MASSIVE Speedbumps in GTA 5](https://www.youtube.com/watch?v=wDPvRnPDI9M)
+
+### Motorcycle Wheel Size Points Battle
+
+Bike wheel sizes compete in a 13-second slalom done three times with tighter gates, climbing growing speed bumps that end in near-sheer walls, a narrowing tightrope with gaps, an acceleration run past windmills, and a glide jump for distance.
+
+**Issues & surprises**
+
+- Tiny wheels gave extremely sharp turns and won the slalom, but overcorrected badly on the tightrope
+- Huge narrow wheels had very soft, trampoline-like suspension and climbed the speed bump walls with a hard forward lean
+- Huge wide wheels had a wide collision shape, so they could ride with only a third of the tyre on the tightrope and won it
+- Normal wheels finally won the acceleration test at around 160 mph
+- Huge wide wheels also glided furthest, winning overall
+
+**Vehicles:** Motorcycles with tiny RC-size wheels, normal wheels, huge narrow wheels, huge wide wheels  
+**Design takeaway:** Wheel radius and width change turning, suspension feel and contact shape in clear ways, which makes them good tunable stats with obvious trade-offs.  
+**Video:** [Smallest to biggest bike wheels in GTA 5](https://www.youtube.com/watch?v=j37A3gS0L2A)
+
+### Movie Myth Tests: Jet Missiles, Bridge Flying, Semi Jump
+
+A list of movie-inspired myths tested one by one: shoot down a helicopter with unguided jet missiles, fly under every bridge with ever-increasing skydive speed, jump over a semi after blowing it up with a car missile, and catch a falling character mid-air.
+
+**Issues & surprises**
+
+- Jet missiles flew nowhere near where he aimed and helicopters dodged
+- Modified gravity made his speed keep rising while threading bridges
+- Jumping the exploding semi still set the car on fire, though it didn't blow up
+- The falling target seemed to drift away from his approach
+
+**Vehicles:** Jet, flying player, rocket car vs semi truck, helicopter  
+**Design takeaway:** Myth-test lists give a sandbox a series of short, self-contained physics goals.  
+**Video:** [I Busted 100 Movie Myths in GTA 5](https://www.youtube.com/watch?v=D6d27Ryhw6g)
+
+### Myth Tests: 13-Hole Wall Ride, Rocket vs Hoverbike
+
+Myths include skydiving through a tiny monument gap, landing on a falling meteor, wall riding through 13 staggered holes, landing a plane through a gap onto a rooftop level, and firing a rocket, outrunning it and escaping on a hoverbike.
+
+**Issues & surprises**
+
+- Parachute had a slight delay, so he was always behind
+- Staggered holes needed a drift-down then pull-up rhythm
+- Super run sent him into walls hard enough to knock him out
+- The mount animation was what cost time on the hoverbike escape
+- The boost on the hoverbike was key
+
+**Vehicles:** Wall-ride car, plane, hoverbike  
+**Design takeaway:** Staggered height gates on a wall ride create a memorable rhythm sequence.  
+**Video:** [I Busted 400 Myths in GTA 5](https://www.youtube.com/watch?v=yiOtVuLhanU)
+
+### Myth Tests: Airliner Canyon Run, Plane on Train, Bike Through Train
+
+Myths tested: fly an airliner under bridges and through a winding canyon, land a plane on a moving train, jump a motorbike through the gap between train wagons, fly a jet under every river bridge, and skydive into a jet engine.
+
+**Issues & surprises**
+
+- The airliner lost control authority when slowed, but full speed was too fast for the turns
+- The plane exploded on light contact with the train
+- The landing succeeded right before a tunnel
+- The bike jump required higher launch speed and the narrow car gap
+- Pulling the parachute late was key for the engine myth
+
+**Vehicles:** Commercial airliner, small plane, train, motorbike, jet  
+**Design takeaway:** Heavy aircraft with speed-dependent control authority create tense low-altitude tests.  
+**Video:** [I busted 300 myths in GTA 5](https://www.youtube.com/watch?v=_p7MObjrTF4)
+
+### Myth Tests: Bike Over Helicopters, Cargo Plane on Rooftop
+
+Myth trials: jump 15 big helicopters on a motorcycle, land a cargo plane on a skyscraper helipad, jump 30 pedestrians on a bicycle, skydive through a crane, and others with weapons.
+
+**Issues & surprises**
+
+- Wheelie plus leaning back and pumping let the bike clear the helicopters
+- Stalling the cargo plane onto the pad worked like a short-field landing
+- Bicycles can't lean back like motorcycles, so he needed a special speed technique
+- He built extreme bicycle speed with rhythmic pumping
+
+**Vehicles:** Motorcycle, cargo plane, bicycle  
+**Design takeaway:** Differences in lean/pitch control between bikes and motorcycles can be the core of a jump challenge.  
+**Video:** [I busted 100 myths in GTA 5](https://www.youtube.com/watch?v=wRTeUDNvelY)
+
+### Myth Tests: Plane on Blimp, Parachute on Helicopter
+
+Short myth trials: land a plane on a moving blimp, land a parachute on a flying helicopter, skydive into a jacuzzi, hit birds with an RPG, and headshot himself with his own rocket.
+
+**Issues & surprises**
+
+- Landing on the blimp worked by full stalling at about 10 mph
+- Feathering the throttle let the plane ride the blimp indefinitely
+- Parachute landing on the helicopter failed when the canopy touched anything
+- Skydive aim had to be offset from the character's head
+
+**Vehicles:** Plane, blimp, helicopter, parachute  
+**Design takeaway:** Matching speed with a moving vehicle and landing on it is a satisfying skill test.  
+**Video:** [I busted 200 myths in GTA 5](https://www.youtube.com/watch?v=H13sBO-YiBo)
+
+### On-Foot Waterslide Launch Distance Tests
+
+The player slides down waterslides on foot and is scored on launch distance using marker boards: 40, 50 and 60-degree slides, a high-friction sandpaper slide, a test of whether forced ragdoll gives more distance, a launcher-assisted slide, and a final multi-transfer slide.
+
+**Issues & surprises**
+
+- Steeper was better: 60 degrees gave about 31 m against roughly 11 m at 40 degrees
+- Entering at an angle and bouncing off the side walls added extra distance
+- On the high-friction slide, a bigger drop onto it was the only way to gain distance
+- Forced ragdoll greatly increased slide distance
+- First-person view made results worse
+- A random soccer ball in the area hit him unexpectedly
+
+**Vehicles:** None (player character on foot, ragdolling)  
+**Design takeaway:** A simple distance-board launch test is a quick way to compare slope angle, friction and entry technique.  
+**Video:** [Which waterslide launches you the farthest in GTA 5?](https://www.youtube.com/watch?v=RPdEsqkPIYU)
+
+### Passenger Weight vs Top Speed Quiz Course
+
+In each 69-second course, NPC passengers jump aboard and he must measure how much top speed each one costs, then drive through the numbered wall with the right answer. Explosive barrels and balloon obstacles block the route, and pipe bombs are provided to clear them (or the passengers).
+
+**Issues & surprises**
+
+- One passenger on the airport tug cost only about 1 mph (29 vs 28 mph)
+- One passenger on the scooter cost about 15-17 mph (57 vs 40 mph), a huge difference between vehicle classes
+- On the SUV, seven passengers dropped the top speed from about 91 to 84 mph, roughly 1-1.4 mph each
+- Top speed took a long time to settle, which made measuring it tricky
+- Dropping shipping containers by blowing up the floor needed precise pipe-bomb timing
+
+**Vehicles:** Airport tug, scooter, Park Ranger SUV  
+**Design takeaway:** Making payload mass affect top speed differently by vehicle class (big for light bikes, small for trucks) is realistic and can drive puzzle-style challenges.  
+**Video:** [Do more passengers make you drive slower in GTA 5?](https://www.youtube.com/watch?v=O25ywoMc1RE)
+
+### Pickaxe-Wheel Vehicle Points Challenge
+
+Cars whose wheels are radial sets of pickaxes compete in: climbing a giant tree, a timed precision speedrun course, crossing a long breakable cactus bridge, smashing through layered walls, and climbing a sheer mountain with falling rocks (worth two points).
+
+**Issues & surprises**
+
+- Pickaxe heads had real collision; they hit pedestrians hard and broke rocks and cacti
+- Four pickaxes per wheel gripped tree branches and rock far better than three; zigzagging helped climbing
+- Pickaxe wheels never drifted or burned out, and the cars sank instantly in water
+- Fewer pickaxes broke fewer cactus segments, so the BMW survived the fragile bridge better
+- The heavy dump truck smashed wall layers losing only about 6 mph each
+- On the mountain, falling back down did not end the run because the car could climb back on
+
+**Vehicles:** BMW with three-pickaxe wheels, sporty four-pickaxe car, many-pickaxe dump truck  
+**Design takeaway:** Spiked or tool wheels that destroy terrain create a trade-off between grip and wrecking the surface you need to drive on.  
+**Video:** [What pickaxe car climbs the best?](https://www.youtube.com/watch?v=LN4o4lZM15w)
+
+### Planet Missions with Shifting Gravity
+
+Each planet has an objective under its own conditions: on Uranus, destroy 13 alien satellites while gravity flips every few seconds (sideways, inverted, extreme); on Mars, rescue astronauts and drive them through meteor showers to a base within about 50 s.
+
+**Issues & surprises**
+
+- Random gravity shifts made lining up shots or rams nearly impossible
+- Inverted gravity flung satellites into the sky
+- Sliding with the current gravity direction toward targets was the efficient strategy
+- The motorcycle had no passenger seat, so the Wastelander was used and ran over everything
+- The rescue needed an almost perfect drive to beat the timer
+
+**Vehicles:** ATV, Wastelander, motorcycle, rover-type vehicles  
+**Design takeaway:** Periodic gravity-direction changes turn a simple collect/destroy objective into an adaptive driving puzzle.  
+**Video:** [Cars vs Planets in GTA 5](https://www.youtube.com/watch?v=rK5mf4XeRHc)
+
+### Planetary Gravity Zones Course
+
+Each course zone uses a different gravity (Sun, Jupiter, Pluto, Mars, etc.) and has its own obstacle: tightropes, wall climbs, slaloms, and a wind-turbine launch where he has to fling the car through a hoop. Gravity zones also repair the car and set new waypoints.
+
+**Issues & surprises**
+
+- Under Sun gravity even a slight slope pulled the car off, and full throttle sprang the car forward to its death
+- Higher grip under heavy gravity made acceleration huge
+- Under Jupiter gravity he lost all momentum climbing the wall, since the extra weight did not act as downforce on the wall
+- Under Pluto gravity tiny steering inputs turned a lot, and failures played out slowly
+- The Mars field-goal turbine launch needed a car placement learned by trial and error
+
+**Vehicles:** Pug car, tiny car, clown van  
+**Design takeaway:** Zones that change gravity show how weight affects grip, climbing and air control, and every level of the same course feels different.  
+**Video:** [Testing cars vs different gravities in GTA 5](https://www.youtube.com/watch?v=BSKoXEDnMrs)
+
+### Pogo-Stick Wheel Car Jump Tests
+
+Three cars with spring-loaded pogo-stick wheels compete: climbing walls of rising height (1 to 8 m), jumping a long chain of gaps with jump-refill pickups, hopping across criss-crossing platforms that shrink to tightrope width within 45 seconds, and a two-point 'impossible' jump past launchers, homing mines, windmills and wrecking balls into a small target.
+
+**Issues & surprises**
+
+- Front pogo sticks were far stronger than rear ones and pitched the nose up
+- Very soft springy suspension made cars bounce unpredictably on landing; the McLaren got stuck on its roof
+- The big Raptor won height and distance by jumping, tilting back and letting its rear catch the wall edge
+- A slight forward lean reduced bounce on landing
+- The small BMW with the smallest sticks had the best traction and flattest landings, winning the precision events and the overall title
+- Bouncing after landing ejected him through the windshield repeatedly
+
+**Vehicles:** Small BMW, McLaren and Ford Raptor, each with pogo sticks for wheels and a jump ability  
+**Design takeaway:** A per-wheel jump with front/rear imbalance gives rich air-control play, and a cooldown or refill pickup can pace it.  
+**Video:** [Which pogo car can jump the highest?](https://www.youtube.com/watch?v=eEbN-A-swHA)
+
+### Prop Weight Testing Rig
+
+A physics lab measuring how heavy game props are: drop small props down a ramp through 30 plywood boards, load medium props into a truck driving at a fixed 20 mph and see which slows it most, place large props on an elevator to see which lowers it, and compare extra-large props on a balance scale.
+
+**Issues & surprises**
+
+- Weights were inconsistent: a tiny hay bale was many times heavier than a large one, and a gift box smashed through every board
+- The same water-container prop was far heavier without its pallet and crushed the truck to 0 mph, flipping it
+- A boulder was lighter than expected; a forklift could barely move some props while others slid as if on ice
+- Some props had no usable hitbox (a barbell could not be lifted)
+- On the scale, the shipping container outweighed the boulder, which had beaten the gift box
+
+**Vehicles:** Forklift, arena car, quad, dump truck (for carrying), with a gravity gun for placing props  
+**Design takeaway:** A testing rig that exposes prop mass (scales, drag tests) is a great debugging tool and a fun challenge of its own.  
+**Video:** [Which object is the heaviest in GTA 5?](https://www.youtube.com/watch?v=qB-0f5yHbOc)
+
+### Ragdoll Skee-Ball Ramp
+
+He builds a giant skee-ball table: ragdolls are launched off a ramp by motorcycle hits and should slide into point-valued tubes (25 and 50) and basketball nets. He keeps adjusting ramp angle, tube tilt and gravity to get bodies to score.
+
+**Issues & surprises**
+
+- The first ramp sent bodies far too high and far
+- Bodies stopped sliding in shallow tubes; the tubes needed a very steep angle
+- A ragdoll got stuck inside a tube
+- Switching to moon gravity made bodies slide much better
+- Piles of stuck bodies cleared all at once after one small push
+
+**Vehicles:** Motorcycle (as the launcher), fire truck  
+**Design takeaway:** Scoring zones for physics objects, such as tubes, nets and point tiers, turn a sandbox into a game, and tuning slope versus friction is the core of it.  
+**Video:** [i forced people to jump from 20,000 feet in GTA 5](https://www.youtube.com/watch?v=OXKjuG1tPQw)
+
+### Ramp Gradient Speed Test and Outrun-the-Rocket
+
+Engineless cars roll down equal-length ramps of different slopes (gentle to near-vertical) with falling hazards, timing which gets to the bottom fastest. In a second experiment he has to match a rocket's speed (about 300+ mph) and drive in front of it to shield a target.
+
+**Issues & surprises**
+
+- The steepest ramp was not the fastest, which went against his intuition
+- Falling props (whales, meteors) slowed runs or added speed unpredictably
+- He was ejected or launched from the car on several runs
+- Vehicles had their top speeds capped at different levels, so matching the rocket was about speed control rather than raw power
+- A vehicle with finer speed control beat one that needed constant braking
+
+**Vehicles:** Engineless roll-down cars; tuned Jeeps and souped-up vehicles for the rocket test  
+**Design takeaway:** Equal-length ramps with different slopes are a cheap way to show players gravity and slope physics, and they can produce results that go against intuition.  
+**Video:** [Testing ramp shapes in GTA 5](https://www.youtube.com/watch?v=0LbCKzCfJ9A)
+
+### Random Vehicle Swap Obstacle Course
+
+Comparison of a 30-minute-built board (survive avoiding balls for a minute) and a 48-hour board where the vehicle changes randomly every few seconds while completing a 10-minute obstacle course with walls, windmills, loop-to-loops and giant props.
+
+**Issues & surprises**
+
+- Swaps happened mid-obstacle, leaving cars stuck facing the wrong way
+- Spawning a boat or plane in a tight space was fatal
+- Waiting for a suitable vehicle was often better than pushing on
+- Motorcycles proved key for certain jumps
+- Lucky aircraft spawns allowed skipping hard sections
+
+**Vehicles:** Random rotation: RC car, motorcycles, supercar, Ruiner, taxi, boat, plane, helicopter, blimp  
+**Design takeaway:** Forcing random vehicle swaps rewards adaptable players and highlights the strengths of each vehicle type in a single run.  
+**Video:** [30 minute vs 48 hour challenge in GTA 5](https://www.youtube.com/watch?v=bL8ne76L13Q)
+
+### Random-Scale Obstacle Course
+
+Courses where objects (Lego bricks, packing peanuts, cones, a car to overtake, a penny) constantly change size at random intervals. Some sections are only passable when objects are small, others only when big, e.g. overtaking a car only counts while it is large.
+
+**Issues & surprises**
+
+- Size phases had random durations, making timing mostly luck
+- A shrunk object could be too small to register in the trigger zone
+- Touching a resized car too hard launched the player violently
+- After 35 minutes failing with one car, another car beat the packing-peanut hill first try
+- A tall vehicle simply climbed the Lego wall that others had to jump
+
+**Vehicles:** Various cars incl. tall Liberator-style truck, yacht pickup, 'perfect suspension' car  
+**Design takeaway:** Dynamically scaling obstacles create timing puzzles, but phases should be telegraphed or predictable to avoid pure luck.  
+**Video:** [GTA 5 but sizes are random](https://www.youtube.com/watch?v=9ymiDNLYQas)
+
+### Round vs Square vs Triangle Wheels Team Events
+
+Three tyre-shape teams score a point per event: crossing six levels of widening, uneven cube gaps, climbing ramps of 30/40/53 degrees before the road drops away, braking on ice after a jump to land on a moving helicopter checkpoint, a timed climb past spinning bumps, and a steep near-vertical grip descent past a windmill.
+
+**Issues & surprises**
+
+- On the cube gaps the car's rear lifts, the nose drops and catches; huge square wheels eventually spanned the gaps and won
+- No vehicle could restart from a standstill on 53 degrees; a normal road sports car with regular tyres was the only one to finish the climb
+- Square tyres keep momentum oddly when coasting, and lots of soft suspension helped the square-tyre truck win the bump climb
+- The comically bad trike, which usually fails, won the steep-grip descent and clinched the win for regular tyres (final score 3 regular vs 2 square, 0 triangle)
+- Nothing could genuinely stop on ice; a side-by-side won just by staying on the course
+
+**Vehicles:** Teams of regular, square-wheeled and triangle-wheeled vehicles: trike, side-by-side, pickups, sports cars, Corvette  
+**Design takeaway:** Swapping only wheel geometry while running a fixed event battery is an excellent way to expose how contact shape affects grip, climbing, braking and gap-crossing.  
+**Video:** [Testing Round vs Square vs Triangle Wheels in GTA 5](https://www.youtube.com/watch?v=7qeuw-Fk580)
+
+### Shapeshift Gun Puzzle Boards
+
+A gun transforms targets: animals become the player's vehicle and props become other props such as ramp cars or zombies. Boards include following a moving snake-like pink path, placing ramp cars to cross gaps, and turning stop sticks or obstacles into harmless objects.
+
+**Issues & surprises**
+
+- Choosing a dump truck early made precision sections much harder
+- Losing a transformable ball off the edge could soft-lock progress, so spares were provided
+- He used deliberate collisions with a van to stop while boosting at very high speed
+- Sometimes the intended solution was not shooting something and using it as-is
+
+**Vehicles:** Animals turned into vehicles: dump truck, motorcycle, boosting car; props turned into ramp cars  
+**Design takeaway:** Letting players convert obstacles into ramps or blockers creates puzzle-like vehicle routing.  
+**Video:** [Everything I shoot SHAPESHIFTS in GTA 5](https://www.youtube.com/watch?v=_3Y7AGlGOws)
+
+### Sky-High Staircase Scooter Descent
+
+He builds a giant staircase from the sky to the sea and tries to ride a scooter down the whole thing in one go, then fills the bottom with mod chaos like flying debris, sharks and tornadoes.
+
+**Issues & surprises**
+
+- The parked scooter slid down the stairs on its own
+- The brakes did almost nothing on the stair edges
+- Any attempt to steer on the stairs threw him off; going straight was the trick
+- A BMX attempt ended in tumbling somersaults
+- Heavy mod spawning dropped the game to about 15 FPS and froze ragdolls mid-air
+
+**Vehicles:** Motor scooter, BMX  
+**Design takeaway:** A long stepped descent is a simple test of suspension, braking and stability, and shows whether a vehicle can stay controllable over repeated sharp impacts.  
+**Video:** [i built a stairway to hell in GTA 5](https://www.youtube.com/watch?v=K8hj1u9sm5Y)
+
+### Speed Boost vs Slowdown Pad Experiments
+
+Question-based stages testing boost pads and slowdown strips: glide an engineless jet between boost pads, check whether equal boosts and slowdowns cancel out, find a vehicle unaffected by slowdowns, see if boosts raise top speed to clear a jump, and ride a vertical column of boosts upward to a target in the sky.
+
+**Issues & surprises**
+
+- Pulsing the plane's pitch up and down between boost pads actually gained speed and altitude
+- Slowdown strips override every boost, locking most vehicles at about 20 mph
+- Planes could exceed the cap slightly, and the lawnmower was unaffected because it is slower than the cap
+- Slowdown sticks have physical mass and nudge cars sideways
+- Boost pads raised top speed only by a few mph
+- Losing momentum in the vertical boost column ended the climb
+
+**Vehicles:** Jet with engines removed, arena car, electric car, planes, tank, RC car, lawnmower, supercar  
+**Design takeaway:** Clear rules for how speed modifiers stack (and which one wins) can themselves become puzzle content.  
+**Video:** [Can 1000 speed nerfs stop a plane in GTA 5?](https://www.youtube.com/watch?v=ILKV083k5M0)
+
+### Square Wheels vs Round Wheels
+
+Each vehicle and its square-wheeled twin attempt: a 30-second rainbow staircase with hidden barriers flagged by coloured cubes, downhill stairs with launch pads every six steps, a crumbling prison staircase with collapsing rebar, and a 4-second roll-out test comparing a smooth floor with a sawtooth floor.
+
+**Issues & surprises**
+
+- Square wheels climbed stairs far better than round ones because the corners catch each step
+- Square wheels braked strongly and burned out easily
+- A side-by-side with bigger rear squares climbed better in reverse
+- Invisible barriers were hidden on the stairs; a cube colour hinted at where they were
+- On the roll-out test, a square-wheeled car coasting on a matching sawtooth floor lost almost no speed, unlike on smooth ground
+- Rear-only drive struggled on the crumbling stairs where front pull was needed
+
+**Vehicles:** Paired cars with round vs square wheels: sports car, side-by-side, pickup truck, Ford performance truck with stacked square wheels  
+**Design takeaway:** Pair each odd wheel shape with terrain made to match it (sawtooth floor for squares) to show wheel geometry and surface working together.  
+**Video:** [Can square wheels climb stairs?](https://www.youtube.com/watch?v=KmqOiWKjCak)
+
+### Super-Strength Truck Towing Course
+
+With growing super powers he must deliver passengers in a truck, pull a truck on a rope across gaps using super jump, punch vehicles into position for a wall ride, then platform up windmill stems.
+
+**Issues & surprises**
+
+- Passengers fell out when he drove too aggressively
+- The tow rope snapped when the truck swung
+- Super jump made the towed truck levitate but stay manageable
+- Punched vehicles flew in unexpected directions
+- He ran out of usable trucks after punching them away
+
+**Vehicles:** Truck carrying passengers, truck towed by rope, punchable trucks and a train  
+**Design takeaway:** Towing a payload vehicle with a rope adds pendulum physics to a delivery task.  
+**Video:** [I became the strongest man in GTA 5](https://www.youtube.com/watch?v=ukK_IRjIqAs)
+
+### Testing Viral Game Tricks
+
+Viral tricks tested in custom setups: surviving a fall by being zapped just before impact, one-shotting a helicopter by hitting the tail rotor, climbing a sloped structure by aiming a gun, carrying a pedestrian on an ambulance roof over a huge ramp, and chaining bush landings.
+
+**Issues & surprises**
+
+- Only the tail rotor hub counted for the one-shot
+- Aiming a gun changed movement enough to walk up a slope
+- The pedestrian stayed glued to the ambulance roof even after a massive jump
+- Rolling on bushes was the key to chaining survivable falls
+
+**Vehicles:** Ambulance with ped on roof, helicopter targets, flying hover car  
+**Design takeaway:** Testing quirky physics folklore makes good bite-sized challenges and sandbox discovery.  
+**Video:** [I survived this 36,000 ft fall using TIKTOK HACKS](https://www.youtube.com/watch?v=lI8nQnfeLIQ)
+
+### Thick vs Thin Modded Car Course
+
+One segment of a compilation: modded ultra-wide and ultra-thin cars attempt ramps, a cheese-slice gap the exact width of a car, a spinning tube section, popping balloon gaps, a stalking windmill, and a final tightrope/chassis-slide. Some sections require the widest car, others the thinnest.
+
+**Issues & surprises**
+
+- The ultra-thin car drove like a motorcycle that barely balanced
+- The ultra-wide car's wheels fought each other and it could not right itself if flipped
+- A moderately wide car was the best compromise for most sections
+- A wide supercar could be balanced on a narrow beam by keeping the spoiler centered
+- Too much power on the wide supercar spun the tires out
+
+**Vehicles:** Absurdly wide and absurdly thin modded cars, wide limo, wide trike, wide supercar  
+**Design takeaway:** Exaggerating track width and body width reveals how stability, steering and recovery scale with vehicle dimensions.  
+**Video:** [Testing 100 Cars in GTA 5](https://www.youtube.com/watch?v=OZmq21Q7CTw)
+
+### Triangle-Wheel Points Challenge
+
+Vehicles fitted with triangular wheels compete in point events: a timed turning course, tall slanted stairs, stepped stairs with widening gaps, a slippery slide climb, and a rising runway with speed bumps ending in a tiny launch window through a gap. Each event won is one point.
+
+**Issues & surprises**
+
+- The trike was nearly undrivable on flat ground (tipping and ejecting him) yet was the best climber on steep stairs, even hopping the barrier
+- One car drifted endlessly even at near-zero speed
+- Triangle points bite into steps like pull-ups but lose momentum slowly, so timed climbs were tight
+- On stepped gaps a slow start worked better than a run-up, which caused endos
+- On the rising runway, keeping only two wheels on the speed bumps and using about 95% throttle hit the sub-second launch window
+
+**Vehicles:** Trike, spiked-tyre monster car, supercar/open-wheel car, four-lobed 'quad triangle' car, all on triangular wheels  
+**Design takeaway:** Odd wheel geometry inverts vehicle strengths, so a terrain-varied points format lets terrible road cars shine on rough surfaces.  
+**Video:** [Can triangle wheels climb stairs?](https://www.youtube.com/watch?v=AhY7Jxoyh2E)
+
+### Variable-Time-Scale Mega Water Slide
+
+An extremely long slide split into segments with different time scales: a fast-motion part, a slow-motion section where gunfire recoil is used to steer onto a moving platform, and later spinning blades and a teleport loop.
+
+**Issues & surprises**
+
+- Fast-motion made steering need tiny precise stick input
+- In slow motion there was no friction, so he used gun recoil to move
+- A gunman on the platform added pressure
+- Hitting a green zone teleported him back to an earlier spot
+
+**Vehicles:** On foot sliding; pistol recoil  
+**Design takeaway:** Changing time scale per segment makes the same slide feel like different physics puzzles.  
+**Video:** [I found the world's tallest waterslide in GTA 5](https://www.youtube.com/watch?v=JsZChduCiaM)
+
+### Vehicle Domino Chain Triggers
+
+Three domino boards where rows of vehicles (limos, Chargers, jets, tanks, fire engines) must be toppled in a chain; the last domino lifts a barrier or removes a teleporter to progress. Falling off resets everything.
+
+**Issues & surprises**
+
+- A bicycle could not topple a heavy domino, but a scooter could
+- Hitting dominoes square was key
+- Explosive barrels did not always go off
+- A ramp car could drive under a row of jets
+- Hummer limos toppled especially well
+
+**Vehicles:** Liberator, motorcycle, ramp car, bicycle, scooter, Wastelander, tanks  
+**Design takeaway:** Domino chains of real vehicles are a satisfying physics showcase and puzzle gate.  
+**Video:** [Testing Tanks vs Satisfying Car Dominos in GTA 5](https://www.youtube.com/watch?v=sq9C4m6jzHI)
+
+### Vehicle Logic Puzzle Rooms
+
+Five puzzle rooms: pick the vehicle that fits a shaped hole, stack crates and ramps to get over a wall, use an NPC-driven bike, use the ramp buggy and tools to reach a tightrope, then a high-speed run picking gates by mixed colour where wrong picks reset you.
+
+**Issues & surprises**
+
+- The motorcycle fit the slot but its exhaust didn't
+- Had to pop a wheelie early to climb improvised ramps
+- An NPC drove the bike off line
+- A glass gap blocked opening a parachute as an anti-cheat
+- Wrong colour gate sent him all the way back to the start
+- Speed had to be maintained across all gates
+
+**Vehicles:** Small car, motorcycle, muscle car with jump, ramp buggy, crates  
+**Design takeaway:** Puzzle rooms that ask players to pick or arrange vehicles and props reward understanding of vehicle dimensions.  
+**Video:** [i beat this impossible 1000IQ challenge](https://www.youtube.com/watch?v=LLmRc8DEFpY)
+
+### Vehicle Physics Myth Tests
+
+A set of viewer myths tested one by one: launching a person over helicopters with jet blast, whether the Cargobob can lift the smallest and largest cars, which weapon pops the Ruiner parachute, whether a tow truck can tow a chain of tow trucks without slowing, whether any car can drive a 6-ft-wide wall ride, whether a dunked car still works, and whether the Deluxo in hover mode can tow a tow truck.
+
+**Issues & surprises**
+
+- The Cargobob hook simply would not attach to the tiniest or biggest vehicles, regardless of weight
+- Only the flare gun could pop the Ruiner's parachute
+- A chain of several tow trucks behind one tow truck caused no speed loss at all
+- Most vehicles could not tow a tow truck, but the hovering Deluxo towed it easily
+- A car dunked in water became undriveable yet also indestructible
+- Lifting off the throttle when the 'tired' effect hit prevented sudden swerves
+
+**Vehicles:** Hydra engine launch, Cargobob, Ruiner, tow trucks, T20, Bandito, Deluxo, Draugur, 6-wheeler  
+**Design takeaway:** Myth-busting style tests are an easy way to reveal and show off edge cases in towing, lifting and attachment systems.  
+**Video:** [Busting impossible myths in GTA 5](https://www.youtube.com/watch?v=HNjC6Tq-thI)
+
+### Vehicle Trampoline Acrobatics
+
+Custom trampolines bounce cars: chain jumps across rotating trampolines, drops from higher platforms onto ever-smaller trampolines, a 180-degree spin bounce to return to the road, and ten rapid bounces past three windmills. Each event is worth a point.
+
+**Issues & surprises**
+
+- Cars bounce in the direction their nose faces when they hit, so orientation matters more than speed
+- The light motorcycle didn't bounce better; the unlikely heavy novelty car won the first event
+- Release speed had to rise step by step (about 30, 36, 46, 50+ mph) as the drops got higher and the trampolines smaller
+- An electric car reversing fast off the trampoline cheesed the 180 spin event
+- Keeping the car perfectly flat was essential; any tilt turned into wild barrel rolls, and mid-air yaw control helped
+
+**Vehicles:** Motorcycle, heavy 'wiener' novelty car with boost, Ocelot Virtue electric car  
+**Design takeaway:** Bounce surfaces that send you where you're pointing turn air control into the core skill, and are a fun new physics object for courses.  
+**Video:** [cars vs trampolines](https://www.youtube.com/watch?v=NkM98JAZY88)
+
+### Vehicle-Shaped Gap Through a Wall of Ragdolls
+
+He builds walls of tightly packed pedestrians with a vehicle-shaped gap cut out, then tries to drive or fly through without touching anyone. It escalates from a small car on the ground, to an ambulance off a ramp, to a bridge made of bodies, and finally a full-speed jet through a plane-shaped hole in mid-air.
+
+**Issues & surprises**
+
+- The ambulance caught much more air off the ramp than he expected, so the gap had to be moved up
+- Ragdolls sometimes stood back up or drifted into the gap
+- A light motorcycle had poor traction driving over a bridge made of bodies
+- Lining up the jet took hours of attempts; on one try the wings seemed to reattach after a crash
+- The instant replay doubled some ragdolls
+
+**Vehicles:** Microcar, ambulance, light motorcycle, jumbo jet  
+**Design takeaway:** 'Fit the vehicle through a cut-out silhouette' is an easy-to-read precision challenge that scales from cars to aircraft.  
+**Video:** [I completed an impossible obstacle challenge in GTA 5](https://www.youtube.com/watch?v=lh2b60Of7AU)
+
+### Vehicle-Through-the-Ages Event Tournament
+
+Vehicles from different eras plus a rideable deer compete in point events: gap jumps, breaking through box and plywood walls, speed bumps, an aerodynamic jump over wind turbines, braking on five surfaces after forced acceleration, and a two-point water crossing.
+
+**Issues & surprises**
+
+- The modern SUV was worse at breaking walls than the low Ferrari
+- A heavy monster vehicle ground through walls, especially in reverse
+- The luxury car was unexpectedly the most aerodynamic jumper
+- The deer stopped best on slippery surfaces and won the braking point
+- Only the monster vehicle could power through the water without flooding
+
+**Vehicles:** Deer (as a 'vehicle'), antique car, early compact, Beetle-style bug, Ferrari, heavy SUV, Rolls-Royce-style car, monster-style vehicle  
+**Design takeaway:** Mixing very different vehicle eras (and even an animal) in the same events makes stat differences obvious and entertaining.  
+**Video:** [100 Years of vehicle evolution in GTA 5](https://www.youtube.com/watch?v=gJ_jgeTa00U)
+
+### Viewer Myth-Busting Stunts
+
+Viewer-submitted 'you can't do X' myths turned into mini challenges: ejecting from a car onto a truck, gliding a Ruiner across the whole map by parachute, skydiving onto burning meteorites, outrunning your own rocket to an Oppressor, threading jets through windmill rows and tight holes.
+
+**Issues & surprises**
+
+- Ruiner parachute glide took over 11 minutes and needed a restart to plan a route
+- Jet missiles flew in unpredictable directions and helicopters dodged
+- Landing in tight holes was harder than flying through them; stalling helped
+- Super-run collisions knocked him out against walls
+- Opening a parachute too early let momentum smash him into the cliff
+
+**Vehicles:** Jets, Ruiner parachute car, Oppressor Mk II, cars and trucks, on-foot  
+**Design takeaway:** Community-sourced 'is this possible?' prompts give endless short-form challenges that showcase the extremes of your physics.  
+**Video:** [Busting 500 Myths in GTA 5](https://www.youtube.com/watch?v=Naf0SgqlHcc)
+
+### Wall-Grinding vs Clean Cornering Tests
+
+Timed tests compare taking a corner cleanly against grinding along a barrier: a 135-degree turn, a 40-degree zigzag snake track, mid-air grinds against walls between gaps, and a boost arena where he must follow a white line while choosing between barriered and open turns.
+
+**Issues & surprises**
+
+- Most cars flipped or wall-rode when grinding the low (about 3 ft) barrier; one low car ground perfectly and was clearly faster
+- On the zigzag, bouncing between barriers lost speed, so a clean no-barrier line won
+- Mid-air grinds against walls worked but stripped half the car each time; angling in from the right helped
+- In the boost arena, the longer barriered path kept speed better than the shorter open turn
+- Hitting a boost pad too hard flipped the car onto its roof with no recovery
+
+**Vehicles:** Assorted sports cars (one low car, a pink car, a 'gray' car)  
+**Design takeaway:** Deciding how wall contact affects speed (scrub vs redirect) is a meaningful physics choice, and courses can test it directly by offering 'grind vs clean line' options.  
+**Video:** [Does wall grinding make you turn faster in GTA 5?](https://www.youtube.com/watch?v=XnA11b7T_Rs)
+
+### Waterslide Vehicle Course
+
+Vehicles tackle a giant waterslide: launch furthest off the slide (distance markers), climb up the slide in 20 seconds, descend the slide before a windmill teleports in, ramp off the slide over a wall, push a boat up the slide, and finish a triple waterslide spiral with water spouts.
+
+**Issues & surprises**
+
+- The quad drove down the slide perfectly but was too slow to climb it
+- The compact car flew far but could not climb the slide at all
+- The pink supercar was fast but flipped onto its roof if it wall-rode too hard
+- A car could push the boat up only if its front bumper was undamaged
+- Water spouts on the spiral knocked cars off; an inside-outside line worked
+
+**Vehicles:** Brute bus, quad, Sherp, Jeep, limo, compact car, pink supercar, Vagrant-style buggy, wide car, 'Bulky' car  
+**Design takeaway:** Curved half-pipe surfaces like waterslides test wall-riding grip, centering and speed control in both directions.  
+**Video:** [Testing cars vs waterslides in GTA 5](https://www.youtube.com/watch?v=yRkcs1tGApo)
+
+### Wheel Camber Extremes Test
+
+Cars with different camber settings compete in events: increasingly banked L-turns within 40 seconds, growing speed bumps with an optional domino-flip gamble (upgrade like x10 engine speed or a downgrade airstrike), a 360-degree spin over a gap, and an icy slalom on a steep slope.
+
+**Issues & surprises**
+
+- Medium camber felt like driving on wax paper with steering lag; the most extreme camber unexpectedly gripped the banked turns
+- The domino gamble either gave a brief x10 engine boost or triggered an instant-kill bombardment
+- Extreme camber felt very smooth over speed bumps but still launched the car
+- The least-camber car won the 360 spin because top speed mattered more than slidey handling
+- Most extreme camber won overall, with the middle settings performing worst
+
+**Vehicles:** Cars with camber from slight to extreme (sedan, SUV, 'black ice' car, purple roll-cage car)  
+**Design takeaway:** Expose suspension geometry such as camber as a tunable with clear trade-offs, and add risk/reward gambles that grant temporary buffs or penalties.  
+**Video:** [Does camber make you a better driver in GTA 5?](https://www.youtube.com/watch?v=AzjIEcObzW8)
+
+### Wheel Type Damage Test
+
+Odd wheel types are scored on how much (or little) damage they do: drive across the roofs of two trucks without crushing them, cross a destructible curvy plywood bridge, climb through a trench of ragdoll bodies, and smash a 35-second strip of destructible speed bumps (pumpkins, glass, wood, tyres).
+
+**Issues & surprises**
+
+- Brick and big wheels crushed truck roofs like an accordion, making the surface uneven
+- Tiny wheels clipped through the car models and did unexpectedly heavy damage
+- Spring-loaded pogo-stick wheels did the least damage and won two events
+- Huge rubber tyres broke the plywood bridge even faster than saw blades; curb boosting made tiny wheels do worse
+- Pickaxe wheels climbed through the body trench and even sideways
+- Tiny wheels passed through some destructible props without colliding, which won the speed-bump event
+
+**Vehicles:** Cars with brick wheels, huge wheels, pickaxe wheels, tiny wheels, pogo-stick wheels, saw-blade wheels  
+**Design takeaway:** Surfaces that break or deform under the wheels are a novel way to reward light contact and suspension compliance instead of raw power.  
+**Video:** [Which wheels do the most damage in GTA 5?](https://www.youtube.com/watch?v=Nwq3itnGl_c)
+
+### Windmill-Deflected Grenade Puzzle
+
+Progress requires bouncing a thrown grenade off a rotating windmill blade so it flies up and destroys an unreachable wall or floor, then using the opened teleporter. Later stages add landing on a tightrope while doing it.
+
+**Issues & surprises**
+
+- Direct throws and placing grenades near walls were all deliberately blocked
+- The grenade had to be thrown immediately after pulling the pin to have enough fuse time
+- Many deflections went sideways or hit him
+- The final success was so fast he needed slowed-down footage to confirm it
+
+**Vehicles:** On foot; grenades  
+**Design takeaway:** Using a moving hazard as a deflector for projectiles creates a clever physics puzzle.  
+**Video:** [Top 100 FUNNIEST fails in GTA 5](https://www.youtube.com/watch?v=EE0gkQwgvV4)
+
+
+## Ramps, jumps & launches
+
+### Absurd Giant Object Jumps (cereal, tacos, burgers)
+
+A string of jumps over huge props: a cereal bowl that shoots out Froot Loops, a row of statues of the YouTuber, a stack of taco trucks behind a slow-down stick, explosive tankers and barrels, a giant burger pile, and a final Fast and Furious jump through a burning hoop on a moving plane.
+
+**Issues & surprises**
+
+- Projectile cereal sometimes knocked the car, but once it launched him higher
+- Slow-down sticks before the taco jump forced curb-boosting to regain speed
+- The F1 car cleared the explosive jump by inches, losing most of its body panels
+- Long vehicles fell off narrow landing pads
+- Supercar overshot landings, so precise speed mattered
+- The plane jump needed launch timing relative to the plane's wheel position
+
+**Vehicles:** Quad, side-by-side, a high-jumping sports car, F1 car, long burger van, supercar (winner)  
+**Design takeaway:** Add one reactive element (shooting props, slow-down sticks, moving targets) to each jump so speed alone isn't enough.  
+**Video:** [Cars vs Giant Cereal Bowl in GTA 5](https://www.youtube.com/watch?v=TyCAO5I8bkU)
+
+### Boat Ramp Jumps Across the Map
+
+A chain of giant ramp jumps across the map, each with a new boat-like vehicle, landing on small targets, jets or in other boats. Some sections include parkour on bottles and containers.
+
+**Issues & surprises**
+
+- Swamp boat unexpectedly flew a huge distance off the ramp
+- Whale vehicle drove upside down and lost traction
+- Sailboat sail changed handling noticeably
+- Fire storm section caused heavy frame drops
+- Ramped the yacht and landed inside another yacht
+- Fishing boat could frame-slide its hull off an edge
+
+**Vehicles:** Swamp boat, whale vehicle, sailboat, superyacht, fishing boat  
+**Design takeaway:** Ramping boats onto land targets mixes water and air physics in a fun way.  
+**Video:** [when you jump a $4,800,000,000 yacht across the planet in GTA 5](https://www.youtube.com/watch?v=j7-HZzN1a4Q)
+
+### Bouncy Tube Flip Sequence
+
+After a downhill warm-up, a series of escalating 99% boards where the car bounces and flips between separated tube sections. Throttle timing and flips decide whether you land the next segment.
+
+**Issues & surprises**
+
+- Gaps between the tubes meant you always had to bounce
+- Careful throttle timing mattered more than raw speed
+- He started using front flips on purpose to make progress
+- He tried first-person view, which didn't help
+- The fixed camera spun around and disoriented him
+
+**Vehicles:** Pink sports car  
+**Design takeaway:** Making flips a deliberate tool rather than a failure state gives air-control mechanics a reason to exist on a course.  
+**Video:** [I completed this 99.9% impossible precision race in GTA 5](https://www.youtube.com/watch?v=_7G319IpD90)
+
+### Car Catapult Bowling
+
+Drive into a catapult that launches vehicles at groups of NPC targets, Angry Birds style, with limited ammo cars. Ends with a flappy-style jumping car section and a wingsuit dive.
+
+**Issues & surprises**
+
+- Lower launches were more accurate than higher
+- Shifting weight steered the flight slightly
+- Small cars only took out one target each
+- Limited ammo meant planning the shots
+- Jumping car needed jump, pull back and fire at once
+
+**Vehicles:** Small cars, hot-dog truck  
+**Design takeaway:** Launching vehicles at targets with limited shots is a simple projectile-physics game mode.  
+**Video:** [i was launched towards innocent people at 1,230,698 MPH in GTA 5](https://www.youtube.com/watch?v=s3ButzF2OJk)
+
+### Cursed Ramp Jumps
+
+Strange ramps: a jump through a whirling hurricane of NPCs, a high-voltage ramp that flings cars unpredictably, a ramp with a U-shaped dip, a graveyard ramp with zombies and a tombstone hole, and a final spiral ramp that needs a half barrel roll to transfer to the landing.
+
+**Issues & surprises**
+
+- The human hurricane knocked cars and riders off, and even carjacked the motorcycle
+- The electric ramp was mostly luck, throwing cars left, right or up
+- Approaching the electric ramp from one side to the other improved the odds
+- A U-shaped dip in the ramp snagged bumpers if approached straight
+- Zombies hit back and launched the car
+- The spiral ramp needed exact speed plus a mid-air roll
+
+**Vehicles:** Half-car, motorcycles, trike, heavy armored car, convertible, 811 supercar (winner)  
+**Design takeaway:** A ramp that applies random forces adds unpredictability, but should leave a learnable sweet spot.  
+**Video:** [Cars vs Cursed Ramps in GTA 5](https://www.youtube.com/watch?v=gWhDy5QF1SQ)
+
+### Cursed Ramps with Special Rules
+
+Four themed ramps by different builders: a ramp blocked by a wall that drops only when a helicopter is shot down, a breakable glass ramp with police chasing, a human-tightrope ramp, and a gravestone-strewn ramp that must be driven in a boost-equipped hearse.
+
+**Issues & surprises**
+
+- Heavy rusty trucks shattered the glass ramp; only very light vehicles like a go-kart survived it
+- A short-wheelbase compact car handled the human tightrope best
+- The hearse's poor aerodynamics made it tumble at high launch speeds
+- Boost could be used mid-air to swing the tail and recover onto the ramp
+- Going slower and controlled beat full speed on the final ramp
+
+**Vehicles:** Weaponized car, apocalypse trucks, go-kart, clown car, compact 'mom's car', hearse with boosts  
+**Design takeaway:** A mid-air boost that can correct attitude gives players a skill-based recovery tool on long jumps.  
+**Video:** [Which cursed ramp gives you the highest jump in GTA 5?](https://www.youtube.com/watch?v=JQAR-mbeWxA)
+
+### Dragster Mega Ramp Points Contest
+
+Point-based ramp events for drag vehicles: a gapped crisscross mega ramp with a huge final jump, a wide ramp that shifts side to side ending in a diamond-shaped hole, a rotating clock-hand ramp where you must reach the tip, and a drag race against a jet whose missile destroys the landing bridge if it arrives first.
+
+**Issues & surprises**
+
+- The F1 car topped out around 130-147 mph and fell far short; the top-fuel dragster reached ~250 mph and could idle at 190
+- The dragster pulled left in the air, so he had to release angled hard to the right
+- On the shifting ramp the fast dragsters went too fast and overshot, so a drag bike with controllable release speed won
+- On the rotating ramp, outer radius moves faster, so slow vehicles fell behind; the top dragster had to lift off to avoid overshooting
+- Beating the jet needed constant curb boosting to a 300+ mph release; he hit a plane mid-air on one attempt
+
+**Vehicles:** Three-wheel dragster, F1 car, drag bike, 'Big Daddy' top-fuel dragster, boost go-kart/car  
+**Design takeaway:** Moving/rotating ramps flip the usual 'faster is better' rule and force players to manage speed, which suits straight-line vehicles with poor steering.  
+**Video:** [Dragster vs Jets in GTA 5](https://www.youtube.com/watch?v=7sXuhwCjeXU)
+
+### Drawing-Based Stunt Course
+
+A stunt course built from his crude MS Paint drawing: a mega ramp, curly spiral track, onion-ring loop, windmills, a water section and a final boosted launch into a giant figure's mouth. Checkpoints break up each drawn element.
+
+**Issues & surprises**
+
+- The mega-ramp gap required a full front flip with zero steering input; touching the wall killed speed
+- First-person camera made landings much worse
+- The onion-ring loop needed a mid-air transfer between sides
+- Final boosted launch was extremely sensitive to slight steering; he aligned using the hood ornament
+
+**Vehicles:** Stunt car, rocket-boost roller-coaster car  
+**Design takeaway:** Letting players sketch a layout that becomes a track is a fun user-generated-content hook.  
+**Video:** [Whatever I draw comes to life in GTA 5](https://www.youtube.com/watch?v=31Cl0MBPmvw)
+
+### Elemental Cars Matched to Themed Ramps
+
+Each modded elemental car has a distinct ability and each ramp was built with one car in mind; he tries cars on each ramp to find the match. Ramps include a crooked timed U-turn ramp, a dropping mega ramp with moving sections and a long final jump, a 'rush hour' ramp full of oncoming vehicles, and a wet ramp where bathers must be blasted aside.
+
+**Issues & surprises**
+
+- The rock car was slow with oddly low traction, but its huge mass let it bowl traffic out of the way on the rush-hour ramp
+- The ice-cube car with square wheels handled better than expected and won the mega ramp thanks to top speed and glide
+- The fire car's boost only recharged on the ground, so timing boosts was key; using it on humps launched it off line
+- The water car slid like it was on black ice and couldn't make the long jump, but its cannon was the solution for the wet ramp
+- Ramming obstacles with the fire car accumulated damage until it caught fire
+
+**Vehicles:** Earth (heavy rock car), Water (car with water cannon), Ice (square ice-cube wheels), Fire (rocket boost car)  
+**Design takeaway:** Pairing vehicles that each have one exaggerated trait (mass, grip, boost, tool) with courses designed around those traits makes a satisfying lock-and-key puzzle.  
+**Video:** [Elemental Cars vs Impossible Ramps in GTA 5](https://www.youtube.com/watch?v=6LeRbmXO2Vs)
+
+### Elemental Ramp Unlock Boards
+
+Five ramps themed on water, fire, earth, air and lightning; each must be unlocked by beating its themed challenge, such as bailing out of a car onto a bullseye island, threading small holes on a bike, fire launch pads and a wall ride made of wind turbines. The final small lightning ramp launches the car into space.
+
+**Issues & surprises**
+
+- Cars could not stop on the target, so he bailed mid-air and stacked wrecks as a barrier to stop on
+- A tendency to drift left caused many fails
+- A wall ride made of wind turbines included wall transfers and ribbon flips
+- The smallest, saddest-looking ramp gave the biggest launch
+
+**Vehicles:** Cars, motorcycle, wall-ride car  
+**Design takeaway:** Gate each launch ramp behind a themed skill challenge so the ramp becomes a reward rather than the whole content.  
+**Video:** [Which ramps gives you the longest jump in GTA 5?](https://www.youtube.com/watch?v=R_y9mrUX1UM)
+
+### Elemental Ramp Unlock Challenge
+
+Five elemental mega-ramps (water, fire, earth, lightning, air); to unlock each ramp you must clear a themed challenge, such as a fire-twist wall-ride transfer course, an upside-down invisible-floor course driven in top-down view, a motorcycle flight bouncing off Saturn's rings with fuel refills, and breakaway board jumps.
+
+**Issues & surprises**
+
+- Upside-down top-down section inverted controls and was very counterintuitive
+- Hitting the front of the car on a wall ride caused a skip; side contact was fine
+- Missing a refill pickup ended long flights
+- A long Hummer flew like a parachute but its length clipped gate signs
+- Two-loop 'cursed' ramp required a half barrel roll to transfer and stick the tires
+
+**Vehicles:** Supercar, flying motorcycle, Sherp, Hummer-style SUV, motorcycle  
+**Design takeaway:** Gating a showcase reward (the giant ramp) behind themed skill challenges gives structure to an otherwise simple 'who jumps furthest' test.  
+**Video:** [Testing Every Car vs 1,000,000 Ramps in GTA 5](https://www.youtube.com/watch?v=XJyKxnXUWUA)
+
+### Escalating Gap Jump Course
+
+Gaps of escalating width and style (geometric cut-outs, ball gaps, a 'buffet' of route options, teleporting markers, barrel sections) must be jumped. Cars are usable until destroyed and only one can finish; the last section needs a narrow car to slip past a crate.
+
+**Issues & surprises**
+
+- A big-tire truck bounced high but had poor traction and could not carry speed across later gaps
+- A block placed mid-jump interrupted trajectories
+- Some cars kept ejecting him on hard landings
+- Angled jumps off the biggest ramp nearly cost the run when a tire caught the edge
+- The winner had to be both a strong jumper and narrow enough for the final gap
+
+**Vehicles:** Rusty snow-chain car, armed car, big-tire truck, various cars with hydraulics  
+**Design takeaway:** Ending a jump course with a width check forces players to balance launch performance against vehicle size.  
+**Video:** [Testing Cars vs LARGEST Gaps in GTA 5](https://www.youtube.com/watch?v=rJmIM4n1_q8)
+
+### Escalating Loop Course
+
+Supercars attempt increasingly difficult loops: water-slide loops that grow 10x in size, loops followed by wall-ride jumps, Lego loops with chunks blocking the line, Lego loop 2.0, a razor-thin Minecraft sword loop, and a loop-of-loops finale.
+
+**Issues & surprises**
+
+- The landing pad was higher than the loop exit, requiring a wall-ride and corkscrew
+- Very low cars caught on every seam
+- Wind resistance tore off a rear shroud
+- Sword loop needed near-zero steering input; first person helped
+- One car could drive the loops in reverse, letting him build extra momentum
+
+**Vehicles:** Supercars incl. Batmobile, very low car, narrow car, reverse-capable car, pink car  
+**Design takeaway:** Loops scaled in size or thinness test downforce, speed retention and steering sensitivity in a very readable way.  
+**Video:** [Testing cars vs increasingly impossible loops](https://www.youtube.com/watch?v=iMi-JK4oiak)
+
+### Escalating Pit Jumps with Boss Pit
+
+Pits grow wider and stranger: narrow pits, LSD rave pits with teleporters, rescue pits, a smoothie blender pit, windmill pits, and a final canyon crossed by a train that must bounce off a boat.
+
+**Issues & surprises**
+
+- A car got stuck in the narrowest pit
+- A motorcycle flipped wildly over the smoothie pit
+- A long, fast 4WD car combined all the needed traits
+- The wide smoothie pit could be wall ridden
+- The train bounced off a boat to cross the canyon
+
+**Vehicles:** Various cars with hydraulics, motorcycle, long 4WD car, six-wheel truck, train  
+**Design takeaway:** Boss-style finale obstacles can reuse earlier vehicles in surprising roles like a train jump.  
+**Video:** [Testing trains vs MASSIVE pits in GTA 5](https://www.youtube.com/watch?v=xON9__yJ1M8)
+
+### Escalating Ramp Angle Points Series (30 to 90 degrees)
+
+Point events on increasingly steep ramps: a 30-degree ramp broken into shrinking, offset ramp segments ending in a tiny gap; a ramp that steepens over its length until the car floats off it; a 60-degree ramp race where he must overtake an AI car carrying the teleporter; and a vertical 90-degree drop lined with launchers.
+
+**Issues & surprises**
+
+- Low supercars lacked clearance for the segmented ramp gaps; a tall Baja buggy with good air control won
+- On the steepening ramp cars lost contact and floated above the surface
+- The 60-degree overtake needed about 340 km/h plus curb boosting; the AI rival cars glitched and spun
+- The open-wheel car's downforce let it stick to the vertical wall and even reattach after being knocked off
+- Best strategy on the 90-degree wall was to lift off the throttle and coast, since slight launcher contact meant death
+
+**Vehicles:** Dump truck, lawnmower, hatchback, low supercar, trike, hot dog van, Liberator, Humvee, Baja buggy, open-wheel car, carbon-fibre hypercar  
+**Design takeaway:** Ramp angle as the single escalating variable gives a clean difficulty ladder that tests clearance, air control and downforce in turn.  
+**Video:** [Cars vs sharpest ramps in GTA 5](https://www.youtube.com/watch?v=NO8F8NxTj5Q)
+
+### Extra-Long Motorcycles on Steep Ramps
+
+Timed ramp events: a 30-degree crisscross ramp that narrows, a 40-degree ramp with growing gaps, a 50-degree reverse ramp lined with slowdown 'pimples', and a 69-degree ramp with neon holes and katana blades. Each needs the right bike to finish in time.
+
+**Issues & surprises**
+
+- The longest bike wheelied permanently and once launched itself to 300 mph and out of the map
+- A normal bike won the narrowing ramp at a steady mid speed (about 100-160 mph), not full throttle
+- Bouncing the long bike's tail let it hop the widening gaps; it hit about 170 mph in the air
+- With all wheels down the long bike drifted wildly, but it drove surprisingly well backwards, which won the slowdown-stick ramp
+- Small bikes spun out at the slightest turn on steep slopes
+
+**Vehicles:** Multi-wheel extra-long motorcycles, in-line three-wheeler, normal motorcycle  
+**Design takeaway:** Very long multi-axle bikes have strange emergent handling (stable wheelies, good in reverse) that can be designed around for specific courses.  
+**Video:** [Longest Bikes vs Sharpest Ramps in GTA 5](https://www.youtube.com/watch?v=TOSlLsAjzaM)
+
+### Giant Object Jump Course
+
+Jump over or through giant custom-built objects: an animated toilet with a lid that slams, a giant molecule, a nuclear reactor with a whale spinning in a thumbnail hole, a pumpkin ringed by ghosts that teleport you back to the start, Optimus Prime with a laser, and a dragon whose mouth is the final hole lined with fire.
+
+**Issues & surprises**
+
+- The toilet lid animated shut and knocked cars back
+- Keeping speed off one landing into the next ramp was essential
+- Touching a ghost teleported the car back to the start
+- The Banshee underperformed expected top speed
+- The dragon's mouth had fire that killed the engine on contact; only a clean shot through could roll to the end
+- The ramp tended to push cars to the right, so he aimed left
+
+**Vehicles:** Bumper car, sports car, mom's car, two-stroke car, fire truck, 69-mobile, Wastelander, Sprunk truck, Banshee, a bullet-like supercar (winner)  
+**Design takeaway:** Distinctive landmark obstacles with one twist each (animated lid, teleporting ghosts, fire) keep a simple jump course memorable.  
+**Video:** [Cars vs GIANT TOILET in GTA 5](https://www.youtube.com/watch?v=NCGszzf33eE)
+
+### Giant Prop Jump Gauntlet
+
+A chained series of mega-jumps over absurd giant props: a stadium-sized frying pan of eggs and bacon, a stack of spinning helicopters, a Chernobyl-style reactor with pipes, nuclear missile launch site, a soda-can bowling-pin tower and a final alien-ship hoop. Each cleared jump leads straight into the next, and the vehicle that clears every jump wins.
+
+**Issues & surprises**
+
+- Rolling giant egg yolks act like homing projectiles that knock cars off their line
+- Helicopter rotor blades swat cars sideways and can outright kill a bike rider
+- The motorbike unexpectedly cleared the helicopter stack that most cars could not
+- Landing gaps right after jumps (train tracks, pipes) punish cars that do not stick the landing
+- Light props like toxic-waste canisters sometimes fly away, other times stop the car dead
+- He found a gap to go through the soda tower instead of over it, a route the designer did not intend
+
+**Vehicles:** Three-wheeler, fire truck, Raptor, motorbike, Baja buggy, boost cars, electric car, supercars  
+**Design takeaway:** Chain themed jumps so speed carried out of one landing becomes the run-up for the next, making clean landings as important as the launch.  
+**Video:** [Cars vs egg and bacon in GTA 5](https://www.youtube.com/watch?v=-CyXomQePXk)
+
+### Golf Cart Length Variants on Ramps
+
+Golf carts of different lengths score points on growing gap jumps (each about 1 m wider, with slowdown strips after every jump), a down-left-right ramp sequence with moving platforms, a timed curvy road of irregular speed bumps, and a 44-second downhill rally past deer.
+
+**Issues & surprises**
+
+- Most carts failed at gap six; only the extremely long cart, nearly as long as the gap, bridged it
+- Pressing a key made the longest cart's rear float, so lifting off just as the rear wheels left the edge let it glide
+- Slowdown strips caught the long cart's front early and cut its speed
+- The standard cart won the moving-platform ramps; a slightly longer cart handled the speed bumps and the downhill best
+- Deer on the course seemed immovable and just slid when hit
+
+**Vehicles:** Golf carts from standard length to extremely long multi-row versions  
+**Design takeaway:** Stretching a single vehicle shows how wheelbase trades gap-bridging and stability against turning, and a mid-length option ended up the best all-rounder.  
+**Video:** [Long Golf Carts vs Ramps in GTA 5](https://www.youtube.com/watch?v=gczmr9HuZ7A)
+
+### Golf-Cart Warm-Up Ramps
+
+The warm-up: ramps and obstacles in a golf cart with almost no traction, next to wind turbines. It ends when he reaches the finish despite flipping.
+
+**Issues & surprises**
+
+- The golf cart had almost no grip on the course surfaces
+- He tried driving it backwards
+- Wind turbines were the main hazard
+- He technically finished after flipping and crashing
+
+**Vehicles:** Golf cart  
+**Design takeaway:** Putting a low-power utility vehicle on a stunt course is a quick comedy challenge that shows how far the handling model can stretch.  
+**Video:** [I completed this 0.01% impossible tightrope race in GTA 5](https://www.youtube.com/watch?v=qGAe_9tKlWg)
+
+### Impossible Loop Variations
+
+A run of unusual loops: loops that get thinner, a rainbow loop with uneven segments, a tube loop, a pulsing thumbnail hole, half-loop transfers, a 'strangle' tightening loop, an onion loop-in-a-loop, a sideways drift loop, and finally a loop built from yachts taken on by a train.
+
+**Issues & surprises**
+
+- Tiny gaps between rainbow loop segments threw the suspension and wheels around
+- The F1 car, normally good at loops, couldn't get enough distance off the exit
+- Top speed was the bottleneck on the tube loop; handling was the bottleneck elsewhere
+- A thumbnail hole pulsed back and forth, so passing it was partly luck
+- The winning car balanced top speed and steering
+- The yacht loop was surprisingly smooth for the train
+
+**Vehicles:** Limo, quad, F1 car, Canis off-roader, high-speed supercar, a balanced sports car (winner), train for the finale  
+**Design takeaway:** Vary the loop's shape, width and surface rather than just size to test both top speed and handling.  
+**Video:** [Testing Trains Vs Impossible Loops in GTA 5](https://www.youtube.com/watch?v=IpG1jr15NRU)
+
+### Interplanetary Ramp Jumps
+
+Long ramps launching over Neptune, bouncing off Earth with the Moon as an optional rebound, jumping through an opening-and-closing Uranus, chaining boost-jump-turn sequences over Saturn, and hopping between teleporting planes inside Jupiter.
+
+**Issues & surprises**
+
+- Tires evaporated on the long launch ramp
+- Airtime was so long that timing had to account for planet orbits seconds ahead
+- A favorable Earth bounce made the Moon unnecessary and overshot the target
+- Getting back in line mid-air caused uncontrollable spinning
+- Planes teleported backward periodically, requiring timing to land on them
+
+**Vehicles:** Assigned cars, rocket car, flying motorcycle  
+**Design takeaway:** Very long airtimes let designers add mid-air decisions (boost, re-aim, land on moving targets) instead of a single launch moment.  
+**Video:** [Cars vs Ramping Planets in GTA 5](https://www.youtube.com/watch?v=bsvvje6yipE)
+
+### Inverted Ramp Unlock Challenges
+
+Four inverted (overhanging) ramps grow 10 degrees steeper each; to unlock each one he must finish a challenge with a set car. Challenges include a branching wall ride with a beer-bottle leapfrog and spinning bottle, a food-and-drink maze where drink walls are passable but food walls are solid, a carousel and loop transfers.
+
+**Issues & surprises**
+
+- Multiple-choice routes included decoys and hidden trolls blocked by invisible walls
+- The bottle leapfrog needed all four tires on each bottle and exact speed
+- Soft suspension made the rear swing on hops
+- The drink/food wall rule was a hidden logic puzzle
+- Loop transfers reversed left and right, relying on muscle memory
+- The final ramp launched the car so fast the wheels vanished
+
+**Vehicles:** Assigned unlock cars: a soft-suspension car, then a supercar, then a loop car  
+**Design takeaway:** Gate spectacle ramps behind skill challenges tailored to a specific vehicle so each unlock feels earned.  
+**Video:** [Testing Cars vs Inverted Ramps in GTA 5](https://www.youtube.com/watch?v=WBIH2nq-8Ww)
+
+### Jump Into Monster Planet Mouths, then Outrun Jupiter
+
+One car must clear every stage: ramp jumps into the open mouths (or eye) of orbiting, moving planet props, a laser-eyed planet, two planets to hop in sequence, jumps over ever-wider planet mouths, and finally a long, twisting space road chased by a 'stalking' Jupiter with limited visibility.
+
+**Issues & surprises**
+
+- Planets orbit, so release timing mattered as much as speed (about 77-94 mph)
+- Planets looked closer than they were, so he kept falling short
+- A forward lean in the air fixed one jump; a spoiler car with more aerodynamics was the first to succeed
+- One stage's teleporter was hidden in the planet's eye, not its mouth
+- The final chase needed a car with very high acceleration and memorising every curve, taking about 15 minutes of attempts
+
+**Vehicles:** Novelty 'space' car, high-downforce spoiler car, yellow sports car, Globe Oil race car, white/black supercar (#9)  
+**Design takeaway:** Moving ramp targets combined with a pursuit finale tests both precise launch control and sustained speed in one run.  
+**Video:** [When planets wake up in GTA 5](https://www.youtube.com/watch?v=gbHG2YzMGqQ)
+
+### Jump-Ability Vehicle Tournament
+
+Events for vehicles with a jump ability: vertical jump height on a marked wall, breaking through a plywood ceiling within 30 seconds, longest jump over a chasm past a windmill, counting jumps in a fixed time, launching a pedestrian off the hood to knock a ball off a wall, and jumping over hurdles during a wall ride.
+
+**Issues & surprises**
+
+- Jumping slightly earlier on approach gave the Scramjet the extra height to reach level nine
+- Only one dense small car could break the plywood ceiling; the Ruiner and Scramjet bounced off
+- All jump vehicles recharged their jump at the same rate, so the count test was a tie
+- Standing the pedestrian on the nose of the Scramjet let the car's tail flick her highest
+- Arcing upward on the wall ride before jumping kept the car on the wall
+
+**Vehicles:** BMX, RC car, small tank, jumping motorbike, Ruiner, small pink jump car, Scramjet  
+**Design takeaway:** If vehicles have a jump ability, test it in several ways (height, distance, breaking through, recharge rate) since one number won't capture it.  
+**Video:** [Which car can jump the highest in GTA 5?](https://www.youtube.com/watch?v=hfyE2zwhiUI)
+
+### Jump-and-Thrust Rocket Car Course
+
+Course for a car with jump and rocket thrust: misaligned tubes, launch cannons, wall rides with transfers, upside-down road sections and hoops. Success depends on sequencing jump, pitch and thrust.
+
+**Issues & surprises**
+
+- Needed an air turn of about 90 degrees between misaligned tubes
+- Car's nose dropped in the air
+- Jumping threw the back end out
+- Car drifted off-centre as it gained speed
+- Discovered two thrusts could be chained in one jump
+- Upside-down sections needed first person
+
+**Vehicles:** Rocket car with jump and thrusters  
+**Design takeaway:** Air-control abilities such as jump plus thrust make a course about sequencing inputs rather than speed.  
+**Video:** [i completed this legendary jump through hole challenge and this happened](https://www.youtube.com/watch?v=R7AOxCM_hDk)
+
+### Lava Pit Jump Series
+
+Players jump a series of lava pits: a plain one, one with roaring fire effects, one with whales tossed up from the lava, one with Terminators on crane wires that must be threaded through, a pit with a central pillar, abstract lava and a boss volcano pit. Lava and nearby fire ignite vehicles and tires.
+
+**Issues & surprises**
+
+- Fire effects ignited cars from a distance, and the open bumper car was oddly more fire-resistant than a motorcycle
+- Burning tires popped one by one; finishing on rims was common
+- Whales randomly knocked cars back across or into the pit
+- Crane wires had collision and stopped cars mid-air
+- Side routes and wall rides were blocked with teleporters and jets
+- Hydraulics timing at takeoff was the key to the pillar pit
+
+**Vehicles:** Bumper car, motorcycle, winter car with chains, supercar, armored car, amphibious car, fire truck with boost, six-wheeler, armored fast car (winner)  
+**Design takeaway:** Heat damage that degrades tires over time adds a ticking clock to an otherwise simple jump challenge.  
+**Video:** [Which car survives the lava pit in GTA 5?](https://www.youtube.com/watch?v=GQhi-MZkRo8)
+
+### Lego Cars vs Lego Gap Jumps
+
+Lego-built cars jump increasingly wide gaps on a course made entirely of Lego bricks, ending with a gap blocked by a spinning 'Lego tornado'. Hydraulics are used to pop over the gaps.
+
+**Issues & surprises**
+
+- The studs on the bricks had real collision and acted like constant speed bumps
+- Some cars could not even get off the Lego launch pad
+- Frames bent easily, which ruined handling
+- Hitting the edge of a stud right on center still threw the car into a flip
+- He watched the tornado's pattern for a long time to time the final jump
+
+**Vehicles:** Lego tank car, Lego fire truck, Lego police car, Lego sports car, low-slung Lego car  
+**Design takeaway:** Textured surfaces whose micro-geometry has real collision change how every jump and run-up behaves.  
+**Video:** [Lego Cars vs GAPS in GTA 5](https://www.youtube.com/watch?v=YcR_VSfdlno)
+
+### Long Cars vs Novelty Ramps
+
+Long vehicles jump stair-ramps across gaps, a rotating '69' ring jump, multiple-choice dancing ramps, and a ramp power-up section where a ramp spawns on demand to bridge gaps.
+
+**Issues & surprises**
+
+- The bus left the ramp too slowly to clear anything
+- The hearse climbed stairs well but fell short on the third gap
+- Bottoming out on landing lost the speed needed for the next ramp
+- Spawned ramps gave inconsistent boost, so landing spots varied
+- A short car flew further than expected, which meant approaching slower
+
+**Vehicles:** Bus, pink hearse, long truck, loaded money truck  
+**Design takeaway:** Player-placed ramps as a limited power-up add planning to jump challenges, but their boost has to be consistent.  
+**Video:** [Testing Long Cars vs Ramps in GTA 5](https://www.youtube.com/watch?v=TFGHa1snhIU)
+
+### Long Vehicles Halfpipe Ramp Series
+
+Long vehicles compete in halfpipe events: a mega drop launching off a halfpipe lip toward a scoring platform, a narrow halfpipe with immovable BMX bikes to slalom past, a series of jumping halfpipe ramps, and a chain of mega halfpipe transfers to an offset final tube.
+
+**Issues & surprises**
+
+- Very long cars got caught at the bottom of the transition and could not launch; one launched better going backwards
+- Some cars kept speed while airborne, and a forward lean extended distance
+- Physics glitches sometimes abruptly reversed a car's trajectory mid-air
+- The BMX obstacles were completely immovable and folded car fronts on contact
+- The long military vehicle finally scored because it was too long to fall into the gaps of the jumping halfpipes
+- The final transfer tube was offset, so the last ramp needed a full loop to line up
+
+**Vehicles:** Extra-long stretch cars, limo, boost/jump vehicle, fire truck, armoured vehicle, long military vehicle, grey sedan, Hummer  
+**Design takeaway:** Halfpipe launches expose how wheelbase interacts with transition radius; long vehicles need tuning or they bottom out at the base.  
+**Video:** [Testing long cars vs half pipes in GTA 5](https://www.youtube.com/watch?v=YlgWAqFix0U)
+
+### Long Vehicles vs Loop Courses
+
+Long vehicles attempt loop boards: a narrow tightrope loop made of props, chained upward loops where you jump from one to the next, and a spinning 360 loop that ends in a jump between helicopter rotors.
+
+**Issues & surprises**
+
+- The bus's low frame caught on everything in the narrow loop
+- Keeping enough speed to hop between consecutive loops was very hard, and traction disappeared
+- A teleporter set the loop spinning like a fair ride, so steering had to keep changing
+- The landing spot sat right in a helicopter's rotor path, and an invisible wall blocked shortcuts
+- A wide vehicle had little room on the narrow loop, but enough power made the difference
+
+**Vehicles:** Bus, armed pickup/truck, limo and other long vehicles  
+**Design takeaway:** Vehicle length and ground clearance make loops much harder; transitions between loops and moving loops push players to manage momentum.  
+**Video:** [Long cars vs loops in GTA 5](https://www.youtube.com/watch?v=5tSKj5AKkcM)
+
+### Long-Distance Jump Gauntlet with Thumbnail Holes
+
+A sequence of huge jumps: over Mount Chiliad past a rotating blimp, a pink/blue exploding 'gender reveal' jump, consecutive barge jumps over water, a long jump through a hole in a sign, a double hole, and a final gap jump guarded by moving windmills. A speedometer showed takeoff speed.
+
+**Issues & surprises**
+
+- Takeoff speed alone didn't predict distance; some fast cars had poor 'flight' while lighter cars carried further
+- The rotating blimp required timing launch to its orientation
+- Back-to-back jumps meant he had to land straight and keep momentum for the next ramp
+- Pitching the nose up then forward mid-air squeezed out extra distance
+- An electric supercar flew perfectly straight off the ramp, making precise lineups possible
+- The final gap needed curb-boosting for extra speed while dodging windmills
+
+**Vehicles:** Station wagon, armored sedan, Wastelander, boost/jump 'op' car, supercars, an electric supercar (winner)  
+**Design takeaway:** Chain jumps so landing quality feeds the next takeoff, and make in-air pitch control a skill that matters for distance.  
+**Video:** [Cars vs Longest Jumps in GTA 5](https://www.youtube.com/watch?v=7FAP_OOeJnQ)
+
+### Mega Ramps to Floating Boards
+
+Four colored mega ramps each launch the player to a different floating course: a slippery fruit-stand wall-ride, an invisible upside-down road driven in top-down view, and a moving ring-of-Saturn asteroid field ridden on a boost bike. Completing three unlocks a final 'black hole' ramp.
+
+**Issues & surprises**
+
+- Fruit-stand wall-ride surface was very slippery and one transition removed all steering
+- Upside-down driving with a reversed camera was disorienting until he flipped his own view to un-invert controls
+- Bike boost only refilled after touching down on a surface, forcing periodic landings in the asteroid field
+- He cheated past wall-ride sections with grenades and shortcuts; the designer had raised checkpoints to counter this
+- Flights from the ramps took minutes of airtime before landing
+
+**Vehicles:** Tuned cars, a 'sticky' car for upside-down driving, rocket/boost bike  
+**Design takeaway:** A launch ramp as a 'level select' leading to wildly different surfaces (sticky, slippery, moving) is a fun way to showcase physics variety.  
+**Video:** [Which ramp gives you the highest jump in GTA 5?](https://www.youtube.com/watch?v=774TTP3NzvE)
+
+### Meme Vehicle Ramp Points Contest
+
+Only joke vehicles compete for points over a series of ramp challenges: halfpipe ramps, jumping through a house under a low roof, a canyon bridge ramp blocked by a block moved by a train, Vinewood sign ramp, and a long potholed grass ramp ending in a huge jump with falling meteors.
+
+**Issues & surprises**
+
+- A rubbery-bouncing vehicle got surprising distance
+- Forklift was too tall even with forks lowered and was only useful for clearing other vehicles
+- Golf cart's roof cleared the low gap and won multiple points
+- One bucket vehicle seemed to defy gravity, getting distance no other could
+- Abandoned vehicles cluttered ramps for later attempts
+
+**Vehicles:** Tractor, pink cart, forklift, lawnmower, golf cart, bucket/cherry-picker vehicle  
+**Design takeaway:** Underpowered vehicles plus point-per-ramp scoring let each odd vehicle find a niche and keep the contest suspenseful.  
+**Video:** [Lawnmower vs Impossible Ramps in GTA 5](https://www.youtube.com/watch?v=uPkuaIsV3Co)
+
+### Meme Vehicles on Ramp Events
+
+Novelty vehicles score points on ramp events: a downhill mega ramp past 16 wind turbines, an accelerating escalator-like platform with a helicopter obstacle, a ramp you must be small enough to fit through, a thin notched ramp in 27 seconds, and a forward/back-moving ramp that splits.
+
+**Issues & surprises**
+
+- The golf cart reached about 106 mph on the downhill and an extra 10 mph made the difference on the jump
+- The camper van could exceed 120-185 mph downhill and won two events, including the final splitting ramp
+- The bus was surprisingly stable on the thin notched ramp at 150 mph
+- On the moving conveyor, any slide was unrecoverable because the surface itself moved at 60-100+ mph
+- The tiny fly car was too slow to matter but squeezed through the size-restricted gap
+
+**Vehicles:** Golf cart, fly-themed micro car and its bigger version, camper van, bus, lawnmower  
+**Design takeaway:** Underdog vehicles shine on downhill events where gravity evens out engine power, which makes for a good surprise moment.  
+**Video:** [Golf carts vs ramps in GTA 5](https://www.youtube.com/watch?v=KXaVp-XOXLY)
+
+### Meme-Creature Cars Jump Events
+
+Custom character vehicles, each with unique handling, compete in jump events: launching to kick a soccer ball through a goal, jumping between double spinning windmills, jumping onto a block pyramid to hit a target, getting past a pyramid of explosive bombs, and landing a long jump into a trash can.
+
+**Issues & surprises**
+
+- The ball had to go fully through the goal and break the barrier; ramping over it didn't count
+- Some parts of the vehicle models, like a giant foot, had no collision, so they passed through the ball
+- The goose bomber could bomb the explosive pyramid before landing, but an invisible wall stopped it from doing so early
+- The hover car drifted slowly in the air like a land speeder
+- He was surprised the custom meme cars handled well overall; the small wooden bat car won two events
+
+**Vehicles:** Novelty meme-character vehicles: shrimp-cat, sneaker shark, big-foot car (two versions incl. hover), wooden bat car, goose bomber with bombs  
+**Design takeaway:** Character-themed vehicles each with a gimmick (bombs, hover, weird hitboxes) can drive a light-hearted mode where each event favours a different gimmick.  
+**Video:** [They ruined GTA with brainrot](https://www.youtube.com/watch?v=hRSJJLmaIVM)
+
+### Moon Ramp with Jumping Cursed Cars
+
+Three steep ramps with narrow landings, rotating roller-coaster sections, alternating floors and a spiral, completed in odd cars with a jump ability, ending in a jump over a ramp placed on the moon.
+
+**Issues & surprises**
+
+- Jump car drifted and had weak grip on steep ramps
+- Jump recharges had to be timed between platforms
+- Rotating sections with missing pieces could be skipped by hopping through the middle
+- A boost after a landing would throw the car off the edge
+- Speed was essential on the final ramp where triangle obstacles were timed
+
+**Vehicles:** Cars with built-in jump ability, apocalypse car, boosted car  
+**Design takeaway:** A rechargeable car-jump with cooldown forces players to plan jump timing like a platformer.  
+**Video:** [Jumping MOON RAMP With Cursed CAR in GTA 5](https://www.youtube.com/watch?v=LzwyeYfOWR4)
+
+### Motorcycles on Impossible Ramps
+
+Point events for bikes: a downhill ramp that narrows to a roughly 12-inch tightrope, a steep wavy ramp with overhead emote signs where you must control your descent, a timed wavy neon ramp ending in a long jump, and a rotating ramp with trapdoors and walls where you must drop through a hole at the right moment.
+
+**Issues & surprises**
+
+- The chopper, rarely used, turned with tiny, precise inputs and was the first to clear the narrowing ramp
+- Wide tyres helped stay on the tightrope; twitchy sport bikes overcorrected
+- Tall bikes were clotheslined by the overhead signs; a low bike won the controlled descent
+- On the neon ramp, keeping to about 120-130 mph balanced staying on with beating the timer
+- Timing the drop through the rotating ramp's hole, then leaving as the ramp turned flat, was key to the final event
+
+**Vehicles:** Trike, chopper, pizza scooter, sport bike, drag bike, low blue/purple-tank bike, neon Shotaro bike  
+**Design takeaway:** Ramps with overhead hazards, narrowing widths and moving parts reward precise, low-speed control just as much as raw launch speed.  
+**Video:** [Testing bikes vs impossible ramps in GTA 5](https://www.youtube.com/watch?v=jOmdHG6cBLk)
+
+### Moving Bounce-Ramp Descent
+
+The warm-up: a descent down a chain of bounce ramps that constantly move, so you can't see where the next ramp will be when you launch. He tried both forward and backward descents.
+
+**Issues & surprises**
+
+- The ramps were never in the same place twice, so luck mattered a lot
+- He tried going down backwards for a better angle
+- Speed was needed despite the uncertainty
+- The camera after launch hid the next landing
+
+**Vehicles:** Sports car  
+**Design takeaway:** Moving landing targets add timing and prediction to jumps, but players need some way to see where the target is going.  
+**Video:** [I completed the impossible don't fall challenge in GTA 5](https://www.youtube.com/watch?v=dh_qkbqB3Ww)
+
+### Moving Ramps and Loop Transfers
+
+A board of rotating/moving ramps that must be timed to land on, followed by loops (including a series of 12 shrinking 'kid' loops) and a thinning rainbow spiral bridge, along with a mud donut test.
+
+**Issues & surprises**
+
+- Ramps moved on strict paths, so starting from the next ramp synced timing
+- A short-wheelbase roll-cage car turned superbly and shaved time via wall-riding
+- Loops got progressively thinner, punishing small drift
+- The Wastelander was the worst at mud donuts; an Outlaw dominated
+- Colored stop sticks required learning which color was safe
+
+**Vehicles:** Roll-cage short-wheelbase car, motorcycle, various  
+**Design takeaway:** Mixing timed moving ramps with thinning loops tests both planning and steering precision.  
+**Video:** [100 Cars vs Impossible Odds](https://www.youtube.com/watch?v=vh9GwPaYHdY)
+
+### Numbered Water Pothole Gap Run
+
+A long straight track interrupted by numbered water-filled potholes, each roughly a foot wider than the last (starting near 10 ft); falling in means drowning. Each vehicle is scored by how far down the numbered sequence it gets, with a teleporter at the end leading to further sections.
+
+**Issues & surprises**
+
+- Suspension-heavy offroaders kept getting launched higher and higher until they lost forward distance and fell short
+- Water splashes and tide surges between gaps bled speed unpredictably, so runs were partly luck
+- A very long many-wheeled vehicle did unexpectedly well because some wheel was always in contact and it could not drop into a hole
+- The previous champion Wastelander stalled around 15-16; the arena monster truck finally won by holding a wheelie, and the Rover later one-shot it
+- He found he could skip part of the course by climbing a rock formation
+- An ambient orca kept glitching onto the track and ruining runs
+
+**Vehicles:** Trike, Beetle, tracked vehicle, Baja/offroad trucks, muscle car, multi-wheel long vehicle, Wastelander, arena monster truck, Rover  
+**Design takeaway:** Number each gap with a steadily increasing width so every vehicle gets a clear, comparable distance score and a natural difficulty curve.  
+**Video:** [Infinite water pot holes in GTA 5](https://www.youtube.com/watch?v=-j2ApeEySSc)
+
+### Parachute Car Jump Course
+
+A long course for a car with a parachute and boost: hoops, power lines, moving platforms, explosive barrel landings, tubes and a hidden checkpoint in a cave, ending with a climb.
+
+**Issues & surprises**
+
+- Power lines did no harm
+- Car was rear-wheel drive
+- Explosive barrels blew up on landing
+- Hitting a tube wall lost the parachute
+- Backing up for a run worked better than full speed
+- Car had poor grip on the final climb
+
+**Vehicles:** Parachute and boost car  
+**Design takeaway:** A deployable parachute on a car adds a glide-and-aim phase to jumps.  
+**Video:** [I wrecked my car 1,558,674 times in GTA 5](https://www.youtube.com/watch?v=k6w2-ICdC-k)
+
+### Planet Jumps and Black Hole Escape
+
+Ramp jumps over increasingly large planets: a mini solar system, the Sun, Saturn with rising/lowering rings, threading through Saturn's ring gap, diving through Jupiter's storm eye, escaping an orbiting mini black hole, and finally landing on Florida on a rotating Earth.
+
+**Issues & surprises**
+
+- Bouncing off spherical planets deflected cars left or right
+- Forward lean plus curb boost was needed for distance, but the ring gap needed a level car
+- Jumping when Saturn's rings were low was essential
+- Jupiter's eye was a secret pass-through with a storm inside
+- Rocks in the black hole stage ruined balance
+- Rotating Earth required launching early so Florida arrived in time
+
+**Vehicles:** Space-themed car, T-top, Royale-style car, convertible, flying motorcycle  
+**Design takeaway:** Celestial-scale props make jumps visually spectacular, and rotation or orbit adds natural timing windows.  
+**Video:** [Cars vs Planets in GTA 5](https://www.youtube.com/watch?v=Xg7eNl1pqqg)
+
+### Planet-Hopping Orbital Jumps
+
+Points-based series of space themed stages: a 16-floor sky drop, falling miles to land through a small hole, jumping over spherical planets and Saturn's moving rings, landing on a rotating Earth's Florida, entering Jupiter's eye, and a timed Mars astronaut rescue on slow sand.
+
+**Issues & surprises**
+
+- Landing on curved planets bounced cars off to the sides, making distance hard to judge
+- Cars spun uncontrollably like frisbees after touchdown on small platforms
+- Forward lean and curb boosts were needed to clear the longest jumps
+- Rotating target planets required timing the launch early
+- Mars had slow-sand patches acting like slowdown sticks
+
+**Vehicles:** Ranger-style cars, flying motorcycle, T-top car, Mars rover  
+**Design takeaway:** Spherical and rotating landing surfaces add a fresh layer to jump challenges by making aim and timing matter as much as speed.  
+**Video:** [Cars vs Planet in GTA 5](https://www.youtube.com/watch?v=IStsK9g41Xk)
+
+### Ramp Car Points Tournament
+
+Upgraded ramp cars compete in events: a timed party-crash through cars, launching a car into a balloon, plowing a trailer park, a mid-air ramp transfer, clearing heavy Santa gifts off a road, and launching a whale back into the ocean. One point per event.
+
+**Issues & surprises**
+
+- The giant ramp truck had huge launch power but very poor accuracy and steering
+- The fastest ramp car was extremely fragile and its rear lifted so it could not turn
+- Many slim ramps could not lift trailers or gifts at all; the heavy objects simply stopped them
+- Ramp geometry acts as a physical collider; hitting a wall slapped the driver
+- Launched objects sometimes reset or teleported back, making the balloon trick shot confusing
+
+**Vehicles:** House-sized launcher ramp truck, classic ramp car, fragile carbon ramp car, tiny ramp car, various themed ramp cars  
+**Design takeaway:** Making the vehicle itself the launcher turns objects into projectiles, enabling trick-shot and cleanup tasks scored on power versus accuracy.  
+**Video:** [Upgrading Ramp Cars in GTA 5](https://www.youtube.com/watch?v=DrRbBlvJF0A)
+
+### Random Car Lucky Block Ramp Course
+
+A lucky block gives a random wheeled vehicle each time he activates it, and that vehicle must tackle a ramp course: a moving ramp that drives away, a build-your-own ramp section using a physics gun and props, a left/right ramp split, and a spiral of moving ramps to chain-jump. He keeps rerolling until a car can finish.
+
+**Issues & surprises**
+
+- Some random cars could not even fit onto the first ramp
+- Flipping props upside down made improvised ramps work better
+- A rear-wheel-drive sports car spun out repeatedly on the same section
+- No pulled car could jump, so a side-shunt ability became the workaround
+- Each chained ramp jump bled forward speed, so later jumps fell short
+
+**Vehicles:** Random pulls: tiny novelty car, Jeep, quad, Dagger, sports car, shunt-equipped car  
+**Design takeaway:** Randomized vehicle assignment forces players to adapt routes and tricks to whatever physics profile they get.  
+**Video:** [Testing lucky blocks in GTA 5](https://www.youtube.com/watch?v=2QzwyG89Wtc)
+
+### Recreating Famous Stunt Fails: Wheelie Target, Boat Drop, Car onto Moving Truck
+
+Real-life fail stunts recreated: wheelie a motorcycle off a ramp into scored colored zones, jump off a bridge into a moving boat, ramp a car onto the bed of a moving truck that dodges, and jump a motorcycle through a helicopter opening.
+
+**Issues & surprises**
+
+- The bike tended to whip around mid-air
+- He measured jump timing by counting platform lengths
+- Ragdoll on impact made boat landings fail
+- The target truck was programmed to swerve away
+- Aligning the helmet with the target hole helped aim the bike jump
+
+**Vehicles:** Motorcycle, boat, car, moving truck  
+**Design takeaway:** Scored landing zones of increasing difficulty give stunt jumps a replayable goal.  
+**Video:** [Impossible real life fails in GTA 5](https://www.youtube.com/watch?v=rFjgeXGWpX0)
+
+### Semi Truck with Trailer Ramp Course
+
+A long ramp course for semi trucks that must keep their trailer attached. Ramps get stranger: narrow diet ramps, wavy ramps, a destroyable ramp and improvise ramps, with unlimited truck respawns.
+
+**Issues & surprises**
+
+- The small delivery truck could not reach landing on the first ramp, while a faster pink truck with heavy trailer flew well
+- The trailer floated the rig for a moment and helped it land
+- Wavy ramps lifted the cab nose at speed, causing crashes
+- Trailers often tried to get flung off the course
+- The final ramp required dropping the trailer into a slot to use it as a ramp
+
+**Vehicles:** Various semi trucks with trailers, car hauler  
+**Design takeaway:** Articulated trailers can serve both as a handling burden and as a deployable ramp.  
+**Video:** [Testing Semi Trucks vs Impossible Ramps in GTA 5](https://www.youtube.com/watch?v=MySePQidlGA)
+
+### Seven Impossible Loops
+
+Seven loops: an abstract loop, a downward 'wet' loop through water, an icy corkscrew loop, an 'infinity loop' with a teleporter on one branch, unfinished gap loops requiring eight transfers, a giant loop, and a bacon loop.
+
+**Issues & surprises**
+
+- The icy corkscrew stopped almost every car; it took seven cars to complete legitimately
+- The bumper car hugged turns but couldn't do the flip transfers
+- Spoilers didn't help much on ice
+- The infinity loop's correct branch felt random; committing early to a side was best
+- Gap transfers were tilted, so cars had to leave from the right edge more than expected
+- Riding on top of a loop instead of inside was a failed shortcut
+
+**Vehicles:** Beer car, bumper car, sports car, piped-out off-roader, Wisconsin truck, 'tiny' spoiler car, T20 (winner)  
+**Design takeaway:** A loop made of a low-friction surface is a quick, clear test of grip and speed retention.  
+**Video:** [Testing Cars vs Impossible Loops in GTA 5](https://www.youtube.com/watch?v=sB6CN8zRySQ)
+
+### Shifting-Ramp Choice Jumps
+
+Ramp sections where the correct ramp switches sides as you approach, a giant soda/chip can obstacle course needing tight gap jumps, and a lightning stage full of NPCs attacking you while lining up a jump.
+
+**Issues & surprises**
+
+- The correct ramp changed sides mid-approach, requiring anticipation
+- Wide cars barely fit through can-gap 'thumbnail holes'
+- Crowds of NPCs repeatedly knocked him off before the jump
+- Curb boosting was required for extra speed
+
+**Vehicles:** Hummer-style SUV, motorcycle  
+**Design takeaway:** Moving or switching ramps turn a pure speed test into a reading-and-timing task.  
+**Video:** [Testing Every Car vs 1,000,000 Ramps in GTA 5](https://www.youtube.com/watch?v=XJyKxnXUWUA)
+
+### Skateboard Mega Ramp Stunts
+
+A skateboard course: three jumps over obstacles of rising height, then three trick ramps (backflip, 360 spin, upside-down 360) with narrow landing strips, a halfpipe that bounces across six trampolines, and three speed-boost ramps reaching up to 200 mph to land on distant targets.
+
+**Issues & surprises**
+
+- Crouching on the board gave a lot of extra speed (around 90-100 mph)
+- The board became very wobbly at high speed and launches curved left unpredictably
+- The landing zones were so narrow he had to go slower to avoid overshooting
+- Trampolines bounced him in exactly the direction he faced, so heading control was everything
+- The stunt-detection script sometimes failed a trick that had clearly landed
+
+**Vehicles:** Modded skateboard  
+**Design takeaway:** A small, light vehicle with a speed-boosting tuck stance and mid-air steering suits a trick-and-precision-landing mode.  
+**Video:** [Skating down the biggest ramp in GTA 5](https://www.youtube.com/watch?v=9mtEoGp47MU)
+
+### Super Bike Moon Ramp Boards
+
+A series of bike boards: dodging slowly closing solid clouds, a 40-second colour-changing staircase run, a narrow airhead-style strip course, and a 20-second timed final run that unlocks a moon ramp.
+
+**Issues & surprises**
+
+- Tron bike was fast but did not hug the track well
+- One bike bounced a lot, making obstacles harder
+- The timer started when crossing a line, preventing a long run-up exploit
+- Light braking was key for precision
+
+**Vehicles:** Modded Tron-style bike, other motorcycles, moon bike  
+**Design takeaway:** Short timers with anti-run-up start lines keep time trials honest.  
+**Video:** [Jumping MOON RAMP With SUPER BIKES in GTA 5](https://www.youtube.com/watch?v=_ElCPSefpsk)
+
+### Three-Route Mega Ramp with Teleporting Wall Ride
+
+A super ramp branching into three routes (left, forward, right) that must all be completed; one route is a long wall ride whose sections vanish and reappear high or low, another rolls a car into a moving box teleporter. Reward is an extremely fast car.
+
+**Issues & surprises**
+
+- Wall ride needed around 80 mph to stay stuck
+- Wall sections teleporting out from under him was new and brutal
+- Tube openings felt luck-based until he learned the high/low rhythm
+- A rotating clock hand screwed him through the wall
+- He knocked the box off its platform to reach the teleporter inside
+
+**Vehicles:** Boost car, wall-ride car, final wheel-less rocket car  
+**Design takeaway:** Branching routes that all must be cleared let one hub showcase several vehicle skills.  
+**Video:** [Jumping Space Ramp with WORLD'S FASTEST CAR in GTA 5](https://www.youtube.com/watch?v=97hWegCZk2E)
+
+### Throttle-Feathering Ramp Marathon
+
+A long ramp-heavy board with angled landings, slaloms into launches, a section of rollers where too much throttle ruins the landing, slow-down sticks before a distance-critical jump, and a chain of jumps where any lost speed means you can't make the next one.
+
+**Issues & surprises**
+
+- Full speed was wrong for one drop; letting off the gas about three-quarters of the way down was the answer after about 20 tries
+- A tiny tap of brake before a launch helped him land
+- Tree props cost speed and ruined later jumps
+- Gaps were tuned so tightly to available speed that any loss failed the jump
+- Landing nose-down instead of flat caused crashes
+
+**Vehicles:** Regular car  
+**Design takeaway:** Gaps tuned to just about the maximum speed you can carry make every earlier small mistake count, which rewards clean, consistent driving.  
+**Video:** [Speedrunning this 99.999% rage quit GTA 5 challenge caused me great pain](https://www.youtube.com/watch?v=wlpbuCLASvQ)
+
+### Through-the-Earth Boost Chain
+
+A course through the planet: underwater jumps between floating cans, then a flight sustained by touching 20 boost refill pads, then a standing-start wall ride and targets in a windmill core, ending with an eject.
+
+**Issues & surprises**
+
+- Boost refills only kept going if he stayed lined up
+- Could miss only one or two refill pads
+- Jumping too high missed holes, so he had to jump early
+- Had to pass through the core rather than land in it
+- Boost timing mattered more than raw speed
+
+**Vehicles:** Rocket-boost car  
+**Design takeaway:** A chain of in-air boost refills turns a long jump into a sustained flight with a thin margin.  
+**Video:** [Jumping MOON RAMP Into GIANT HOLE IN EARTH](https://www.youtube.com/watch?v=R_Ckk1haV4s)
+
+### Thumbnail Hole Precision Jumps
+
+A course of jumps into ever-smaller holes: a 'hole in one' where the car must land in a golf hole, narrowing 'Matrix' frames, a 'wrong hole' puzzle where only one shape is real, a moving bullseye, and a final ride on top of two moving box trucks to a finish target.
+
+**Issues & surprises**
+
+- Jump-equipped cars could cheat early sections but were too tall for the final frame
+- He lined up the hole using a specific reference point on the front left tire
+- Only one of the shape holes had an invisible corridor behind it; the rest were fakes
+- A car labelled 'winner' got stuck in a later hole, which was a trick
+- Riding the moving box trucks meant steering by leaning the car's weight
+- Thin and short cars were essential; height also mattered
+
+**Vehicles:** Tiny car, monster truck with jump, arena cars with jump, Batmobile, T20, a car called 'Slim' (winner)  
+**Design takeaway:** Fake routes and invisible paths add a puzzle layer to precision jumps, but need clear hints to avoid frustration.  
+**Video:** [Which car can fit through the smallest hole in GTA 5?](https://www.youtube.com/watch?v=wXlgjBoPmpQ)
+
+### Tiered Roller-Coaster Stunt Boards
+
+Five commissioned coaster-themed courses: a tilted tightrope, an awkward coaster with hidden boosts, pulsing ramps that appear and vanish, and a final board chaining jumps, boosts, wall rides and shooting targets to open paths.
+
+**Issues & surprises**
+
+- Ramps that materialize and vanish made the $100 board feel luck-based
+- Pitching the nose up slightly before landing kept the rear from bottoming out but cost speed
+- The finale had no margin for error between chained jumps
+- Hidden boost pads threw him off the track
+
+**Vehicles:** Stunt vehicle with boost, jump and rockets  
+**Design takeaway:** Pitch control before landing as a speed vs stability tradeoff is a rich stunt-driving skill.  
+**Video:** [$1 vs $1000 Roller Coasters in GTA 5](https://www.youtube.com/watch?v=Fdzns_93gf8)
+
+### Tiered Stunt Race Boards
+
+Five commissioned stunt boards: a trivial $1 ramp, an untested $10 rooftop jump sequence, a windmill board, a long wall-ride and transfer course, and a $1000 board that is fully pre-tuned so holding the throttle completes loops, roof-riding and chassis grinds automatically.
+
+**Issues & surprises**
+
+- The $10 board was never tested, with landings barely possible
+- Rear-wheel drive made rooftop landings slide away
+- Overshooting landings was as fatal as undershooting
+- The most expensive board was deliberately effortless and satisfying
+
+**Vehicles:** Rear-wheel-drive sports car, stunt cars  
+**Design takeaway:** A hands-off 'just hold gas' showcase track is a great reward after hard levels.  
+**Video:** [$1 vs $1000 STUNT RACES in GTA 5](https://www.youtube.com/watch?v=RQsPzOj578s)
+
+### Timed Launcher Pads Over Water Gaps
+
+Each water pothole contains a submerged launcher that periodically fires upward; the gap is too wide to jump, so the player must arrive at the right moment and speed to be thrown across. No checkpoint, so the whole sequence must be chained.
+
+**Issues & surprises**
+
+- Pure speed failed; he needed a specific approach speed (around 45-49 mph) plus a fixed start line to hit the timing window
+- Too much forward speed caused overshooting and sideways landings
+- Teleporting in did not create a checkpoint, so every earlier section had to be re-run each attempt
+- A final 'rapid-fire' section where the ground strips shrink between holes turned into skimming across the water like speed bumps
+
+**Vehicles:** Rover and assorted cars  
+**Design takeaway:** Combine a moving launch hazard with a target approach speed so success depends on timing and throttle control rather than raw top speed.  
+**Video:** [Infinite water pot holes in GTA 5](https://www.youtube.com/watch?v=-j2ApeEySSc)
+
+### Vertical Wall Leap and Two-Wheel Hoop
+
+A course nicknamed 'the sterilizer' that opens with a vertical wall-to-ramp leap needing one exact speed, then a fast launch off a tuning-fork ramp, a long jump onto a landing with water on both sides, and a section where you roll onto two wheels to fit through a flaming hoop.
+
+**Issues & surprises**
+
+- The opening leap only worked at one specific speed; anything else hit the wall
+- The long jump failed both by overshooting and by undershooting into water
+- He tried to skip the two-wheel hoop by ramping off the undercarriage, but had to do the real flip
+- Leaning the car's weight to one side wasn't enough to tip onto two wheels without a big flip
+- After a near-perfect landing he still slid off
+
+**Vehicles:** Sports car  
+**Design takeaway:** Jumps with a narrow speed window teach fine throttle control, especially when there is a speedometer or audio cue to aim for.  
+**Video:** [I completed this legendary vertical wall leap in GTA 5](https://www.youtube.com/watch?v=dpnFz5KiQ4I)
+
+### Viewer-Built Mega Ramps by Budget Tier
+
+Four community-made ramp courses at escalating 'budgets': a crude $1 ramp to a checkpoint, a $10 ramp into a breakaway barn wall, a $100 bumpy tightrope ramp through a windmill tower and thumbnail hole, and a $1,000 rotating carousel of four ramps where the right ramp must line up as you arrive, followed by a loop, channel and tightrope.
+
+**Issues & surprises**
+
+- The jank $1 ramp was hard to stay straight on; an off-road car's suspension fixed it
+- The slow amphibious vehicle could not get enough air to break the barn wall
+- A narrow car with precise steering alignment finally threaded the windmill tower
+- On the carousel, timing the start so the correct ramp rotated into place was the key
+- Invisible walls and a fake path on the carousel blocked shortcuts
+
+**Vehicles:** Off-road car, Sherp-style amphibian, supercar, ATV, narrow responsive sports cars, 'Royal' car  
+**Design takeaway:** A rotating carousel of ramps that must line up when you arrive is a great timing-based twist on a classic mega ramp.  
+**Video:** [$1 vs $1,000 Mega Ramp in GTA 5](https://www.youtube.com/watch?v=adfrnQ6siqw)
+
+### Volcano Jump Series
+
+Jumps over volcanoes that spew rock 'nuggets': baby, mama and 'drinking' volcanoes (one with a rising and falling liquid ramp), a bulging volcano to ramp off, a 'tourist' volcano with NPCs, a volcano that fires rocks like a chain gun, and a final boss volcano with a blender of rocks before a small landing pad.
+
+**Issues & surprises**
+
+- Early success sometimes came from being knocked forward by a rock at the right moment
+- Timing the liquid's rise and fall in the drinking volcano was key
+- Low undercarriages got hung up on volcanic chunks
+- Heat-seeking rocks chased the car
+- A wrecked car could still be driven back onto the track to retry
+- Curb-boosting gave the final few feet for the boss jump
+
+**Vehicles:** Red sports cars, money car, many-tired trucks, taxi-eating-taxi mod, boost car, roll-cage 'gray mobile' (winner)  
+**Design takeaway:** Hazards that sometimes help (rocks pushing you forward) add variety and reward reading physics as well as dodging.  
+**Video:** [Cars vs Volcanoes in GTA 5](https://www.youtube.com/watch?v=nnckCMh1K3o)
+
+### Water Slide Launches: Bodies then Vehicles
+
+Pick the right slide from three heights so the ragdoll body launches onto the next one, race AI sliders down a space-themed slide (with a 12-minute 'infinite' bonus slide), then drive vehicles down blue water slides and launch them between platforms.
+
+**Issues & surprises**
+
+- The right slide order (red, then yellow, then blue) wasn't obvious; wrong choices sent him back to the start
+- Hitting the slide at maximum air speed carried the most momentum
+- The go-kart slid perfectly and launched so far it overshot the course
+- The Sherp hit 116 mph on the slide and had to be slowed to land, then turned out to be too big for the last platform
+- A sports car reaching 130 mph won, helped by invisible walls on the platform tops that caught big jumps
+
+**Vehicles:** On foot (ragdoll), then a blue amphibious vehicle, go-kart, Sherp, a sports car labelled '27'  
+**Design takeaway:** Low-friction water slides that feed into launch ramps are a fun speed-control challenge where the vehicle with the best low-grip handling wins.  
+**Video:** [I found the longest Slip N Slide in GTA 5](https://www.youtube.com/watch?v=beD-1gOI2og)
+
+### Widening-Gap Jumps
+
+Gap stages: progressively wider gaps (adding 1.5 m each) with hydraulics disabled, an expanding and contracting gap, a Minecraft lava-block gap with a red/green pattern, a train gap where you ramp off passing train cars, and finally jumping Saturn's rings and a moving plane.
+
+**Issues & surprises**
+
+- Stopping between gaps killed momentum; keeping speed through all gaps worked
+- Contracting gap was purely timing-based with no checkpoint
+- Lava blocks followed a learnable red-red-green pattern
+- Some trains had no trailers, forcing a wait for the next one
+- A car with weak brakes couldn't stop before fire
+- Hydraulics jump timing had to be perfect for the final gap
+
+**Vehicles:** Toad AWD car, Wastelander, digital-paint car, classic 'OG' car  
+**Design takeaway:** Combining moving launch platforms (trains, planes) with gap jumps adds timing and makes each run feel different.  
+**Video:** [Testing cars vs wider and wider gaps in GTA 5](https://www.youtube.com/watch?v=mJklMKP49Eg)
+
+### Wonders of the World Jump Course
+
+Linked jump stages themed on landmarks (Stonehenge, Great Wall, Titanic, Big Ben, Eiffel Tower, pyramids, Chichen Itza), each ending in a teleporter to the next. Some have moving hazards like a spinning iceberg, clock arms, hovering helicopters or timed beams.
+
+**Issues & surprises**
+
+- Checkpoints only counted when passed in a vehicle, and swapping cars meant going back to the start
+- A smokestack leaning to one side made one approach line much worse
+- Leaning the car forward immediately after takeoff barely saved the Titanic jump
+- The winning SUV's 4WD and low center of gravity made landings stable
+- The final jump needed exact speed: overshoot or undershoot both failed
+
+**Vehicles:** Quad, small car, sports cars, a fast 4WD SUV that won  
+**Design takeaway:** Chain themed jumps with checkpoints and a moving hazard per jump so each requires both speed and timing.  
+**Video:** [Testing cars vs Wonders of the World in GTA 5](https://www.youtube.com/watch?v=6eB7gU_uHSY)
+
+### World Wonders Jump Course
+
+A compilation segment: jump over or through landmarks such as Stonehenge (with flying stones), the Great Wall of China (thumbnail hole), the Titanic with a swinging iceberg, a clock with moving hands, the Eiffel Tower with dancing helicopters, timed beams over the pyramids and a final temple jump through a small hole. Checkpoints only count if you teleport through them in a vehicle.
+
+**Issues & surprises**
+
+- Switching cars sent him back to the very start
+- Leaning the car forward right after take-off was needed to clear the Titanic
+- A fast four-wheel-drive SUV with an odd center of gravity outperformed supercars
+- Clock hands had collision and could stop the car
+- The final jump needed exact speed: too fast overshoots, too slow misses the hole
+
+**Vehicles:** Quad, Badger, various sports cars, fast SUV, supercars  
+**Design takeaway:** Landmark-themed jumps with moving parts (swinging icebergs, clock hands) keep a jump course readable while adding timing.  
+**Video:** [Testing 100 Cars in GTA 5](https://www.youtube.com/watch?v=OZmq21Q7CTw)
+
+
+## Climbing & traction
+
+### 140-Level Climbing Staircase
+
+A staircase of about 140 levels, each about six inches high, with themed obstacles every few levels like concrete blocks and ice. All vehicles get hydraulics and unlimited attempts.
+
+**Issues & surprises**
+
+- Hydraulic pops were the main climbing tool
+- Chassis caught on blocks
+- He pushed a box against a wall on ice to create a step for a bike
+- A jump car reached about level 81
+- A dump truck climbed higher by reversing
+
+**Vehicles:** Forklift, monster truck, Wastelander, motorcycle, jump car, Ruiner  
+**Design takeaway:** A measured staircase gives a clean numeric score for climbing ability.  
+**Video:** [Which car can climb to the highest level in GTA 5?](https://www.youtube.com/watch?v=xpAjm_vD9nk)
+
+### 75-Degree Incline Climb Ladder
+
+About 75 ramps, each one degree steeper than the last; every 10 levels the surface changes (glass, wood, concrete, sand, grass, metal, rubber, ice) and special hazards appear (stop signs, windmills, poppers, 'take flight' signs, a rockslide). The vehicle that climbs highest wins.
+
+**Issues & surprises**
+
+- Light vehicles couldn't break glass or wood, and spaced-out steps punished short wheelbases
+- He carried the RC car up inside a truck to skip sections
+- Torque ran out progressively; popping hydraulics just before an incline kept speed
+- Near 50-60 degrees keeping the front wheels down became the main problem
+- Ice at 75 degrees stopped the T20; one F1 car was noticeably better than the other and won
+- Ramps added at 60 degrees made grip, not impact, the limiting factor
+
+**Vehicles:** Golf cart, go-kart, electric car, RC car, six-wheeler, Wastelander, T20 supercar, two F1 cars (winner)  
+**Design takeaway:** A one-degree-per-step climbing ladder with surface changes gives an easy-to-read score for comparing traction and torque.  
+**Video:** [Which car can climb the steepest angle in GTA 5?](https://www.youtube.com/watch?v=UzPvJKDrcGg)
+
+### 7km Speed Bump Marathon
+
+A very long course with no checkpoints and a 2-minute limit, packed with themed speed bump types (military, waves, machinery, bowling pins, windmills, head-shaped, Noob/Pro/Legend tiers, birthday cake, deer and house, 'everything' bump). All cars get hydraulics because the creator considered them essential.
+
+**Issues & surprises**
+
+- Monster truck was far bouncier than expected and awful on wave bumps
+- A long meme vehicle with high torque and suspension crushed early sections
+- Brush guards caught on bumps; reversing didn't help
+- Very bouncy tires covered gaps despite low top speed
+- Indestructible deer had to be squeezed past by grinding against a house
+- Full throttle threw the car off; controlled speed and centre lines won
+
+**Vehicles:** 12 cars incl. monster truck, bus, grinder vehicle, long torquey meme car, Sherp, mortar truck, low car  
+**Design takeaway:** A no-checkpoint marathon of varied bump shapes is a strong suspension stress test, and hydraulics as a universal tool adds player agency.  
+**Video:** [Every Car vs 1,000,000 Speed Bumps in GTA 5](https://www.youtube.com/watch?v=aycpJr_ayx0)
+
+### BMX Angled Wall Climb and Bunny-Hop Loop
+
+First of two BMX boards in snowy weather: climbing shipping containers, a tall angled wall climb, floating rebar wall hops, an upside-down half-pipe loop and a sheer red wall ride to finish.
+
+**Issues & surprises**
+
+- The angled climb needed far more launch speed than expected
+- A blocking piece on the wall could be bypassed by entering sideways and climbing it like a beanstalk
+- The loop was a trap because the bike couldn't reach the speed; chained hops from far back were the workaround
+- The camera spun wildly in the loop
+- The final wall needed one hop, a mid-air 180, and then pedalling
+
+**Vehicles:** BMX bike  
+**Design takeaway:** A bike with hop and mid-air rotation controls can do car-style stunts in a new way, but loops need speed that pedal power alone can't give.  
+**Video:** [I beat the riskiest 99.99% uninstall bike hop GTA 5 challenge using this secret move](https://www.youtube.com/watch?v=VXjq8xivt-Q)
+
+### Boosted Infinite Up-Spiral
+
+A very long climbing spiral wall ride with boost pads that rises so high the camera can't show the top. You have to hold on the whole way and land on the top platform.
+
+**Issues & surprises**
+
+- Boost pads kept making the car fishtail on a thin wall
+- The camera couldn't tilt up enough to show the end
+- Earlier long wall rides took over a minute
+- He found it more long than truly impossible
+
+**Vehicles:** Supercar  
+**Design takeaway:** Boosts on a narrow wall ride make power delivery a control problem, which is a good way to test traction control and stability systems.  
+**Video:** [I completed the 99.999% uninstall challenge in GTA 5](https://www.youtube.com/watch?v=rYFr0CWlH5I)
+
+### Bus Climbing Gauntlet
+
+Buses must climb a sequence of obstacles: uneven stacked stairs, a 20-degree icy slope with spinning gift boxes sliding down, staircases of floating balls, a downhill section, a 30-degree incline where hydraulic panels yank the bus sideways, and steep 'Saturn ring' stairs ending in one very tall step.
+
+**Issues & surprises**
+
+- High front bumper and ground clearance mattered most on stairs; low-bumper buses got stuck on the first step
+- Long wheelbase buses kept leaning once tilted; taking the inside line on turning climbs helped
+- Ice made recovery after a stop nearly impossible, so a run-up was needed but a slowdown strip prevented it
+- The derby bus's plow snagged on every stair and its bouncy rear suspension pushed the nose down
+- The disco meme bus, expected to be worst, won thanks to tall lift and slow, steady climbing; switching to first-person view helped
+- Some buses caused frame drops and a game crash
+
+**Vehicles:** Prison bus, rental bus, tour bus, school bus, arena/derby bus with plow, disco 'meme' bus  
+**Design takeaway:** Long, heavy vehicles on climbing courses expose clearance, approach angle and weight transfer, so mixing ice, steps and lateral shoves tests them well.  
+**Video:** [Which bus can climb the highest in GTA 5?](https://www.youtube.com/watch?v=Fm5pq0fQVRE)
+
+### Car vs Motorcycle Wheel-Size Points Battle
+
+Car wheel-size variants compete against motorcycle wheel-size variants: climb five stair levels that get taller (1 to 5 m) and shorter in run-up, a timed run over windmill-blade 'speed bumps' plus a tightrope and gap, a jagged Minecraft-style obstacle strip, a 69-second flooded course, and driving through a neighbourhood full of houses.
+
+**Issues & surprises**
+
+- Tiny-wheel cars clipped into the stair geometry, grinding on the chassis before popping up
+- Enormous car wheels launched the vehicle in random directions whenever it leaned onto a tyre
+- A big-wheel motorcycle with odd aerodynamics floated up the 5 m stairs
+- Medium-large car wheels handled the spinning blades best; a slim motorcycle threaded the obstacle strip
+- The lifted giant-wheel car was the only thing that could stay above the flood water
+- Driving through houses made the car's physics go haywire, while the bike won by riding over the rooftops
+
+**Vehicles:** Cars and motorcycles with tiny, medium, large and enormous wheels  
+**Design takeaway:** Mixed-geometry obstacles such as tall stairs, floods and rooftops show how wheel radius interacts with clearance, suspension and collision response.  
+**Video:** [Testing big car wheels vs big bike wheels in GTA 5](https://www.youtube.com/watch?v=FerN9OvDnxA)
+
+### Consecutive Ledges Gauntlet
+
+Ledge challenges: growing ledges to climb, timed 'crash test' ledges where you fly over a series and land before a barrier rises, bumpy offset thumbnail-hole ledges in about 18 seconds, spinning chopstick-like ledges in 25 seconds, and breakable plywood ledges with no timer. A big truck finally won.
+
+**Issues & surprises**
+
+- Bouncy suspension on bumpy ledges launched cars into the ceiling and cost time
+- The 6-wheeler rolled over the bumps without bouncing and was first through the thumbnail section
+- Big trucks did surprisingly well, clearing a ledge stage without even curb-boosting
+- Spinning ledges wrecked most vehicles; easing off then gunning it at the end worked
+- On the plywood section heavy vehicles needed to keep all their speed rather than climb carefully
+
+**Vehicles:** Quad, sports car, tank-Lambo, Sherp-like crawler, hatchback, big trucks, 6-wheeler, side-by-side, Wastelander  
+**Design takeaway:** Ledge series of different shapes (growing, bumpy, spinning, breakable) differentiate vehicles by wheel count, suspension and mass.  
+**Video:** [Cars vs consecutive ledges in GTA 5](https://www.youtube.com/watch?v=PdxoNk2eFlQ)
+
+### Death Staircases Descent
+
+Point events: drive down three tiers of tilted, increasingly angled stairs in 19 seconds; a stair tightrope with a central trench and barriers; stairs with widening gaps and shipping-container transfers; and a staircase that sinks into water as you climb.
+
+**Issues & surprises**
+
+- Landing on angled steps bounced cars sideways; most failed at the steepest (pink) section
+- The Wastelander's long-travel suspension soaked up the tilted stairs and won
+- Wide vehicles got a wheel stuck in the tightrope trench; a narrow car lined up straight and won
+- The power-metal vehicle drove better the rougher the stairs got and cleared the gaps
+- Only the Wastelander outran the sinking stairs, leaving at the perfect moment
+
+**Vehicles:** ATV, trucks, sports car, power-metal monster vehicle, motorcycle, Wastelander, 'divisible by 9' car (#27), pickup  
+**Design takeaway:** Stairs and stepped terrain are a strong suspension-travel test, especially when tilted so each landing is angled.  
+**Video:** [Cars vs Death Stairs in GTA 5](https://www.youtube.com/watch?v=r5-4u6d2uLM)
+
+### Drunk Tilted Course
+
+A course where everything is skewed: sideways roads with ramps, tilted platforms, conveyor wall ride, sideways scaffolding, and a long slope.
+
+**Issues & surprises**
+
+- Short wheelbase made it unstable
+- Car only had traction on one tire
+- Had to go at an angle up slopes
+- Car levitated
+- Hitboxes off
+
+**Vehicles:** Tiny short-wheelbase car  
+**Design takeaway:** Tilted geometry is a good stability test.  
+**Video:** [i completed this impossible wall ride to heaven and this happened](https://www.youtube.com/watch?v=yzqx9BtItLI)
+
+### Escalating Landslides
+
+Drive uphill against progressively bigger landslides: packing peanuts, falling Minecraft blocks with lava, Lego bricks, and finally rolling planets. Ledges along the path must be climbed while debris pushes you back.
+
+**Issues & surprises**
+
+- Debris slowly pushed cars sideways off cliffs
+- Wide vehicles struggled even to reach the challenge area
+- Hugging the wall was critical; separating from it got the car shoved out
+- Wastelander's body panels stripped off quickly; a slimmer side-by-side with a roll cage won
+- Planets hit extremely hard, even small ones
+
+**Vehicles:** Wide 70s car, quad, convertible with hydraulics, armored car, side-by-side, Wastelander  
+**Design takeaway:** A stream of physics debris rolling downhill is an easy-to-scale hazard: increase object size and mass per stage.  
+**Video:** [Cars vs progressively bigger landslides in GTA 5](https://www.youtube.com/watch?v=T4gR9VdO20o)
+
+### Giant Dips and Valleys Course
+
+A board of escalating dips: growing V-shaped dips, flooded dips with an invincible swimmer and a static sailboat, a stalking windmill that follows the car, a shredder dip, a V-pit, and a final inverted overhanging wall to climb out of.
+
+**Issues & surprises**
+
+- Long vehicles like the bus bottomed out immediately at the front and rear
+- Torque dropped off quickly on steep climbs, stopping small vehicles
+- The roll cage on the buggy let it survive the shredder
+- The final inverted wall was impossible until the creator realised he'd fitted the wrong wheels to the supercar
+- Jumping into the sailboat and bouncing off it 'like a torpedo' was the trick to pass it
+
+**Vehicles:** Airport tug, quad, prison bus, tank, roll-cage buggy, amphibious car, Wastelander, side-by-side UTV, supercar (winner)  
+**Design takeaway:** Dips of increasing depth and angle are a simple, scalable test of approach and departure angles, torque and grip.  
+**Video:** [Cars vs Giant Dips in GTA 5](https://www.youtube.com/watch?v=GBB9OBalKfo)
+
+### Half-Track Lambo Stair Course
+
+Stair stages: growing stairs, stairs topped with spinning windmills, increasingly sharp-angled stairs, uneven stairs, gapped stairs, sideways-swiping stairs, rounded stairs and rotating stairs. The modded half-track Lambo is compared with other odd vehicles.
+
+**Issues & surprises**
+
+- The slammed cola truck climbed far better than its ground clearance suggested
+- An 8-wheel-drive truck gripped well but its turning radius was terrible on angled stairs
+- The police motorbike surprisingly placed second until its engine died from repeated wall hits
+- Independent half-track suspension made the Lambo dominant, but only the rear tracks were powered
+- Rocking left-to-right let the tracks crawl over sharp angles
+
+**Vehicles:** Half-track Lamborghini, lowered cola truck, 8-wheel military truck, party van, Power Wheels-style toy car, police motorbike, limo, all with hydraulics  
+**Design takeaway:** Stair sections that move (swiping, rotating) test drivetrain layout and track/wheel suspension in ways static stairs do not.  
+**Video:** [How many stairs can a LAMBO TRUCK climb in GTA 5?](https://www.youtube.com/watch?v=WlIRZsT583s)
+
+### Halfpipe Skatepark Gauntlet
+
+Timed halfpipe stages: a skatepark full of halfpipes (44s), hopping transfers between halfpipes (33s), a long halfpipe ending in a tall step, moving halfpipes with patterns, Lego halfpipes, and a final transfer chain, ending with a speed bump run.
+
+**Issues & surprises**
+
+- Sherp felt cursed to drive but kept completing stages and led early
+- Getting caught between two halfpipes left vehicles stuck
+- Moving halfpipes had a learnable pattern; patience beat speed
+- Missing a single transfer tap meant returning to the start
+- Rocking back and forth like a skateboard was needed to reach a checkpoint
+- A moon rover glided over speed bumps without touching them and won
+
+**Vehicles:** Half-car meme vehicle, Sherp, quad, Jeep, trucks, moon rover  
+**Design takeaway:** Halfpipe transfers reward momentum management and rhythm, and moving sections convert speed challenges into timing puzzles.  
+**Video:** [Testing cars vs extreme halfpipes in GTA 5](https://www.youtube.com/watch?v=MhaVQL8iDaI)
+
+### Heavy Container Towing Course
+
+Each vehicle drags a wheel-less shipping container over rising humps, a snowy spiral, broken road chunks, a pit and a magnet field. The container must reach the end, and vehicles that blow up are out.
+
+**Issues & surprises**
+
+- The container scraped on the ground with no wheels, dragging cars backwards down slopes
+- Snowy loops pulled the rig toward the center, so they had to be taken sideways
+- The 8-wheel vehicle barely noticed the load on the climbs but was too long and slow for later sections
+- A plain utility truck outperformed the armored vehicles
+- He found the container wasn't actually needed at the end, a joke by the board maker
+
+**Vehicles:** Pickups, clown van, pink 'YOLO' truck, 8-wheel armored vehicle, tank, rugged utility truck  
+**Design takeaway:** A towing challenge where load drag interacts with slopes, ice and magnets tests torque, grip and length in one run.  
+**Video:** [Testing 100 Vehicles in GTA 5](https://www.youtube.com/watch?v=8xFRpdjxBrM)
+
+### Heavy Container Towing Course
+
+Vehicles tow a weighted container through hills, snowy wall rides, derailment sections and 'resistance' zones where magnet-held cars pull back. Blown-up cars cannot be reused without restarting.
+
+**Issues & surprises**
+
+- The trailer dragged a pickup back down hills and off the road
+- A plain rugged truck outperformed expected armored vehicles
+- Resistance numbers were counterintuitive; lower meant harder
+- Magnetized vehicles acted like rubber bands
+- The container turned out not to be needed at the end
+
+**Vehicles:** Pickup, clown van, tracked vehicle, rugged truck, armored cars, van  
+**Design takeaway:** Towing a heavy load through grades and grip-changing surfaces is a solid torque and traction test.  
+**Video:** [Testing Cars vs the HEAVIEST objects in GTA 5](https://www.youtube.com/watch?v=d98EYXM44tA)
+
+### Heavy Crate Pushing Through Terrains
+
+A heavy box must be pushed through five terrains (ice, forest and more), tight corridors, ramps and a final bulge. The box from the start is supposedly needed at the end.
+
+**Issues & surprises**
+
+- A forklift could not lift the box but pushed it well on ice
+- The tank's cannon blast moved objects strongly, which he used to clear debris
+- Rotating the box lengthwise was needed to fit a slide
+- Wheel-spinning pushed the box up a slope an inch at a time
+- The box turned out not to be needed at the end
+
+**Vehicles:** Forklift, joke fast car, tank with jump, tracked vehicles, gold-plated truck  
+**Design takeaway:** Pushing a heavy physics object through different surfaces is a good friction and torque test.  
+**Video:** [Which Vehicle Can Push The Heaviest Object in GTA 5?](https://www.youtube.com/watch?v=trqfQsHz0E4)
+
+### Icy Road Mystery-Car Course
+
+Cars are hidden under snow piles so he picks blind. Stages: an icy incline after a slowdown strip that caps run-up speed, a 35-second road lined with pulsing 'steroid' Christmas trees that shove cars, a wall of snowmen to plough through, an icy hairpin with braking at a red line on a moving floor, and a 66-second icy obstacle run full of slowdown snow piles and rotating speed bumps.
+
+**Issues & surprises**
+
+- The slowdown strip limited speed so only cars with enough low-speed torque could climb the ice
+- Pulsing trees punished wide cars; a thin car was needed
+- The side-by-side's snow traction and ability to stop quickly made it the winner
+- Hitting rotating speed bumps at full speed made the car go haywire
+- Braking at the very last moment on ice was required to make the timed hairpin
+
+**Vehicles:** Random snow-buried cars: Brute bus, limo, 'mom's car', sports cars, T20, snowplough car, arena car, side-by-side  
+**Design takeaway:** Hiding vehicle identity until selection and then testing on low grip creates surprise and highlights traction differences clearly.  
+**Video:** [Which car survives the iciest road in GTA 5?](https://www.youtube.com/watch?v=cnGjMnf5ZEs)
+
+### Increasing Angles Gauntlet (no checkpoints)
+
+A long run with no mid-checkpoints: a V-shaped 'folded' road whose sides get steeper, a descent from 10 to 69 degrees with rotating boost pads, the same increasing-angle descent while heavy balls roll down at you, and a closing road where you must stay centred.
+
+**Issues & surprises**
+
+- Tall vehicles and anything with mounted guns or side tanks snagged on the folded walls; narrow-tyred cars dropped into the centre crease
+- The quad's narrow body let it slide through the fold, unexpectedly
+- Past about 50 degrees, hitting a boost pad was unrecoverable, and at 60+ degrees cars couldn't stop, only slow
+- The ball section needed the opposite approach (raw speed) to the descent (patience)
+- Holding a steering direction while wall-riding the steep part kept the car from sliding off
+
+**Vehicles:** Sherp, amphibious armed car, quad, Liberator monster truck, compact cars, Wastelander, pickup, Kanjali, Jogger  
+**Design takeaway:** Progressive slope angles with optional speed boosts teach players exactly where traction runs out, and banning checkpoints adds tension.  
+**Video:** [Cars vs Increasing Angles in GTA 5](https://www.youtube.com/watch?v=QuWcDQJVgAs)
+
+### Lawnmower Ramp Race
+
+Players race lawnmowers up a long climb.
+
+**Issues & surprises**
+
+- Lawnmower barely had the power to climb
+- Switchbacking was needed
+- Players helped by pushing each other
+
+**Vehicles:** Ride-on lawnmowers  
+**Design takeaway:** Underpowered vehicles on a climb create cooperative play.  
+**Video:** [only 1% of people can defeat me in this impossible snipers vs runners challenge](https://www.youtube.com/watch?v=kk6QH0emOi0)
+
+### Long Cars vs Collapsing and Moving Stairs
+
+Increasingly long vehicles climb crumbling snow stairs (steps fall away), spinning rainbow stairs, a timed downward snake staircase, and a forward/backward moving staircase.
+
+**Issues & surprises**
+
+- The bus's rear overhang dragged on the stairs and got it stuck
+- Steps crumbled at random under the car
+- The military vehicle was great going straight, but its front end jammed on spinning stairs
+- The snake descent needed drifting with an outside-to-inside line to beat 26 s
+- The moving staircase needed rhythmic acceleration timed to its motion
+
+**Vehicles:** Bus, shortest long car, RV, military vehicle, oil tanker truck  
+**Design takeaway:** Collapsing steps punish slow, hesitant climbing and favor committed momentum.  
+**Video:** [Long Cars vs Stairs in GTA 5](https://www.youtube.com/watch?v=sZ9e1oux_74)
+
+### Long Cars vs Graded Bulge Obstacles
+
+Long vehicles take on rock and prop 'bulges' graded natural, noob, pro and legend, plus timed and sticky-lollipop variants that slow you down. Each vehicle tries to get over or around each bulge.
+
+**Issues & surprises**
+
+- The fire truck was poor at climbing but very hard to flip
+- Thin vehicles could sometimes just go around bulges, which he called cheating the board
+- Hydraulics helped very little against tall bulges
+- He did not realize one bulge was timed
+- The Wastelander made up for earlier failures by finding the one angle that got all four wheels onto the sticky bulge
+
+**Vehicles:** Fire truck, hydraulic lowrider, thin cars, Wastelander  
+**Design takeaway:** Bumps with graded difficulty reveal differences in wheelbase, clearance and suspension, and the best ones have a single correct approach angle for players to find.  
+**Video:** [Long Car Vs Bulges in GTA 5](https://www.youtube.com/watch?v=5uQWyLB2dE0)
+
+### Long Cars vs Themed Stairs and Bridges
+
+Long vehicles climb snow stairs and spinning rainbow stairs, then cross bridge types (gap bridge, gate bridge, uneven crate bridge) to see how far each gets.
+
+**Issues & surprises**
+
+- Hitting a spinning stair element killed all momentum
+- Chains/tracks on the snow vehicle made the snow stairs manageable
+- A long extended-bed truck had surprisingly good suspension and got past the gap bridge
+- No vehicle could clear the uneven crate bridge at first
+- He handled the stair climb with a rhythmic left-straight-right steering pattern
+
+**Vehicles:** Snow vehicle, six-wheel boost car, long trucks  
+**Design takeaway:** Spinning or uneven surfaces punish long wheelbases and reward rhythmic steering inputs.  
+**Video:** [Testing Level 1 to Level 1,000,000 LONG CARS in GTA 5](https://www.youtube.com/watch?v=NBf_DVA71Z8)
+
+### Long-Wheelbase Cars vs Road Bulges
+
+An unlock ladder: you must attempt each stage in the current very long car before a shorter one unlocks. Stages: giant bulges with smaller bulges on them, steepening bulges ending in a near-vertical wall, indestructible growing balloon bulges, a jump onto a huge red bulge with a teleporter 'pimple', and surviving 69 seconds on a spinning carousel of bulges.
+
+**Issues & surprises**
+
+- Long cars got high-centered on bulge crests; long bumpers dug into slopes and refused to break off
+- A shorter car isn't automatically better; power and clearance mattered more than length
+- Curb boosting let him jump over bulges and skip parts of the course
+- Four-wheel drive was what let the pickup recover onto the course
+- The carousel instantly wrecked or set fire to most cars; success needed memorising the pattern and going slowly
+
+**Vehicles:** Ultra-long cars from a stretched golf cart through long trucks, stretched bus, limo, technical, pickup, Kanjali-style car, down to a final unlocked vehicle  
+**Design takeaway:** Bulge and crest obstacles directly test breakover angle and wheelbase, a rarely-explored stat that could separate vehicles in a game.  
+**Video:** [Long cars vs Bulges in GTA 5](https://www.youtube.com/watch?v=PUYH0eoAI-8)
+
+### Low-Grip Supercar Wall-Hop Circuit
+
+After a two-lap warm-up wall ride, he does a board where you hop between walls all the way around a section of map with no respawn points. Hops must be timed at a precise shallow angle.
+
+**Issues & surprises**
+
+- Any skid at all made the car lose the wall
+- Approaching at a slight angle was the key to sticking each hop
+- Long sheer wall climbs came between hops
+- With no respawns, every mistake meant starting the whole circuit again
+
+**Vehicles:** Supercar with very low grip  
+**Design takeaway:** Making skidding the fail condition puts players on the edge of grip and turns the tire slip model into the challenge.  
+**Video:** [i completed this 99.99% impossible wall ride challenge](https://www.youtube.com/watch?v=oUK9fC1Jg0M)
+
+### Low-Traction Car Invisible-Maze Race
+
+A rainbow-coloured board with tilted walls and triangle tops, rapid-fire wall rides, wall climbs the car can barely manage, and a glitchy section where the car drops inside the course geometry and has to find an invisible way out. There is a long stretch with no checkpoints.
+
+**Issues & surprises**
+
+- The car had so little grip that most wall rides needed diagonal approaches
+- Turning while on a wall was nearly impossible for this car
+- Falling inside the asset created an invisible maze; he navigated by watching which side sparks flew from
+- Low traction helped on one section by stopping the car from bouncing over bumps
+- Checkpoints were hidden in odd places during a ten-minute stretch
+- Hop distances were tuned so precisely that they needed an exact amount of speed
+
+**Vehicles:** Extremely low-traction car  
+**Design takeaway:** Contact sparks and scraping sounds work as navigation feedback, which hints that surface-contact effects could guide players through hidden routes.  
+**Video:** [Completing this hacked GTA 5 stunt race left me emotionally scarred](https://www.youtube.com/watch?v=gm4i-R0s93Q)
+
+### Map-Spanning Endless Tightrope
+
+The final board is a single tightrope that stretches across the entire map and slowly climbs to a far-off finish platform. It is a long test of steering steadiness and endurance.
+
+**Issues & surprises**
+
+- The grey rope blended with the tire and its shadow, so it was hard to see where the wheels were
+- The length wore him out; his hands cramped and he started drifting
+- The finish platform looked close for a long time
+- The rope got steeper near the end
+
+**Vehicles:** Car  
+**Design takeaway:** Very long, low-intensity balance sections test endurance, but the track needs strong visual contrast against the vehicle.  
+**Video:** [I completed this impossible tightrope challenge using this secret trick in GTA 5](https://www.youtube.com/watch?v=_Y9AjlGnd3g)
+
+### Mega Reverse Speed Bump (Dip) Course
+
+Courses of giant inverted speed bumps (deep dips): marble dips you must jump or rock out of, timed 'growing' dips that deepen each section, a 69-ft-deep dip treated like a half-pipe loop, rapid repeated dips, and dips mixed with windmills. New DLC vehicles are tested alongside regular ones.
+
+**Issues & surprises**
+
+- A newly added Jeep surprised him by one-shotting the opening sections
+- Overhanging dip shapes trapped cars that tried to ramp up the far side
+- Using the deep dip as a reverse loop and launching off the edge was the solution
+- Rapid dips required landing on the outgoing slope, not the incoming one
+- The 6-wheeler could not lean forward enough to catch the lip
+- A new off-road truck with jacked suspension won, clearing the deep dip first try
+
+**Vehicles:** Luxury car, octopus-shaped car, festive truck with trailer, new fast Jeep, new jump-capable car, 6-wheeler, supercar, monster vehicle, pickups, new off-road truck with push bars  
+**Design takeaway:** Negative terrain (dips and bowls) is an underused counterpart to bumps and ramps, testing pumping, momentum and pitch control.  
+**Video:** [Cars vs Mega Reverse Speed bumps in GTA 5](https://www.youtube.com/watch?v=zkgfVLPxwJU)
+
+### Meme Cars vs Reverse Speed Bump Families
+
+Vehicles ordered shortest to longest take on reverse speed bumps (dips) in 'family' sizes, rubber dips, futuristic dips, dips with bumps inside them, and a wide wooden dip with a slow-motion button.
+
+**Issues & surprises**
+
+- The lawn mower cleared some dips by reversing
+- The forklift's low forks and nose kept it from getting anywhere
+- Ejected bus passengers glitched and seemed to propel the bus
+- Dips with bumps inside needed a chassis slide off the middle and took about 10 tries
+- Slow motion made hydraulic timing harder; a normal jump worked better
+
+**Vehicles:** Lawn mower, forklift, bus with passengers, military vehicle, futuristic car  
+**Design takeaway:** Depressions in the road sized relative to wheelbase make a neat length-vs-clearance test.  
+**Video:** [Long Cars vs Reverse Speedbumps in GTA 5](https://www.youtube.com/watch?v=siW5pCdt8ck)
+
+### Meme Vehicle Stair Courses
+
+Only joke vehicles allowed on stair courses: a hedge staircase to 'mow', a rotating pyramid staircase that twists around its radius, a packing-peanut box staircase, and stairs that appear and disappear so you must be airborne as each step forms.
+
+**Issues & surprises**
+
+- The lawnmower completed the first stage on its first try
+- Rotating stairs were disorienting; the straight phase was when to gain distance
+- Wheels split across two stairs led to falls
+- The single-ball vehicle lost traction easily but eventually climbed
+- Windmills launched a vehicle a huge distance
+- Approaching stairs at an angle made one vehicle a strong climber
+
+**Vehicles:** Lawnmower, golf cart, single-ball vehicle, pizza scooter, lifeguard vehicle  
+**Design takeaway:** Restricting players to underpowered vehicles makes even simple stair geometry a meaningful challenge.  
+**Video:** [Lawnmowers vs stairs in GTA 5](https://www.youtube.com/watch?v=cNrapvIF9tg)
+
+### Moon Climb and Dark-Side Descent
+
+A course to and around the moon: climb a slippery lunar surface, drive down the dark side under altered gravity while dodging windmills, then a hovering car section and a spiral wall ride ending in an eject.
+
+**Issues & surprises**
+
+- Car slid and skidded on the moon surface; needed fine throttle
+- Driving upside down held on by changed gravity
+- Speed window on the far side: too fast lost gravity, too slow got hit
+- Hover car had to be flapped through obstacles
+- Had to eject at the right moment
+
+**Vehicles:** Car, hover/boost car  
+**Design takeaway:** Custom gravity around a spherical body makes driving over the top feel new.  
+**Video:** [i literally drove to the moon](https://www.youtube.com/watch?v=sHhqqpyEtzU)
+
+### Motorbike Stair Gauntlet
+
+A series of stair challenges for bikes: ever-growing sloped stairs, stairs with stop sticks and tumbling cars, timed snake stairs, a narrow tightrope staircase, stairs being chewed away by a giant rolling ball, and growing pallet stairs. Each stage must be cleared to progress, and only one bike reaches the end.
+
+**Issues & surprises**
+
+- Ramping several stairs at once worked far better than climbing step by step
+- The enduro/trials bike climbed best, while the electric bike flipped backward constantly
+- Riding up stairs backwards was a janky but working exploit on a weak bike
+- Wheelie-popping into each tall step was the core technique, but over-wheeling flipped the rider
+- Accumulated bike damage from repeated wall impacts threatened to end runs
+- He blocked the destructive ball's path by breaking tiles to slow it
+
+**Vehicles:** Pedal bike, electric bike, trials/enduro bike, chopper, superbikes, sprunk dirt bike with boost  
+**Design takeaway:** Stairs with escalating step height plus hazards make a great test of torque, wheelbase and wheelie control for two-wheelers.  
+**Video:** [How many steps can the off road bike climb in GTA 5?](https://www.youtube.com/watch?v=0AHwbMh4tPw)
+
+### Mountain Climb Traction Test
+
+Vehicles tackle mini mountains with a 'contagious mold' rule (stay on a hill for 6 consecutive seconds and you fail), a timed 22-second boulder-strewn climb, a cow-filled ascent with a tight teleporter, and a sheer-cliff canyon mountain.
+
+**Issues & surprises**
+
+- The 6-second infection timer appeared to reset when all four wheels left the ground
+- Boost-and-jump vehicle couldn't climb at all without hopping
+- Wastelander was oddly weak at plain uphill climbing; hitting a boulder sent it back to the bottom
+- Full throttle caused the rear to slide out; feathering the throttle was faster
+- A car missing doors and windshield still reached the top nearly first try
+- A teleporter that wasn't a checkpoint forced a full mountain redo
+
+**Vehicles:** Apocalypse vehicles, Wastelander, electric Rover, boost/jump car, Vapid off-roader, sports cars  
+**Design takeaway:** A 'don't linger' timer on hills forces players to keep momentum and rewards hopping, adding urgency to traction tests.  
+**Video:** [Which car can climb the mountain in GTA 5?](https://www.youtube.com/watch?v=QlTXzdRSiBI)
+
+### Mud Bogging Event Tournament
+
+Mud events scored by points: accelerate through deep thick mud in 13 seconds, roll the car the most times in mud using hydraulics and handbrake, push a crate through mud in 10 seconds, do the most donuts, get the dirtiest, and a 69-second 'stay in the mud' obstacle course as the tiebreaker.
+
+**Issues & surprises**
+
+- The go-kart actually moved backwards while accelerating in deep mud
+- Heavier vehicles bit into the mud and accelerated better; the Wastelander scraped through only by using the wall to stay straight
+- The Wastelander was the worst at donuts because it dug in too well
+- Almost no vehicles visibly got muddy; only a couple showed any dirt
+- The Outlaw buggy won the agility course by hugging inside corners and feathering throttle
+
+**Vehicles:** Go-kart, side-by-side, winch truck, Draugur, Wastelander, Outlaw buggy, rusty Rebel, 6-wheeler  
+**Design takeaway:** Deformable or high-drag terrain should reward weight for straight-line pulling but punish it for agility, giving different vehicles a role.  
+**Video:** [Testing cars vs mud in GTA 5](https://www.youtube.com/watch?v=hD1ovsoJS-8)
+
+### No-Tires Rim-Only Parkour
+
+A parkour where spike strips throughout the course pop your tires, so most of it is driven on bare rims with almost no grip: polished balance sections, tightropes, wall rides and ball juggling. A few sections give tires back, and the course ends with normal grip.
+
+**Issues & surprises**
+
+- Uneven tire damage made the car jerk left or right; popping all four tires evenly was more stable
+- Driving on rims still allowed swinging the rear around, so it could be finessed
+- When one section repaired the tires, the tightrope there required jumping and couldn't be done slowly
+- After a whole run on rims, regaining full traction felt strange and he struggled on simple ramps
+- Some bumps needed extra speed that rims made hard to build
+
+**Vehicles:** Car driven on bare rims, with tires restored in some sections  
+**Design takeaway:** A forced low-grip state such as rims or ice, with spike strips that reset it, is a strong traction-control challenge, and making grip uneven per wheel adds asymmetric handling.  
+**Video:** [i completed this legendary no wheels challenge in GTA 5](https://www.youtube.com/watch?v=EYDldfre8So)
+
+### Off-Road 'Bulges' Mega Course
+
+Compilation segment: a very long off-road course of 'bulges' that escalate from gentle mounds to prehistoric rocks, tubes with windmills, tire piles, sludge, a sand trench and finally near-vertical 'harmful' and 'unfair' bulges. A car that gets stuck or wrecked can't be reused.
+
+**Issues & surprises**
+
+- A truck got stuck on its own decorative roof prop between bulges
+- Some sections removed invisible walls, letting cars fall off
+- Staggered tire bulges needed an angled approach
+- Wiggling the steering on steep walls sometimes found extra grip
+- On the final wall, using hydraulics to press down then pop up, and leaning forward at the top, made the climb
+
+**Vehicles:** Cluckin' Bell truck, plow truck, tank, various off-roaders, Wastelander (winner); each car usable until stuck or destroyed  
+**Design takeaway:** Single-use vehicles on a long course make players think about which vehicle to spend on which section.  
+**Video:** [Testing 100 Dangerous Vehicles in GTA 5](https://www.youtube.com/watch?v=d7vfd0ao5R4)
+
+### Off-Road Bulge Endurance Course
+
+A long off-road course of 'bulges' (lumps, glass fencing, tire tubes, sheer walls) where vehicles are only usable until stuck or destroyed. Hydraulics help.
+
+**Issues & surprises**
+
+- The compact 'mom's car' was overpowered with hydraulics
+- He cheated part of the course by landing on an invisible wall
+- A jet crashed onto the map and took out a truck
+- Sheer bulges gave no grip and threw the car sideways
+- Using hydraulic downforce then popping reduced friction to climb
+
+**Vehicles:** Delivery truck, compact 'mom's car', trucks, jump truck with flamethrower  
+**Design takeaway:** Bulge obstacles reward suspension articulation and hydraulic tricks.  
+**Video:** [Testing Cars vs GIANT BULGE in GTA 5](https://www.youtube.com/watch?v=z7qFijXNcX0)
+
+### Off-Road Decathlon (Slope, Articulation, Swamp, Deep Water, Ledge Climb)
+
+Points-based off-road events: climb a 69-degree ramp, cross offset tightrope rails that twist the suspension, race through a 55-second swamp, survive progressively deeper colour-coded water, and climb a stack of tall 'pancake' ledges. Each event awards a point to the vehicle that completes it, with the Wastelander winning overall.
+
+**Issues & surprises**
+
+- Nothing could climb the 69-degree slope except the light dune buggy, which surprised him
+- The monster truck won the suspension-articulation test by balancing on two tires and nearly wall-riding
+- Cars flood out and die in deep water even when they look snorkelled; the Wastelander kept going
+- Banking off obstacles was the only way to steer the Wastelander in the swamp
+- Even the monster truck stalled on tall ledges because it could launch up but not keep forward momentum
+
+**Vehicles:** Off-road SUV, monster truck, lifted trucks, Wastelander, dune buggy (Vagrant), Draugur, Canis, Redwood  
+**Design takeaway:** Split 'off-road ability' into separate measurable events (grade, articulation, wading depth, ledge height) so different vehicles shine in different tests.  
+**Video:** [Which vehicle is the best off road in GTA 5?](https://www.youtube.com/watch?v=3R3MKAOZxck)
+
+### Price-Tier Cars vs Stair Gauntlets
+
+Cars from $1 to $10M take on stair challenges: icy stairs while racing a train (the floor drops if the train wins), pumpkin-covered stairs on a timer, and rotating stairs that each spin faster than the last.
+
+**Issues & surprises**
+
+- The $1 cardboard car did a full flip and landed on its wheels, and drove better than expected
+- The cheap rusty car's loose axles made it bounce and go nowhere
+- Tires got stuck in pumpkin baskets; going around the side barrier gave enough speed to pass
+- Rotating stairs needed the jump timed earlier and earlier as the rotation sped up
+- The $1M car turned out to be the best performer
+
+**Vehicles:** $1 cardboard car, rust bucket, $1M bedazzled car, $10M gold car  
+**Design takeaway:** Stairs that speed up their rotation step by step create a timing-skill ramp with no need for new assets.  
+**Video:** [$10,000,000 Cars vs Stairs in GTA 5](https://www.youtube.com/watch?v=5sPJ-hCdY5w)
+
+### Quicksand Escape Course
+
+Quicksand challenges: escape a 6.9-ft quicksand pit that pulls you toward its centre, avoid moving 'jumping' quicksand patches before a gap jump, cross a pit with a windmill sunk in it, and leap a deep boss quicksand pit. Hydraulics help with jumps.
+
+**Issues & surprises**
+
+- Big tyres did not help: the rear sank and lost traction while the front lifted
+- Very tall vehicles stayed above the sand; roll-cage buggies had little body to catch
+- Driving in reverse avoided slowdown on the jumping quicksand section
+- The armoured electric car's instant torque and equal forward/reverse speed made it the winner
+- Using the sunken windmill to fling the car out of the quicksand was the solution
+
+**Vehicles:** Lifted truck, quad, longhorn off-roader, diesel truck, monster truck, supercar, Wastelander, side-by-side, Draugur, armoured electric car  
+**Design takeaway:** A terrain type that drags vehicles downward and toward a centre point rewards torque and ride height in a way normal mud does not.  
+**Video:** [Testing cars vs quicksand in GTA 5](https://www.youtube.com/watch?v=vnaFs3Skiu8)
+
+### Random-Vehicle Stair Climb Course
+
+A teleporter gives a random (mislabelled) vehicle, which must climb themed stair sections: decorated mansion stairs, moving piano stairs, timed criss-cross stairs (40 s), 15-second folding stairs that collapse as you climb, and a staircase that moves away under you. The custom floating Lamborghini is tested against the rest.
+
+**Issues & surprises**
+
+- The ATV took ages to climb a single tall step
+- The crawler cleared most stairs easily but was too slow for the 15-second folding stairs
+- The monster truck bounced like on a trampoline on folding stairs, losing all speed
+- The hover Lambo glided over obstacles but could barely steer and kept pitching nose-down
+- Combining wheel mode (hydraulic hop) with hover mode on the Deluxo was the winning trick
+- Several vehicles climbed faster in reverse than forwards
+
+**Vehicles:** Blazer ATV, crawler, low-pressure-tyre buggy, Liberator monster truck, custom hover Lamborghini, Deluxo in hover mode  
+**Design takeaway:** Stairs that fold, move, or change over time turn a static climbing test into a timing puzzle, and vehicles with switchable modes add depth.  
+**Video:** [How far can the floating LAMBA get in GTA 5?](https://www.youtube.com/watch?v=3XCHC5dZdkQ)
+
+### Reverse (Inverted) Speed Bump Course
+
+Each speed bump is followed by its inverse, a pit of the same shape: giant tires and tubes, a water-filled ditch, a puzzle-piece pit that closes on a timer, a tall wall, a Pharaoh-themed pit, a soccer pit with pipes, and a final moving 'reversing' bump.
+
+**Issues & surprises**
+
+- Climbing out of inverted pits was much harder than going over the bumps
+- He used a previous wrecked car as a ramp
+- A bike gained extra forward pop when ramping, making it great early on
+- The supercar was surprisingly capable until a tall wall
+- The Wastelander could grind up a wall by angling its side against it
+- A ray gun pickup turned out to be a troll that sent him back
+
+**Vehicles:** Bumper car, ATV, bike, floating car, supercar, pickups, Vapid off-roader, Wastelander (winner)  
+**Design takeaway:** Pair every obstacle with its inverse to test both cresting and climbing out, which stress different parts of a vehicle.  
+**Video:** [Every Car vs Reverse Speed Bumps in GTA 5](https://www.youtube.com/watch?v=RBosN3nGj-U)
+
+### Reverse Speed Bump Truck Test
+
+Trucks cross 'reverse speed bumps' (pits/ditches rather than bumps): uneven pyramid pits, growing wet bumps, giant Lego bumps, a trash compactor climb, a timed steep pit with a swinging arm, and a final huge wall.
+
+**Issues & surprises**
+
+- Low bumpers got stuck getting out of ditches
+- Cybertruck's tires glitched when gripping pyramid edges
+- Monster truck bounced too much to get purchase on tall steps
+- Jumping the trash compactor saved ten minutes over climbing
+- Climbing walls at an angle like skiing uphill worked best
+- Engine damage from repeated wall hits forced restarts
+
+**Vehicles:** Big truck, Cybertruck, monster truck, regular pickup, Wastelander, Dodger-type truck  
+**Design takeaway:** Inverting a familiar obstacle (bumps into pits) tests approach angle and ground clearance in new ways.  
+**Video:** [Every Truck vs Reverse Speed Bumps in GTA 5](https://www.youtube.com/watch?v=ySjQS9PlNy4)
+
+### Rocket Cars vs Themed Staircases
+
+Rocket or boost vehicles climb themed stair flights (Minecraft-axe stairs with teleporting blocks, icy stairs with holes, framed stairs with overhead bars, sheer walls). Only one has to reach the finish.
+
+**Issues & surprises**
+
+- Rockets often shot cars off the side rather than up
+- A cheap car with boost and jump had no traction at all
+- The monster truck's traction handled most stairs, and the final wall could be driven up normally
+- Overhead frame bars caused backflips when boosting under them
+- He recovered a near-fall onto a train mid-run
+
+**Vehicles:** Rocket-modded cars, boost/jump arena car, Sasquatch monster truck arena car  
+**Design takeaway:** Thrust without traction or alignment is useless, so climbing challenges reward controlled power over raw power.  
+**Video:** [Which rocket powered car can climb the most stairs in GTA 5?](https://www.youtube.com/watch?v=Jp_746JUKhQ)
+
+### Sawblade Wheels vs Log Obstacles
+
+Vehicles climb growing log piles, survive log ballista 'cannons', cross a floating log bridge where logs drift and spin like a soft foam surface (with a balloon to pop), then survive a 30-second spinning log carousel and reach the end in time.
+
+**Issues & surprises**
+
+- Sawblade wheels cut into logs and climbed piles without a run-up, though one centre log kept snagging the chassis
+- The sawblade suspension was very soft, so it bounced high over logs
+- Small quads could bypass the log piles almost entirely
+- Floating logs moved under the tyres; gaps grew too wide for slower vehicles
+- The tank could crawl but not climb steep piles; the Sherp survived the carousel easily but was too slow
+- A tall sawblade garbage truck finished with about a second to spare because logs passed under its suspension
+
+**Vehicles:** Pickup truck, sawblade-wheel trucks, quad, tank, Phantom, Insurgent, monster truck, Sherp, sawblade bus, garbage truck on sawblades  
+**Design takeaway:** Loose, physically simulated logs make for a terrain that changes as you drive on it, which rewards grip and patience.  
+**Video:** [Sawblade wheel truck vs logs](https://www.youtube.com/watch?v=RxE5RSYRwqI)
+
+### Single-Prop Staircase Tiers
+
+Four staircase boards built by paid creators at $1/$10/$100/$1000 budgets, each restricted to a single prop type: propane-tank stairs where every car has one life, widening-gap Minecraft stairs, a steep timed slanted Lego staircase with a closing wall, and a gravity-jerking thinning staircase.
+
+**Issues & surprises**
+
+- Exploded cars had to be cleared out of the way on the propane board
+- A car with a jump had no traction on 45-50 degree stairs
+- Wastelander bounced up several stairs at a time as wheels caught
+- Badger was stable and its slide was easy to correct, making it a good stair climber
+- Long vehicles ran out of landing space; switching cars cost the checkpoint
+- A gravity-warping prop yanked vehicles side to side while climbing
+
+**Vehicles:** One-life vehicle pool, Wastelander, Badger, pink sports car, long 'banana' car, jump car  
+**Design takeaway:** Restricting a course to one prop forces creative variety from spacing, angle and behavior, a good constraint for level designers.  
+**Video:** [$1 Stairs vs $1000 Stairs in GTA 5](https://www.youtube.com/watch?v=TZ7BbSl_g-A)
+
+### Single-Wheel Stair Climb Tower
+
+Using a mod that makes single wheels drivable, he climbs a staircase whose steps grow taller every section, with themes like flooded stairs, rolling Wastelanders, windmills, ice, a wall that closes in, pulsing stairs, a crazy ball, a rotating staircase, glass ceilings and a final huge step.
+
+**Issues & surprises**
+
+- Single wheels drifted and wobbled constantly with no wheelbase for stability
+- An unbalanced 'drunk' tire handled and climbed far better than normal ones
+- The giant tire climbed easily but was hard to steer and a big target for hazards
+- Ice removed almost all traction; wiggling side to side helped
+- The small spiked tire had the best grip and balance and won
+- Some tires glitched over stair edges rather than truly climbing
+
+**Vehicles:** Drivable single wheels (mod): wooden cart wheel, rubber car tire, rusted wheel, wobbly 'drunk' tire, giant 16 ft tire, spoked tire, small spiked toy tire (winner)  
+**Design takeaway:** Strip a vehicle down to a single wheel to expose how wheel radius, grip and balance alone affect step climbing.  
+**Video:** [Which car wheel can climb the most stairs?](https://www.youtube.com/watch?v=O_W0i7TjTfM)
+
+### Skateboard Size vs Stair Challenges
+
+Point events for skateboard 'vehicles' of three sizes: climbing rising road stairs (up to 2.5 m) with traffic in the way, very steep stairs, a narrow spiralling marble staircase with rotating stair pieces near the top, and a 30-second timed descent down three levels of turning stairs.
+
+**Issues & surprises**
+
+- The boards had very soft suspension and could tip onto two wheels without ever flipping
+- The giant board shoved full-size cars aside like a tank and won the traffic stairs
+- The giant board's chassis caught on the top step of the steep stairs; the medium board made it at average speed but not full speed
+- On the narrow spiral the giant board barely fitted, and the medium board's climbing rhythm won
+- Cutting corners by jumping over the inside of turns saved the time needed on the descent
+
+**Vehicles:** Drivable skateboards in small, medium and bus-sized versions  
+**Design takeaway:** Scaling a single vehicle type up and down in size is a clean way to show how size trades power and mass against fitting into tight spaces.  
+**Video:** [Can a Giant Skateboard Climb to space using Stairs in GTA 5](https://www.youtube.com/watch?v=dXlp_wQetjE)
+
+### Suction-Plunger Wheel Climbing Challenge
+
+Plunger-wheeled cars that stick to surfaces attempt: steep ramps of ice, concrete and Lego at around 69-71 degrees, a vertical 'art piece' log tower that requires crossing over to a down-ramp on the other side, scaling a skyscraper to knock off nine balloons, and a moving wall ride that keeps transferring onto narrower, faster wall rides.
+
+**Issues & surprises**
+
+- Plungers gripped extremely well and did not slide back down, but bled forward speed through suction 'friction'
+- The large plunger truck crawled at walking pace yet climbed everything; a slowdown strip had no effect because it was already so slow
+- Ice was the weak surface for plungers; curb boosting into the ramp gave the needed run-up
+- A hover car simply dragged up the slopes and could skip the log tower via an unwalled shortcut
+- The rear-plunger-drive McLaren could drive straight up vertical walls and won, though its width cost bumpers on the tower
+- Shooting balloons that were out of reach worked as a backup
+
+**Vehicles:** Quad, three plunger-wheel cars (lifted truck, small car, McLaren), tracked vehicle with jump and boost, hover-capable car  
+**Design takeaway:** A suction tyre that trades top speed for wall-sticking grip opens vertical routes and makes surface type (ice vs concrete) matter.  
+**Video:** [Which plunger car can climb the highest?](https://www.youtube.com/watch?v=xq0LgLamqGU)
+
+### Suction-Wheel Cars on Inverted Ramps
+
+Cars with suction-cup 'plunger' wheels that stick to surfaces score points on impossible ramps: a ramp that curls back so you drive on its underside, a snaking 96-degree ramp that narrows, a sideways wall-ride ramp through a wind farm, and a timed mega tube ramp.
+
+**Issues & surprises**
+
+- Plunger cars float and ignore normal gravity in the air
+- Too much speed (190 mph) broke the suction and threw cars off; slowing to about 40-70 mph let them stick upside down
+- The four-plunger truck had the most stick but couldn't stop and flew past the landing
+- On the narrowing 96-degree ramp, the narrow Beetle coasting without throttle worked best, but the event turned out to be timed
+- Any wheel lifting off broke the run; the construction truck won by hugging the tube hardest
+
+**Vehicles:** Plunger-wheeled cars: small car, two-plunger-drive car, four-plunger off-road truck, Beetle, sports car, construction truck  
+**Design takeaway:** A 'sticky wheels' modifier that holds the car to any surface opens up underside, wall and tube tracks, with a speed limit beyond which grip breaks.  
+**Video:** [Plunger car vs mega ramps in GTA 5](https://www.youtube.com/watch?v=OzEC2MrK8X8)
+
+### Suction-Wheel Motorcycles Wall Climbs
+
+Point events for plunger-wheeled bikes: climb an 89-degree wall carrying a passenger, descend a 90-degree icy wall while hitting balloons, ride a road that rotates toward vertical, and a 'scorpion' half-loop where you exit upside down and must land upright on a narrow platform.
+
+**Issues & surprises**
+
+- Normal bikes climbed surprisingly high on the 89-degree wall through speed alone, but couldn't hold on
+- Light, rhythmic wheelies kept the rear plunger engaged and helped climbing
+- The two-plunger bike couldn't stick to the icy wall, while the four-plunger bike could actually steer on it, though only very slowly
+- On the rotating road, speed mattered more than suction, and the sporty bike won
+- The bike with the fewest, largest plungers won overall
+
+**Vehicles:** Normal bikes, drag bike, plunger bikes with two, four or more plungers per wheel, sporty 'stealth' plunger bike  
+**Design takeaway:** Adding wall-stick wheels as an upgrade tier makes it possible to design vertical events where suction strength is traded against speed and steering.  
+**Video:** [Which plunger bike can climb the highest?](https://www.youtube.com/watch?v=TjKEGaZqbT8)
+
+### Surface Grip Test Course
+
+Each section tests a grip type on a named surface: a steep gravel climb, an icy spiral loop, a sand braking zone where the car must stop on a tilted platform, a 26-second wooden cornering course, and a wall ride that tilts from 90 to 102 degrees past windmills.
+
+**Issues & surprises**
+
+- The steep gravel climb stopped most cars, including ones with big tires
+- He noticed cars seemed to climb further in first-person view, which surprised him
+- Hugging the inside of the icy spiral worked better than the outside
+- The Wastelander, usually dominant, failed the ice loop
+- Supercars couldn't brake in time on sand; the F1 car had by far the best braking
+- Overhanging wall angles past 100 degrees needed real downforce, which the F1 car had
+
+**Vehicles:** Jeep, spoiler car, torque truck, dune buggy, Wastelander, supercars, Canis, side-by-side, high-downforce supercar, open-wheel F1 car (winner)  
+**Design takeaway:** Separate grip into climbing, cornering, braking and downforce tests on labelled surfaces to make the tire model easy to read.  
+**Video:** [Which car has the best grip in GTA 5?](https://www.youtube.com/watch?v=xpKsSIKJm7w)
+
+### Suspension Torture Course
+
+Suspension tests: angled gaps, 3-metre-spaced gaps, piano-key 'gappy gaps', a spiral gap section that turns into a wall ride, sideways speed bumps between boost and slowdown sticks that you must cross drifting sideways, 40-second spinning speed bumps of different heights, and finally gapped stairs on a platform simulating an earthquake.
+
+**Issues & surprises**
+
+- A tiny low car surprisingly cleared the first gap section
+- The Wastelander breezed through gaps but slid off the spiral wall ride
+- Lifting off the throttle when hitting taller speed bumps prevented launching
+- Getting the chassis stuck between stairs ended runs; angling the wheels helped crawl free
+- Porpoising suspension on the earthquake stairs ruined attempts
+- The Sandking with wide tyres and good recovery won
+
+**Vehicles:** Bumper car, lowrider, quad, buggy, Wastelander, Canadian-flag monster truck, Draugur, luxury lowrider, Sherp, 6-wheeler, Sandking  
+**Design takeaway:** Combining gaps, bumps and a moving 'earthquake' floor stresses suspension travel, damping and recovery in one course.  
+**Video:** [Which car has the worst suspension in GTA 5?](https://www.youtube.com/watch?v=lAlyDMbejws)
+
+### Suspension Torture Course
+
+An obstacle course aimed at suspension: widening gaps, bumps, soda can humps, bacon-shaped ridges, 'sleeping policemen' speed bumps, low clearance bars to squeeze under, a 20-second timed off-road section, a double uneven tightrope, a moving speed-bump road and floating onion rings.
+
+**Issues & surprises**
+
+- The slammed lowrider surprised him with lots of suspension travel
+- The Sherp's balloon tires absorbed bumps but it couldn't squeeze under low bars
+- The monster truck could compress under low bars but then got stuck
+- Policemen used as speed bumps stood back up and followed the car
+- He skipped the timed section by wall-riding onto an edge with no invisible wall
+- The heavy Wastelander kept its momentum over obstacles without hydraulics
+
+**Vehicles:** Bug car, slammed lowrider, Sherp, monster truck, side-by-side, Walker-style truck, military vehicle, Wastelander (winner)  
+**Design takeaway:** Combining bumps with low ceilings means suspension travel is both an asset and a liability.  
+**Video:** [Testing which car has the best suspension in GTA 5](https://www.youtube.com/watch?v=bL8cj2SWAYg)
+
+### Tracked Vehicle Points Trials
+
+Tracked vehicles compete for points across tests: steepest incline climb (60 and 75 degrees), Lego speed bumps under 50 seconds, pushing shipping and fluid containers and jumping, and a sand course with a sandworm.
+
+**Issues & surprises**
+
+- Bulldozer crawled up absurdly steep inclines on raw torque at about 1 cm/s
+- A vehicle with power but a bad centre of gravity flipped off inclines
+- Scarab overshot tops unless throttle was released near the crest
+- Lifting off before Lego bumps prevented launches
+- Some vehicles couldn't budge containers at all
+- Half-track kept surprising speed on sand and won
+
+**Vehicles:** Mini tank, bulldozer, Scarab, custom tank-truck, half-track, other tracked vehicles  
+**Design takeaway:** A points-based test suite (incline, bumps, pushing, sand) gives a clear profile of each tracked vehicle's strengths.  
+**Video:** [Which car tracks are best in GTA 5?](https://www.youtube.com/watch?v=iou5VXJiNPo)
+
+### Tractor Stair Climbing Course
+
+Tractors with hydraulics tackle stair stages: rainbow stairs, timed transforming neon stairs that grow out of a ramp, gold coin stair humps, climbing over bumper cars and a limo, tall icy stairs, timed fire stairs chased by a pit of fire, and spinning plywood-covered holes in 69 seconds.
+
+**Issues & surprises**
+
+- The Turbo Tractor's long front engine reduced clearance but its torque climbed anyway
+- Driving up backwards worked better on tall and icy stairs because the driven rear wheels led
+- Timing the hydraulic hop with stair growth was crucial
+- Full throttle flipped the tractor on fire stairs; half throttle was faster overall
+- Burned-off tires still let it drive surprisingly well
+
+**Vehicles:** Lawn tractor, vintage tractor, modern red tractor, custom Turbo Tractor (all with hydraulics)  
+**Design takeaway:** A slow, high-torque vehicle with a hop ability makes a satisfying stair-climbing protagonist when stages reward timing over speed.  
+**Video:** [How far can the turbo tractor climb in GTA 5?](https://www.youtube.com/watch?v=U6oZuQ7sO9o)
+
+### Train and Truck Stair Climbing Course
+
+Stair challenges: reverse-growing stairs (biggest step first) on a timer with a rising wall, a rocky boulder staircase with rolling rocks, a tightrope staircase shaped like a falling-and-rising price chart, and a rotating staircase that swings through wind turbines. A custom driveable train is pitted against regular vehicles.
+
+**Issues & surprises**
+
+- The custom train climbed surprisingly well, using its flat back as a lever
+- Big tyres lost lots of speed on every step
+- Vehicles slid off the narrow chart-shaped track if even slightly sideways
+- On the rotating staircase he had to drift-climb sideways as the outer radius moved faster
+- A truck with strong front-tyre climbing and rear traction ended up winning
+
+**Vehicles:** Jumping hydraulic car, big-tyre buggy, custom driveable train, Wastelander, large truck  
+**Design takeaway:** Moving staircases where the outer edge travels faster create a neat physics puzzle combining climbing with lateral drift.  
+**Video:** [How many stairs can a train climb in GTA 5?](https://www.youtube.com/watch?v=HFcd2uqh4lY)
+
+### Trench Climb-Out Gauntlet
+
+Drop into and climb out of a series of narrowing, jagged trenches, then an icy ocean trench where water rises and icebergs fall, and finally a Death Star trench run on a bike with a bomb, timed laser shots and UFO jumps.
+
+**Issues & surprises**
+
+- Rocks limited run-up speed, and vehicle corners snagged on walls
+- Jagged walls made wall-riding unreliable
+- Narrow walls actually helped banking off the sides
+- Tank flooded out quickly despite earlier water-wall success
+- A Rover stayed narrow enough and kept driving with water above its wheels
+- Death Star laser fired in fixed spots, so memorization was required
+
+**Vehicles:** ATV, Liberator, hydraulic car, tank, Rover, motorcycle with bomb  
+**Design takeaway:** Trenches of decreasing width test vehicle width, torque and wall-banking, and rising water adds a natural timer.  
+**Video:** [Cars vs Trenches in GTA 5](https://www.youtube.com/watch?v=b4swRI1aR30)
+
+### Truck Stair Climb (Cybertruck Test)
+
+Trucks with hydraulics climb stair stages: timed stairs with a rolling ball, twisting stairs with a 'tetanus' cloud that crumples your vehicle, spreading spiral stairs, icy descending stairs where you must stop on a moving section, and swiping stairs that slide sideways. The Cybertruck is the featured vehicle.
+
+**Issues & surprises**
+
+- Monster truck tyres slipped on stairs and it was worse forwards than in reverse
+- The Hummer climbed well, but touching the cloud crushed the car into a crumpled wreck that still drove
+- Spiral stairs pulled vehicles outward as the steps spread
+- On ice the car needed a narrow window of speed: fast enough to beat the wall but slow enough to stop
+- On swiping stairs he discovered that letting the moving wall hit you was the intended method
+
+**Vehicles:** Quad, Sherp, monster truck, Hummer, 6-wheel truck, half-truck, Cybertruck  
+**Design takeaway:** Downhill icy stairs with a braking target are a nice counterpart to climbing tests, rewarding brake control and stability.  
+**Video:** [Which truck can climb the most stairs in GTA 5?](https://www.youtube.com/watch?v=lhvImNVD2FQ)
+
+### Wavy Pipe Road Course
+
+Roads made of undulating pipes: timed Lego wavy pipes, descending pipes with safe islands, pipes with metal bars, a tightrope section, and offset pipes whose heights increase. Must finish each in time limits.
+
+**Issues & surprises**
+
+- Front ends nosedived and lost all momentum on the waves
+- Cars got 'swallowed' and wedged between pipes
+- Wide tires on the Sherp stopped it getting pinched
+- Wastelander's suspension climbed out of gaps even from a standstill but was too wide for the tightrope
+- Landing aligned with the pipe's slope kept the car centred
+
+**Vehicles:** Sherp, lifted truck, Wastelander, nimble sports car, next-gen car  
+**Design takeaway:** Undulating surfaces are a great suspension and wheel-width test; pair them with a narrow section so no single vehicle dominates.  
+**Video:** [Cars vs wavy pipes in GTA 5](https://www.youtube.com/watch?v=CZFbISeEoUg)
+
+### Wheel Size vs Mud Courses
+
+A timed mud course where popping balloon mines strips body parts and rising water floods the track, a 60-second course of slowing mud pools where balloons must be hit to remove barriers, and a ride atop a rotating floating 'Minecraft' mud cube while rocks are fired at you.
+
+**Issues & surprises**
+
+- Tiny wheels drove best on the first uneven course: the car leaned but didn't bounce, while big tyres springboarded off the sides
+- On slowing mud, tiny wheels sank and the bumper buried; bigger tyres lost much less speed (staying around 47-50 mph instead of 25)
+- The biggest tyres won the slowing mud and the cube rotation
+- Balloon hitboxes felt inconsistent, triggering from several inches away
+- Any spin or roll in the timed mud meant restarting, so it needed one clean run
+
+**Vehicles:** The same off-roader with enormous, large, average and tiny wheels; a BMW  
+**Design takeaway:** A mud surface that applies speed-dependent drag based on tyre size gives wheel choice a clear, visible payoff.  
+**Video:** [small & big wheels vs off road challenges in GTA 5](https://www.youtube.com/watch?v=T7M0m5CNo-s)
+
+### Wheelie Climb and Offset Tightrope Boards
+
+Later boards: a bike climb that needs well-timed wheelies over trees and blocks into a bucket, and a '1000% impossible' board with offset tightropes, platforms where you can't stop in time, beam walks and a scaffolding climb.
+
+**Issues & surprises**
+
+- Wheelie timing decided whether the bike cleared each step
+- On one platform there was no way to stop, so committing straight through was the trick
+- Gaps in the offset tightrope had to be hopped slightly, not driven across
+- The scaffolding climb tested patience more than skill
+
+**Vehicles:** Motorbike, car  
+**Design takeaway:** Wheelie controls let a bike climb stepped obstacles that a car can't, which makes for bike-only routes.  
+**Video:** [I completed this 99.9999% impossible skill test challenge in GTA 5](https://www.youtube.com/watch?v=mAdmuYjuS6I)
+
+### Winged Rocket Car vs Staircases
+
+Vehicles climb themed staircases: uneven hay stairs with cows, timed L-turn stairs, steepening stairs, and a shuffling 'scooping' staircase that moves back and forth. The goal is to see how far each gets, especially the winged jet car.
+
+**Issues & surprises**
+
+- Hay bales were rigid and stripped the car's panels off
+- Traction on stairs was poor; cars popped around like popcorn
+- Steepening stairs ran out of room for the rear tires
+- The winged car needed to be angled up before boosting or it just slammed down
+- On the moving staircase, waiting for it to dip then boosting gave the win
+
+**Vehicles:** Winged rocket supercar, Drogger-like car, Wastelander  
+**Design takeaway:** Stairs that move under the vehicle reward reading the platform's cycle before committing thrust.  
+**Video:** [How far can a car with wings climb up the steps in GTA 5?](https://www.youtube.com/watch?v=hH6dGj7QQHo)
+
+
+## Escalating-modifier challenge (gets harder over time / per crash)
+
+### Absurd-Headline Missions with Speeding-Up Chaos
+
+Three missions inspired by absurd news headlines: drive a stolen excavator to a store, deliver a couple to a church in a very slippery taxi, and deliver a lawnmower across the map. A chaos mod triggers random effects, with the interval shrinking from 30 to 25 to 20 seconds per mission.
+
+**Issues & surprises**
+
+- The excavator was slow and exposed, but its arm shielded him from police fire; its boost had about a one-minute cooldown
+- The taxi drove as if on ice, and he coped using experience from the camber video
+- Meteor 'rain' killed pursuing police and once replaced his car with a better one
+- A random stunt-jump teleport skipped most of the final route
+- He finished the last delivery on a tractor running on bare rims at about 7 mph
+
+**Vehicles:** Excavator (10 mph, with 'drink' speed boost), ice-slick taxi with hydraulics, jet-powered lawn tractor  
+**Design takeaway:** Random event modifiers on a shrinking timer add replay variety to delivery missions, especially with deliberately awkward vehicles.  
+**Video:** [Yes, this actually happened...](https://www.youtube.com/watch?v=VIMoncuqfYw)
+
+### Apocalypse-Phase Cross-Map Delivery
+
+He must carry a vaccine across the map while a modified chaos mod triggers a new apocalypse phase every 30 seconds: global warming that burns out engines, corrosive chemicals that pop tires and glass, alien invasions, black holes, low or insane gravity, solar storms, asteroid showers, earthquakes and explosive zombies.
+
+**Issues & surprises**
+
+- Heat phases killed every nearby engine, leaving few drivable vehicles
+- Being inside a vehicle protected him from corrosive chemicals, which only hurt the surroundings
+- The bicycle and motorcycles were most robust since they had no engine or tires to lose in the same way
+- A tunnel protected him from the black hole
+- Low gravity was exploited to float toward the goal
+- Insane gravity effects even crashed the game
+
+**Vehicles:** Jet, cars, motorcycles, bicycle, police car, taxi, tour bus (any found vehicle)  
+**Design takeaway:** Global environmental events on a timer that disable specific vehicle systems (engine, tires) force constant vehicle swapping.  
+**Video:** [GTA 5 but the world ends every 30 seconds](https://www.youtube.com/watch?v=TySPdfrwWLQ)
+
+### Budget-Tier Chaos Mod Courses
+
+Community creators built courses at four 'budget' tiers, each running a chaos mod that applies random effects at intervals (every 1s, 10s, etc.). The final tier is a roughly 4.5-minute wall ride around Saturn's ring with constant random effects such as vehicle rain, 10x engine speed, blurred vision and explosive zombies.
+
+**Issues & surprises**
+
+- One-second chaos made the cheapest board nearly unplayable
+- Effects like a stuck W key, drunk steering and invisible vehicles wrecked control
+- A long continuous wall ride was hard because any single bad effect ended the run
+- Invisible walls blocked mountain shortcut attempts
+- Repair effects unexpectedly helped by fixing a damaged front end
+
+**Vehicles:** Various cars incl. Hot Wheels-style car, wall-ride car  
+**Design takeaway:** Random timed modifiers on a long continuous run create high tension; tuning frequency and severity controls whether it feels fun or unfair.  
+**Video:** [$1 vs $1,000 Chaos in GTA 5](https://www.youtube.com/watch?v=Pe4wugllnRg)
+
+### Chaos Every 10 Seconds Checkpoint Run
+
+Ten checkpoints across the map with a random chaos effect every ten seconds, including black holes, inverted velocity, gravity changes and meteors. The player is given specific vehicles or items per stage.
+
+**Issues & surprises**
+
+- A black hole pulled all vehicles to one point
+- Inverted gravity sent his boat upward
+- He tried to cheat by only touching the arrow, but had to pass checkpoints
+- A riding deer was surprisingly fast
+
+**Vehicles:** Varied vehicles, deer mount, boat, train  
+**Design takeaway:** Rapid random modifiers keep players improvising rather than memorizing.  
+**Video:** [GTA but Chaos Happens Every 10 Seconds](https://www.youtube.com/watch?v=oh58rDICpeI)
+
+### Chaos Mod Every 30 Seconds Checkpoint Race
+
+The player must reach seven checkpoints across the map while a chaos mod fires a random effect every 30 seconds, such as gravity changes, camera modes, vehicle yeets and fog. Arrows only appear after reaching the right checkpoint.
+
+**Issues & surprises**
+
+- Some effects like a zoomed camera or very short render distance made driving nearly impossible
+- Stacked effects at a five-times timer overwhelmed him
+- Low gravity eventually helped him reach a checkpoint
+- Being forced into random vehicles occasionally helped
+- Effects like inverted steering or locked input left him rag-dolled
+
+**Vehicles:** Scooter, random cars, tank, motorcycle  
+**Design takeaway:** Timed random modifiers to gravity, camera and controls create replayable chaos in a simple A-to-B drive.  
+**Video:** [GTA but chaos happens every 30 seconds](https://www.youtube.com/watch?v=NFENy5zJugo)
+
+### Checkpoint Riddle Hunt with 5-Second Chaos
+
+He solves location riddles (the 'fakest place', the second-highest point, a heist location) to reach five checkpoints, while a random chaos effect fires every 5 seconds.
+
+**Issues & surprises**
+
+- Effects like ping-pong vehicles, blackouts, black holes and low gravity changed driving constantly
+- A car-disabling effect ('tetanus') kept wrecking vehicles
+- Short effect durations sometimes helped, e.g. a stolen car or invincibility
+- He was caught on ceilings and teleported into boxes
+
+**Vehicles:** Whatever he can steal; on foot and parachute  
+**Design takeaway:** Rapid random modifiers on a navigation objective keep a simple route fresh, but helpful and harmful effects need to be balanced.  
+**Video:** [GTA 5 but chaos happens every 5 seconds](https://www.youtube.com/watch?v=G-bcR3j72mk)
+
+### Crash-Boosts-Horsepower Course
+
+Every contact adds horsepower and briefly forces the throttle to full. The course runs through an alien-vs-human battle, a giant moving hamster wheel and finally a road across the map with a one-second time limit that only huge horsepower can achieve.
+
+**Issues & surprises**
+
+- Bullets, debris and even floors counted as crashes
+- Jumping before contact avoided triggering the script, since clean landings did not count
+- He deliberately aimed at walls to kill forward speed after a power spike
+- A low car could pass under gunfire
+- On the hamster wheel, going too slow pulled him back down
+
+**Vehicles:** Various cars incl. light car, heavier car, low car  
+**Design takeaway:** Making power gain a penalty that must later be exploited for a speed gate flips the usual upgrade loop.  
+**Video:** [Every time i crash horse power increases in GTA 5](https://www.youtube.com/watch?v=izGtG95_2z4)
+
+### Crash-Doubling Traffic Race
+
+A narrow course with ramps, presses and a heavy rolling rock that shoves you around, where every crash doubles the AI traffic driving the same course; you must beat the traffic pack to the end. In stage two, every balloon you hit (and you must hit them all) spawns another ramp car that launches you.
+
+**Issues & surprises**
+
+- Traffic quadrupled almost instantly because crashes stacked; a short cooldown limited runaway doubling
+- Hits from the ramp truck's ramp didn't count as crashes, which helped it plough through the pack
+- Wall-scraping didn't count as a crash, but the rock kept knocking cars into walls
+- Duplicated cars collided and stalled each other, which actually helped him pass
+- Riding just behind the wind-turbine blades was the safe line through the balloon stage, which took about 35 minutes
+
+**Vehicles:** Monster truck, camo off-roader, limo, ramp truck, small jump/boost car, stock car, high-suspension sports car  
+**Design takeaway:** Making your own mistakes add AI opponents or obstacles is a strong self-balancing difficulty loop for a time trial.  
+**Video:** [Every time I crash traffic doubles in GTA 5](https://www.youtube.com/watch?v=gD6BqN8MXgc)
+
+### Crash-Escalating Steering Sensitivity Course
+
+He runs a community obstacle course (crosswalks, ramps, moving parts, a 60-second wavy rally section) using a wheel controller. Steering sensitivity starts at level 1 and goes up one level for every crash, resetting only on a fall or respawn; the goal is to reach the finish.
+
+**Issues & surprises**
+
+- Level 1 sensitivity was nearly undrivable, requiring many-point turns, so he deliberately crashed to raise it
+- Mid levels (around 3 and especially 7) felt the most natural; very high levels made a one-inch input spin the car
+- Some walls had to be rammed to pass, forcing unavoidable sensitivity increases
+- Speed strips, curb boosts and slowdown sticks became far more dangerous at high sensitivity
+- Force feedback made the wheel jolt on every impact; he finished the timed section with zero seconds to spare
+
+**Vehicles:** Assorted cars driven with a physical steering wheel and shifter  
+**Design takeaway:** A per-crash input-sensitivity ramp is a simple, readable penalty that changes the handling feel without touching the physics model, and shows there is a sweet spot between sluggish and twitchy steering.  
+**Video:** [Every time I crash steering gets more sensitive in GTA 5](https://www.youtube.com/watch?v=0kyXMtEtWgM)
+
+### Crash-Increases-Gravity Course
+
+Each crash temporarily spikes gravity on the vehicle after a short delay, and the base gravity rises per section. The course includes ramp cars, falling humans, tilted wall rides and inverted controls.
+
+**Issues & surprises**
+
+- Even light bumps triggered heavy gravity
+- The delay let him jump before gravity kicked in
+- Sudden heavy gravity once stopped him falling off an edge
+- The lightest vehicle was least affected by gravity changes
+- Declines absorbed some of the gravity impact
+
+**Vehicles:** Bus, car with jump, light nimble small vehicle  
+**Design takeaway:** Temporary gravity spikes as a penalty make vehicle mass and timing matter.  
+**Video:** [Every time i crash gravity gets stronger in GTA 5](https://www.youtube.com/watch?v=jzOaUdp0CKg)
+
+### Crash-Penalized Chaos Checkpoint Run
+
+The chaos timer starts at 60 seconds and shrinks by 1 second for every crash, with a short grace period. He has to collect checkpoints across the map while effects pile up.
+
+**Issues & surprises**
+
+- Meta-effects sped up the timer or fired several effects at once
+- Getting shot did not count as a crash, but bouncing did
+- A bunny-hopping car effect registered every bounce as a crash
+- The teleport malfunction took the car along with him
+- By the end the timer was maxed out at about 1 second
+
+**Vehicles:** Sports car, stolen cars, on foot  
+**Design takeaway:** Penalties per crash that speed up the hazard rate form a feedback loop that rewards clean driving, though crash detection has to be fair.  
+**Video:** [Every time I crash CHAOS happens faster in GTA 5](https://www.youtube.com/watch?v=ibqruwwPft0)
+
+### Crash-Raises-Water-Level Course
+
+Each collision raises the water level by a random cumulative amount. The level resets only by restarting, switching cars or reaching a checkpoint. The course includes ice with jet-ski shooters, a pedestrian corridor, a carousel, destructible barriers, a wall ride and an underwater section.
+
+**Issues & surprises**
+
+- Pedestrians rolling over the car counted as many crashes, quickly flooding the course
+- An AI ATV rider t-boned his motorcycle off the board
+- Repeated contact with jet skis flooded his truck
+- Driving with wheels underwater felt more controllable to him in the final section
+- Ping-ponging off walls likely counted as multiple crashes
+
+**Vehicles:** Various cars, motorcycle, trucks  
+**Design takeaway:** Making every collision raise a visible shared hazard turns clean driving into the core score metric.  
+**Video:** [Every Time I Crash The Sea Level Rises in GTA 5](https://www.youtube.com/watch?v=XQyQA5kcfIQ)
+
+### Crash-Swaps-Bigger-Vehicle Course
+
+Each crash swaps the player into a bigger vehicle after brief immunity. Sections include a bowling lane with a chasing ball, surviving three minutes of falling vehicles and rockets, and a drunk highway.
+
+**Issues & surprises**
+
+- Being big helped absorb hits in some sections
+- A rally truck had almost no traction
+- The motorcycle was best for weaving through traffic
+- A transformation once saved him from being stuck
+
+**Vehicles:** Vehicles that grow larger per crash: rally truck, side-by-side, motorcycle, dump truck, bus  
+**Design takeaway:** Swapping vehicle size as a penalty makes failure change the handling puzzle rather than just reset it.  
+**Video:** [Every time i crash my truck gets bigger in GTA 5](https://www.youtube.com/watch?v=dbOgma667hU)
+
+### Crash-to-Clone Challenge
+
+Every collision spawns a duplicate of the player's vehicle, so crashes fill the course with clutter. Stages include jumping through giant balloons and windmills, a falling funnel shaft where clones clog the drop, dodging bouncing planets, and finally surfing forward on a pile of clones.
+
+**Issues & surprises**
+
+- Even tapping a wall or landing on the frame counted as a crash
+- Duplicates spawned on top regardless of impact direction and changed paint each time
+- Heavy vehicles clogged the funnel with copies, blocking the way down
+- A long flat car could ride forward on the pile of its own clones to reach the finish
+- Damage from clones landing on the player was significant
+
+**Vehicles:** Bikes, tanks, Ruiner, fast sports car, Liberator, scooter  
+**Design takeaway:** Making failures add physical obstacles creates a self-inflicted escalating difficulty that rewards clean driving and can be inverted into a tool.  
+**Video:** [GTA 5 but every time I Crash I multiply](https://www.youtube.com/watch?v=OKIUxXR81hc)
+
+### Crash-to-Lengthen Vehicle Gauntlet
+
+Every collision swaps him into a longer vehicle while he crosses a soccer field of rolling balls and super-heavy players, then a moving racetrack with F1 cars, ramps, slow-down strips and a pit stop. A repair pickup regresses the vehicle chain; a quiz on the ball count gates progress.
+
+**Issues & surprises**
+
+- There was a ~5s immunity after each swap, and getting hit while nearly destroyed acted as a free repair
+- The soccer players had huge mass and acted like immovable walls
+- Swapping vehicles mid slow-down strip cancelled its slowdown effect
+- He realised the F1 car later in the chain had the best traction and deliberately crashed to reach it
+- Slow-down strips were in fixed positions, so the route could be memorised
+- Long vehicles could not handle the final stop-sign section, rewarding staying short
+
+**Vehicles:** Progressively longer vehicles: Batmobile-style car, fire truck, limo, rocket truck, airport tug, bus, F1 car  
+**Design takeaway:** Make vehicle size a penalty that grows with crashes, with occasional resets, so players manage risk over a whole run.  
+**Video:** [Every time I crash the car gets longer in GTA 5](https://www.youtube.com/watch?v=8RvkQVoBSeM)
+
+### Crash-to-Widen Course
+
+Every significant crash swaps the player into a progressively wider vehicle, starting thinner than the driver. Obstacles include jumps, Minecraft cubes, a tracking bowling ball, IQ bowling where pins must be knocked down, a tightrope and a chicken-themed wall ride.
+
+**Issues & surprises**
+
+- Only significant crashes counted; landing on wheels was safe
+- Very thin car's tires folded inward and it leaned badly
+- Wide vehicles acted like kites with odd aerodynamics but couldn't turn
+- The Sherp surprisingly made a jump some motorcycles couldn't
+- Extreme width made tightropes and narrow ramps nearly impossible
+- Ejecting before a crash avoided triggering a vehicle swap
+
+**Vehicles:** Ultra-thin car, Wastelander, Patriot, Sherp, extremely wide motorcycle, wide Lamborghini-style car, quad  
+**Design takeaway:** Tying vehicle dimensions to failures teaches how width affects stability, turning and clearance in a visible, escalating way.  
+**Video:** [Ever time I crash my car gets wider](https://www.youtube.com/watch?v=VPw6VBL0Pgs)
+
+### Crash-Triggered Chaos Checkpoint Run
+
+He must reach four checkpoints across the map; every collision rolls a random chaos effect (drunk steering, x10 engine speed, delayed camera, speed cap, meteor showers, etc.). Each checkpoint adds a permanent effect, enlarges the pool of random effects and lengthens how long each effect lasts.
+
+**Issues & surprises**
+
+- Only 'classic' crashes counted: landings, gunfire and running over small rocks did not trigger effects, and there was a ~5s grace window between triggers
+- Chain reactions: one crash triggers an effect that causes another crash ('chain of pain')
+- Permanent drunk steering made avoiding obstacles nearly impossible since the car drifts constantly
+- Delayed camera and cinematic camera effects were singled out as the most crippling
+- Driving down a cluttered mountain was hopeless; he bailed out and parachuted/jumped instead, and later used a tank then a plane to finish
+
+**Vehicles:** Boost-jump car, Wastelander-style off-roader, motorcycle, tank, planes (any means allowed)  
+**Design takeaway:** Tie a growing pool of temporary handicaps to collisions, with a short cooldown, so clean driving is rewarded and mistakes snowball.  
+**Video:** [Everytime I crash chaos happens in GTA 5](https://www.youtube.com/watch?v=-1r6-2q2jfk)
+
+### Crash-Triggered Vehicle Upsizing Course
+
+Every crash swaps the player into the next larger vehicle in a fixed ladder, through spinning-rod platforms, a staircase with rolling balls, falling meteors and a Santa chase where present-bombs must be dodged. Respawning resets to the smallest vehicle.
+
+**Issues & surprises**
+
+- Crash detection was inconsistent; wheel hits and jumps usually did not count but light scrapes sometimes did
+- Each vehicle swap reset engine RPM (and radio), stalling momentum
+- Because respawn resets to the smallest car, he deliberately crashed before the start to get the vehicle he wanted
+- The Liberator turned out ideal for the stairs, crawling slowly and side-stepping hazards; all-wheel contact also reduced crash counts
+- No checkpoints made the long first board take around 30 attempts
+
+**Vehicles:** Bandido mini, quad, low sports car, hydraulic lowrider, six-wheeler, Liberator, Rover, Wastelander, side-by-side  
+**Design takeaway:** A crash-driven vehicle swap is fun only if crash detection and swap transitions keep momentum and are clearly readable.  
+**Video:** [Every time I crash my car gets bigger in GTA 5](https://www.youtube.com/watch?v=5ILqtk-Fxi0)
+
+### Crash-Triggered Wheel Size Escalation
+
+Each crash respawns the car with the next larger tyre size, cycling back to small after the maximum. Events include jumps past flying obstacles, timed speed bumps with moving stop signs, a water dip crossed by jet skis, and oncoming traffic with windmills.
+
+**Issues & surprises**
+
+- Tiny wheels gave great turning but the car leaned and flipped easily with no surface to land on
+- Tiny wheels also made the car narrow enough to slip between obstacles
+- Medium-large tyres ('level four') felt the most balanced; the largest bent the axles and barely fit the track
+- Crash detection only counted body hits, so huge wheels acted as shields against traffic
+- Tyre physics were truly simulated (suspension, bounce, aero), not just visual scaling
+
+**Vehicles:** Same car with tyres from tiny to house-sized, plus a tiny-wheel intro car  
+**Design takeaway:** Scaling wheel radius as a penalty/reward shows how one parameter shifts grip, stability, clearance and hitbox all at once.  
+**Video:** [Every time I crash my wheels get bigger](https://www.youtube.com/watch?v=Ixct4w11XuU)
+
+### Degrading Brakes Challenge
+
+Brakes start at level 100 and drop 10 levels per crash. Courses include a spinning platform where balls must be knocked off and you return to the centre before it rotates, then a 50-second run through whales, meteors and orbital strikes using 'brake tokens'.
+
+**Issues & surprises**
+
+- Hitting a soccer ball counted as a crash
+- Maximum braking was too grabby and caused spins and flying off
+- Around 70-80 brake level felt most controllable
+- Below about 50 it was better to switch vehicles
+- With no brakes at all, simply never slowing down worked
+- Re-learning stopping distance after each loss was the real difficulty
+
+**Vehicles:** Pink car, fast class car, rear-wheel-drive car, others  
+**Design takeaway:** Degrading a single handling stat per failure is a clear, tunable difficulty ramp, and reveals that maximum values aren't always optimal.  
+**Video:** [Every time I crash my brakes get worse](https://www.youtube.com/watch?v=qjpfHV-N1f0)
+
+### Degrading-Graphics Stunt Course
+
+A stunt course built from channel emotes and props (emote wall rides, ring jumps through 'join button' props, a mug landing). Each stage swaps in cars and a character with worse graphics and simpler physics models.
+
+**Issues & surprises**
+
+- Low-detail cars with no tire tread seemed to have almost no grip
+- The worst car would not rock back over when stuck on its roof
+- Pulsing props could be solid or pass-through depending on their state
+- Jump distances had to be found by trial and error with almost no visual cues
+- Losing the character model made skydive landings hard to judge
+
+**Vehicles:** Low-poly retro cars, untextured cars, single-polygon cars  
+**Design takeaway:** Lowering fidelity (visuals, grip, collision) as the run goes on is a novel difficulty curve, though the physics should change in ways players can read.  
+**Video:** [GTA 5 but every 10 minutes the graphics get worse](https://www.youtube.com/watch?v=Y_VQQ8ATFCU)
+
+### Drive to Space with Fading Gravity
+
+A climbing track from the mountains up past the skybox, picking from branching tubes and routes. Gravity drops as altitude rises, changing how jumps, traction and steering behave until there is almost none at the top.
+
+**Issues & surprises**
+
+- Novelty car had very poor suspension
+- Picked a tube route that led into fire and fans
+- Low gravity removed traction so the car barely moved
+- Jumping over obstacles became floaty and hard to steer
+- Found that hitting fans on purpose launched the car across gaps
+- Final narrow ramp was easier because there was almost no friction
+
+**Vehicles:** Choice of supercar, dirt bike, off-roader, novelty beer-cooler car (chosen)  
+**Design takeaway:** Gradually lowering gravity along a climb is a smooth difficulty ramp that changes how every obstacle plays.  
+**Video:** [i literally drove to space in GTA 5](https://www.youtube.com/watch?v=TOH8Wq53iEA)
+
+### Escalating G-Force Water Slides
+
+Three slides at normal, 100x and 1000x force, then a moving-platform launch, a spinning-obstacle Plinko and a double spike carousel before a final car jump.
+
+**Issues & surprises**
+
+- At higher force the body launched off the slide like a shuttlecock
+- Had to land on a moving platform with no parachute
+- Carousel section was optional; dying and dropping from an earlier spot skipped it
+- Head-first fetal position gave better slide control
+
+**Vehicles:** On foot sliding; a car for the final section  
+**Design takeaway:** Scaling one physics parameter (speed/force) across repeated sections is an easy way to tier difficulty.  
+**Video:** [I found a 1000+ G force waterslide in GTA 5](https://www.youtube.com/watch?v=42YzO9P5H4o)
+
+### Escalating Run-Speed Map Crossing
+
+Starting at half running speed with vehicles disabled, he crosses the map on foot; each checkpoint multiplies run speed (300%, 500%, 1000%, then 69x) while chaos effects trigger every minute. One checkpoint sits inside a guarded military base.
+
+**Issues & surprises**
+
+- Rolling downhill and parachuting covered far more ground than slow walking
+- Riding on top of a moving train was a huge shortcut
+- At very high run speed the character constantly tripped and crashed into objects for damage
+- At 69x speed movement felt like teleporting and was nearly uncontrollable
+- Pulsing the run input was the only way to keep control
+
+**Vehicles:** None allowed (on foot); vehicles vanish on entry; rode on a train  
+**Design takeaway:** Scaling a single movement stat at each checkpoint shows how control breaks down at extremes, a good stress test for any locomotion system.  
+**Video:** [1000% run speed but chaos happens every minute in GTA 5](https://www.youtube.com/watch?v=Gh7bUNPsruI)
+
+### Escalating Super-Jump Course
+
+His jump height increases at each checkpoint. Early on he dodges a stream of spawned vehicles; later jumps leave him floating too long; the final jump sends him into orbit and back.
+
+**Issues & surprises**
+
+- Standing at the edge of the vehicle stream avoided most hits
+- Super jump became an escape tool from the traffic
+- Higher jumps meant long floaty falls that made precision landing harder
+- Holding the button longer scaled jump height, giving some control
+
+**Vehicles:** On foot dodging traffic, boats and jet skis  
+**Design takeaway:** Scaling a single ability can turn it from a weak tool to an overpowered one, changing strategy each stage.  
+**Video:** [When every JUMP MULTIPLIES in GTA 5](https://www.youtube.com/watch?v=F1dumIlTROU)
+
+### Growing Height Collect Run
+
+Collecting tubes makes the character taller, which then affects later sections: a slide, a bike course and a plane course. Being tall changes what gaps you fit through and allows pole-vaulting.
+
+**Issues & surprises**
+
+- Being taller made dodging teleporters harder
+- Disappearing road sections forced line changes
+- Character's body did not collide with walls during flight, which made it possible
+- Invisible walls blocked a shortcut
+
+**Vehicles:** On foot sliding, bicycle, plane  
+**Design takeaway:** Changing the player's size between stages alters which routes are viable.  
+**Video:** [GTA 5 but every 60 seconds grows your legs](https://www.youtube.com/watch?v=SbEweGDQ6dE)
+
+### Growing Neck Collectathon
+
+A three-part board where the player collects neck pickups within a 69-second timer; the more collected, the longer the neck in the next segment. Later sections include forward-only movement, shooting pickups while tightroping, and using the neck to pole-vault to the finish.
+
+**Issues & surprises**
+
+- Red platforms were fakes and fell away
+- Movement in one section was forward-only with no stopping
+- The long neck kept him above water, making drowning hard
+- He solved the final gate by bailing off at full speed to throw his body past it
+
+**Vehicles:** Surfboard, motorcycle, on-foot  
+**Design takeaway:** Collected items that physically change the player's collision shape in the next stage link performance to future difficulty.  
+**Video:** [GTA 5 but my neck grows every minute](https://www.youtube.com/watch?v=9XMonBWs2B0)
+
+### Growing Pothole Time-Pressure Run
+
+Potholes start small and expand on a timer once the run starts, swallowing nearby props and traffic. Obstacles like slow-down rings, windmills, traffic patterns and hairpin turns are designed to delay him so the holes grow; invisible walls block going around.
+
+**Issues & surprises**
+
+- Growing holes swallowed obstacles like a cement mixer, which sometimes opened a path
+- Slow cars could never get there before the hole outgrew their jump distance
+- Corner-jumping the narrowest part of a hole and curb-boosting were key tricks
+- The NPC traffic was immovable on contact, acting as fixed blockers
+- He found one gap in the invisible walls to use as a shortcut
+- Only the fastest supercar with a near-perfect run beat the final hole
+
+**Vehicles:** Quad, taco van, limo, wagon, Patriot SUV, sports car, supercar (winner)  
+**Design takeaway:** Tie hazard size to elapsed time so that every delay compounds and the course itself rewards speed.  
+**Video:** [Potholes get bigger every 30 seconds in GTA 5](https://www.youtube.com/watch?v=DKb5OiLA6fM)
+
+### Growing-Height Vehicle Course
+
+Thirty-second segments where each respawn puts him in a taller vehicle: bumpy descending stairs, a field of lightning katanas stabbing down, a 'balls to the wall' run, a hill descent and a tightrope, ending with a car made of about 30 stacked cars.
+
+**Issues & surprises**
+
+- Low cars bottomed out on every bump
+- Damage carried over since respawns did not heal
+- Taller cars unexpectedly did better on many stages
+- Wide tall vehicles caught on katana blades
+- Wastelander's suspension made the bump section effortless
+- The giant stack was wildly top-heavy yet braked well and finished
+
+**Vehicles:** RC car up to progressively taller cars, van, Sherp, Wastelander, a ~70 ft stack of cars  
+**Design takeaway:** Tying centre-of-gravity height to progress exposes rollover and suspension behaviour in a fun, visible way.  
+**Video:** [Every 30 seconds, my car gets taller](https://www.youtube.com/watch?v=u9ii8F4hULg)
+
+### Growing-Scale Vehicle Course
+
+Course where the vehicle and the board scale up as he progresses: swinging moving segments, tightropes into a giant ball, and boost-trap corners. Bigger vehicles must handle the same precise transfers.
+
+**Issues & surprises**
+
+- Swinging segments sped up each stage, and turning angle shifted as segments rotated
+- Hidden boosts on an innocent-looking descent flung him off
+- A larger vehicle couldn't turn like a motorcycle
+- Wheels getting trapped in gaps ended runs
+
+**Vehicles:** Go-kart growing to larger vehicles  
+**Design takeaway:** Gradually rescaling the vehicle changes handling and clearance, freshening the same obstacle types.  
+**Video:** [Upgrading to the world's biggest player in GTA 5](https://www.youtube.com/watch?v=7NW_WBP4XRM)
+
+### Invisible-on-Crash Wall Ride Course
+
+Every crash makes the car invisible for about 5 seconds, with no immunity so invisibility time stacks. The board is mostly a long wall ride with transfers, slaloms, ribbon jumps, chassis slides, a 180 parking pocket, and a final invisible wall ride, with a couple of checkpoints.
+
+**Issues & surprises**
+
+- Guide rails ('dummy proofing') counted as crashes, so most wall-ride entries started invisible
+- Avoiding the guide rails made entries much harder, a direct trade-off
+- Driving relied on muscle memory and camera framing once the car vanished
+- Invisible snowmen still had collision
+- Police officers on the course behaved like immovable objects
+- The last section's wall ride was also invisible
+
+**Vehicles:** A single assigned car  
+**Design takeaway:** Remove visual feedback as a crash penalty to test whether players have internalised a vehicle's dimensions and handling.  
+**Video:** [Every time I crash the car turns invisible in GTA 5](https://www.youtube.com/watch?v=ETT7QBFPlIg)
+
+### Law-Abiding Taco Delivery under Chaos
+
+He delivers food to several stops in a taco truck without breaking any traffic law (stop at signs, no jaywalking, no collisions), while chaos effects fire regularly. Breaking a law triggers punishments such as armed enemies or all pedestrians becoming cops.
+
+**Issues & surprises**
+
+- Chaos effects (traffic magnet, black holes) forced accidental violations
+- Punishments chained into more violations, a spiral he could not escape
+- Jaywalking or even drawing a gun counted as a crime
+- Parking in the road blocked a delivery
+- The final delivery was only possible by committing a crime
+
+**Vehicles:** Taco truck, on foot  
+**Design takeaway:** Rule-following objectives (stop signs, signals) combined with disruptive events make an unusual 'careful driving' challenge.  
+**Video:** [Can I obey the law while chaos happens in GTA 5?](https://www.youtube.com/watch?v=JDZrTdmHKyQ)
+
+### Map-Wide Checkpoint Run under Escalating Chaos Effects
+
+Reach five checkpoints spread across the map while a chaos mod triggers a random effect on a timer, with effects getting nastier after each checkpoint and some scripted to fire at specific locations. No teleport back between checkpoints.
+
+**Issues & surprises**
+
+- Inverted and sideways gravity triggered right as he got into a car
+- Kill-engine and lock-vehicle effects ruined vehicle plans
+- A low-gravity flying-cars effect turned out to be the most helpful event
+- Slow game speed plus earthquake made driving almost impossible
+- Final checkpoint at the airport required flying a plane in
+
+**Vehicles:** Parachute, boat, police car, flying car, plane  
+**Design takeaway:** Timed random modifiers that escalate with progress keep a long route tense and unpredictable.  
+**Video:** [GTA 5 but chaos happens every 60 seconds](https://www.youtube.com/watch?v=3Q1iqTRWfww)
+
+### Marathon Chaos Checkpoint Run with Stacking Permanent Effects
+
+A long compilation of impossible tasks (stealing a jet and flying it through a hole, finding hidden checkpoints in a maze or store, reaching high points), with chaos every 20 seconds or faster. Each completed checkpoint stacks a permanent chaos effect.
+
+**Issues & surprises**
+
+- Mouse sensitivity was cranked so high that flying was erratic
+- Sideways and boosted gravity made vehicles uncontrollable
+- The checkpoint prop got inverted, which made the arrow point the wrong way
+- His own car ran him over and killed him near a goal
+- The traffic magnet pulled vehicles toward him while he was trying to jump a ramp
+- Permanent effects stacked (drunk driving, one-bullet mags), which raised difficulty over time
+
+**Vehicles:** Jet, bike, jet ski, boats, planes, stolen cars  
+**Design takeaway:** Permanent modifiers that stack after each objective make a natural escalating difficulty curve for long runs.  
+**Video:** [GTA 5 but chaos happens 142 minutes straight](https://www.youtube.com/watch?v=GlpY-lDOEqw)
+
+### More-Wheels-Per-Minute Tire Courses
+
+Sixty-second challenges built from tires: survive inside a rotating giant tire by tracking its opening, kick nine balls in a junkyard, ramp through tires with pizza-slice holes, and descend stairs. After each challenge the car gains more wheels and grows.
+
+**Issues & surprises**
+
+- Inside the spinning tire, following the hole's movement was the only way to survive
+- Extra wheels weren't powered, so only four drove while the rest added drag and weight
+- Hydraulics became severely delayed on the stretched car
+- The car body acted as one solid chunk and bounced wildly on landing
+- Eventually the car got so large it partly failed to render
+
+**Vehicles:** Progressively multi-wheeled custom cars (from normal to ~50-wheel 'Tootsie roll' builds)  
+**Design takeaway:** Adding unpowered wheels shows how mass, wheelbase and contact patches change handling, a fun way to expose suspension and drivetrain settings.  
+**Video:** [Every 60 seconds I add more wheels in GTA 5](https://www.youtube.com/watch?v=daNdVT21hdk)
+
+### Random Vehicle on Crash Obstacle Maze
+
+Each crash teleports him into a newly generated vehicle that gets stranger the more he crashes. He must get through a maze of traffic, rioters, moving Jenga blocks, heat-seeking thumbnail holes, twisters and teleporting objects to reach the end.
+
+**Issues & surprises**
+
+- There was roughly a 5-second immunity between swaps
+- Huge or odd vehicles (sandbag car, yacht) made it impossible to avoid touching things
+- A generated FIB building could fly through obstacles, which he tried to exploit
+- Occasionally the randomizer gave a normal car, which felt like a relief
+- Running over small things didn't count as a crash, but brushing a pedestrian did
+
+**Vehicles:** Randomly generated hybrids: jet ski on wheels, deer car, shark car, toilet car, jet fused to a UFO, cow, yacht with windmills, flying FIB building  
+**Design takeaway:** Swapping the vehicle on failure keeps runs varied and forces players to adapt to unfamiliar handling quickly.  
+**Video:** [Every time I crash parts are randomized in GTA 5](https://www.youtube.com/watch?v=ZhvEndnuJe4)
+
+### Self-Crushing Rubber-Band Cars Under Time Pressure
+
+Each car is wrapped in rubber bands that steadily crush it from front to back once a board starts; when crumpled enough, a hidden mine detonates. Events: a point-to-point drive, breaking through eight walls of tyres, balloon launch pads to land on, and a launcher survival run. Points per event.
+
+**Issues & surprises**
+
+- Cars shortened by several feet within seconds and lost steering first, then wheels came loose
+- Taking any extra collision damage sped up the crushing
+- The armoured vehicle crushed much more slowly and won three events, an unusual case where the obvious pick was right
+- Lighter, already-damaged cars flew further off the balloon launchers
+- On one board the crush effect did not run, which he took advantage of
+- Using grenades to clear tyre walls failed because of poor aim
+
+**Vehicles:** SUV, pre-damaged SUV, armoured vehicle, small green car  
+**Design takeaway:** A continuous damage-over-time clock tied to the vehicle's shape turns degrading handling into the timer itself.  
+**Video:** [Testing Cars vs Rubber Bands in GTA 5](https://www.youtube.com/watch?v=XXsWRGkVDX8)
+
+### Shorter-Bike Unlock U-Turn Ladder
+
+Beating each timed U-turn level unlocks a shorter bike: noob, pro (on ice) and legend U-turns, tiered shrinking U-turns where each teleport resets your speed to zero, a U-turn on an accelerating platform dodging helicopters and squeezing under a tail, and a final U-shaped platform that spins and changes speed.
+
+**Issues & surprises**
+
+- The longest bike barely turned, but grinding the chassis through the U-turn worked
+- On ice, steering input took about 1.5 seconds to take effect; going outside-to-inside instead of inside-to-outside finally succeeded
+- Curb boosting won the legend U-turn
+- Teleporters that reset speed to zero made acceleration out of each turn decisive; wheelies didn't help
+- The spinning U changed speed unpredictably, so he had to wait for it and transfer at the right moment
+
+**Vehicles:** Extremely long multi-wheel bikes stepping down to 12-wheel, three-wheel and two-wheel bikes  
+**Design takeaway:** Unlocking more manoeuvrable vehicles as levels get harder is a neat inversion of typical progression that teaches handling limits step by step.  
+**Video:** [Long bikes vs U turns in GTA 5](https://www.youtube.com/watch?v=kvaCPc-1km0)
+
+### Shrinking Controls Delivery Run
+
+He must deliver cars to four customs garages while the wanted level rises with each delivery. Every time a run ends, he moves to a physically smaller keyboard, losing keys (numpad lean, function-key abilities, brakes) until only one accelerate key and the mouse remain.
+
+**Issues & surprises**
+
+- Losing the numpad removed his usual air-lean controls, which hurt more than expected
+- The final car drifted wildly but its constant sliding made it unintentionally hard for police to hit
+- With only throttle he had no brake or reverse and had to manage speed with very gentle steering
+- Hills and crests were prime flip spots; he deliberately took terrain that pursuing police struggled with
+- He finished with one key and the car on its last hit point
+
+**Vehicles:** Boost/jump-equipped sports car, cramped drift car, final car driven with one key plus mouse  
+**Design takeaway:** Stripping away inputs one by one (brake, air control, abilities) as a failure penalty is a strong way to test how much a vehicle relies on each control.  
+**Video:** [If my run ends, my keyboard gets smaller](https://www.youtube.com/watch?v=62MHq2v_my4)
+
+### Shrinking Road Time Trial
+
+A long track whose edges visibly collapse every few seconds, with slowdown circles, ramps, a windmill and ledges, all within 69 seconds. You must outrun the shrinking road and avoid hazards; reaching the end first wins.
+
+**Issues & surprises**
+
+- Most cars lacked the top speed to stay ahead of the collapsing edges
+- The rally car's handling made it slide and flip
+- Narrow vehicles could slip between obstacles but were too slow
+- Jumps cost speed, so dodging rather than jumping was faster
+- The T20 supercar won by raw speed after everything else failed
+
+**Vehicles:** Hammer, rally car, ATV, Bounce, RC car, side-by-side, 'mom's car', T20 supercar  
+**Design takeaway:** A visibly shrinking playable area is a simple, readable pressure mechanic that tests top speed and line choice together.  
+**Video:** [GTA 5 but roads shrink every minute](https://www.youtube.com/watch?v=CRKhp5ciDJQ)
+
+### Six-Minute Checkpoint Run With Per-Minute Speed Upgrades
+
+Cross the whole map through roughly ten checkpoints in under six minutes while police chase; each minute the car's top speed rises. If the timer runs out the car explodes. A bonus finale has a top-speed sprint over windmills.
+
+**Issues & surprises**
+
+- The speed increases made the car steadily harder to control; turning became nearly impossible at high speed
+- Brakes were useless relative to acceleration and top end, so feathering throttle mattered more than flooring it
+- Collisions frequently ejected him through the windshield, which cost the most time
+- Jumping hills at high speed kept him airborne too long; going around the mountain was faster
+- The car took cumulative damage with no repair and could get stuck on objects
+- Traffic and police randomly popping into existence ruined runs
+
+**Vehicles:** One supercar with escalating engine upgrades (from about 250 mph up to about 669 mph)  
+**Design takeaway:** Scheduled power increases on a fixed route create a natural difficulty curve where the challenge shifts from speed to control.  
+**Video:** [Every 60 Seconds my car gets faster in GTA 5](https://www.youtube.com/watch?v=8bZFUqiVLn8)
+
+### Speed-Multiplier Gauntlet: Vehicle Avalanche and Timed Runs
+
+His run speed multiplies by ten at each checkpoint. Stages include running up a slope against a nonstop avalanche of spawned vehicles, a 45-second timed course at 10x speed, and at 200x firing a rocket, outrunning it and jumping into a car.
+
+**Issues & surprises**
+
+- Windmills unexpectedly saved him by swatting incoming vehicles away
+- Hugging the extreme edge of the slope avoided most vehicles
+- At high speed he couldn't stop or turn, so he used the aiming stance to stop dead
+- Even clicking to fire became hard to time at 200x speed
+
+**Vehicles:** On foot facing a stream of cars, boats, motorcycles; a Ruiner car later  
+**Design takeaway:** Multiplying player speed per checkpoint shows where controls break down and forces new braking techniques.  
+**Video:** [Upgrading to the World's Fastest Player in GTA 5](https://www.youtube.com/watch?v=E5Wm_6-D1hE)
+
+### Speed-Scaled Chaos Checkpoint Hunt
+
+He has to find five checkpoints marked on small maps. The faster he drives, the worse the pool of chaos effects gets, and staying at top speed builds hidden points that make chaos fire more often.
+
+**Issues & surprises**
+
+- The given car's front end lifted, it bounced, it drove like it was on ice, and it snagged on everything
+- The car's boost was the only way out of trouble, and it later triggered something worse
+- Driving slower deliberately kept the effects mild
+- A motorcycle seemed unaffected by the black hole effect
+- A super-jump effect arrived at just the right moment to reach a rooftop checkpoint
+
+**Vehicles:** Terrible modded rocket/boost car (respawns at each checkpoint), stolen vehicles  
+**Design takeaway:** Tying modifier severity to speed creates a risk/reward balance between getting there fast and staying safe.  
+**Video:** [GTA 5 but chaos happens every 10 mph](https://www.youtube.com/watch?v=d2ir7KimrYM)
+
+### Stacking Natural Disaster Run
+
+A long parkour-style course where every minute a new natural disaster spawns or the previous one intensifies, including tsunami, meteorites, explosive zombies, hurricane winds, ice and avalanches. The player must reach the end before disasters pile up.
+
+**Issues & surprises**
+
+- Hurricane winds flung cars and shipping containers across the road
+- An old station wagon surprisingly survived the storm
+- Driving on ice was very hard to control
+- Avalanche debris hit a ramp and got launched at him
+- Explosive zombies destroyed the car on contact
+
+**Vehicles:** Initial car, station wagon, motorcycle  
+**Design takeaway:** Compounding environmental hazards on a timer let a single route escalate naturally from easy to frantic.  
+**Video:** [GTA 5 but the World ENDS Every 60 Seconds](https://www.youtube.com/watch?v=SWPWBTQlIkA)
+
+### Stacking Superpower Minute Courses
+
+Each obstacle course must be completed in under one minute, and every course grants a permanent new superpower (invincibility, a weak super-speed, an almighty push, flight). Courses are designed around the accumulated powers, ending with a flight school maze.
+
+**Issues & surprises**
+
+- Some courses were easier to wait out than rush
+- A moving surface required zero input to cross
+- AI drivers all targeted him, using him as a ramp
+- Push power had a ~5 second cooldown
+- Flight was lost once he touched the ground, so low gliding was key
+- A branching tunnel had a dead-end wrong choice
+
+**Vehicles:** Pink car, motorcycle, jump car, on-foot with powers  
+**Design takeaway:** Adding one permanent ability per stage and designing the next stage around it creates a satisfying power curve.  
+**Video:** [GTA 5 but every minute = +1 superpower](https://www.youtube.com/watch?v=YpujpA89-zQ)
+
+### Straight-Line Crossing with Escalating Police Powers
+
+Cross the map inside a straight corridor of pylons (leaving it sets you on fire) through five checkpoints. Each checkpoint grants the player one power-up (flaming bullets, all weapons, a full-refill cheat, double run speed, super jump) but gives the police five escalating abilities (taser snipers, attack dogs, tyre-shooting snipers, explosive-rigged cars, kamikaze drivers, tanks, orbital strikes, submarine).
+
+**Issues & surprises**
+
+- Cars were often a liability: tyre snipers, vehicle confiscation and explosive-rigged cars
+- Water was a refuge because tasers did not drown him if he stayed at the surface
+- Climbing buildings and parachuting over obstacles beat driving around them
+- The refill power-up had a hidden cooldown of about ten minutes
+- A motorbike became valuable again for climbing the rocky hills near the end
+
+**Vehicles:** Mostly on foot; stolen police car, motorbike, boat; police tanks, helicopters, stealth bomber as hazards  
+**Design takeaway:** Pairing each player upgrade with a larger enemy upgrade creates a tense escalation where progress itself makes the game harder.  
+**Video:** [Crossing GTA 5 in a straight line but wanted level increases](https://www.youtube.com/watch?v=vx4XXX2oX24)
+
+### Timed Cross-Map Run With Per-Minute Ability Unlocks
+
+Drive across the map through checkpoints in 7.5 minutes while police chase and meteors fall. Every minute the car gains a new ability (acceleration, rockets, hydraulics, short boost, hover jump, engine upgrade, teleport, push barrier), and later sections are built to need them, such as walls that require rockets or teleporting.
+
+**Issues & surprises**
+
+- Rockets fired at close range often killed him; he avoided them
+- The boost lasted only about half a second with a recharge of about 5 seconds, effectively an acceleration burst
+- Meteor shadows appeared long before impact, making timing hard to read
+- Hydraulic hop sections were faster when taken slowly
+- Teleport could be chained and also righted the car, becoming the dominant strategy; teleporting into a wall once left the car behind
+- The car exploded at time-out, but he crossed the finish anyway
+
+**Vehicles:** One supercar that gains parts over time  
+**Design takeaway:** Unlocking abilities on a schedule along a fixed route lets the level teach each tool just before it is needed.  
+**Video:** [GTA 5 but every 60 seconds you gain a new part](https://www.youtube.com/watch?v=MVx0DRtrqDo)
+
+### Weight-Gain Modifier Obstacle Run
+
+The player shoots food pickups to grow bigger, with growth meant to unlock powers across a food-themed course with a 40-second timed section. As the character gains weight, certain bikes lose jump height or boosts stop working, and later stages include tightropes and weight-gated jumps.
+
+**Issues & surprises**
+
+- Extra rider mass reduced jump bike performance and disabled boost pads, the opposite of a power-up
+- Overshooting jumps was common; he had to lift off the throttle at the crest to land
+- Hoped the weight would add downforce on a tightrope, but it made no difference
+- The character visually clipped through the bike as he got bigger, making first-person driving almost impossible
+- Some floors were made of edible props that disappeared when eaten, so over-collecting removed the path
+
+**Vehicles:** Motorcycle, jump bike, booster bike, unicycle, sports car, go-kart  
+**Design takeaway:** Tie rider/cargo mass to vehicle stats (jump, boost, handling) so collecting things has a visible physical trade-off.  
+**Video:** [GTA 5 but I get fatter every minute](https://www.youtube.com/watch?v=4vI4KfcJ7dc)
+
+### Wheel Count Escalation per Hit
+
+Each time an obstacle hits him, his vehicle is swapped for one with more wheels. He has to clear jumps, Minecraft meteor fields, tight spaces and bowling-ball rolls, finding which wheel count suits each section.
+
+**Issues & surprises**
+
+- One wheel tracked badly and lost traction on landing, so he stopped between jumps
+- Some 4-wheel vehicles handled well but were big targets
+- 12-plus wheel vehicles were too heavy; one split in half
+- A bicycle (2 wheels) won the final downhill stairs and bowling section
+- More wheels was not better
+
+**Vehicles:** 1-wheel unicycle car up to 16-wheel vehicles, bicycle  
+**Design takeaway:** Changing the vehicle configuration as a crash penalty makes players re-learn handling mid-run.  
+**Video:** [Every time I crash I add more wheels in GTA 5](https://www.youtube.com/watch?v=zSiBdSjvHmk)
+
+### Wheel-Spin Modifier Wall Ride
+
+A long wall ride with 90-degree rolls and ribbon sections; every three minutes he spins a lucky and an unlucky wheel that add effects like extra windmills, blow-up walls, invisible ramps, child obstacles or meteors, and effects persist.
+
+**Issues & surprises**
+
+- Added hazards stayed permanently, compounding difficulty
+- Lucky-wheel results were often useless, like a cheerleader clone
+- An invisible ramp caused deaths he couldn't explain
+- A meteor shower blocked the wheel itself
+- Eventually he memorized every roll and transfer
+
+**Vehicles:** Wall-ride car  
+**Design takeaway:** Persistent random modifiers rolled between attempts give each retry a different flavor.  
+**Video:** [GTA 5 but it's randomized every minute](https://www.youtube.com/watch?v=Ujsn9mk9aVU)
+
+
+## Vehicle vs. hazard / destruction test
+
+### 29 Escalating Breakable Layers
+
+Vehicles have 2 minutes 20 seconds to break through 29 layers of increasing mass (sand castles, cones, boxes, metal and water barrels, logs, fences, tombstones, a shipping container, a trailer, hay bales, a train car, a sarcophagus). A car that breaks down is retired.
+
+**Issues & surprises**
+
+- The tiny meme car broke boxes but stopped dead at water-filled barrels
+- Barrels that stop a car could be broken on foot with a bat
+- Thick fences took several hits even for heavy vehicles
+- The tank was strong but slow; the final winning truck made it with about 2 seconds left
+- The car got caught in plywood and needed a restart
+
+**Vehicles:** Bandido meme car (baseline), Mercedes, electric rally car, tank, plow truck  
+**Design takeaway:** Layers that grade from light to heavy props with a fixed timer show both pushing mass and how well a vehicle keeps its speed.  
+**Video:** [Cars vs 1,000 Layers in GTA 5](https://www.youtube.com/watch?v=pGS_PnVAFMA)
+
+### Alien Defender Training (Vehicle Weapon Picks)
+
+Story map where the player ages through training levels, each offering a choice of absurd vehicles to wipe out groups of NPC 'aliens'. A level is cleared once every target is eliminated.
+
+**Issues & surprises**
+
+- Giant-propeller aircraft was hard to aim to knock all targets in one pass
+- NPC bodies were hard to drive over and got dragged along
+- A vehicle fitted with many fan blades underneath went wildly out of control
+- Some targets were outside the gunboat's arc of fire and needed cleanup
+
+**Vehicles:** Flamethrower vehicle, giant-propeller craft, boost car, windmill-blade vehicle, gunboat  
+**Design takeaway:** Letting players pick from a lineup of over-the-top vehicles to clear the same objective shows off the physics differences between them.  
+**Video:** [how many people does it take to stop a rocket](https://www.youtube.com/watch?v=35noWCxs8dE)
+
+### Armor Gauntlet (Rock Barrage, Rockets, Mines, Nuke)
+
+Armored vehicles drive through stages with a rock machine gun, rocket barrages, proximity mines and finally a nuke, with repair kits between some stages. The vehicle that survives everything wins.
+
+**Issues & surprises**
+
+- Heavy rocks got under the tires and flung light cars backward or into the air
+- Lightweight armored cars could take damage but could not hold their line
+- The half-track resisted being lifted but could not survive the rockets
+- The Insurgent took rockets with no visible damage and survived the nuke, then blew up after finishing
+- Hitting the rocks square to the nose was more stable than taking them at an angle
+
+**Vehicles:** Rusty car, armored sports cars, half-track, Insurgent  
+**Design takeaway:** Separate durability from impulse resistance: a tough car still fails if impacts knock it off course, so mass and stability matter as much as health.  
+**Video:** [Which car has the best armor in GTA 5?](https://www.youtube.com/watch?v=KSV-GGRT6jc)
+
+### Armored Vehicles vs Escalating Obstacle Layers
+
+Vehicles must break through eight successive layers (animals, traffic barriers, explosive gumballs, fences, rocks and a huge boulder, explosives) within a time limit. A car is eliminated if it leaves the course or is destroyed.
+
+**Issues & surprises**
+
+- The baseline bike did surprisingly well because it could hop over or slip through many layers
+- Heavy concrete barriers stopped light vehicles early
+- The forklift had a lot of pushing power but a poor turning radius
+- Armored cars shed panels on rocks and stalled against the boulder; grenades could not move it
+- The Insurgent won by climbing the rocks and shoving the boulder aside
+
+**Vehicles:** Bike (baseline), forklift, armored supercar, Insurgent and other armored vehicles  
+**Design takeaway:** Layered obstacle walls of rising mass and type test pushing power, durability and clearance together and show each vehicle's weak spot.  
+**Video:** [Armored Cars vs 1,000,000 Layers in GTA 5](https://www.youtube.com/watch?v=2-w5rx0psBI)
+
+### Breakthrough Layers Ram Test
+
+Vehicles must smash through 29 escalating layers of breakable props (sandcastles, barriers, signs, cones, boxes, glass, logs, fences, pallets, plywood, tombstones, hay) within 2 minutes 20 seconds; later boards have festive layers (snow walls, snowmen, Santa's sleigh) and candy-themed walls.
+
+**Issues & surprises**
+
+- Tiny Bandido went surprisingly far before heavy props stopped it
+- Light cars stalled on logs; mass mattered more than speed
+- Phantom Wedge struggled on sarcophagus props that others broke
+- Tires slowed even the huge Chernobog more than anything else
+- Some props shattered into pieces while others broke in one hit
+- Accumulated damage caused fire and engine failure before the time limit
+
+**Vehicles:** Bandido, Mercedes, saw-blade car, Insurgent, Phantom Wedge, fire truck, Chernobog, tanks, candy/donut cars  
+**Design takeaway:** Layered breakables with escalating mass are an excellent, readable benchmark for vehicle mass, momentum and damage modeling.  
+**Video:** [Testing Cars vs 1,000,000 Layers in GTA 5](https://www.youtube.com/watch?v=XXtnseJP4sA)
+
+### Bulletproofing Gauntlet (Calibers to Tank)
+
+Vehicles face shooters with rising weapon calibers (revolver, marksman rifle, shotgun, musket), then autocannons and a minigun section, and finally have to survive 69 seconds against a tank.
+
+**Issues & surprises**
+
+- Open cars died to the first shot; even glass cars fell to the second weapon
+- Shooters could be killed, which made later passes easier
+- A vehicle that was weak against bullets cleared a section by firing its own minigun
+- Tank hits set vehicles on fire, and they exploded after about 20 s
+- Circling close to the tank to outrun its turret worked
+
+**Vehicles:** Open car, Bond-style car, armored cars, go-kart, minigun vehicle, survivor car  
+**Design takeaway:** Separating bullet resistance, fire resistance and agility into stages shows each vehicle's strengths.  
+**Video:** [Every time I get shot my vehicle gets more armor in GTA 5](https://www.youtube.com/watch?v=zryJmgM3Z5A)
+
+### Cars vs Cheese-Grater Gauntlet
+
+Cars push through grater obstacles (adjustable-height, top-and-bottom, fine coil, 6 ft gap, long grater) that use super acceleration to force them through, with repair kits between stages. Progress depends on deforming the car enough to squeeze through.
+
+**Issues & surprises**
+
+- The car had to deform or flatten before it could pass under graters
+- Super acceleration threw him through the windshield and off the course
+- Cars ended up shorter, lost doors, tires and hood, and caught fire
+- A low, slim car built for tight gaps did best
+- He finished the long grater on bare rims
+
+**Vehicles:** Various cars incl. a low slim car, Ferrari-like car, long car  
+**Design takeaway:** Gaps that can only be passed through progressive soft-body deformation turn the damage model itself into the puzzle.  
+**Video:** [Cars vs graters in GTA 5](https://www.youtube.com/watch?v=6lsuSaoa020)
+
+### Construction Site Hazard Gauntlet
+
+A timed construction-themed course: wrecking-ball corridor with a shifting roadway and a three-ramp choice into a huge gap, a section where rising concrete fills the board, a falling-debris drop zone, and a stalking crane swinging a steel beam over a narrow beam road.
+
+**Issues & surprises**
+
+- Slow construction vehicles could not clear the long final ramp gap; raw speed was the answer
+- Taking a ramp at its high point launched cars too high; the 'right' ramp choice seemed to be a trap
+- Wrecking balls partly clipped through vehicles and rarely hit them
+- No checkpoint between the first two boards forced many full restarts (around 75 attempts on one segment)
+- Beating the stalking crane worked by backing up after the trigger, gaining a run-up, and letting the beam pass over the trunk rather than the windshield
+- An anti-jump block placed after the crane killed his first good run
+
+**Vehicles:** Cement truck, gas-engine buggy, three-wheeler, rusty pickup, rental car, fast sports car ('Rage')  
+**Design takeaway:** A rising flood fill and a hazard that tracks the player add time pressure without a visible timer.  
+**Video:** [Cars vs Construction Sites in GTA 5](https://www.youtube.com/watch?v=8KOZ9C4x_Xs)
+
+### Cumulative Layer Levels (Fire and Ice Cars)
+
+Nine levels where each new level adds its layers on top of all the earlier ones (portaloos, cacti, fences, pay phones, cinema props, spools, garbage, pillars, chlorine canisters), with a timer.
+
+**Issues & surprises**
+
+- The go-kart got surprisingly far before a pay phone stopped it dead
+- Big cable spools stopped most vehicles, and engines caught fire
+- Tires piled up as debris slowed vehicles more than solid objects did
+- The Chernobog was strong but needed to turn about 10 seconds early
+- The Phantom truck lifted SUVs and split pillars, finishing more than 30 s early
+
+**Vehicles:** Go-kart, three-wheeler, clown car, fire truck, Chernobog, Phantom truck  
+**Design takeaway:** Levels that add on top of everything before them build a clear difficulty curve and show where each vehicle tops out.  
+**Video:** [Cars vs 1,000 Layers of Ice in GTA 5](https://www.youtube.com/watch?v=sPxB9oJeHNc)
+
+### Damage Endurance Gauntlet
+
+A single car must survive consecutive damage stations: ramming through layered wooden and plywood walls, a falling-rock hill, a giant punching fist, a windmill that bats the car across a gap, fireworks fired on a tightrope, a trash compactor and finally explosions.
+
+**Issues & surprises**
+
+- Long vehicles took far more rock hits than short ones
+- Heavy cars fell straight through the fist platform floor without needing to be punched
+- Positioning the car so armor or roll cage took the punch reduced engine damage
+- Fire slowly spread across the car and killed the engine before the car itself exploded
+- He drove into water to extinguish a burning car before the final explosion section
+- The compactor wall only lowered after several hits, which was partly luck
+
+**Vehicles:** Mom's car, sports car, roll-cage off-roader, armored cars, Die Hard armored sedan, 'dollar store tank', short armored car, heavy armored SUV (winner)  
+**Design takeaway:** Sequential damage stations that hit different zones (front, roof, sides) highlight how a damage model treats armor, length and weight.  
+**Video:** [Which vehicle can survive the most damage in GTA 5?](https://www.youtube.com/watch?v=JAgk0lAOir0)
+
+### DIY Wheelchair Barricade Run
+
+Joke wheelchairs with special abilities must break through layers of police barricades, glass and signs within 60 seconds, roll down stairs, and finally race an opponent through a military base with rockets flying.
+
+**Issues & surprises**
+
+- Rocket boost couldn't break an ammunition sign barrier
+- Deer cannon was very effective but the chair was extremely slow
+- A repulsion-field chair destroyed vehicles but not static barriers
+- Tires caught on glass edging
+- Heavy chair couldn't turn above about 8 mph and drifted far
+- Opponent racer got destroyed by rockets repeatedly
+
+**Vehicles:** Custom 'wheelchairs': rocket wheelchair, deer-cannon recliner, force-field chair, drag-racing chair, battery tank chair  
+**Design takeaway:** Pairing silly bodies with one strong ability per vehicle creates clear trade-offs between speed, mass and special powers.  
+**Video:** [Testing wheelchairs vs cops in GTA 5](https://www.youtube.com/watch?v=WKFtmCcRD00)
+
+### Drill Car Demolition Trials
+
+Cars with spinning front drills must break through 19 layers of vehicles in 99 seconds (taco trucks, buses, Sherps, tanks, a train, boats, a blimp, a submarine), take down six helicopters, then push through 15 layers of objects (cacti, chairs, crates, metal sheets, toolboxes, plywood, boulders).
+
+**Issues & surprises**
+
+- The drills behaved as if they had near-infinite force, flinging heavy vehicles and even trains aside
+- The original crusher car was weak and was even stopped by a taco truck
+- Drill height mattered: a high drill missed low boxes, and toolboxes stopped the drill pickup and hover car completely
+- A cable car glitched violently and ended a run
+- Only the flying hover car could reach the helicopters; aiming them into the ground or into each other worked best
+- The giant dump truck won the object layers because its huge wheels climbed over anything the drill missed
+
+**Vehicles:** Giant sawblade drill dump truck, original rock-crusher car, drill pickup truck, flying Deluxo-style hover car with drill  
+**Design takeaway:** A front-mounted destruction tool needs a reach/height zone; mixing low and high obstacles makes tool placement matter.  
+**Video:** [Drill Cars vs layers in GTA 5](https://www.youtube.com/watch?v=RLE_xJdDcvU)
+
+### Explosion Gauntlet with Cursed Modded Cars
+
+An explosive course using modded doll-themed cars: an exploding train, 'Indiana Jones' refrigerators fired at the car, a pit ringed by proximity mines, an 'arms race' with progressively larger fire pits and missiles, a bomb-defusal pad, and a final escape before a giant bomb goes off.
+
+**Issues & surprises**
+
+- Extra decorative limbs added weight and changed handling noticeably
+- Explosions had concussive force that launched light cars off course
+- Refrigerators were heat-seeking projectiles
+- A low car slipped under missile blasts
+- Firing off the arena car's detachable shield could be used to set off bombs, but couldn't be reattached
+- A repair pickup and jump recharge pad were key at the end
+
+**Vehicles:** Modded 'cursed' Barbie cars: multi-legged trike, scorpion quad, convertible, crown car, low supercar, shielded arena car with boost (winner)  
+**Design takeaway:** Explosion impulse scaled by vehicle mass and ride height gives each car a different survival strategy.  
+**Video:** [Cars vs explosions in GTA 5](https://www.youtube.com/watch?v=X7hT3AzH260)
+
+### Extreme Drop Survival
+
+Vehicles drop from huge heights through different shafts: the Chiliad drop (hit a ball on the way), a 'chop chop' tube lined with spinning blades, a mega suction tube with instant terminal velocity, and a bouncy-wall drop where touching walls deflects you.
+
+**Issues & surprises**
+
+- Lightly armored truck caught fire immediately and exploded
+- A heavy vehicle broke through the floor by its own weight
+- A low car hugged the wall superbly and handled damage gracefully
+- The Sherp won; occupants couldn't be thrown through its windshield
+- Touching a bouncy wall shoved you to the side, so a dead-centre fall was key
+- Pieces of vehicles rained down after blade hits
+
+**Vehicles:** Small economy car, Cybertruck-style truck, sports car with spoiler, heavy armored car, low 'banana' car, Sherp  
+**Design takeaway:** Fall-damage challenges highlight crash-model differences between vehicles and are easy to build as vertical shafts with hazards.  
+**Video:** [Cars vs 100,000 ft drops](https://www.youtube.com/watch?v=V_y_pnjWZxA)
+
+### Giant Saw Blade Gauntlet
+
+Saw-blade sections: a 25-second path of rising and moving saws with slowdown circles, saws laid across ramps, wobbly 'convulsing' saws to jump, saws used as ramps, and finally a box of spinning windmills you must survive for 20 seconds before escaping. Saws pop tyres and tear off panels.
+
+**Issues & surprises**
+
+- Losing tyres to saws on a non-4WD car meant losing drive entirely
+- A battered convertible kept going after shedding doors, hood and a wheel by hitting saws head-on
+- Some vehicles (Sherp, big tyres) seemed immune to tyre popping but were too slow
+- The quad exploded on contact while the convertible survived many hits
+- Tall vehicles cleared saws without chassis contact but were too wide for the slowdown circles
+
+**Vehicles:** Supercar, homemade buggy, Sherp, convertible, quad, clown van, 6-wheeler, lifted truck, Wastelander, Dagger  
+**Design takeaway:** Progressive part-by-part damage (tyres, panels, engine smoke) keeps a run alive and dramatic instead of ending it on first contact.  
+**Video:** [Cars VS GIANT SAWBLADES in GTA 5](https://www.youtube.com/watch?v=uUvoqeD5CtE)
+
+### Hazardous Crosswalk Crossings
+
+Timed crossings of crosswalks filled with escalating hazards: weird pedestrians and props flung like railgun shots, heavy pipes and pallets to plow through, a broken-light intersection full of reckless traffic, and a coastal crossing with raining whales and a crane.
+
+**Issues & surprises**
+
+- Heavy pipes behaved as immovable obstacles
+- Plow truck pushed through but had a very slow wind-up to top speed
+- The strongest rammer took engine damage quickly, a trade-off between punch and durability
+- A tow truck repeatedly dragged him to his death
+- Choosing a clean line and hopping over I-beams mattered more than raw power
+
+**Vehicles:** Convertible, horned muscle car, motorcycle, plow truck, tank  
+**Design takeaway:** Crowded, chaotic intersections test vehicle mass versus acceleration trade-offs in short timed bursts.  
+**Video:** [Cars vs Deadly Crosswalks in GTA 5](https://www.youtube.com/watch?v=SjKQYhYre5o)
+
+### Hurricane Wind Debris Course
+
+A course where strong winds hurl debris at the car (logs, cars, boats, planes, trains, windmills): a headwind section, a jump through a sideways gust, a road of boats blown from both sides, a wavy road with wind and boulders, wind-blown windmills to jump past, and a final hurricane. Vehicles that explode are permanently removed from the roster, so damage carries real cost.
+
+**Issues & surprises**
+
+- Tiny vehicles could dodge debris but lacked ground clearance for the water section
+- The Wastelander could tank hits on the ground but got blown off when hit in the air
+- Skipping the restart to save time meant damage accumulated and the Wastelander was lost for good
+- A fast wide supercar won by spending less time in the 'shooting gallery'
+- The final hurricane needed patience, crawling through slowly instead of racing
+
+**Vehicles:** Low wedge car, tiny rusty car, ramp buggy, slow thin car, Wastelander, Badger, wide supercar  
+**Design takeaway:** Permanent vehicle loss on destruction adds weight to a damage model and makes players choose between speed and preserving their garage.  
+**Video:** [Cars vs strong winds in GTA 5](https://www.youtube.com/watch?v=gcfMUFfzjZM)
+
+### Hydraulic Press Endurance
+
+Part of a long compilation: drive under a row of progressively lower hydraulic presses to see how many a vehicle survives while still functioning.
+
+**Issues & surprises**
+
+- Very low Cybertruck was too short for the first press to touch it
+- Damage accumulated and suspension got compressed as presses lowered
+- Vehicles kept functioning longer than expected
+
+**Vehicles:** Cybertruck and many others  
+**Design takeaway:** Progressively lower crushers are a simple, readable test for vehicle height and deformation.  
+**Video:** [100 Cars vs Impossible Odds](https://www.youtube.com/watch?v=vh9GwPaYHdY)
+
+### Hydraulic Press Gauntlet
+
+A course of crushing hydraulic presses with a choice of vehicle at the start. Sections include timed press passes, a ramp-sideways-into-wall move, a five-second tightrope, and a car section through presses and windmills.
+
+**Issues & surprises**
+
+- Presses dropped faster than expected
+- He learned to move about two seconds after a press landed
+- A wall-ride section required turning the bike sideways mid-air
+- Car damage accumulated across presses but still finished
+
+**Vehicles:** Bike (chosen as smallest), car later  
+**Design takeaway:** Timed crushers with consistent cycles are an easy-to-read vehicle timing hazard.  
+**Video:** [I Beat GTA 5’s BIGGEST Hydraulic Press](https://www.youtube.com/watch?v=zhm2ePpADyg)
+
+### Knock Patrolling Vans Off Their Route
+
+Stage one: knock four looping AI candy vans off their set path around a school before time runs out, or the player's car is destroyed. Stage two: drive through a walled school maze within a time limit while NPCs fire rockets and grenades.
+
+**Issues & surprises**
+
+- The vans behaved like heavy armoured objects; even a full-speed hit often only nudged them
+- Side hits did little; hitting the front corner (a T-bone) was what knocked them off
+- The bus could not keep up and the slow truck just got pushed aside
+- Vans sometimes recovered or snapped back to their route
+- In the rocket maze, timing runs to slip through during NPC reloads was key
+
+**Vehicles:** School bus, slow heavy truck, sports car, buffed car, muscle car  
+**Design takeaway:** Moving AI targets that must be shunted off a path is a fun vehicle-combat goal if impact angle and mass are readable.  
+**Video:** [Vehicles vs dangerous school zones in GTA 5](https://www.youtube.com/watch?v=ePCsVyW6O8Q)
+
+### Laser Hazard Course
+
+Laser obstacles: a laser wall, alternating tightrope lasers that burn tires, rotating heat lasers that set cars on fire, a flickering laser net with a repair kit behind it, timed laser gates, and a stalking laser that chases the car through a maze with slow-down circles.
+
+**Issues & surprises**
+
+- Lasers ignited cars from the inside, so armor didn't help much
+- Huge monster truck tires couldn't avoid lasers at all
+- A tiny golf caddy dodged lasers by being small, even after losing tires
+- Stop sticks don't trigger in reverse, but reversing was too slow here
+- The stalking laser could only be minimised, not avoided, by hugging walls and keeping speed
+- A small, quick 'mom's car' with good handling won
+
+**Vehicles:** Monster truck, armored car, thin 6x6, golf caddy, a car with front armor, mom's car (winner)  
+**Design takeaway:** Hazards that track the player force them to keep moving, which tests acceleration and handling under pressure.  
+**Video:** [Cars vs Lasers in GTA 5](https://www.youtube.com/watch?v=XKEqd8MuQNM)
+
+### Layer-Shooting Speedrun and Armed Vehicle Layers
+
+First a motorcycle speedrun through a maze of colored blocks where only green ones may be shot away. Then armed vehicles break through six themed layer sets (signs, fruit, carts, garbage, boats, I-beams) against a timer.
+
+**Issues & surprises**
+
+- Shooting the wrong block could soft-lock the run
+- Hidden ramps sat inside the layers
+- Shopping carts snagged in the tires and cut speed
+- Guns did little; punching through with vehicle mass worked better
+- A boat layer stopped several vehicles completely
+
+**Vehicles:** Motorcycle with layer-removal gun, forklift, armed vehicles, heavy car  
+**Design takeaway:** Vehicle mass and momentum beat firepower against dense props; a shooting maze adds a route-planning element.  
+**Video:** [Guns vs 100 layers in GTA 5](https://www.youtube.com/watch?v=rlZICyXsvL0)
+
+### Layered Breakthrough Time Trial
+
+Repeated in the compilation: smash through escalating prop layers (sandcastles, barrels, signs, fences, tombstones, hay, freight train, sarcophagus) within 2 minutes 20 seconds.
+
+**Issues & surprises**
+
+- Some props shattered into fragments unexpectedly
+- A freight train blocked the escape path after he opened it
+- Weight beat speed on heavy layers
+
+**Vehicles:** Bandido, saw-blade car, Phantom Wedge, Chernobog, go-kart  
+**Design takeaway:** Escalating breakable layers give an instant leaderboard-friendly measure of a vehicle's ram power.  
+**Video:** [100 Cars vs Impossible Odds](https://www.youtube.com/watch?v=vh9GwPaYHdY)
+
+### Levels of Stopping a Train
+
+He works through more and more absurd ways to stop a non-invincible train: super and explosive punches, a cat gun, doomsday, earthquake, meteors, flame and delete guns, then head-on rams with armored vehicles.
+
+**Issues & surprises**
+
+- Punches and disasters had almost no effect; the train kept running even after its driver bailed
+- The front carriage glitched and bounced wildly
+- The delete gun froze the game and the train came back
+- A head-on ram crushed the Insurgent
+- A plain flamethrower was what finally stopped the train
+
+**Vehicles:** Train vs super punch, weapons, disasters, Insurgent, spiked flamethrower vehicle  
+**Design takeaway:** Give one heavy hazard a single unexpected weakness, so players test many approaches before finding it.  
+**Video:** [Stopping the train in GTA 5](https://www.youtube.com/watch?v=6N4jUQBT5to)
+
+### Log Hazard Gauntlet
+
+A log-themed course: logs of increasing size dropped on the car past slowdown strips, a 'log tsunami', a 45-second section of barriers (poles, fences, log racks, thick log walls), a log avalanche up a steep slope, and pits with log 'hydraulic presses' pushing from the sides with route choices.
+
+**Issues & surprises**
+
+- Soft-body deformation was dramatic; the largest logs could kill an engine in two hits
+- Small logs only scratched paint, so log size worked as a clear damage tier
+- The motorcycle could sneak around barriers and the long car was easier to steer through gaps in reverse
+- Hitting the middle of barrier walls rather than the seams helped break through
+- An armoured mid-size car ran near perfectly, beating the barriers with seconds to spare
+- The avalanche was not a checkpoint, and only a strong climber made it up; the presses needed exact timing
+
+**Vehicles:** Bus, convertible, motorcycle, long limo, roll-cage buggy, glass-cannon sports car, armoured mid-size car, pickup, climbing offroader  
+**Design takeaway:** Graduated hazard sizes that show escalating deformation give a satisfying, readable damage curve.  
+**Video:** [Cars vs Logs in GTA 5](https://www.youtube.com/watch?v=o8NH8M6w3pc)
+
+### Magnet Force Gauntlet
+
+Sections use scripted magnets that either pull the car (sideways, upward) or fling objects (a dump truck, boats) at it, then a repelling-magnet minefield of coaches, a continuous sideways pull and a final 'magnet tornado' of spinning cars. Jumps and gaps must be cleared despite the forces.
+
+**Issues & surprises**
+
+- Heavier cars were pulled less, but too heavy meant the upward-pull magnet couldn't lift them enough
+- Light cars like the quad were simply thrown off the course
+- Flung sailboats sometimes got stuck, changing the board until reset
+- A small, heavy armored car with a native boost was the sweet spot
+- The magnet tornado was mostly luck
+
+**Vehicles:** Quad, mom's car, dad's car, Wastelander, Insurgent, small armored boost car (winner)  
+**Design takeaway:** Scale external forces by vehicle mass so weight becomes a trade-off rather than strictly better or worse.  
+**Video:** [Which cars survives the biggest magnets in GTA 5?](https://www.youtube.com/watch?v=EkWO_KaP5gI)
+
+### Over-Height Vehicles Under Low Bridges
+
+Pick a truck-plus-trailer (or car) that can fit under a series of low overpasses, then race under six bridges that sink into the ground behind traffic and explosions before they crush you, and finally haul a wobbling stack of shipping containers to knock pink cars off elevated wooden bridges.
+
+**Issues & surprises**
+
+- Trailers that looked short were an inch too tall; ramming them in crushed the rig enough to squeeze through
+- Roll cages and light bars snagged until bodywork tore off, which actually helped clearance
+- For the sinking bridges, a vehicle needed to be both low and fast; a tall bus-like vehicle that compressed down did unexpectedly well
+- Touching any other vehicle cost too much speed; one perfect run was needed
+- The top-heavy container stack swayed like a cartoon stack of plates; he used a dirt mound as a ramp to reach the elevated targets
+- A start-zone exploit let him begin the timed run without picking up the load
+
+**Vehicles:** Semi trucks with various trailers, off-road car, lifted car with light bar, taco truck, liquor truck, bus, spiked monster truck  
+**Design takeaway:** Clearance-limited gates combined with deformable bodywork create interesting decisions about whether to fit, force, or tear your way through.  
+**Video:** [Trucks vs Bridges in GTA 5](https://www.youtube.com/watch?v=9uiA-lCI-Ws)
+
+### Propeller Cheese-Grater Drop
+
+A drop down a structure full of spinning propellers and turbines where any touch makes the car explode instantly. You have to thread tiny holes and line up nose-to-tail flips while avoiding the blades.
+
+**Issues & surprises**
+
+- Touching a prop even slightly blew up the car
+- Scraping the walls to slow down didn't work either
+- He kept drifting to the side, but the middle was also unsafe because turbines swatted him
+- Holes were barely bigger than the car
+- Keeping the throttle down at the end was the way to finish
+
+**Vehicles:** Sports car  
+**Design takeaway:** Instant-fail rotating hazards in a vertical drop make players control speed and line under constant pressure.  
+**Video:** [I completed the impossible don't fall challenge in GTA 5](https://www.youtube.com/watch?v=dh_qkbqB3Ww)
+
+### Ramming Through Escalating Obstacles
+
+Vehicles ram through standing humans, running humans, heavy crates, mid-air vehicles, a waterfall of cars and boats. Blown-up vehicles cannot be reused.
+
+**Issues & surprises**
+
+- Invincible standing humans acted as heavy anchors
+- Running humans were easier to push through
+- A vehicle with forks lifted cars
+- Mid-air ramming worked well with heavy buses
+- Speed was needed to get through crates
+
+**Vehicles:** Monster truck, armored vehicles, ram car with forks, buses  
+**Design takeaway:** Ramming tests with escalating mass reward vehicle weight and front-end shape.  
+**Video:** [Which Car Is The Best at Ramming in GTA 5?](https://www.youtube.com/watch?v=r1V6qd8IZGw)
+
+### Ramp Cars vs Train Obstacles
+
+Point-based events: threading a ramp car through gaps between train cars and ramping boxes and trucks within a time limit; protecting a stranded Jeep from a chaotic zero-gravity 'train tornado' by ramping train cars aside; and tightroping along the top of a moving train while ramping cars off it and sticking jumps.
+
+**Issues & surprises**
+
+- The giant ramp could not lift the train at all and was too big to thread the gaps
+- Ramp hitboxes behaved strangely, sometimes teleporting cars on top of the train
+- One ramp car's rear lifted and its ramp failed about half the time
+- Most ramp cars exploded instantly from train contact; only the Sprunk car lifted train cars without slowing
+- Staying centred on the train roof was essential, since the ramp edge caught the sides and threw the car off
+
+**Vehicles:** Giant sawblade ramp truck, fast narrow ramp car, tinfoil ramp car, original ramp car, Sprunk power-lift ramp car  
+**Design takeaway:** Pitting wedge vehicles against very heavy moving objects shows the limits of mass and collision response; give the player a clear tell for what is liftable.  
+**Video:** [Ramp Cars vs Trains in GTA 5](https://www.youtube.com/watch?v=OTACpAdVORw)
+
+### Rolling Steel Coil Gauntlet
+
+A multi-stage course where huge steel and hay coils roll or fall toward the player: dodge coils dropped from a moving truck before a wall closes, squeeze past waves of rolling coils of increasing size and speed, steer a 6.9-ton coil down a gapped hill into a target, deflect hay bales away from workers, and survive a 'stalking' hay coil within 35 seconds.
+
+**Issues & surprises**
+
+- Coils seemed to change trajectory mid-roll and home toward the player and pedestrians
+- Rolling coils did far more damage than expected; the SUV kept running while shedding panels and leaking fluids
+- Guiding the big coil was unreliable: it veered off the sides and bounced, so he parked his car in a gap as a makeshift bridge for it
+- Hay coils were so heavy the car could barely change their direction and simply got rolled over
+- The final stalking coil swatted a bus effortlessly and punched toward the car at random
+- A faster but fragile car succeeded on stage one only when it touched no coils at all
+
+**Vehicles:** Quad/ATV, desert truck, gold supercar, G-Wagon-style SUV, faster sports cars  
+**Design takeaway:** Very heavy rolling objects that you can only nudge (not stop) make strong dodge-or-steer puzzles, as long as their paths stay readable rather than feeling like they home in on you.  
+**Video:** [Cars vs steel coils in GTA 5](https://www.youtube.com/watch?v=6i4MltH4YGA)
+
+### Rollover Resistance Test Course
+
+Timed rollover tests: drive a tightrope past ramp buggies that try to flip you within 22 seconds, a 'moose test' slalom through deer while a hunter shoots if you hit them, flip-ramp tightrope recovery in 30 seconds, using hydraulics to hop sideways over a spike line, and a 300 mph launch machine where you must avoid chain rolling and stop on the platform.
+
+**Issues & surprises**
+
+- Supercars were flipped instantly by ramp buggies
+- The Liberator could simply roll over ramp cars, and narrow cars could skirt them
+- Hard steering inputs lifted cars onto two wheels in the slalom
+- The Wastelander's rear armour panels blocked the hunter's bullets, a cheat he exploited
+- Easing off the throttle before landing and in the air was key to recovering from flips
+- Spikes popped tyres instantly, but tyres were needed to reach speed for the next gap
+
+**Vehicles:** Supercars, Liberator, Wastelander, lifted trucks, Hammer, Bandito-style car, narrow cars  
+**Design takeaway:** A rollover course that measures center-of-gravity, width and recovery rewards smooth throttle control as much as vehicle stats.  
+**Video:** [Testing cars vs roll overs in GTA 5](https://www.youtube.com/watch?v=AbTNX-_9vuI)
+
+### Semi Trucks vs Trains
+
+Semis must keep their trailers attached while crossing a rail junction full of trains and jumping a gap; then a one-on-one head-on fight to knock a train off its track; and finally a long race to overtake a speeding train, dodge wildlife and an oncoming train, hit targets and make a final jump.
+
+**Issues & surprises**
+
+- Losing the trailer ended the run after a short delay; many trucks lost it in crashes
+- Most semis were too slow to clear the gap; only a few had enough speed
+- Hitting the train's tail or side worked better than a straight head-on hit for keeping the truck on the platform
+- The race train seemed to shift up through gears and pull away; it could not be knocked off by rear-ending
+- Hitting animals cost speed; weaving across the rails gave a small speed boost
+- The plow-front truck won through raw speed and by scooping the train aside
+
+**Vehicles:** Semi cabs: liquor tanker, Santa truck, oil tanker, sporty cab, rocket-armed truck, 'protein' cab, plow-front cab  
+**Design takeaway:** Pairing a heavy vehicle with a fragile trailer constraint turns speed and impacts into risk-reward decisions.  
+**Video:** [Testing trucks vs trains](https://www.youtube.com/watch?v=dCHJtQRQ57c)
+
+### Shredder Survival Course
+
+A series of shredder hazards: chassis-sliding over a pit shredder, a garbage-disposal drain to jump and squeeze through, surviving a 16-second claw chamber, and tightroping along a spinning auger with jumps and windmills. Damage carries over until repair checkpoints.
+
+**Issues & surprises**
+
+- The DJ bus cleared the first shredder first try, unexpectedly
+- Damage seemed to accumulate silently, then the vehicle blew apart all at once
+- Entering the bobbing drain shredder at its highest point was the trick; wall-riding around the drain bypassed the intended hole entirely
+- The spinning auger gave almost no traction and pushed cars sideways; about 30 attempts were needed
+- The Wastelander, expected to be useless, won by wall-riding the drain and surviving the auger
+
+**Vehicles:** Lawnmower, DJ bus, tour bus, pickup, motorcycle, low sports car, fast nimble car, Wastelander  
+**Design takeaway:** Moving, grinding hazards that shed parts progressively create tension; show accumulated damage clearly so sudden destruction is readable.  
+**Video:** [Cars vs shredders in GTA 5](https://www.youtube.com/watch?v=F2DWo2neIjg)
+
+### Space Drop Re-entry Trials
+
+Points per completed fall: a 16-floor sky drop smashing through barriers, a meteor shower escape where you must reach a teleporter before a meteor lands in 35 seconds, a tight-space drop through a roof hole, a slow-fall challenge lasting 69 seconds, and a final space drop through a wormhole.
+
+**Issues & surprises**
+
+- Landing on tires repeatedly reduced fire and damage
+- Some cars blew up after a few barriers
+- Different vehicles fell at noticeably different speeds
+- A vehicle with odd aerodynamics fell slowly enough to win the 69-second fall
+- Chain-link fences unexpectedly slowed vehicles
+- A map glitch sent him to an unexpected 'new planet'
+
+**Vehicles:** Rangers, flat car, Vapid car, aerodynamic-less 'park Jeep'  
+**Design takeaway:** Making fall speed and airborne orientation matter turns simple drops into vehicle-specific aerodynamic tests.  
+**Video:** [Cars vs space drops in GTA 5](https://www.youtube.com/watch?v=lxXDS0fkCeU)
+
+### Spike Strip Gauntlet
+
+Timed sections built from police spike strips: a 20-second spike 'climbing' course with spike ramps and star spikes, a 30-second spike speedrun with narrow gaps and instant-pop strips, and a 'Guitar Hero' section where spike strips slide toward and away from you. Repair kits appear mid-course, and the final stretch can be coasted on rims.
+
+**Issues & surprises**
+
+- Spike strips behaved inconsistently, sometimes popping tyres from inches away, sometimes not at all
+- Large spike props launched and spun cars unpredictably, not just popping tyres
+- The Wastelander could not fit through a narrow gap meant to stop it
+- A narrow, bouncy side-by-side turned out to be the best vehicle
+- He suspected the spike hitbox was offset to one side, so hugging the left helped
+- Momentum carried him to the finish with no tyres left
+
+**Vehicles:** Go-kart, 'mom's car', quad, Hummer-style truck, spiked arena car, Wastelander, jumping car, Redwood truck, side-by-side  
+**Design takeaway:** Tyre damage as a run-ending resource, with repair pickups and limp-on-rims behaviour, adds tension beyond simple crash/no-crash.  
+**Video:** [Testing Cars vs Spike Strips in GTA 5](https://www.youtube.com/watch?v=WZg_0sN7Vfs)
+
+### Sumo Vehicle Weight Challenges
+
+Sumo-themed course: roll down a burger hill keeping momentum, survive a sumo ring demolition derby where you must be in the centre when a timed teleporter drops, dodge pigs on a bacon run, and push or ride a giant burger through windmills into a slot.
+
+**Issues & surprises**
+
+- Ricocheting off a bun's edge killed all forward momentum; skipping the middle was key
+- Once turned around on the hill, recovery was nearly impossible
+- The ring teleporter only appeared for about a second
+- AI cars flipped and corkscrewed wildly in the derby
+- Running directly behind the burger was needed to keep up with it
+
+**Vehicles:** Discount car with missing door, assorted demolition-derby cars, giant rolling burger  
+**Design takeaway:** A king-of-the-hill push arena with a brief, timed exit window turns a demolition derby into a positioning challenge.  
+**Video:** [I gained 999 pounds per minute in GTA 5](https://www.youtube.com/watch?v=fXDp7C0orvI)
+
+### Super-Strong Character vs. Stacked Jet Planes
+
+A mod stress test: a super-strong character charges through ever larger rows of parked jets, from 10 up to several hundred, to see when he finally gets stopped or the game breaks.
+
+**Issues & surprises**
+
+- Letting go of the forward key mid-run left planes untouched
+- Planes packed nose to tail behaved differently from spaced-out rows
+- Visual artifacts and gravity glitches appeared as counts rose
+- At around 250 planes, parked jets started exploding by themselves
+- Laying ragdolls between two fuselages kept the planes from exploding
+- Even at high counts the game didn't freeze; the character was eventually just stopped by the sheer mass
+
+**Vehicles:** Jet planes (10 up to 1000)  
+**Design takeaway:** Scaling up an obstacle count in steps is a simple way to find a physics engine's limits and to build an escalating destruction mode.  
+**Video:** [using 1000 airplanes to end all existence in GTA 5](https://www.youtube.com/watch?v=YXgADr_OabY)
+
+### Swinging Log Gauntlet and Log Avalanche (compilation segment)
+
+Cars pass swinging logs of increasing size (small, medium, large) that deform the bodywork, a dense field of logs, a 45-second run through layers of log fences and walls, a hill climb while logs roll down, and hydraulic log presses that you have to time.
+
+**Issues & surprises**
+
+- The largest logs crushed the bus roof by about a foot and killed a car's engine in two hits
+- Squeezing around the edges avoided most log hits, and driving a long car backwards was much easier
+- Aiming for the middle of each fence panel instead of the seams let cars punch through
+- A small, heavy armoured car went through the log layers cleanly with seconds to spare
+- On the avalanche climb, logs didn't fall centred, so finding a line up the side was key
+
+**Vehicles:** Bus, convertible, motorcycle, long car, roll-cage off-roader, sports car, armoured compact car, armed vehicle, climbing truck  
+**Design takeaway:** Graded hazard tiers with clearly different damage levels, plus mid-course repair kits, make soft-body deformation the main spectacle.  
+**Video:** [GTA videos to watch while you wait for GTA 6](https://www.youtube.com/watch?v=bAzm16HZzc8)
+
+### Syringe Hazard and Power-Up Injection Course
+
+Timed sections where giant syringes stab down onto the track, some turning tiles into lumpy blocks; then 'experimental injections' that grant random effects (zero gravity, invisibility, popped tyres, high downforce) needed to cross a sweeping platform; then growing syringe speed bumps and a stalking syringe on a virus-filled course.
+
+**Issues & surprises**
+
+- One car drove best balanced on two wheels to weave between needles
+- Watching the needles' shadows was the way to predict where they would land
+- Many injections were harmful: one popped tyres and stripped panels, anti-gravity never switched off, invisibility hid the car's hitbox
+- The pink injection gave strong downforce, which was the intended way to stick to the moving platform
+- Light vehicles like the quad were flung by tiny needle taps; full-throttle bouncing over syringe bumps wasted time in the air
+- Needle hits acted like a hard stop rather than damage, killing momentum
+
+**Vehicles:** Flying toboggan/jet vehicle, rolling eyeball vehicle, bumper car, quad, offroad buggy, small nimble car  
+**Design takeaway:** Pickups that temporarily change vehicle physics (gravity, downforce, visibility) can serve as the key to a section when one is required and the rest are traps.  
+**Video:** [Vehicles vs Giant Syringes](https://www.youtube.com/watch?v=K76BSwGopm4)
+
+### Tank Ability Points Contest
+
+Tanks with special abilities compete for points: shoot through targets while descending stairs in 60 seconds, shoot balloons that drop Legos, plow through whales fastest, and hold an outpost for 2 minutes under heavy attack.
+
+**Issues & surprises**
+
+- Tanks are slow, so timed challenges played against their strengths
+- Fake breakable walls caught out blind shooting
+- A slow-traversing turret made aiming nearly impossible
+- Submarine projectiles shoved balloons in unintended ways, allowing a cheat
+- Gold-turning ray neutralised enemies but triggered a six-star wanted level
+- Cardboard tank was surprisingly durable
+
+**Vehicles:** Cardboard tank, laser tank, classic tank, submarine-launcher tank, Interstellar tank, gold-plated tank  
+**Design takeaway:** Giving each vehicle in a class a unique ability makes head-to-head point contests feel varied.  
+**Video:** [Level 1 vs 1,000 Tanks in GTA 5](https://www.youtube.com/watch?v=u6AIydqgwhM)
+
+### Tornado Penetration Courses
+
+Several tornado-themed stages: jump through a tornado to a distant checkpoint, drive through a tornado full of flying debris and armed shooters, and circle down a spiral around a tornado flinging Lego blocks, helicopters and planes. Vehicles respawn if not destroyed but keep their damage.
+
+**Issues & surprises**
+
+- Amphibious vehicle couldn't get enough jump distance; another armed amphibian was much faster on land
+- Damage persisted across respawns, so he intentionally crashed on his head to protect the car
+- A palm tree acted as an accidental ramp that saved a run
+- Heavy Wastelander was barely moved by debris, but a helicopter charge was a one-hit kill
+- Motorcycle's agility made it the overall winner
+
+**Vehicles:** Aqua Blazer, armed amphibious car, quad, YOLO meme car, Wastelander, pickup, motorcycle  
+**Design takeaway:** A rotating debris field with a few telegraphed big hits (a charging helicopter, a passing plane) makes a dynamic hazard that rewards both mass and dodging.  
+**Video:** [Tornado Hunting in GTA 5](https://www.youtube.com/watch?v=5pSIXdDHnJ0)
+
+### Train Push-Through Barricades
+
+Several train types must plough through track sections jammed with vehicles: rows of cars, tightrope cars with side ramps, taco vans with boost pads, spinning tanks, and a final beer-truck domino. Only one train can finish all four sections.
+
+**Issues & surprises**
+
+- The subway train felt light and caught fire easily, while the heavy freight train cleared obstacles
+- Dump trucks leaning on each other created enough combined mass to stall the train
+- Side ramps flung the train off the track on contact
+- A van got lodged inside the train cab and had to be wrenched free
+- Freight train was the clear winner
+
+**Vehicles:** Freight train, subway/transit train vs parked cars, dump trucks, tanks  
+**Design takeaway:** Mass-based pushing where piled obstacles add up their weight makes a satisfying 'can it push through' test.  
+**Video:** [Big & Small Cars vs TRAIN in GTA 5](https://www.youtube.com/watch?v=FdyLONPtoYY)
+
+### Trap Gauntlet with Unlimited Vehicles
+
+Multiple sections of traps such as hydraulic presses, crushers, UFO boost strips, tightropes, bus climbing and train-cutout dodging. Vehicles can be reused infinitely.
+
+**Issues & surprises**
+
+- A van got crushed into a cube by presses
+- The Wastelander climbed onto the hydraulic presses and survived partial crushing
+- Driving a section backwards avoided boost traps
+- He climbed buses on foot and drove one off a ledge
+- Train dodge cutouts needed perfect timing
+
+**Vehicles:** Van, small cars, Wastelander, buses  
+**Design takeaway:** Hydraulic presses and crushers are a classic test of vehicle durability and timing.  
+**Video:** [Testing 100 Dangerous Traps in GTA 5](https://www.youtube.com/watch?v=l163fNDMq-w)
+
+### Vortex Survival & Wall-Ride Points
+
+Points per vortex challenge: survive 30 seconds tumbling in a bouncy speed-boost vortex, wall-ride a counter-clockwise vortex and nudge a ball up a slide into a can's opening, survive an angular, ridged vortex, and a water vortex where you must climb out.
+
+**Issues & surprises**
+
+- Being ejected from the vehicle failed the survival round
+- Vehicle rear ends were shredded in seconds
+- Low-downforce cars were hopeless at wall riding; the T20 hugged the wall predictably
+- Light taps were needed to guide the ball rather than ramming it
+- Falling nose-first helped exit cleanly
+- Sherp and an unassuming family car tied for the win
+
+**Vehicles:** Armored roll-cage car, gun car, T20, 'mom car' (minivan type), Sherp  
+**Design takeaway:** Spinning funnel geometry tests downforce and crash durability, and a delicate 'push the ball' objective adds finesse to a brute-force setting.  
+**Video:** [Cars vs Vortexes in GTA 5](https://www.youtube.com/watch?v=mEMtb79yACo)
+
+### Wall Breaking Gauntlet
+
+Successive walls to break through: a human wall, glass walls, pallet walls, a brick wall, layered reinforced plywood, a mid-air wall jump, cactus and container walls, a rock wall, a wall of armored security vehicles, an explosive 'Michael Bay' wall and a water wall.
+
+**Issues & surprises**
+
+- The forklift's forks punched through early walls easily but couldn't break the rear plywood
+- Brick walls broke only a few bricks per hit
+- The motorcycle got surprisingly far by slipping through small gaps
+- Rock wall pieces became dynamic on contact and were very heavy
+- The explosive wall set strong cars on fire; he jumped it with a parked vehicle as a ramp
+- The Insurgent's engine didn't flood in the water wall, and he put out its fire in water to finish
+
+**Vehicles:** Forklift, motorcycle, big truck, plow car, monster truck with fist, wedge car, blade car, Insurgent (winner)  
+**Design takeaway:** Walls of different materials with distinct break behaviours make a satisfying destruction progression for a damage system.  
+**Video:** [Which car is best at breaking walls in GTA 5?](https://www.youtube.com/watch?v=z0tgJcyXxrY)
+
+### Weaponised RC Car Points Series
+
+RC cars with special abilities compete: break through layered obstacles (sandcastles, barrels, pumpkins, cacti, plywood, crates, snow, gift boxes, then armoured vehicles), destroy a fleeing helicopter, a 39-second time trial, and a gaps course where balloons must be shot to drop barriers.
+
+**Issues & surprises**
+
+- Jumping into an obstacle added forward force and broke through cacti the blade car otherwise could not
+- Rockets were very effective against wood but crates and gift boxes needed several hits
+- The C4 car could detonate repeatedly before wrecking itself, and won the helicopter event by driving almost into its door
+- The minigun car was absurdly heavy for an RC car and bulldozed everything, but its guns fired only straight ahead
+- The sawblade-wheel rocket car cornered extremely sharply and won the time trial
+- Gift boxes were so heavy that explosions could not move them
+
+**Vehicles:** RC Bandido with spinning blades, rocket-pod RC car on sawblade tyres, C4-strapped RC car, twin-minigun RC car on big wheels  
+**Design takeaway:** Giving small vehicles distinct abilities and then testing them across varied events shows how each ability shapes play.  
+**Video:** [The most dangerous RC Car in GTA 5](https://www.youtube.com/watch?v=rqIk6HgLiQM)
+
+
+## Water & boats
+
+### Amphibious Boat Cars vs Tsunami Events
+
+Four events worth a point each: a timed 'tsunami tightrope' (a moving channel of water) past wind turbines, an underwater rise challenge, and an obstacle dash. The car with the most points wins.
+
+**Issues & surprises**
+
+- Submarine mode was too slow for the 40-second tightrope
+- Falling out of the water channel meant falling off the course
+- The best underwater riser was a vehicle he expected to fail
+- For the last event, staying in car mode was much faster than boat mode, and curb boosting worked
+- 'Let Down' won despite its name
+
+**Vehicles:** Four amphibious/transforming boat cars, incl. 'Let Down' (car/submarine) and a bulbous wave-runner car  
+**Design takeaway:** Transforming land/water vehicles offer a choice of mode per segment, and the best route depends on picking the right mode.  
+**Video:** [Boat Cars vs Tsunami in GTA 5](https://www.youtube.com/watch?v=P22ZKyLVky8)
+
+### Amphibious Buggy Waterpark
+
+A space-to-jacuzzi waterpark: a toy-like buggy drives down slides, converts into a watercraft, does a spiral wall ride, left/right choices with rough water, quarter pipes and a skydive to a target.
+
+**Issues & surprises**
+
+- Spiral wall ride required feathering the throttle
+- Rough water threw him off
+- Planes hit the quarter pipes
+- Final ragdoll slide had to be steered into a pool
+
+**Vehicles:** Small amphibious buggy, ragdoll slide  
+**Design takeaway:** A vehicle that converts between land and water modes fits a waterpark course.  
+**Video:** [i found the deadliest water slide in GTA 5](https://www.youtube.com/watch?v=w8bPwp4fnHQ)
+
+### Amphibious Vehicle Water Events
+
+Events designed so only one amphibious vehicle can win each: swim upstream on a timer, race through shallow water with slowdown circles, push a bowling ball up a ramp past buoys, swim fast through charging jet skis, squeeze between tugboats, belly-flop from a jump and stay near the surface, and resurface fastest after being dropped on the seabed.
+
+**Issues & surprises**
+
+- The tiny ATV/jet ski hybrid was the fastest swimmer by far
+- Jet ski mode was faster but turned much wider than wheel mode
+- The truck with floating barrels had a wider hitbox than expected
+- The APC drove faster upside down than right side up in water
+- The weakest 'always-loses' amphibious ATV finally won the belly-flop test because it floats so high
+- Twitching left and right while climbing let the Aqua Blazer surface faster
+
+**Vehicles:** Sherp-style amphibious ATV, Stromberg-style car, amphibious ATV/jet ski hybrid, Aqua Blazer, truck-boat with floats, APC, tank  
+**Design takeaway:** Designing each event so exactly one vehicle can win it highlights distinct buoyancy, propulsion and mass traits in an amphibious roster.  
+**Video:** [Which car is best at floating in GTA 5?](https://www.youtube.com/watch?v=JaSSRy6Hn9o)
+
+### Aquatic Bicycle Events
+
+Modded bicycles that can ride in water compete for points: how deep each can ride, an underwater tightrope with turns, a timed sprint through 2-ft-deep water, and a water-gap long jump measured in body lengths. Each event gives a point and the gap jump is the tiebreaker.
+
+**Issues & surprises**
+
+- A precisely timed wheelie let the shark bike rise up and push deeper than the rest
+- Different bikes had very different turning sensitivity on the tightrope
+- Staying centered in the lane mattered for speed in shallow water
+- Some bikes had double or triple jumps, which decided the long jump
+- The jump-less lobster bike drove off on its own after a teleport glitch
+
+**Vehicles:** Modded aquatic bicycles (shark, goldfish, 'Florida', lobster/crab bike)  
+**Design takeaway:** Give each vehicle in a themed roster one standout ability (depth, agility, speed, multi-jump) and design an event around each.  
+**Video:** [Testing bikes vs deep waters in GTA 5](https://www.youtube.com/watch?v=SEeuUAkNt0o)
+
+### Armored Vehicle Water Trials
+
+Point-based water challenges for armored vehicles: shooting gaps across water with random wash-ups, a deep dive to a submerged teleporter, ploughing through water walls, and climbing water stairs past windmills.
+
+**Issues & surprises**
+
+- Spending as little time as possible in water avoided flooding
+- Random waves washing onto the road slowed vehicles
+- Driving straight and turning hard only at the last moment preserved speed
+- Heavy vehicles flooded at the same spot every time
+- Sherp didn't float at all in this test
+- Amphibious armored vehicle won
+
+**Vehicles:** Armored cars, Sherp, half-track, amphibious armored vehicle, camo car  
+**Design takeaway:** Combining water depth, flooding thresholds and buoyancy makes water a meaningful vehicle-differentiating hazard.  
+**Video:** [Armored cars vs Deep waters in GTA 5](https://www.youtube.com/watch?v=z-BDNbHFjNQ)
+
+### Boat Long-Jump Contest
+
+Boats score points by jumping gaps of 25, 35 and 45 m off waves, launching off an ice ramp through a 5x5 m hole, and clearing walls of 10 and 16 m. A bonus stage has you barrel-roll a jet ski to shield yourself from a sniper.
+
+**Issues & surprises**
+
+- Most boats couldn't clear even the first 25 m gap; kelp tangled the sailboat
+- One wood-panelled speedboat gained surprising speed climbing over waves
+- The long, powerful Longfin cleared 45 m only by ramping off a moving submarine; it turned terribly
+- The jet ski accelerated faster once on the dry ice ramp (from about 60 to 78 mph) and was the only craft through the hole
+- Jet planes flew through the wall-jump area and almost hit him
+
+**Vehicles:** Small sailboat, inflatable dinghies (armed/unarmed), Toro-style speedboats, police boat, Longfin, jet ski ('Seashark')  
+**Design takeaway:** Using waves and ramps as launchers for boats tests hull speed and in-air behaviour, and a dry ramp that boosts or slows boats differently adds a surprise.  
+**Video:** [Which Boat can jump the furthest in GTA 5?](https://www.youtube.com/watch?v=f3B-5dUuM0k)
+
+### Deep Pool Crossing Course
+
+Drive across swimming pools of increasing depth: a sloping kids' pool where you grab a life ring, a diving pool with divers launching in at extreme speed, an Olympic pool with ultra-fast swimmers who ram the car, a pool guarded by lifeguards throwing rings and a jet ski, and a wavy 'Florida' pool.
+
+**Issues & surprises**
+
+- Most cars' engines flooded once the water reached the engine
+- An electric car went further underwater than expected
+- Swimmers hit with enough force to knock cars back across the pool
+- A jet ski pushed cars, sometimes helping them to the exit
+- Heavy, tall vehicles shrugged off rings and swimmers
+- Waves in the last pool made it largely luck
+
+**Vehicles:** Umbrella cart, bike, lifeguard quad, supercars, electric car, mom's car with flotation, lifted truck, tractor, monster truck with boost, Wastelander (winner)  
+**Design takeaway:** Depth plus moving 'swimmer' hazards turns a wading test into a dynamic obstacle course.  
+**Video:** [Cars vs Deepest Pools in GTA 5](https://www.youtube.com/watch?v=qdIN95cm4v8)
+
+### Dogfight-Dodging Branching Water Slides
+
+Branching water slides where only one route is correct, while jets and jet skis spawn endlessly and fly through his path. Later sections include magnets, a fake cage and an invisible slide.
+
+**Issues & surprises**
+
+- Planes moved faster than he expected and knocked him off
+- Too much speed made him overshoot landing slides
+- He had to bank right past a tanker because he kept drifting left
+- The real path was an invisible slide, which he found by guessing
+
+**Vehicles:** On foot sliding; jets, jet skis as hazards  
+**Design takeaway:** Branching routes with hidden correct paths add puzzle exploration to a reflex course.  
+**Video:** [I found this impossible mystery waterslide in GTA 5](https://www.youtube.com/watch?v=WICZ0zpsTA0)
+
+### Drivable Giant Wheel Water Events
+
+The player drives single giant wheels in water events scored by points: survive 1, 2 or 3 seconds submerged, jump a 69-ft pool, a 40-second cornering course in 2 ft of water, a water loop, and a 50-second course with sudden repeating flooding. Each winning wheel scores a point.
+
+**Issues & surprises**
+
+- The rusty metal wheel unexpectedly survived the longest submersion
+- The giant tyre stuck out of the water and floated furthest across the pool
+- Wheels steered better in shallow water than on land, possibly due to water drag
+- Losing the water's resistance when floods receded made wheels slide out
+- The double wheel was surprisingly fast enough to complete the loop
+
+**Vehicles:** Drivable single wheels/tyres: wooden, rusty metal, supercar tyre, double wheel, giant tyre, 'drunk' tyre  
+**Design takeaway:** Extreme vehicle forms (a single drivable wheel) make buoyancy, drag and grip differences very visible in water events.  
+**Video:** [Which wheel can survive the deepest water in GTA 5?](https://www.youtube.com/watch?v=q_aN0flo2m8)
+
+### Escalating Vehicle Waterslides
+
+Waterslides that progressively get harder: a dare-jump slide, a squiggly infinite slide on a timer, multi-landing slides with balls blocking the path, and huge jumps between slides over water with rising and falling water levels, culminating in a survive-for-96-seconds slide.
+
+**Issues & surprises**
+
+- Leaning forward at about 90 degrees maximized jump distance
+- Quads could slowly climb back up the slide, and reversing up then driving down gave enough speed
+- Riders got ejected and run over by their own quad
+- Multiple perfect landings in a row were harder than raw speed
+- Varying water level changed landing outcomes
+- Leftover crashed vehicles blocked the slide for subsequent attempts
+
+**Vehicles:** Quads, small cars, surfboard-topped car, Sprunk car, motorcycle  
+**Design takeaway:** Low-friction channels with chained jumps test air control and landing alignment more than horsepower.  
+**Video:** [Waterslides but they get bigger in GTA 5](https://www.youtube.com/watch?v=KHNlYb35j6w)
+
+### Flooded Dips and Suspension Course (compilation segment)
+
+A compilation of several earlier challenges. In this segment, cars cross ten numbered dips, each deeper and filled with water, where a car stalls if its engine stays submerged too long. That is followed by a suspension course with concrete barricades, a big jump through a windmill, a lumpy hill climb and alternating bumps.
+
+**Issues & surprises**
+
+- Most cars flooded out at dip four; keeping the nose up to 'hydroplane' through got one car further
+- Extra wheels added buoyancy: the eight-wheeler was thrown out of the water and reached dip eight
+- The arena car drove almost entirely underwater to dip ten before drowning
+- A souped-up Sherp floated through but struggled to keep traction and speed on the steep lumpy climb
+- A rover with strong acceleration and grip (described as 'made for the moon') won by spending little time submerged and climbing well
+
+**Vehicles:** Six-wheel Lamborghini, open-wheel car, three-wheeler, eight-wheel vehicle, arena car, giant-wheel truck, Sherp, rover, oversized monster vehicle  
+**Design takeaway:** Numbered depth markers make a clear 'how far can you get' test of wading depth, buoyancy and engine-flooding rules.  
+**Video:** [GTA videos to watch while you wait for GTA 6](https://www.youtube.com/watch?v=bAzm16HZzc8)
+
+### Growing Wave Wall-Climb
+
+Wave height increases in stages (1 m, 5 m, 10 m, 25 m, 50 m) and vehicles must use the swell to get over walls between stages. Only vehicles that can float, hover or jump on the waves progress.
+
+**Issues & surprises**
+
+- Normal cars, and even the Rover, were killed or flooded by 5 m waves
+- A hovering vehicle could ride wave surfaces like solid ground but could not get enough height for the walls
+- The winner used jump plus retractable wheels, timing releases at wave crests; landing with wheels out wrecked its chassis
+- Huge waves glitched and made the trigger circles hard to reach
+- Invisible walls blocked attempts to go around the course
+
+**Vehicles:** Lifeguard vehicle, arena cars, Rover, submarine car, hover vehicle, tank (as ramp), Aqua Blazer-style amphibious jump car  
+**Design takeaway:** Escalating dynamic terrain (wave height) can turn a vehicle's jump ability into a timing puzzle of riding the crest.  
+**Video:** [Testing cars vs waves in GTA 5](https://www.youtube.com/watch?v=551kIU5XEzU)
+
+### Long Vehicles vs Water Speed Bump Series
+
+Point events for long vehicles on water speed bumps: timed rainbow bumps set in waves, frozen wavy bumps on a wavy road, ice bumps that grow taller the faster you approach them, and floating bumps that sink less each time (worth two points).
+
+**Issues & surprises**
+
+- The fire truck flooded out in only a few inches of water
+- The huge military vehicle handled better on water bumps than on land despite delayed steering
+- Tides occasionally lifted cars off the course and they never recovered
+- On the growing ice bumps, going faster made the bumps bigger, so speed worked against you; landing nose-up kept momentum
+- A long, top-heavy vehicle that normally drifts badly gripped the frozen bumps best and scored
+- A rally car won the final with weight that pushed the floating bumps down
+
+**Vehicles:** Limos, fire truck, arena car, bus, long military vehicle, Hummer, six-wheel technical, rally car, banana bus  
+**Design takeaway:** Obstacles that react to approach speed (growing bumps) flip the usual 'faster is better' logic and force pacing.  
+**Video:** [Long Cars vs Water Speed Bumps in GTA 5](https://www.youtube.com/watch?v=SHjxB9QtPc8)
+
+### Natural-Disaster Jet Ski Course
+
+A flooded city ridden on a jet ski while giant whales leap and attack, then a section where wind turbines block a channel, followed by a timed tube section. Each disaster theme is a stage.
+
+**Issues & surprises**
+
+- Landing outside the water stranded the jet ski
+- He used body weight to shuffle the stranded jet ski back toward water
+- Whales were triggered by his progress, like motion-sensor traps
+- He spent about 35 minutes going the wrong direction around a loop before realizing it was counterclockwise
+- Riding the jet ski partly up walls helped slide past turbines
+
+**Vehicles:** Jet ski  
+**Design takeaway:** Water-only vehicles that become helpless on land make every jump's landing zone critical.  
+**Video:** [I tried a dangerous tsunami ride in GTA 5](https://www.youtube.com/watch?v=P42ea2m5eqk)
+
+### Paddle-Wheel Amphibious Car Series
+
+Vehicles with paddle-shaped wheels compete in water events: a timed underwater bump course, jumps over widening water gaps (30 m and up) testing whether speed is kept in water, climbing a sheer rock bulge out of a water bowl, and an underwater wall ride that turns into a windmill tightrope.
+
+**Issues & surprises**
+
+- Paddles roughly doubled water speed and pulled cars out of the water, while still driving stably on land
+- The technical reached about 100 mph and won the speed and gap events, needing curb boosting and skipping off a wave
+- Paddles do not float, so cars sank rather than swam
+- The armoured vehicle gained speed underwater and had the grip to win the rock climb
+- Water pushed cars upward on the wall ride, and only the Sherp stuck to it, reaching about 120 mph
+- Falling deep into the water teleported the car out onto the beach
+
+**Vehicles:** Paddle-wheel versions of an amphibious car, Sherp, technical, armoured vehicle  
+**Design takeaway:** Paddle wheels that grip water as well as land are a simple, readable amphibious mechanic for mixed land-and-water courses.  
+**Video:** [Testing paddle cars vs deep waters in GTA 5](https://www.youtube.com/watch?v=wU1whumOBic)
+
+### Progressively Deeper Underwater Dips
+
+A numbered series of water-filled dips, each deeper than the last, separated by dry speed bumps; score is the section reached before the engine floods. Vehicles that pass reach a suspension course of concrete barricades, pipes, jumps and a lumpy hill.
+
+**Issues & surprises**
+
+- Most cars flooded out at section 4
+- Extra wheels added buoyancy; the eight-wheeler was popped out of the water and slid to section 7
+- Hydroplaning by keeping the nose up and arriving with downhill speed carried cars further
+- The arena car went nearly the whole way submerged before flooding just short of the end
+- The huge-tyre truck flooded even though its frame stayed mostly dry, because the engine sat low
+- The Sherp floated through but had too much torque to climb the lumpy hill; the Rover won with grip and acceleration
+
+**Vehicles:** Giant sawblade-wheel car, six-wheel Lamborghini, open-wheel car, three-wheeler, eight-wheeler, arena car, Sherp, huge-tyre mini truck, Rover  
+**Design takeaway:** Model engine-intake height separately from ride height so 'how deep before it floods' becomes a meaningful vehicle stat.  
+**Video:** [Can the sawblade car drive through puddles?](https://www.youtube.com/watch?v=CPIcOOru-0M)
+
+### Ramps over Flooding Water Potholes
+
+Point events mixing ramps and deep water potholes where engines flood: a rainbow ramp bridge with a deep water pit; a ramp over 10 water potholes (with potholes on the ramp too); a mega ramp sinking into a huge water pothole that you must cross and then jump a bridge; a multiple-choice landing among islands; and a pipe ramp into a deep water pit.
+
+**Issues & surprises**
+
+- Most cars flooded in about 1.5 seconds underwater, but the slow giant dump truck's engine lasted long enough to plough through and win two events
+- Hydraulics were disabled, so cars couldn't pop over potholes and had to arc over them entirely
+- A hard landing gave a bounce that carried one car over the last gap
+- Only a car hitting about 187 mph with curb boosting cleared the mega water pit and the bridge
+- He realised the 'multiple choice' stage meant aiming to land on one specific island rather than jumping as far as possible
+
+**Vehicles:** Electric car, giant dump truck, ATV, high-suspension cars, spoiler car (top speed 131 mph), 'strawberry lemonade' car, '69' car (about 187 mph), paint-splatter car  
+**Design takeaway:** Mixing time-limited submersion (engines flooding) with jumps gives slow, rugged vehicles a real chance against fast ones.  
+**Video:** [Cars vs Water Pothole Ramps in GTA 5](https://www.youtube.com/watch?v=wIYvP_uAISU)
+
+### Rising Water Depth Gauntlet
+
+Three boards for bikes, cars and heavy machinery, with water depth increasing per section from a quarter foot to 16 feet. Vehicles do not respawn; the end requires a clever ramp use and a ribbon wall ride.
+
+**Issues & surprises**
+
+- Motorbike engines drowned quickly while a BMX kept working underwater
+- Height mattered: the YOLO truck ran in 14+ feet of water
+- He used one ramp buggy to launch another vehicle
+- Finding the right speed for ribbon corners was finicky
+
+**Vehicles:** Bikes, motorcycles, quad, cars, Canis off-roader, Wienermobile, YOLO truck, heavy machinery, ramp buggies  
+**Design takeaway:** Depth-based engine flooding gives a clear reason to choose tall vehicles or human-powered bikes.  
+**Video:** [Which Car Can Survive the Deepest Water in GTA 5?](https://www.youtube.com/watch?v=wlBapEkw0UQ)
+
+### Rotating Sinking Platform Survival
+
+Vehicles must survive about 169 seconds on a spinning ring of numbered panels that vanish in sequence, forcing the player to move outward; later panels step progressively deeper into the sea. Score is the highest numbered panel reached.
+
+**Issues & surprises**
+
+- Outer panels spin faster, so it became a speed challenge rather than pure survival
+- Most cars died around panels 11-13 when water depth killed traction or the engine
+- Water drag rather than flooding limited the Wastelander around 17-18
+- The Rover's height and six-wheel drive carried it to the end
+- Buoys and a submarine fin in the path ended runs on contact
+
+**Vehicles:** Tiny car, bumper car, lifeguard quad, sports car, giant truck, big-tyre offroader, Wastelander, Rover  
+**Design takeaway:** Gradually deepening water on a timed moving platform cleanly separates vehicles by ride height, drive layout and water drag.  
+**Video:** [Testing cars vs waves in GTA 5](https://www.youtube.com/watch?v=551kIU5XEzU)
+
+### Space Water Slides and Jet Ski Slide
+
+A sequence of water slides with targets such as entering a black hole, avoiding a sideways rocket and wind turbines, then a jet ski water slide ending in space. Some sections were troll traps.
+
+**Issues & surprises**
+
+- Black hole targets were surprisingly hard to hit
+- The jet ski overshot so he jumped off mid-flight to bleed speed
+- A trap moved when he took a cheat route
+- Excess speed caused bounces off slides
+
+**Vehicles:** On foot ragdoll, jet ski  
+**Design takeaway:** Water slides for watercraft add a fun hybrid between track and water physics.  
+**Video:** [Most dangerous space water slide in GTA 5](https://www.youtube.com/watch?v=V-gDPXyj7aE)
+
+### Swamp Vehicle Point Events
+
+Swamp events worth a point each: driving over crocodiles that act as living speed bumps, water-filled donut potholes walled in by invisible barriers, and a final slalom past crocodiles that home in on you into a ramp jump.
+
+**Issues & surprises**
+
+- The buggy flooded out in shallow water
+- Crocodile bodies acted like speed bumps, some alive and some dead
+- Spawning too close to the script circle put a car inside a wall
+- The amphibious car could wheelie itself out of water without hydraulics
+- The final jump needed full speed in one try; any slowdown meant restarting
+
+**Vehicles:** Coat-hanger buggy, rust bucket, 'YOLO' car, amphibious 'dirt' car  
+**Design takeaway:** Engine flooding limits and moving obstacles that home in on you make terrain traversal a vehicle-choice puzzle.  
+**Video:** [Testing cars vs the Deep Swamp in GTA 5](https://www.youtube.com/watch?v=ZDOFuh6aPjM)
+
+### Team Tyre-Type Water Hills
+
+Two teams of vehicles with different wheel shapes (round, square, fidget spinner, sawblade, giant) take turns on water-hill courses: sharp water dips, giant hills with water at the bottom, a timed course of water speed bumps, sharp-bottomed rapid hills, and moving fidget-spinner bumps. Each event is one team point.
+
+**Issues & surprises**
+
+- Flooding seemed linked to how hard the suspension compressed on entry rather than water depth, so entering gently stopped the Rover from flooding
+- Fidget-spinner wheels were very heavy and sank immediately
+- The sawblade dump truck could drive fully submerged for about 10 seconds and crawled up hills at walking pace
+- Square tyres were best at pulling out of ditches; the bouncy big-tyre car got trapped against side walls
+- The Wastelander missed a timed board by about a third of a second; the chaotic big-tyre car won the bumpiest final
+
+**Vehicles:** Square-wheel truck, fidget-spinner car, big-tyre car, sawblade dump truck, Wastelander, Rover  
+**Design takeaway:** Tie engine flooding to impact speed or suspension compression as well as depth so careful entry is a skill.  
+**Video:** [Cars vs water hills in GTA 5](https://www.youtube.com/watch?v=JhLGJP7KGVM)
+
+### Tiered Water Slide Boards
+
+Commissioned water slides of increasing budget: crane jump, windmill slide, an edited tightrope converted to slides with gaps and a gondola hole, and a finale dodging shotgun-wielding jet skiers.
+
+**Issues & surprises**
+
+- Windmill hits were essentially luck
+- Losing slide momentum stranded him
+- Long jump gaps barely reachable even with perfect pose
+- Jet ski AI drove erratically, so passage was luck
+
+**Vehicles:** On foot sliding; jet ski hazards  
+**Design takeaway:** Tiered builds by different creators give natural difficulty variety.  
+**Video:** [$1 vs $1000 Water Slides in GTA 5](https://www.youtube.com/watch?v=ARsWJDZeyOw)
+
+### Tiered Water Slides incl. Moving Slides and Car Hazards
+
+Six slides rising in price: a frictionless concrete slide with moving walls, a flower of moving slides where the correct one goes in reverse, money-themed slides, and a finale dodging launched cars to land on tiny platforms.
+
+**Issues & surprises**
+
+- The concrete slide was surprisingly frictionless
+- Landing on a moving slide was harder than expected
+- Correct slides were color coded only loosely
+- Landing platforms were very narrow
+
+**Vehicles:** On foot sliding; cars launched as hazards  
+**Design takeaway:** Moving track sections force players to match velocity before landing.  
+**Video:** [$10 vs $5000 Water Slides in GTA 5](https://www.youtube.com/watch?v=_lR66ftxnbI)
+
+### Tractor Waterfall & Rapids Points Series
+
+Tractors compete for points across water challenges: running down rapids and waterfalls, jumping past a water spout, squeezing down a narrow water slide, and navigating the narrowest waterfall stream with rock slides and deer. Each completed challenge earns one point.
+
+**Issues & surprises**
+
+- Tall tractors avoided flooding where low ones drowned out
+- Floating in the water kept more speed than driving on gravel banks
+- Turning was poor because the tractor spent so much time off the ground
+- A water spout threw vehicles violently
+- Wide tractor couldn't fit in the narrow slide and wedged sideways
+- An ancient tractor won with three points
+
+**Vehicles:** Ride-on lawn tractors (Cub Cadet style), tall rusty tractor, pink big-tire tractor, vintage 1920s tractor  
+**Design takeaway:** Water currents that push and float vehicles create a distinct handling mode where staying in the flow beats fighting for traction.  
+**Video:** [Tractors vs waterfalls in GTA 5](https://www.youtube.com/watch?v=WVXXImt4e3Q)
+
+### Underwater Barrier Breakthrough
+
+Smash through 15-16 barriers placed inside submerged sections (cacti, mines, potted palms, dolphins, garbage, pipes, Lego, logs, cinder blocks, steel rolls, I-beams) without the engine flooding or being stopped. The vehicle that gets furthest wins.
+
+**Issues & surprises**
+
+- Many vehicles flooded out and stalled at the first barrier; speed through water mattered as much as power
+- Potted palm trees bent and snapped back like slingshots, killing several runs
+- Spamming boost let the novelty car punch through to barrier 13
+- The wedge-shaped car reached 140-150 mph and sliced through obstacles but stalled at the cinder blocks
+- The biggest, heaviest vehicle (capped near 68 mph) resisted flooding longest and won, with about a 50/50 chance at the final I-beams
+
+**Vehicles:** Small electric car, motorcycle, heavy truck, convertible supercar, big Jeep, grocery-getter wagon, novelty 'wiener' car with boost, wedge-shaped Batmobile-style car, giant heavy vehicle  
+**Design takeaway:** Combining engine flooding (submerged time) with heavy breakable barriers creates a three-way trade-off between speed, mass and durability.  
+**Video:** [Which vehicle can break water barriers in GTA 5?](https://www.youtube.com/watch?v=ZQVlGENuLBg)
+
+### Underwater Gap Jumps
+
+Point-based gap challenges in water: partly submerged gaps with waves, growing underwater gaps with water spouts, a 'drive underwater' section with slow sinking, and gaps where the water pulses on and off.
+
+**Issues & surprises**
+
+- Waves followed the car and flooded engines
+- One car hydroplaned impressively
+- Wastelander kept speed underwater but flooded on the final jump about half the time
+- Front end pitched upward in water and killed momentum
+- Best to jump gaps in the dry phase; turning while water flowed caused fishtails
+- Amphibious car won 3-2
+
+**Vehicles:** Ocelot, skeleton-fish car with hydraulics, Wastelander, amphibious Stromberg  
+**Design takeaway:** Toggling water on and off over a course creates distinct handling phases that reward timing.  
+**Video:** [Cars vs Underwater Gaps in GTA 5](https://www.youtube.com/watch?v=vTQpRT4yNVc)
+
+### Underwater Truck Race to Atlantis
+
+A long course that drops a buoyant pickup into the sea; the truck must drive upside-down against the ceiling of submerged tubes with inverted steering, avoiding shrubs, turbines and mines. Later sections switch to swim-parkour through a shipwreck and a monster's teeth.
+
+**Issues & surprises**
+
+- Discovered floating truck had to be driven inverted along tube ceilings
+- Steering felt reversed while upside down
+- Stopping underwater caused a stall
+- Hard to see; first person was unusable
+- Proximity mines cleared themselves as he repeatedly died on them
+- Shipwreck had dead-end corridors, making route memory vital
+
+**Vehicles:** Armed pickup with buoyancy/float tanks, then swimming  
+**Design takeaway:** Buoyancy that pins a vehicle to a ceiling, with inverted controls, is a memorable underwater driving twist.  
+**Video:** [i drove to the bottom of the ocean in GTA 5](https://www.youtube.com/watch?v=Eai0O0oK85Q)
+
+### Underwater-to-Sun Water Slide and Vehicle Slide Finale
+
+A slide park starting with an underwater slide reached by falling through the world, then a sun-surface section dodging flames and solar flares, and finally a vehicle run down slides past water spouts and windmills.
+
+**Issues & surprises**
+
+- The route required falling through the map to land on a hidden slide
+- Getting ejected off slides at high speed was common
+- Vehicle drifted on the slide surface, making windmill gaps very tight
+- Final two windmills left only inches of clearance
+
+**Vehicles:** On foot sliding, then a slide vehicle with tire-up jump  
+**Design takeaway:** Low-friction surfaces combined with tight timed hazards punish drift and reward clean lines.  
+**Video:** [I found a water slide with a 1,000,000% death rate](https://www.youtube.com/watch?v=HcFM2EetNp0)
+
+### Upgrading Raft Water Gauntlet
+
+He has to clear water obstacle boards (spinning walls, moving logs, gaps) on a jank DIY raft. Clearing each stage earns a raft upgrade with a new ability, and later stages add chaos-mod effects on a timer.
+
+**Issues & surprises**
+
+- Spinning obstacles also moved forward and back with the ocean swell, which made timing harder
+- An NPC stole his raft partway through
+- A chaos effect removed the water and swapped the raft for a tow truck, so he could not progress
+- Gravity and invisible-raft effects caused failures near the finish
+- The raft was faster than expected, around 50 mph and later over 100 mph with chaos
+
+**Vehicles:** DIY barrel raft with guns, then upgraded rafts (e.g. a diving 'dip' raft)  
+**Design takeaway:** A water vehicle that gains abilities per cleared stage gives a simple progression loop, and buoyancy-driven motion adds a natural timing challenge.  
+**Video:** [GTA 5 but my raft upgrades every 5 minutes](https://www.youtube.com/watch?v=884IQhS9KSI)
+
+### Water Speed Bump Course Series
+
+A multi-stage water bump course: starter water speed bumps, a 35-second section of buoys in the water, a ski slope where speed bumps launch jet skis at you, and a narrow water tightrope with bumps that grow and become one-sided, all needing to be cleared without flooding out.
+
+**Issues & surprises**
+
+- The lawnmower surprisingly survived the first bumps; a passing NPC boat cleared the course before him
+- Buoy hitboxes grew with the water level, flooding cars that seemed clear of them
+- Floating vehicles lost traction and could not climb out of deep dips
+- Landing flat (leaning back on launch) stopped the six-wheeler from spinning
+- The extremely long centipede Hummer bridged the bumps and finished the buoy section
+- The lifted pink SUV won and could even jump a barrier wall to skip part of the course
+
+**Vehicles:** Lawnmower, bicycle, armoured minigun car, Liberator, quad, low-riding G-wagon, six-wheel G-wagon, very long 'centipede' Hummer, lifted pink SUV  
+**Design takeaway:** Collision shapes that change with water level can be a real hazard, but they need to be visible to feel fair.  
+**Video:** [Gwagon vs Water Speedbumps in GTA 5](https://www.youtube.com/watch?v=jOaWcl6fyG4)
+
+### Water-Filled Pothole Course
+
+Potholes filled with water of varying depth: a waterfall pothole, closed-off roadworks, BMX-themed potholes with static and dynamic riders, water-spout potholes that launch cars, half-invisible potholes, an intersection pothole with invincible traffic, and a boss pothole needing a ramp off a boat.
+
+**Issues & surprises**
+
+- Most cars drowned their engines if they sat in deep water too long
+- A tall truck could wade through water that killed lower cars
+- A floating truck with a propeller simply sailed through and even swam upstream
+- Water spouts could launch a car back onto the course
+- A small car that looked like a joke didn't flood thanks to a high intake and won
+- He outlined an invisible pothole's edge with sticky bombs to see where to jump
+
+**Vehicles:** Slow junk car, muscle car, tall lifeguard truck, wheelie buggy, floating prop-driven truck, Wastelander, a small 'meme' car with high intake (winner)  
+**Design takeaway:** Track engine flooding by intake height and time submerged so water depth becomes a meaningful vehicle stat.  
+**Video:** [Cars vs HUGE Water Potholes in GTA 5](https://www.youtube.com/watch?v=OScw6g8M1-Y)
+
+### Wave-Bobbing Floating Ramp Crossing
+
+After an infinity-loop board with a sideways ramp jump off the ceiling, he crosses shipping-container jumps and then a sea of floating ramps and crates that bob on the waves. Touching the water is instant death, so you have to time jumps to the waves.
+
+**Issues & surprises**
+
+- On the ceiling, slowing down lost traction, so the sideways jump needed steady speed
+- Inside a shipping container there was no room to turn around
+- Ramps sank under the water as waves passed, so timing mattered
+- Floating props sometimes jittered wildly; one launch flung him past most of the challenge
+- An offset jump in the container section caught him repeatedly
+
+**Vehicles:** Car  
+**Design takeaway:** Physics props bobbing on water make moving, timing-based platforms, but they need stability checks so they don't jitter.  
+**Video:** [completing this impossible 0.0001% jump challenge in GTA 5 sent me to therapy](https://www.youtube.com/watch?v=Fa3RIf-39_4)
+
+### Wheel Size vs Water Challenges
+
+Same base car with different wheel sizes competes in water events: angled water dips from 10 to 55 degrees, landing drops onto a narrow tightrope in increasingly deep water, a 66-second three-lap pond course with a moving track and chasing teleporter, and a water speedrun parkour on moving platforms with spinning blades.
+
+**Issues & surprises**
+
+- The go-kart's tiny wheels surprisingly survived the shallow dips before flooding
+- Most sizes flooded at the 20-degree dip; only the largest wheels kept the frame clear of the water
+- Huge wheels clipped through the narrow tightrope; a slight nose-up landing worked best
+- Medium-large wheels were the best compromise on the tightrope
+- On the pond laps the track rose and fell, and the largest wheels stayed dry
+- Wheelies kept front tyres out of the water and added speed on the parkour
+
+**Vehicles:** Go-kart, Bandido, BMW variants with wheel sizes from tiny to enormous  
+**Design takeaway:** Keeping the chassis identical and varying only wheel size isolates one variable cleanly for comparison challenges.  
+**Video:** [Testing small & big wheels vs deep waters in GTA 5](https://www.youtube.com/watch?v=YtrV7FlxhXk)
+
+
+## Upgrade / progression run
+
+### Achievement-Unlock Map Jump with Chaos Events
+
+From one fixed mega ramp he must land in scripted target zones (a parking space, a reservoir, a flaming hoop, the Maze Bank roof, an island) to earn 10 points each; every 10 points teleports him into a random unlocked car. The goal is to unlock a car that can jump the whole map, while random chaos effects fire every 30-60 seconds.
+
+**Issues & surprises**
+
+- Precise targets required dialling in exact launch speed (e.g. ~120 mph vs 140) rather than full throttle
+- Static blocker cars and invisible walls stopped him cheating his way into target zones
+- Chaos effects like zero gravity, extreme wind or orbital strikes randomly ruined or helped jumps
+- The fastest car bottomed out on the ramp lip, needing careful nose alignment
+- Final win came by bailing out mid-flight and parachuting into the end zone
+
+**Vehicles:** Starter car, randomly unlocked rocket/jump cars up to a 700 mph 'GTA 6' car  
+**Design takeaway:** A single launch ramp with multiple scored landing zones turns speed control into the skill and pairs well with car unlocks as rewards.  
+**Video:** [Jumping the whole map but chaos happens every minute in GTA 5](https://www.youtube.com/watch?v=08isud9HEvg)
+
+### Bike Upgrade Ladder to Saturn
+
+Five boards each with a faster bike, starting on a unicycle tightrope and ending on a moving ring of Saturn. Hazards include rockets, shotgun-launched rocks, helicopter and plane traffic, and deer crossing a road.
+
+**Issues & surprises**
+
+- Unicycle had a terrible turning radius, so turns had to be very slow
+- Rocks fired at speed killed instantly
+- Helicopter rotor hitboxes were hard to judge since nothing signaled their reach
+- AI deer stopped right in front of the bike
+- The Saturn ring moved underneath him while riding
+
+**Vehicles:** Unicycle, bicycles, motorcycles up to boosted Lawmaster-style bike  
+**Design takeaway:** A progression ladder that swaps in faster vehicles while hazards scale keeps the core skill the same but raises the tempo.  
+**Video:** [Upgrading from slowest bike to LIGHT SPEED BIKE in GTA 5](https://www.youtube.com/watch?v=EXlnNbyzCKo)
+
+### Bike Wheel Type Shootout
+
+Bike wheel types compete for points: knock over pink columns on shaky dynamic pillars in 19 seconds, cross spinning helicopter-rotor 'speed bumps' in 29 seconds, glide a long jump through two windmills, and keep up with an ice platform that keeps accelerating to 100 mph past obstacles and a tightrope transfer.
+
+**Issues & surprises**
+
+- Wheels that turned too sharply overcorrected; sliding the wide rubber tyres knocked columns out best
+- Spinning rotors pushed the bike backwards unless it kept full throttle; spiked wheels gripped through them
+- Spiked wheels glided and stuck a landing well, tying three wheel types
+- Wooden wheels were hopeless on ice; spiked wheels accelerated hard on ice and won overall
+- Going from slick ice to a grippy tightrope surface and back was a jarring traction change
+
+**Vehicles:** Dirt bike with wooden wheels, normal rubber, wide 'beach' rubber, single spikes, double spikes/fully upgraded spike wheels  
+**Design takeaway:** A wheel/tyre upgrade system feels meaningful when each surface (ice, rotating hazards, dynamic props) clearly rewards a different tyre.  
+**Video:** [Upgrading Bike Wheels in GTA 5](https://www.youtube.com/watch?v=AMM-WdulARE)
+
+### Budget Tier Character Mods: Braking-Zone Sprint
+
+Mostly an on-foot series of stages using increasingly elaborate character mods (a feather-light skydiving stage, a jump course, a parkour maze, a helicopter boss fight). The vehicle stage: race to the end of a strip before a wall rises, where the coloured braking zone gets one colour shorter each run, so you must brake later and harder every time.
+
+**Issues & surprises**
+
+- The car's braking was too weak once the stopping zone shrank
+- The motorcycle stopped in about 30 feet (the rider put his feet down) and won the stage
+- The feather-light character drifted when skydiving, and opening the parachute flipped the physics and killed him
+- The large mech character forced a top-down camera that made aiming and timing awkward
+
+**Vehicles:** Low-poly '$10' character in a car and on a motorcycle; also on-foot and helicopter stages  
+**Design takeaway:** A shrinking brake zone is a simple, scalable test of braking distance that varies clearly between vehicle types.  
+**Video:** [$1 to $1000 Franklin in GTA 5](https://www.youtube.com/watch?v=MjgTsJNvEbk)
+
+### Build-Your-Own Lego Vehicle Course
+
+He walks onto Lego pieces to add them to a custom car, then spawns it to tackle courses: a Lego tornado jump, smashing a Lego heart, a rotating Lego bridge, a secret pyramid and a katana-swinging tightrope. Build choices change weight, grip and handling.
+
+**Issues & surprises**
+
+- Unclear which piece provided engine power
+- Heavy builds blasted through Lego walls but had no grip and poor aerodynamics
+- Single-block build was wobbly but agile and could jump
+- An NPC hijacked his built car, forcing a rebuild
+- Rotating bridge needed patience and rhythm; impatience caused falls
+
+**Vehicles:** Player-built Lego cars: single-block 'Roomba', bus-like heavy build, wobbly monstrosity  
+**Design takeaway:** A modular build system where parts change mass, grip and size lets players solve the same course in different ways.  
+**Video:** [Building my own Lego Car in GTA 5](https://www.youtube.com/watch?v=GfN6LMZCX8E)
+
+### Buy-the-Car, Buy-the-Obstacle Stunt Board
+
+He shoots props to earn money to buy cars, but every prop he cashes in appears as a permanent obstacle on the course. Some sections need specific cars, so he trades difficulty for vehicle access.
+
+**Issues & surprises**
+
+- The cheapest car was too slow to stay on the moving wall ride
+- A bought tree blocked the lower path, forcing a harder upper line
+- A wide car's rear wheels snagged in a narrow gap
+- Downforce stats mattered for wall rides
+- A final section dodging 'bees' along a wall ride required reading cues placed behind the wall
+
+**Vehicles:** Several purchasable cars with different stats (one with high downforce), a G20-style car he prefers  
+**Design takeaway:** Making progression currency also add hazards creates a meaningful risk/reward economy.  
+**Video:** [Everything I shoot becomes money in GTA 5](https://www.youtube.com/watch?v=k3EVXQNj-Yg)
+
+### Candy Layers with Unlockable Vehicles
+
+He starts on foot and breaks through 24 candy-themed layers (people, signs, vending machines, candy cane walls, gift boxes). Breaking layers unlocks weapons and then better vehicles, all against a rising wall timer.
+
+**Issues & surprises**
+
+- The candy cane weapon killed in one hit and broke candy walls
+- Candy cane layers crumbled onto the car and blocked progress
+- The heavier van was slower and no better at breaking layers than the lighter candy car
+- The tank could shove gift boxes and also bat them away with its turret
+
+**Vehicles:** On foot with candy cane, RC car, candy car, tin-foil van, tank  
+**Design takeaway:** Unlocking vehicles as rewards for breaking layers builds a sense of escalating power.  
+**Video:** [100 layers of candy in GTA 5](https://www.youtube.com/watch?v=P0pk62yDFOs)
+
+### Cardboard Car Earn-and-Upgrade Run
+
+Starting broke, he earns money from challenges ($10 speed bumps with spinning candy canes, $100 reverse water speed bumps, $1000 hitting sea mines along a water wall while dodging a submarine) to buy better cardboard cars, finishing with a cardboard Lamborghini on a long cardboard-box wall ride that ends in a jump into a box.
+
+**Issues & surprises**
+
+- The cardboard cars sagged under damage like soggy boxes, which he enjoyed
+- The tall stacked-box car was top-heavy but cleared the water bumps first try
+- The narrow car couldn't reach the mines, while the wider car's odd hitbox sometimes still missed them
+- The mines got further from the water wall as the stage went on, so the car had to go deeper into the water and risked flooding
+- Cardboard was very flammable, and on the wall ride a heavy packing-peanut prop stopped him riding on top of it
+
+**Vehicles:** $1 cardboard car, $10 three-box-stack car, $100 wide cardboard car, cardboard Lamborghini  
+**Design takeaway:** An earn-money-to-buy-the-next-car loop gives a natural difficulty ramp, and visibly weak materials make damage fun to watch.  
+**Video:** [Upgrading CARDBOARD LAMBORGHINI in GTA 5](https://www.youtube.com/watch?v=ovZ9h5CtL5I)
+
+### Crash-to-Upgrade Builder Run
+
+Each crash on the course lets the player pick one upgrade (with visible parts changing), up to five; a sixth crash resets the car to stock but keeps one. Boards: a candy-cane bridge with wind turbines, a fast spinning-and-moving cube to stay on, and a road that grows obstacles (launchers, stop signs, windmills) over time.
+
+**Issues & surprises**
+
+- Only crashes on the challenge area counted, and landing on your wheels did not count
+- On the candy canes the issue was traction, not power; a teleport upgrade was the tool for jumping the widening gaps
+- Only syringe hits counted as crashes on the cube stage, so he deliberately crashed into one to earn an upgrade
+- Stacking only speed upgrades could not outrun the board's growing obstacles
+- The downforce spoiler transformed the slippery arena car and was the key upgrade
+- Teleport moved the car a fixed distance but reversed its facing
+
+**Vehicles:** A sports car, later an arena car; upgrades include engine, suspension, transmission, torque, turbo, acceleration, teleport, boost, brakes, shunt boost and a downforce spoiler  
+**Design takeaway:** Letting players choose upgrades on failure turns crashing into a build decision and shows which stats each course really tests.  
+**Video:** [Every time I crash my car upgrades in GTA 5](https://www.youtube.com/watch?v=wFu3Qlwyy2E)
+
+### Pay-for-Better-Bike Jumps and Disappearing-Floor Wall Ride
+
+He buys better motorcycles to jump over 30 helicopters and windmills, then does wall rides with disappearing floor sections on different timers, with an optional paid shortcut. Every aid costs money.
+
+**Issues & surprises**
+
+- Cheaper bikes couldn't float far enough; the $300 bike glided best
+- Feathering throttle on landings let him bounce over rotors
+- Floor timers differed (2, 3, 4 seconds), so he had to aim where the floor would be
+- A checkpoint did not respawn after being used, forcing a one-shot run
+
+**Vehicles:** Tiered purchasable motorcycles ($100-$300), purchasable cars, optional helicopter shortcut  
+**Design takeaway:** Tiered vehicles with visible price-to-performance differences make upgrade decisions meaningful.  
+**Video:** [GTA 5 but EVERYTHING costs money](https://www.youtube.com/watch?v=PgH0fTk-4iM)
+
+### Pay-to-Win Fist Gauntlet
+
+A climbing gauntlet of punching fists with ~30 purchasable aids: respawn spheres, weaker fists, removing or revealing invisible fists, BMX, super run.
+
+**Issues & surprises**
+
+- Respawn sphere teleported him randomly but saved a lot of time
+- Force reductions stacked and made it noticeably easier
+- BMX was the best purchase until a fist smashed it into a wall
+- Super run couldn't turn corners, so it caused deaths
+
+**Vehicles:** On foot, BMX, super run  
+**Design takeaway:** Optional buyable modifiers let players tune difficulty and reveal which aids feel worth it.  
+**Video:** [GTA 5 but its loaded with Microtransactions](https://www.youtube.com/watch?v=BIXcnmRjWCg)
+
+### Pay-to-Win Upgrade Shop Course
+
+Two boards where in-course purchases buy help: top-speed boosts, longer decision timers, removing obstacles, a bridge over a pothole, blocking punching fists, slowing a teleporting wall ride. The first board chases a fast moving platform through multiple-choice obstacle routes; the second is a long shifting wall ride with transfers.
+
+**Issues & surprises**
+
+- The cheap car could not keep up with the moving platform even after a speed upgrade
+- Paying to give the windmill 12 seconds instead of 6 to 'decide' made the section dramatically easier
+- Upgrades persisted between runs and across cars once bought
+- Slowing the wall's teleport interval made the wall ride feel like easy mode
+- He never completed the final section, ending on an apparently impossible obstacle
+
+**Vehicles:** $100 cheap car, mid car, most expensive electric car; paid taxi ride  
+**Design takeaway:** Letting players spend currency to tweak specific hazard parameters (timers, obstacle removal) is a clear way to tune difficulty and show the impact of each upgrade.  
+**Video:** [GTA 5 but everything is pay to win](https://www.youtube.com/watch?v=4wX2Pu6NIMo)
+
+### Plow Upgrade Progression Run
+
+Push through timed obstacle sections (giant balls, car dominoes, heavier cars, boats in water, snow castles, then a 45-second highway with vehicles falling from the sky). Each checkpoint crossed unlocks a bigger plow, applied on the next respawn; when a vehicle runs out of upgrades, you must pick another.
+
+**Issues & surprises**
+
+- Plow upgrades did not always improve things; a spiked or fist-decorated plow 'caught' cars instead of pushing them aside
+- Tall vehicles tended to climb over obstacles instead of plowing through, so holding the nose down helped
+- Small cars flooded out in the boat section
+- Narrow cars could skip the ball section by hugging the edge
+- There was no indication of how many upgrades each vehicle had left
+- The final plow on the scoop truck threw cars aside violently and won
+
+**Vehicles:** Small car, sunglasses car, long wiener vehicle, large V-plow truck, scoop truck, each with escalating plow attachments  
+**Design takeaway:** Attachment upgrades unlocked mid-run create a sense of progression, but each tier should feel clearly different and better.  
+**Video:** [Testing plows vs impossible challenges](https://www.youtube.com/watch?v=uNgSHjTEgKc)
+
+### Point-Budget Car Builder Gauntlet
+
+He starts with a small point budget and buys parts at a spawn circle to assemble a car, then must clear obstacle boards (windmill gap jumps, a boomerang-lined road, platform landings). Completing boards and grabbing pickups earns more points to buy better or more parts for the next, harder board.
+
+**Issues & surprises**
+
+- Starting budget was too small for wheels plus an engine, so he sold the wheels and used a boost to fling a wheel-less car over a ramp
+- Without proper brakes the only way to slow down was to waggle the car side to side
+- Boost had to be spent early, leaving none for a later 90-degree turn onto a pedestal
+- Accidentally discovered he could buy multiple copies of the same part, e.g. two boosts
+- End-game build stacked many batteries for about 80 mph; the takeaway was simply 'add more batteries'
+
+**Vehicles:** Custom-built cars from purchasable parts (bodies, chassis, wheels, engines/batteries, brakes, spoilers, boosts)  
+**Design takeaway:** A part-budget builder where each cleared course funds more parts creates an emergent progression loop, but cap part stacking or give it a cost so stacking does not become the only answer.  
+**Video:** [Building My Own DIY Car in GTA 5](https://www.youtube.com/watch?v=-Z0grXWjZHs)
+
+### Police Car Upgrade Academy
+
+Police-themed challenges each upgrade the cruiser: a 90-second cone course where touching cones is deadly, clearing roadblocks with rockets, a moving-barrier obstacle stage, and chasing down a fleeing criminal car.
+
+**Issues & surprises**
+
+- Cones could be nudged out of place but not knocked over without punishment; bailing out stopped the explosion
+- The first car's turn radius just barely fit the cone course
+- Coasting and reversing through parts of the course saved time
+- The 'civilian' had to die to unlock the lower barrier, which went against the expected rescue goal
+- Spamming the boost and taking a shortcut let him get ahead of the criminal
+
+**Vehicles:** Series of police cars, from a beat-up cruiser to a rocket-armed, boost-equipped car  
+**Design takeaway:** Precision cone courses with strict penalties, followed by an upgrade per stage, work well as an onboarding progression.  
+**Video:** [Upgrading to the Fastest Police Car in GTA 5](https://www.youtube.com/watch?v=H7nut-Xf8rw)
+
+### Power-Up Strength Progression Course
+
+Each completed section gives a strength power-up (four tiers). Sections include shooting cans while driving a timed course, protecting people on floating platforms from boulders with super punches, and a nacho-chip quad course; by the end his strength wrecks everything.
+
+**Issues & surprises**
+
+- Driving, staying on the board and aiming at the same time was harder than expected
+- Green cans became indestructible and had to be weaved around
+- Punch effects landed with a delay and took leading the target
+- The character stuck to the quad unrealistically, like extra downforce
+- At max strength his running caused earthquakes and broke the race
+
+**Vehicles:** Armed vehicle and quad with gun; mostly on-foot super strength  
+**Design takeaway:** Stacked power tiers that eventually break the course can be a fun victory lap at the end of a run.  
+**Video:** [GTA 5 but I get stronger with every step](https://www.youtube.com/watch?v=qYfDiEMnNxQ)
+
+### Price-Tier Boards ($1 to $10M)
+
+Each price tier has its own board: find the one drivable $1 car in a junkyard, knock down all cones in a time limit, a windmill wall ride, and a VIP escort where an overpowered car clears assassins and shoves obstacles so the VIP reaches the finish.
+
+**Issues & surprises**
+
+- Finding the $1 car took about 20 minutes of checking wrecks; it was on top of a shipping container
+- Knocking cones down was harder than he expected after years of dodging them
+- Good acceleration and downforce let him almost coast the wall ride
+- The $10M car was overpowered because the VIP escort needed it
+- The jump ability gave no forward momentum, so he had to move first and then jump
+
+**Vehicles:** $1 junkyard car, $10K car, $500/$11K tier cars, $10M overpowered escort car  
+**Design takeaway:** An escort objective where your vehicle clears the path for an AI car creates a new use for heavy pushing vehicles.  
+**Video:** [$1 to $10,000,000 Car in GTA 5](https://www.youtube.com/watch?v=m8Ia1t5m5vc)
+
+### Price-Tier Vehicle Stunt Ladder
+
+Five stunt sections, each with a pricier and stranger vehicle. Ranges from a toilet-cart course with a fire wall, to a pulsing-obstacle slalom, a loop course, a flapping jet car through moving pipes and a bridge wall ride.
+
+**Issues & surprises**
+
+- The toilet vehicle was low enough to duck under the fire wall
+- Passenger animal fell out unnoticed
+- Windmills worked as launch pads off-road but not on the road
+- Flappy-style car needed timing through pulsing pipes
+- Could get trapped in a pipe and escape by waiting
+
+**Vehicles:** Toilet on surfboards, pony cart on tennis balls, sports car, flying 'Flappy Bird' jet car, final car  
+**Design takeaway:** A ladder of increasingly odd vehicles, each with its own course, keeps a run fresh.  
+**Video:** [$1 Car VS $1,000,000 Car STUNT RACE CHALLENGE](https://www.youtube.com/watch?v=h_Vg3DgbMz4)
+
+### Progressively Steeper Inverted Ramp Unlocks
+
+A compilation segment: four huge ramps, each 10 degrees steeper than the last, starting at 30 degrees. Each ramp lands you in a course (a beer-bottle wall ride and leapfrog over bottles, a fast-food themed path choosing passable 'drink' walls, loop transfers) that must be beaten to unlock the next car and next ramp.
+
+**Issues & surprises**
+
+- A hidden area turned out to be a troll with invisible walls blocking a shortcut
+- Leapfrogging across bottles required all four tyres on each bottle top and exact speed
+- Walls with drink adverts were passable while food ones were solid
+- Loop transfers reversed directions and were easier in first person
+- The final ramp went so fast the car lost its wheels
+
+**Vehicles:** Unlocked cars per stage, ending with a supercar  
+**Design takeaway:** Tie unlocks to increasingly steep launch ramps so each new vehicle is earned and immediately tested at a higher speed.  
+**Video:** [Testing 100 Cars in GTA 5](https://www.youtube.com/watch?v=OZmq21Q7CTw)
+
+### Rideshare Obstacle Course with Upgrades
+
+First he rides as a passenger in an AI taxi that must be steered onto launch platforms so he can be thrown to the goal. Then he becomes the driver, picking up three passengers in turn through a technical course of transfers, jumps, windmills and traffic, earning vehicle upgrades (engine, afterburners) along the way while drop-offs have time limits.
+
+**Issues & surprises**
+
+- The AI taxi driver didn't time jumps and often drove around the platforms
+- Being late with a drop-off made the vehicle vanish, which was confusing
+- The front engine upgrade had its own collision box and worked like a battering ram
+- The boost recharged in about 5 seconds, so he spammed it on the final traffic stretch
+- After about 50 attempts the only consistent failure was a windmill on one jump
+
+**Vehicles:** AI-driven taxi, off-road Jeep that gets engine upgrade and afterburner boost  
+**Design takeaway:** Pickup/drop-off routing with mid-run upgrades for each delivery gives a long technical course clear goals and a feeling of progress.  
+**Video:** [Upgrading Slowest to Fastest Uber Car in GTA 5](https://www.youtube.com/watch?v=Gj7h4P3ElBM)
+
+### Stacking Car Ability Upgrades
+
+A car gains a new ability after each board: spawning ramps on demand, then instantly swapping to a linked rocket hoverbike, and finally using all abilities together. Boards require stacking spawned ramps, swapping mid-air and shooting down a teleporter platform.
+
+**Issues & surprises**
+
+- Spawned ramps could be stacked only by spamming very quickly
+- A boost pad threw the car off unexpectedly
+- Swapping to the hoverbike before landing avoided a teleporter trap
+- Shooting a platform removed the teleporter
+
+**Vehicles:** Supercar with ramp generation, linked Oppressor hoverbike  
+**Design takeaway:** Cumulative vehicle abilities that combine into new tricks are a satisfying progression design.  
+**Video:** [Evolving the Ultimate Super Car in GTA 5](https://www.youtube.com/watch?v=UwGDDvsBI28)
+
+### Staircase to Space with Power-ups
+
+A 90+ step staircase where each step grows by 10 cm; every checkpoint grants a new power-up (e.g. a magnet gun) needed to clear taller steps, with enemies guarding some levels and windmills used to launch over the last steps.
+
+**Issues & surprises**
+
+- Power-up pickups doubled as checkpoints, avoiding full restarts
+- Magnet gun was used to place a box as a climbing step (IQ puzzle)
+- Final levels required jumping onto moving objects and barely clipping windmill tips
+- Invisible walls and invincible enemies caused confusion
+
+**Vehicles:** Various vehicles and on-foot parkour with power-up weapons  
+**Design takeaway:** A linearly increasing obstacle (step height) paired with milestone power-ups creates a clear progression curve.  
+**Video:** [Cars vs Planet in GTA 5](https://www.youtube.com/watch?v=IStsK9g41Xk)
+
+### Tiered Driving-Test Challenges
+
+Driving-test parodies with progressively better cars: a reverse-park landing, a drifting 360 turn on a timed platform while avoiding pedestrians, a jump-and-parallel-park among explosive barrels, and a very long wall ride with random effects.
+
+**Issues & surprises**
+
+- The cheapest car had almost no power and drifted off line
+- The drift challenge required swinging the rear out then reversing
+- Pedestrians walked into his path
+- Random effects during the wall ride included half game speed, which actually helped
+- Whale rain ended a run
+
+**Vehicles:** $1 weak car, $10 car, $100 sports car, $1000 supercar  
+**Design takeaway:** Parodying real driving maneuvers like parallel parking with stunt twists is an approachable challenge set.  
+**Video:** [Upgrading dumb cars into smart cars in GTA 5](https://www.youtube.com/watch?v=_28L0VCILAg)
+
+### Touch-to-Buy Upgrade Course
+
+Touching props converts them to cash, which buys vehicle upgrades like jump, boost and parachute, but the touched props then reappear as obstacles in the challenge. The course uses color-coded platforms where you cannot reuse a color already touched.
+
+**Issues & surprises**
+
+- Buying items placed them as hazards, such as a boost at a bad spot
+- Rolling backward then popping the parachute helped control landings
+- Color rules were confused by shadows that made platforms look a different shade
+- Wall ride sections required looking behind to time a lifting wall
+
+**Vehicles:** Pink car with jump, boost and parachute upgrades  
+**Design takeaway:** Making purchased upgrades also add risk to the track creates an interesting buy-versus-burden trade-off.  
+**Video:** [GTA 5 but everything I touch turns to money](https://www.youtube.com/watch?v=MnovQwrM_TM)
+
+### Unlock-Faster-Cars Mega Ramp Jump
+
+Complete hidden 'stand on the green' challenges to lower pedestals and unlock progressively faster cars, then use each to attempt a huge map-crossing ramp jump; the final car has infinite boost and leaves the world.
+
+**Issues & surprises**
+
+- One unlockable 'flappy' car was slower and essentially a troll
+- The green target was sometimes hidden under or beside platforms
+- 'Solid green-gray' meant a gray patch, a wordplay trap
+- Tilting the nose down in the air added distance
+- He had to keep pumping gas to avoid sliding off platforms
+
+**Vehicles:** Series of unlockable cars ending in an infinite-boost car whose tires vanish  
+**Design takeaway:** Unlocking faster cars to beat one big jump is a clear, motivating progression loop.  
+**Video:** [Jumping MOON RAMP With WORLD'S FASTEST CAR in GTA 5](https://www.youtube.com/watch?v=zWoDQpxCp2I)
+
+
+## Survival / chase / escape
+
+### Animatronic Chase and Stealth Escape
+
+A horror-themed escape: drive a quad through an obstacle course while a teleporting animatronic chases you firing grenades, then a stealth section on foot avoiding lights, then an arena car must jump between towers, and finally drive between two searchlight vehicles shooting out their lights without being illuminated. A thumbnail-hole jump ends each stage.
+
+**Issues & surprises**
+
+- Weaving widely made grenade hits more likely; minimal steering corrections worked best
+- Skipping a ramp and dodging it was faster than taking it
+- The quad sometimes exploded randomly from accumulated damage
+- Searchlight contact spawned guards who killed him after a set delay
+- A small amount of leeway on light contact made the final run possible
+
+**Vehicles:** Quad bike, arena car with jump ability  
+**Design takeaway:** A pursuer that fires projectiles at a fixed lead rewards subtle, controlled steering instead of wild swerving.  
+**Video:** [I survived this impossible FNAF challenge in GTA 5](https://www.youtube.com/watch?v=Mt0y6dVw8mQ)
+
+### Boosted-Traffic Frogger Crossing
+
+A multiple-choice board where each fork leads to a different ordeal. His first choice was crossing lanes of traffic boosted to extreme speed, Frogger-style, several times over to reach the checkpoints.
+
+**Issues & surprises**
+
+- Boosted AI cars made timing the gaps very tight
+- He had to cross back and forth through the traffic more than once
+- He felt he had picked the worst option at the fork
+
+**Vehicles:** Small car  
+**Design takeaway:** Speeding up ambient traffic turns an ordinary road into a timing hazard with no new assets.  
+**Video:** [i completed this 1000% impossible tightrope dodge challenge and this happened](https://www.youtube.com/watch?v=ngynvWdYmxk)
+
+### Boundary-Hugging Map Edge Trek with Chaos Mod
+
+Travel from the southern beach to the northernmost island while staying inside a narrow boundary marked by poles along the coast; leaving the boundary sets you on fire. A chaos mod fires random effects (low gravity, no traction, earthquakes, meteors, whale rain) every minute, and checkpoints mark progress.
+
+**Issues & surprises**
+
+- A chaos effect removed tire traction, making every car slide like on ice
+- Motorbikes were far better than cars for the narrow boundary in chaos conditions
+- Many vehicles got knocked or bounced out of bounds and burned
+- Walk-on-water and swim effects ended up helping him reach the final island
+
+**Vehicles:** ATVs, trucks, stolen cars, motorbike, saw-blade bicycle, dune buggy, lawnmower  
+**Design takeaway:** A narrow allowed corridor plus random global modifiers makes vehicle choice and adaptability matter more than raw speed.  
+**Video:** [I went to the edge of the map but chaos happens every minute](https://www.youtube.com/watch?v=7MHNg6ZRSb0)
+
+### Chase-the-Cargo-Plane Skyhook Run
+
+A cargo plane takes off down a runway trailing a hook; the car must catch it while the plane fires skyhooks backwards and explosive barrels and mercenaries litter the way. A later timed stage adds a second plane swinging hooks to block, S-bends and jumps before catching the hook.
+
+**Issues & surprises**
+
+- Skyhook projectiles came at random intervals, so they could not be predicted
+- Slow vehicles could not match the plane's speed, which increased as it took off
+- Catching the hook was not automatic; the course had to be completed in time first
+- The trick was tapping the brakes as hooks swung past to hold the centre line
+- Some cars caught fire easily from barrel explosions
+
+**Vehicles:** Open buggy, Sherp, boost-and-jump car, Wastelander, sports car, electric supercar  
+**Design takeaway:** Chasing an accelerating moving target that fires hazards backwards makes a great top-speed-plus-dodging set piece.  
+**Video:** [Cars vs impossible sky hook challenge in GTA 5](https://www.youtube.com/watch?v=Vn_YTmLKOyo)
+
+### Custom Wanted-Level Escape Stages
+
+Each wanted 'star' is a stage with its own pursuer: dogs chasing on foot, police robot drones and tanks that must be lured into holes, a sprint with super speed through a barrage from a flock of tanks, and a final 49-second vehicle run through a space course while UFOs fire cows and ray guns.
+
+**Issues & surprises**
+
+- Dogs knocked him down from far away, so health-regen safe zones were vital
+- Drones swarmed once he fell; standing at the edge of holes baited them in
+- After a delay the larger robots activated, and the stage escalated over time
+- Tank fire hit him even mid-air; the trick was not touching any walls
+- The compact side-by-side was far better than the motorcycle or car at weaving through slowdown strips and flung cows, finishing with about a second left
+
+**Vehicles:** Mostly on foot; final stage offers a motorcycle, a pink car and a side-by-side  
+**Design takeaway:** Escalating pursuers with distinct behaviours make a good multi-stage chase, with the final stage rewarding a compact, nimble vehicle.  
+**Video:** [GTA 5 but there's Custom 5 Stars](https://www.youtube.com/watch?v=ZXb75tBgg6Y)
+
+### Elaborate Trap Rooms
+
+Trap rooms: a timed glass box over a floor that changes color and route before exploding, a gap trench with hidden slow-down markers and widening gaps over windmills, an Indiana Jones boulder run, and a final mirrored bridge in top-down view chased by a moving juicer.
+
+**Issues & surprises**
+
+- The floor changing underneath was easy to miss while watching the glass box
+- Red markers on the trench were hidden slow-down zones that killed momentum
+- The boulder run required outrunning a second rock before it blocked the path
+- Top-down view hid inclines and ramps, forcing memorisation
+- The Liberator was useless at blasting through the glass and caught fire
+
+**Vehicles:** Liberator, plow car, Hummer/Patriot, sports cars, YOLO gray mobile, a dragster-like car (winner)  
+**Design takeaway:** Trap rooms that change state mid-attempt (floor routes, camera angle) force players to read the room as well as drive.  
+**Video:** [Testing cars vs secret traps in GTA 5](https://www.youtube.com/watch?v=oGcnNujYgWU)
+
+### Escalating Wanted-Level Checkpoint Run
+
+Each checkpoint raises the wanted level through custom tiers (1, 3, 5, 10, 100, 1000 stars) with escalating enemies, while he gets increasingly powerful vehicles. He follows arrows across the city to reach checkpoints alive.
+
+**Issues & surprises**
+
+- Wind-up delay before the bike's jump ability caught him out
+- Powerful car still caught fire and burned when tires were hit
+- Jeeps with gunmen spawned out of nowhere near him
+- Final stage had rockets raining from the sky and he had to glide to the end
+
+**Vehicles:** Armed motorcycle, armored weaponized car (mortar, miniguns, rockets), later aircraft  
+**Design takeaway:** Scaling pursuit intensity alongside better vehicles keeps a power-fantasy run challenging.  
+**Video:** [I survived a 1,000 STAR WANTED LEVEL in GTA 5](https://www.youtube.com/watch?v=O1XuDWdx5eg)
+
+### Escalating Wanted-Level Escape Course
+
+A checkpoint-to-checkpoint escape where each stage raises the pursuit intensity (5, 10, 100, 1,000, 5,000 stars) with new enemy types like army helicopters, kamikaze cars, Apaches, tanks and a Warthog. Each stage hands him a progressively better armed vehicle and he must reach an arrow while surviving.
+
+**Issues & surprises**
+
+- The vehicle's spawn facing direction secretly pointed toward the objective, which he only noticed later
+- Bridges and overpasses worked as cover against air units, though the Warthog AI repositioned to get firing angles
+- Low-armor open vehicles (buggy, motorcycle) were death traps against helicopters
+- Civilian traffic doubled as a shield and also as a hazard when 'citizens attack' kicked in
+- A sticky bomb detonated mid-ramp was used to break glass blocking a jump
+
+**Vehicles:** Motorcycle, armed dune buggy, saw-blade jump car, rocket/mortar car, Insurgent armored truck  
+**Design takeaway:** Pair each escalation tier of pursuers with a matching vehicle upgrade so the player always feels outgunned but never helpless.  
+**Video:** [I survived a 5,000 star wanted level in GTA 5](https://www.youtube.com/watch?v=23FbjA16NUk)
+
+### Exaggerated Classic Story Missions
+
+Classic mission types rebuilt as obstacle courses: a motorcycle drug run through armed gang blockades, a tightrope and a jump; a bank-heist getaway through police roadblocks to a paint shop; and a 'take out the rivals' run where the car must launch off a wall ride to hit specific targets, then chassis-grind to a drop-off before a barrier rises.
+
+**Issues & surprises**
+
+- No armour plus constant gunfire meant the bike run demanded a near-flawless route
+- Picked-up items floated in the air behind the bike, which looked odd
+- Some jumps were unavoidable, with barriers blocking alternatives
+- Hitting a target off the wall ride needed an exact release height (just at or above the midline)
+- Going up the side of an arch was an easier way to reach one target than the intended route
+
+**Vehicles:** Motorcycle with a passenger, getaway car, convertible  
+**Design takeaway:** Familiar mission formats (getaway, delivery) become fresh when their route is turned into a stunt course.  
+**Video:** [Beating GTA 5 the way Rockstar intended](https://www.youtube.com/watch?v=z1hDe6UiRaw)
+
+### Getaway Where Every Crash Randomizes Your Vehicle
+
+After robbing a bank vault, he must escape to a canyon and then a boat while police chase him. Every crash instantly swaps his vehicle for a random one, with a few seconds of grace between swaps, and he must reach the end in whatever he gets.
+
+**Issues & surprises**
+
+- Unarmoured motorcycles left him exposed to gunfire, so he sometimes crashed on purpose to reroll
+- Traffic seemed set to ram him, causing unwanted swaps; minor bumps often counted as crashes
+- Land-locked boats, jets with no runway and a submarine were dead ends, while a helicopter was 'easy mode'
+- Hits with a tractor's plow did not count as crashes, which was a useful exploit
+- Each swap gave a fresh, undamaged vehicle, so crashing doubled as a repair
+
+**Vehicles:** Random: motorcycles, sports cars, vans, dune buggy, rocket car, tractor with plow, boats, submarine, helicopters, jets, ramp car, parachute car  
+**Design takeaway:** A crash-triggered vehicle reroll mixes punishment and lucky breaks, and stress-tests whether every vehicle type can handle the same route.  
+**Video:** [Heist escape but every crash = random car in GTA 5](https://www.youtube.com/watch?v=9918IeO-Cww)
+
+### Graveyard Chase under Chaos Mod and Helicopter Gap Flight
+
+Fear-themed challenges: run across a graveyard and back while a killer chases and a chaos mod fires every 20 seconds, and fly through the gap between a helicopter cabin and its rotor.
+
+**Issues & surprises**
+
+- Effects like no-sprint/no-jump and slow game speed hit near the goal
+- He commandeered a police car, which the rules didn't forbid
+- Rotor hits flung him hard; approaching top-down at an angle finally worked
+- First-person and blur effects disoriented navigation
+
+**Vehicles:** On foot, police car, flying player through helicopter rotors  
+**Design takeaway:** Short-interval random debuffs plus a pursuer make a simple A-to-B run frantic.  
+**Video:** [100 scariest myths in GTA 5](https://www.youtube.com/watch?v=4KTytAOLMnI)
+
+### Law-Breaking Task Boards with Rising Police Pressure
+
+Absurd 'laws' become tasks: drive over every grave in a walled cemetery, flip tanks that fight back, park a plane in a handicapped spot, and finally drive through crowded crosswalks without hitting anyone. Police get more aggressive with each law broken.
+
+**Issues & surprises**
+
+- Low graves were easier to drive over than tall ones, and the car caught big air
+- Tanks didn't flip as expected and multiple tanks attacked
+- The plane needed far more runway than the spot allowed, so he bent the rules
+- Pedestrians actively stepped in front of the car in the no-hit section
+
+**Vehicles:** Car over graves, tanks, plane, car through crosswalks  
+**Design takeaway:** A 'do not hit pedestrians' run with dense crowds is a strong precision steering test.  
+**Video:** [I broke every law in GTA 5](https://www.youtube.com/watch?v=bdh-sqzMM54)
+
+### Modded Bicycle Ice Gauntlet
+
+Cursed modded bicycles cross icy hazards: dodging RC snowmen that ram you, a 45-second blizzard full of windmills with near-zero visibility, growing ice gaps to jump, rotating iceberg roads that must be transferred between at the right moment, a road that rises from the ground across a chasm, and a reverse avalanche of objects falling upward.
+
+**Issues & surprises**
+
+- Wide slalom S-turns dodged most RC snowmen
+- In the blizzard obstacles appeared only a second or two before impact
+- Rocking the bike back then forward before jumping added distance
+- Rotating iceberg roads lined up straighter on one rotation than another, so timing mattered
+- He exploited a rising road segment to restart without going back to the beginning
+
+**Vehicles:** Modded bicycles: chainsaw bike, head bike, saw-blade bike, spiked-ornament BMX  
+**Design takeaway:** Low-visibility weather combined with fast hazards tests reaction and memorization, and works well for lightweight vehicles with a jump.  
+**Video:** [Crossing 100 miles of ice on a bike in GTA 5](https://www.youtube.com/watch?v=pxCt_AvLCXc)
+
+### Outrun the Map-Eating Moon (Chaos Mod)
+
+He must travel from a mountaintop to the airport while a city-sized evil moon sweeps across the map eating everything, and a chaos mod applies a random effect every ~20 seconds (fog, invisible vehicles, engine-speed multipliers, teleports, traffic aggression). Getting caught by the moon resets the run.
+
+**Issues & surprises**
+
+- The moon moved at roughly 70-80 mph, faster than most found vehicles
+- Skydiving and boat crossings wasted time; driving down the mountain on a dirt bike worked better
+- Riding along train tracks avoided traffic, and the dirt bike could cut through doorways and gardens
+- Chaos effects swung runs hugely (x2 engine speed, shoot-to-teleport helped; motion effects and darkness hurt)
+- An 'aggressive traffic' effect had accidentally been left on permanently, making early attempts much harder
+
+**Vehicles:** Whatever he finds: motorcycles, boats, SUV, dune buggy, dirt bike, rained-in vehicles  
+**Design takeaway:** A relentless pursuer that sets a minimum average speed, combined with random modifiers, makes a tense point-to-point escape that rewards route knowledge.  
+**Video:** [When the moon wakes up in GTA 5](https://www.youtube.com/watch?v=UZJtXD9B-Go)
+
+### Real Delivery Driver Plays a Delivery Obstacle Board
+
+A guest who drives deliveries in real life drops off five packages in timed green circles across rough terrain, crosses rotating 360-degree bridges that must be timed, delivers inside a military base, then drives a passenger stuck on the roof (who fires rockets) back to base while tanks, police and traffic attack.
+
+**Issues & surprises**
+
+- Following real road rules made him too slow; the timed route required cutting across terrain and squeezing through gaps in a crane
+- Drop circles weren't exactly at the guiding arrows, so he had to learn where they were
+- The rotating bridges needed specific visual cues to time when to go
+- The roof passenger could fall off or blow up the van with his own rockets
+- The return trip took about 25-30 attempts; the guest said in real life his van is limited to about 60 mph and he'd never been airborne
+
+**Vehicles:** Box delivery van (played by a real-life delivery driver, with the host coaching)  
+**Design takeaway:** Fragile passengers or cargo riding on the outside of the vehicle add a new constraint to a delivery mission, punishing hard impacts and jumps.  
+**Video:** [i paid a real truck driver to make deliveries in GTA 5](https://www.youtube.com/watch?v=szO5Ql582Vs)
+
+### Rescue Vehicle Events
+
+Four timed rescue events worth a point each: drag a drowned car to shore, push through RPG gunmen to reach victims, carry an ATV or people on the back over rough terrain, and ferry survivors down rapids and a waterfall. The vehicle with the most points wins.
+
+**Issues & surprises**
+
+- The tow truck could barely pull the car out of the water and got launched when hooking up
+- The ambulance soaked up rockets, but it was too short to get past the attackers
+- Wooden pallets stopped one vehicle dead
+- Cargo slid off the Wastelander's bed; the flatbed held its load much better
+- Passengers stayed on if they were standing but slid off once they fell
+
+**Vehicles:** Tow truck, Sherp, ambulance, Insurgent, Wastelander, flatbed truck  
+**Design takeaway:** Load-securing and passenger-retention physics on a rough route make an interesting 'deliver intact' objective.  
+**Video:** [Which car is best at rescuing in GTA 5?](https://www.youtube.com/watch?v=6rGxvtaFPGE)
+
+### Road Rage Traffic Survival
+
+Highway sections inspired by road rage: any collision with a car makes you explode (motorbikes excepted) while traffic swerves at you, including a packed tunnel; then a 30-second run while honked-off drivers fire rockets; then a 'speed limit' section where dropping below a minimum speed or leaving the road blows you up, with banked bonus time.
+
+**Issues & surprises**
+
+- The ramp buggy idea failed because ramped cars still counted as collisions
+- Motorcycles did not trigger the explode-on-contact rule
+- A light sports car was knocked off course by any contact in the minimum-speed section
+- The arena car's side shunt (even in mid-air) was the best dodge tool
+- Constant small left-right taps kept rocket shooters from locking on
+- Jumping a ramp without touching dirt avoided the off-road penalty
+
+**Vehicles:** Ramp buggy, armoured arena car with side shunt, trophy truck, sports car  
+**Design takeaway:** A minimum-speed rule with a small banked time buffer creates tension like a bomb timer and rewards heavy, stable vehicles.  
+**Video:** [I choose road rage in GTA 5](https://www.youtube.com/watch?v=aEEA8ShX_O0)
+
+### Rocket Defenders vs Runners
+
+Multiplayer: one player with rockets tries to stop the others crossing a course or blasts the platform under them.
+
+**Issues & surprises**
+
+- Shrinking platforms reduced space
+- Players were knocked off by explosions
+- Environment hazards like barrels could be used
+
+**Vehicles:** Cars, on foot  
+**Design takeaway:** Asymmetric attacker vs runners works well for multiplayer.  
+**Video:** [only 1% of people can defeat me in this impossible snipers vs runners challenge](https://www.youtube.com/watch?v=kk6QH0emOi0)
+
+### Rockslide Gauntlet
+
+Drive through rockslides: a classic slide on a narrow ledge, a rockslide jump, a carousel of rocks that follows the car with an attached slow-down ring, two steep ascending rockslides, and a final stalking rockslide that must be outrun.
+
+**Issues & surprises**
+
+- Embedded rocks snagged low supercars immediately
+- Small vehicles dodged better but light ones like the quad were knocked off easily
+- The tank shrugged off rocks but struggled to finish the steep climbs
+- A small boost car was a 'glass cannon': small target but blasted off by hits
+- Waiting for rocks to finish their bounce before moving was a reliable tactic
+- A narrow roll-cage car was ideal for going straight through gaps
+
+**Vehicles:** Bus, quad, low supercar, flatbed, disco van, roll-cage buggy, tank, small boost car, rally car, a narrow roll-cage car (winner)  
+**Design takeaway:** Large dynamic debris with real mass is a great test of vehicle size, armour and acceleration together.  
+**Video:** [Testing Cars vs Rockslides in GTA 5](https://www.youtube.com/watch?v=mXGfppUsrDk)
+
+### Safest Civilian Vehicle Gauntlet
+
+Non-military vehicles go through timed safety tests: a 'tetanus' zone that slowly crushes the car, potholes, a satisfying-suspension section, flooding, and a final 69-second survival platform under bombardment.
+
+**Issues & surprises**
+
+- The crushing effect pinched the wheels inward, making left turns almost impossible
+- Bikes were not affected by the crushing effect
+- A narrow wheelbase dropped straight into potholes
+- A tall boost/jump vehicle cleared most stages, then got stuck in a giant coffee-mug prop
+- The slow, boxy Sherp won by surviving the full timer
+
+**Vehicles:** Ambulance, Cybertruck-style truck, mom's car, bikes, boost/jump vehicle, Sherp  
+**Design takeaway:** Progressive deformation that affects steering geometry is an interesting hazard that slowly takes away handling.  
+**Video:** [What is the safest vehicle in GTA 5?](https://www.youtube.com/watch?v=aK1kGakJ2IY)
+
+### Straight-Line Map Crossing with Chaos
+
+He must cross the entire map inside a straight corridor of pylons, going over or through buildings rather than around them, while chaos effects fire every 30 seconds. Leaving the corridor sets you (or your vehicle) on fire, and checkpoints mark progress.
+
+**Issues & surprises**
+
+- Going out of bounds inside a vehicle burned the car instead of the player, buying time
+- Buildings and cliffs in the straight line forced parkour, parachuting or waiting for gravity effects
+- Dirt bikes climbed the steep hill best, but even they struggled on near-vertical faces
+- He sank a truck in water to launch the boat it was towing
+- A low-traction 'drift' car slid out of bounds easily
+
+**Vehicles:** Whatever he could steal: plane, tank, cars, dirt bikes, boat on trailer  
+**Design takeaway:** Forcing a fixed straight route through terrain makes players improvise vehicle swaps for each obstacle type.  
+**Video:** [Crossing GTA 5 in a straight line but chaos happens every 30 seconds](https://www.youtube.com/watch?v=HVg-C3rdkbQ)
+
+### Stunt-Double Jobs incl. Minimum-Speed Bomb Car
+
+Progressively better-paid stunt jobs: backflip a motorcycle while sticky-bombing a helicopter, drive a course in a car that explodes if it drops below 69 mph while police chase, and a parachute headshot sequence.
+
+**Issues & surprises**
+
+- Sticky bomb timing was about two seconds, not three as he first assumed
+- Tight L-turns at minimum speed required drifting down to just above the limit
+- Going too fast on straights made corners impossible
+- Memorizing safe corner speeds was the eventual solution
+
+**Vehicles:** Motorcycle, a car that explodes under 69 mph  
+**Design takeaway:** A minimum-speed constraint makes cornering a precise speed-management puzzle.  
+**Video:** [Going from $0 to QUADRILLIONAIRE in GTA 5](https://www.youtube.com/watch?v=mLXwzHMrEOM)
+
+### Timed Lava Hazard Course
+
+Timed sections over lava: falling burning trees across a road, rolling boulders with a 33-second timer, jumping between burning buoys, a field of fire-spreading bushes and a 25-second road of randomly exploding cars. Keeping the same car lets him resume at the last cleared stage, but swapping restarts the course.
+
+**Issues & surprises**
+
+- Long vehicles like the Wastelander were easy targets for rolling rocks
+- The tall SUV handled well but tipped over on bumps; coasting through turns was faster than flooring it
+- Low cars could slip under falling trees that taller cars had to jump
+- Armour let one car survive burning much longer, while another car caught fire unusually fast
+- Exploding cars were on timers, so outrunning them was possible
+- Invisible walls blocked shortcuts, but he still jumped one barrier the designer missed
+
+**Vehicles:** Vapid, Wastelander, 'mom's car' SUV, jump car with spikes, Tron-style car, low supercar  
+**Design takeaway:** Pair hazards with time limits and let a checkpoint persist only if you keep your vehicle, creating a real cost to switching.  
+**Video:** [Cars vs Lava Cross Roads in GTA 5](https://www.youtube.com/watch?v=1ktlLH8YVXo)
+
+### Zombie Survival Vehicle Trials
+
+Vehicles face zombie scenarios: survive 69 seconds of homing explosive zombies in an arena, push past zombie cannons that ram you, and plow through layered trenches of regular, stubborn, teleporting, infectious and exploding zombies under a timer.
+
+**Issues & surprises**
+
+- Poor turning radius made cars drift into explosive zombies
+- Explosive zombies had to stick for a couple of seconds before detonating, giving a window to escape
+- A motorcycle was the first to survive the explosive arena via agility
+- Heavy bus tanked zombie cannons and smashed through street furniture
+- Scoop front caught a cannon hit and flipped the vehicle; slow approach over humps fixed it
+- An unlikely vehicle (bus/camper) won overall
+
+**Vehicles:** Arena-style armored vehicles: buggy, dual-minigun car, motorcycle, scoop-front truck, armored bus/camper  
+**Design takeaway:** Mixing enemy types with different behaviors (homing, ramming, blocking) tests both armor and agility, so neither tank nor bike dominates every round.  
+**Video:** [Which vehicle is best at surviving the zombie apocalypse?](https://www.youtube.com/watch?v=I1LxChe_xL4)
+
+
+## Racing & time trials
+
+### Gimmick Oval Tracks
+
+Oval tracks with twists: one slowly sinks into rising water, one has gaps and a chasing black hole, one is a bumpy Lego surface where hitting all balloons within 55 seconds is required, and one requires disarming 13 bomb barrels while dodging attackers. Each must be completed within a time limit.
+
+**Issues & surprises**
+
+- Limo turned so poorly it was nearly useless on banked corners
+- Quad's grip and low profile worked well on the flooding track until a windmill obstacle killed it
+- Lego surface threw cars into the air; better suspension was key
+- Balloons respawned slowly so multiple laps were needed, making the timer tight
+- Bouncing off the bumpy floor repeatedly launched the car upward
+
+**Vehicles:** Limo, sponsor-covered truck, quad, Lego-textured car, high-suspension car, race car  
+**Design takeaway:** Familiar oval laps become fresh challenges by adding one escalating environmental pressure (rising water, chasing hazard, collectible objectives) per track.  
+**Video:** [Custom cars vs NASCAR tracks in GTA 5](https://www.youtube.com/watch?v=4z_n3NS_J4E)
+
+### Handling Time Trials vs a Train
+
+Points-based handling tests with half-second-precise time limits: a slow-corner track with low-grip surface patches at each apex raced against a passing train, a fast sweeping-corner track (22.5 s), a top-speed straight ending in a multiple-choice gate, and a 48.5-second hairpin track with slowdown circles on every corner.
+
+**Issues & surprises**
+
+- Low-grip apex patches threw the rear out if he accelerated through them
+- Drifting every corner felt fast but lost too much speed
+- Curb-boosting off corners often cost more time than it gained
+- The two open-wheel cars dominated the cornering events
+- A family car surprisingly beat sports cars on raw top speed until the supercar showed up
+- The smaller, more nimble open-wheel car won the hairpin decider by exiting corners faster
+
+**Vehicles:** Family car, muscle car, electric car, two open-wheel cars, Krieger-style supercar  
+**Design takeaway:** Tuning time limits so only one car can make each event gives every test a clear winner and shows distinct handling profiles.  
+**Video:** [Which car has the best handling in GTA 5?](https://www.youtube.com/watch?v=k_UPMRbJGYg)
+
+### Life-Size Hot Wheels Track
+
+Life-size orange-track courses with loops, wall rides, building climbs, pulsing fans, launchers, an alligator mouth, a dinosaur spitting bowling balls, and a final ~11-minute track around skyscrapers littered with windmills.
+
+**Issues & surprises**
+
+- The cheap car drove badly on flat ground but climbed walls exceptionally well
+- Pulsing fans blew cars off the track if crossed at the wrong moment
+- Random boost pads after loops caused overcorrection
+- Engine fire meant a car didn't respawn
+- Some vehicles mysteriously vanished, with unclear rule triggers
+- Twin boosts worked but had a cooldown
+
+**Vehicles:** Novelty Hot Wheels-style cars: fan-powered car, six-wheeled wall-climber, oversized car, twin-boost car  
+**Design takeaway:** Toy-track pieces (loops, launchers, wall rides) scaled to life size are a natural fit for a physics vehicle sandbox and reward grip and sticky surfaces.  
+**Video:** [$1 to $1,000,000 Hot Wheels Cars](https://www.youtube.com/watch?v=TxHecQyqRis)
+
+### One Car per Release Year Event Battery
+
+A car from each year of the game competes in events: longest ramp jump past a wind turbine, fastest run over growing wavy speed bumps, driving under the lowest moving gaps, and holding onto a wall ride that gradually straightens out. Each event gives a point.
+
+**Issues & surprises**
+
+- Most cars hit about 190 mph at the ramp bottom yet jump distances varied hugely; electric cars felt speed-governed
+- The fastest car (2022) kept getting struck by the wind turbine, but eventually won the jump by overshooting
+- On the speed bumps, alternating full throttle on straights and slowing at the worst bumps worked; the 2024 car won
+- He realised he should have measured vehicle heights side by side first; the lowest car only had about 2 inches of clearance
+- A high-downforce car with wide wheels and good turning won both the moving gaps and the straightening wall ride
+- Wall rides normally depend on curvature; once flat, cars just slid down sideways
+
+**Vehicles:** One supercar per year 2013-2024 (Adder, Turismo, electric cars, Weevil-style custom, high-downforce 2020 car, etc.)  
+**Design takeaway:** An 'unwinding' wall ride that loses curvature is a clean, readable test of downforce and grip.  
+**Video:** [Testing cars from every year in GTA 5](https://www.youtube.com/watch?v=A_4wYzH9TmE)
+
+### Race and Escort AI Through Obstacle Courses
+
+First, AI pilots fly various planes over a ramp, between windmills and through a turbocharged windmill to land, and he must reach the end in a car after at least one plane succeeds. Second, AI drivers in different vehicles tackle speed bumps, a holey tightrope, ramp choices, crosswalks and hydraulic presses to push a target, and an AI-driven car must cross the finish before him.
+
+**Issues & surprises**
+
+- AI pilots usually crashed into windmills; only the Laser jet consistently made it
+- A muscle car's aerodynamics let it glide a long way off the ramp
+- AI drivers mostly chose the centre (smallest) ramp, apparently to hold the centre line, and fell into the gap
+- The huge Liberator monster truck was the most reliable AI vehicle, ploughing through pedestrians
+- AI couldn't recover from rollovers, so he nudged them back onto their wheels
+- He had to time his own arrival so the AI car crossed the teleporter first
+
+**Vehicles:** AI-flown planes (fighter jet, private jet, Laser); player supercar, Weevil and muscle car; AI-driven Liberator, Badger, quad, dune buggy and others  
+**Design takeaway:** Making the player escort or rely on AI drivers to finish exposes how robust your AI driving is on a hard course and creates a cooperative twist.  
+**Video:** [How smart are NPCs in GTA 5?](https://www.youtube.com/watch?v=Xb0K5On83KA)
+
+### Race the Train Motorcycle Gauntlet
+
+The player must keep pace with a moving train across a trap-filled course with narrow corridors, spinning walls, rocket helicopters, horizontal windmills and an avalanche. Some sections require dropping into train cars; falling behind the train means failure.
+
+**Issues & surprises**
+
+- Only a narrow bike fit through a tiny corridor
+- A low bike could duck under barriers others could not
+- Walls prevented going back to the train after a mistake
+- He found shortcuts by jumping off course, waiting for the train, and shooting teleporter operators
+
+**Vehicles:** Many motorcycles incl. scooter and a low small bike  
+**Design takeaway:** A moving pacer vehicle creates a dynamic timer and mobile platform at once.  
+**Video:** [Testing Trains vs Impossible Tracks in GTA 5](https://www.youtube.com/watch?v=bEAb37hNFQY)
+
+### Racing Custom AI Drivers
+
+The player races custom AI drivers ranging from bad to cheating 'Satan' AI on an obstacle track with cakes, spaghetti roads, ball carousels and teleporters; he must finish first.
+
+**Issues & surprises**
+
+- Some AI cut corners and made 90-degree turns
+- Ramming AI off the course was not allowed
+- The cheating AI teleported between sections
+- Hugging the edge on tight turns kept speed
+- Moving balls could be timed
+
+**Vehicles:** Go-kart, ATV, Wastelander, fast sports car  
+**Design takeaway:** AI opponents with distinct skill levels and cheat abilities make obstacle tracks into races.  
+**Video:** [Testing A.I autopilot vs deadly obstacles in GTA 5](https://www.youtube.com/watch?v=xsxfI7jCx0Y)
+
+### Seven-Mile Speed Bump Time Trial
+
+A 2-minute, checkpoint-free run across a seven-mile course of themed speed bumps: military bumps, growing construction bumps, human bumps, gingerbread men, balloons, big waves and small waves, machinery, bowling pins, spikes and windmill bumps.
+
+**Issues & surprises**
+
+- The monster truck bounced uncontrollably, described as driving uncooked pasta
+- Wave sections cost the most time for most cars
+- A tall truck he feared would roll handled bumps and waves surprisingly well
+- Losing tires on spike sections was expected, so the finish had to be reached on rims
+- The winner finished with one second to spare
+
+**Vehicles:** 12 cars with hydraulics: a joke car, monster truck, six-wheeler, tracked vehicle, armored car, a tall truck (winner)  
+**Design takeaway:** A long time trial over varied bumps rewards consistency over peak performance, a good stress test for suspension tuning.  
+**Video:** [Testing 100 Dangerous Vehicles in GTA 5](https://www.youtube.com/watch?v=d7vfd0ao5R4)
+
+### Seven-Mile Speed Bump Time Trial
+
+A seven-mile course of themed speed bumps (military, growing construction bumps, human-shaped cakes, wedges, waves, balloons, bowling pins, windmills, spikes) with a two-minute limit and no checkpoints. All cars get hydraulics.
+
+**Issues & surprises**
+
+- The monster truck was too bouncy
+- Balloons blew light cars around
+- Wave bumps made vehicles lose time
+- Armored car won with one second left despite losing tires
+- High center of gravity vehicles were avoided
+
+**Vehicles:** 12 cars with hydraulics incl. tiny car, monster truck, lifeguard truck, armored car  
+**Design takeaway:** A long single-run time trial over varied bump profiles is a strong test of suspension tuning.  
+**Video:** [Testing Cars vs MASSIVE Speed Bumps in GTA 5](https://www.youtube.com/watch?v=UUEzXJ_g6WE)
+
+### Speed Bumps vs Potholes Parallel Tracks
+
+Two lanes of equal length, one with increasingly harsh speed bumps and one with increasingly deep potholes. Each vehicle tries both against a time limit to find which is worse.
+
+**Issues & surprises**
+
+- The bus surprisingly handled potholes better at first
+- A scooter cleared the first speed-bump section against all expectations
+- Potholes threw cars sideways because of their curved shape, while speed bumps let him keep a straight line
+- The final teleporter only triggered if the car was on one specific side, which cost a successful run
+- Overall conclusion: speed bumps are easier than potholes
+
+**Vehicles:** Bus, scooter, wiener car, various cars  
+**Design takeaway:** Side-by-side tracks of equal length with different surface hazards let players compare suspension behaviour directly.  
+**Video:** [Potholes vs speedbumps in GTA 5](https://www.youtube.com/watch?v=Oe1sGfohgJ4)
+
+### Spoiler vs No-Spoiler Downforce Course
+
+Each car runs first without and then with a spoiler on a course of an invisible road that only appears up close, curb penalties, wall rides, an upside-down section and a road that curls under itself. The goal is to see which spoiler gives enough downforce.
+
+**Issues & surprises**
+
+- The road only appeared up close, so corners had to be memorized
+- Touching curbs with two tires seemed to count as failure
+- Spoilers bent sideways after impacts and lost their effect
+- Most cars could not hold the third wall ride even at high speed
+- A low car with an upgraded carbon spoiler hugged everything, including the curled road
+
+**Vehicles:** Pairs of identical cars with and without spoilers, triple-spoiler car, open-wheel F1-style car, low supercars  
+**Design takeaway:** A course built so downforce is required lets players feel exactly what aero parts do.  
+**Video:** [Which car has the best spoiler in GTA 5?](https://www.youtube.com/watch?v=tQamLKEAf_o)
+
+### Tiered Custom Bicycle Courses
+
+Each tier pairs a custom bike with a course: a basic arrow route, a one-minute timed downhill with a closing barrier, a halfpipe and gap-jump board with wheelie obstacles, and a finale with regenerating shooters, windmills and missiles.
+
+**Issues & surprises**
+
+- Going too fast on the downhill made the bike shoot out from under the rider
+- Landing sideways improved his chance of staying on over rocks
+- On the halfpipe, going too high meant being hit by turbines
+- Small obstacles required popping a wheelie for each one
+- Killed shooters respawned
+
+**Vehicles:** Custom bicycles at $1 to $1000 price points  
+**Design takeaway:** Speed limits enforced by crash physics (too fast = ejected) make a downhill time trial a balancing act.  
+**Video:** [$1 vs $1,000 Bicycles in GTA 5](https://www.youtube.com/watch?v=dgI2U7UyvMA)
+
+### Timed AI Speed Bump Run
+
+A 90-second run over many speed bump types: barrels, bricks, waste piles, sand dunes, rolling balls on a platform, growing grinder bumps, spinning bumps, a giant wall of slow-down sticks, and finally a 'stalking' speed bump that chases the car before a gate closes.
+
+**Issues & surprises**
+
+- Big wheels didn't guarantee clearing the first bumps
+- The motorcycle was fastest through grinder bumps but couldn't handle the moving ones
+- Spinning bumps pushed cars backwards and wrecked them
+- The Sherp climbed everything but was too slow and short for the final wall
+- The Wastelander made it with a near-perfect run, only getting hit on the back by the stalking bump
+- Easing off the throttle at launch kept the car centred on the course
+
+**Vehicles:** Barrel-bottoming car, big-wheel truck, ATV, gorilla-tape car, tinted lowrider, armed fire truck, motorcycle, Sherp, Wastelander (winner)  
+**Design takeaway:** Moving, 'intelligent' speed bumps add a pursuit element to an otherwise static traction challenge.  
+**Video:** [Cars vs 1000 Speedbumps in GTA 5](https://www.youtube.com/watch?v=qJTUoG_1obw)
+
+### Timed Stair Descent
+
+A 2.5-minute timed descent with no checkpoints down long staircases: tracks with thumbnail holes guarded by teleporters, icy stairs with snowmen that fling cars, uneven stairs that catch one wheel, round 'satisfying' stairs with pop-up blockers, and sloping stairs where meteors start falling before a closing gate.
+
+**Issues & surprises**
+
+- Fast cars front-flipped down stairs; constant throttle management was needed
+- Long vehicles bounced more on stairs
+- A cheap toy-like car was very controllable and great on ice
+- Driving backwards was sometimes more stable
+- The Wastelander's natural top speed on stairs was ideal and it rarely flipped
+- There was only about 15 seconds of slack in the timer
+
+**Vehicles:** F1 car, sedan, supercharged demolition car, mom's car, sports car, monster truck, power-wheels style toy car, Wastelander (winner)  
+**Design takeaway:** Going downhill fast is a distinct handling test from climbing and exposes pitch stability and brake/throttle control.  
+**Video:** [Cars vs Stairs in GTA 5](https://www.youtube.com/watch?v=o4hFyQk3bE8)
+
+### Timed Wavy Road Course
+
+Timed wavy-road sections: a rainbow wavy road with holes, a road whose dips plunge into water (40 seconds), a thinning wavy road ending in a car-width jump, a long 50-second wavy road with turns after crests, a rapid mogul-like road, and a six-prop wavy road requiring perfect jump-and-land rhythm.
+
+**Issues & surprises**
+
+- Going too high over crests triggered an invisible force that slammed cars back down
+- Touching the water in the dips killed speed so badly the run was over
+- A car that got lots of air made the watery section much easier
+- Minimal steering correction was essential; over-correcting kicked the rear out
+- Landing halfway down the next slope preserved momentum best
+
+**Vehicles:** Wastelander, tall SUV, gold limo-style car, jumping car, several sports and muscle cars  
+**Design takeaway:** Wave-shaped roads turn suspension and airtime into the core skill: players must time throttle so each landing feeds the next crest.  
+**Video:** [Cars vs wavy roads in GTA 5](https://www.youtube.com/watch?v=X5YZR4wZ0Vc)
+
+### Tiny Racers Top-Down Elimination Race
+
+A multiplayer top-down race mode where four players race on a shared screen with weapon pickups. Players who fall too far behind the leader, out of camera range, get eliminated, and rounds add up to an overall score.
+
+**Issues & surprises**
+
+- Players kept getting knocked out by drifting off the edge of the shared camera
+- Rams and the ramp car flipped rivals off the map
+- A player found out mid-match that one weapon fires backwards
+- Players suspected host advantage or ping when one person kept winning
+- Edges without guard rails caused many falls off the map
+
+**Vehicles:** Small cars in GTA Online's Tiny Racers mode  
+**Design takeaway:** A shared camera where falling off screen eliminates you makes an easy-to-read couch racing format with natural rubber-banding tension.  
+**Video:** [GRAND THEFT FETUS! Baby Cars Smashing Into One Another - Grand Theft Auto V Online (GTA 5) Gameplay](https://www.youtube.com/watch?v=6rJxEc7gPaQ)
+
+
+## Air & flight
+
+### Cars vs Moving Planes Stunt Course
+
+Stunts built around planes: matching speed to land on a platform carried by a bomber then slaloming helicopters, driving between the landing gear of moving airliners, a head-on chicken match against a prop plane, jumping over six Titan transports, and finally jumping into the open rear of a flying cargo plane.
+
+**Issues & surprises**
+
+- Matching the bomber's speed needed precise acceleration; braking on the moving platform lost too much speed
+- A small jump onto the platform made the wheels spin and slide on landing
+- The motorcycle aced the landing-gear section thanks to its thin profile but lost head-on against the prop plane
+- Planes occasionally spawned on top of the car
+- Curb-boosting from the edge of the take-off area gave just enough speed for the Titan jump
+- The cargo plane jump was mostly guesswork on launch timing
+
+**Vehicles:** Six-wheel buggy, Vin Diesel muscle car, 'thick' armored car, supercar, motorcycle, nimble sports car, a fast thin car (winner)  
+**Design takeaway:** Moving vehicles as platforms and obstacles require speed matching, which is a different skill from raw top speed.  
+**Video:** [Testing Cars vs Planes in GTA 5](https://www.youtube.com/watch?v=WDp_AFs6b-g)
+
+### Dare Set: Spinner RPG Duel, Flying Through Buildings, Ejection Trick
+
+Viewer dares: hit an RPG gunman while strapped to a spinning prop, fly a plane through a narrow gap, thread a jet between leaning towers, destroy tanks from a hover car, and eject from a jet through a tiny hole without being caught in the jet's explosion.
+
+**Issues & surprises**
+
+- Shots only landed when fired from the bottom of the spin
+- The jet came apart on tiny clips
+- Approaching from the side where buildings lean inward worked better
+- Ejection seat had a noticeable delay
+- The crashing jet's explosion killed him even after a successful eject
+
+**Vehicles:** Spinning platform, plane, jet, hover car, ejection seat  
+**Design takeaway:** Ejection with delay plus blast radius adds a two-step risk to aerial stunts.  
+**Video:** [I Survived 200 Dares in GTA 5](https://www.youtube.com/watch?v=eElpSzTwW1Y)
+
+### Engine-Out Glide Distance Test
+
+Planes fly through an obstacle field of balloons and hidden walls; after crossing a red threshold the engine cuts and the player glides as far as possible while dodging meteors and missiles. Distance markers score the glide.
+
+**Issues & surprises**
+
+- A huge plane with wide props glided poorly at about 350 distance
+- A jet's boost could still be used just before the engine died, extending range
+- Pulsing pitch up and down helped stretch glides
+- Respawning at a checkpoint restored the engine, which allowed finishing
+
+**Vehicles:** Many planes: small props, huge cargo plane, wide-prop aircraft, jets incl. one with built-in boost  
+**Design takeaway:** Cutting thrust at a fixed point makes glide ratio and energy management the scored skill.  
+**Video:** [Which Airplane can Fly the Furthest with Engines Off in GTA 5?](https://www.youtube.com/watch?v=c95R8JbyAww)
+
+### Flying Cars vs Wind Turbines and Air Defense
+
+Flying cars navigate a tunnel of spinning wind turbines where touching anything kills you, then a timed crane area with sliding crates and enemies to eliminate, and finally an aircraft-carrier assault with locked-on rockets.
+
+**Issues & surprises**
+
+- The cheap flying car handled like a fairground ride
+- Invisible walls made the open area into a tight tunnel
+- Boosts ran out and seemed to recharge only on certain surfaces
+- Missile lock-on targeted the water, which made the missiles useless
+- Enemies had to be killed to open walls, which was not explained
+
+**Vehicles:** Cheap flying car, modded rocket/boost flying vehicle, armed jet-car  
+**Design takeaway:** Low-ceiling flight tunnels with moving blades test fine hover control in vehicles that fly poorly.  
+**Video:** [Flying vehicles vs air defense in GTA](https://www.youtube.com/watch?v=lrimTj_Iyx0)
+
+### Leaf-Blower Thruster Vehicle Points Series
+
+Vehicles with leaf blowers as boost thrusters compete in: a 50-second hedge course race, a vertical climb up a wall using one boost charge, jumping the longest series of gaps past windmills, and boosting to slide under ever-lower barriers (limbo).
+
+**Issues & surprises**
+
+- Each blower setup felt very different: the Prius gave a violent burst, the Lambo a smoother, steady push
+- Boosting at the wrong moment threw him through the windshield; blowers bent and caught fire when damaged
+- The RC car could duck under slowdown strips and its jump and boost were combined, which helped it win the gap event
+- Starting tilted against the wall let the Lambo use its single charge to reach the top of the climb
+- The limbo section crushed taller cars and only the Lambo cleared the final shipping-container gap
+
+**Vehicles:** Leaf-blower unicycle, Prius with two big blowers, RC car, Lamborghini with huge blowers  
+**Design takeaway:** Directional thrusters strapped to ordinary cars create varied boost profiles; limiting charges turns height into a one-shot skill test.  
+**Video:** [Which leaf blower car flies the furthest?](https://www.youtube.com/watch?v=fajfpYdwe4Y)
+
+### Lightsaber Bike Planet-Cutting Course
+
+A space-themed course on a lightsaber-equipped motorcycle: jump and slice a mini moon to release pieces and glide to a checkpoint; cross Saturn's rings collecting three quantum bombs while a giant blade cuts an ever-widening gap; then dive through Earth's opened core dodging falling debris and a landing plane to hit the core within 60 seconds.
+
+**Issues & surprises**
+
+- The bike's saber set pedestrians on fire and hit hard on contact
+- Motorcycle gliding control needed practice; pulling back too hard stalled the glide
+- The Saturn gap widened by about 60 ft each cut, and he realised it was narrowest near the centre
+- Landing on all wheels without spinning was crucial to keep boost speed; a stray can under the tyre ruined a run
+- Night lighting made the course harder to read
+
+**Vehicles:** Motorcycle with lightsaber horn, boost-and-glide bikes, rocket bike  
+**Design takeaway:** A gap that grows on a fixed schedule creates an urgent route-planning puzzle where shortest-jump geometry matters.  
+**Video:** [Cars cutting planets in GTA 5](https://www.youtube.com/watch?v=Ppt8Nzrk6oc)
+
+### Long Wingsuit Dropper into Giant Mouth
+
+Second half: a long wingsuit descent down a red tower with walls to clear, spiked side paths, a flaming hoop and a final target into a giant statue's mouth.
+
+**Issues & surprises**
+
+- Learning to control altitude to clear walls took many attempts
+- Both side paths were essentially the same
+- Gliding high or low around signs worked
+- Counted seconds of dive to aim at the mouth
+
+**Vehicles:** Wingsuit  
+**Design takeaway:** Counting seconds of dive gives players a learnable rhythm for long glides.  
+**Video:** [I took cartoon challenges to unrealistic extremes in GTA 5](https://www.youtube.com/watch?v=owWRPQSSqIk)
+
+### Motorcycle Lightning-Wall Air Gauntlet
+
+A sequence of jump platforms where motorcycles must glide between landings while outrunning a wall of lightning, weaving through opening/closing blade 'windmills', and following a lane-switching pattern of lightning bolts. A final section has him chase a teleporting Santa through gaps and present walls.
+
+**Issues & surprises**
+
+- It was not obvious whether to dodge, ride, or outrun the lightning; the rule turned out to be beating the advancing wall
+- Air control mattered more than ground handling; spinning too much in the air caused hard nose-down drops
+- Three-wheelers were terrible flyers and went into dead spins
+- The bolt-pattern section required memorising left/right sequences over ~20 attempts; overcorrecting turns caused repeat failures
+- A first-person attempt surprisingly worked, and he once used his abandoned bike as a ramp over a wall
+- No clear checkpoint signalling after teleports frustrated him
+
+**Vehicles:** Wide range of motorcycles (sport bikes, three-wheelers, electric bike, low-profile bikes)  
+**Design takeaway:** An advancing hazard wall plus memorisable lane patterns turns a jump course into a rhythm-and-air-control test for bikes.  
+**Video:** [Bikes vs Lightning in GTA 5](https://www.youtube.com/watch?v=0q9qJLy0rO4)
+
+### Parachute Car Precision Landings
+
+A rooftop-to-rooftop course where the car can jump and deploy a parachute, then cut it to drop onto small targets. Many checkpoints need precise jump timing, parachute steering and cutting the chute at the right moment.
+
+**Issues & surprises**
+
+- Some ramps needed crawling at around five mph to avoid overshooting
+- There was always some leftover forward drift after landing, so light bounces worked better
+- Arrow trails pointed across the map with no clear destination, so he had to guess where to go
+- One very long gap only worked by carrying speed, then going full forward and then backward under the chute
+- The parachute snagged on overhead geometry
+- A wall ride with this car was very slippery
+
+**Vehicles:** Car with deployable parachute and jump ability  
+**Design takeaway:** A deployable glide/parachute plus a 'cut the cord' input gives a car a second air-control phase that suits target-landing challenges.  
+**Video:** [i completed this 99.999% impossible accuracy challenge in GTA 5](https://www.youtube.com/watch?v=6MWYNW3j-Cg)
+
+### Phobia-Themed Plane Tunnels and BMX Tightrope
+
+Fear themes become challenges: flying a plane through a shrinking tunnel of tiny holes, flying inverted through an alternating high-low tube, threading spinning blade obstacles, and a bicycle tightrope with windmills.
+
+**Issues & surprises**
+
+- Banking too long pushed the plane toward the tunnel walls
+- Touching tube walls cost the speed needed to climb
+- First-person view made death come faster rather than helping
+- Losing the bicycle mid-run still seemed to count
+
+**Vehicles:** Plane, BMX bicycle  
+**Design takeaway:** Inverted flight through alternating gates is a fresh twist on standard ring courses.  
+**Video:** [I faced 1000 fears in GTA 5](https://www.youtube.com/watch?v=Iagb1qmL80Q)
+
+### Plane Taxi Through Tubes
+
+Taxi and fly a plane through tubes, wall rides and small holes, with a seaplane section and a final skydive into a giant monster's mouth. Breaking the plane resets you to the last obstacle.
+
+**Issues & surprises**
+
+- Plane stuck to tube walls once it touched them
+- Lost the propeller but kept flying
+- Retracting landing gear let the plane fit a triangle hole
+- Spawn point was off-centre from the next hole
+- Stop sticks after the respawn slowed the restart
+- Seaplane handled badly
+
+**Vehicles:** Light plane (driven on ground and flown), seaplane, parachute  
+**Design takeaway:** Making an aircraft drive and squeeze through ground obstacles shows off landing gear, wing and collision details.  
+**Video:** [i took impossible challenges to new extremes in GTA 5](https://www.youtube.com/watch?v=PschLGGY-rg)
+
+### Presidential Jumbo Jet Clock Challenges
+
+Flying a huge, unwieldy jet into a clock-shaped hub, each gap leading to a task, e.g. destroying submarines in a cut-out ocean trench while avoiding water. Ends with threading the plane sideways through a rotating clock-hand gap.
+
+**Issues & surprises**
+
+- Dipping too low into the water killed the vehicle instantly
+- The big jet handled like a 'bathtub'
+- Submarines fired back
+- Some sections required knife-edge flying to hit two targets at once
+
+**Vehicles:** Large jet with missile wingmen, submarines as targets, cars  
+**Design takeaway:** Making a heavy, poor-handling aircraft do precision tasks creates comedic but fair tension.  
+**Video:** [I became president only to end humanity](https://www.youtube.com/watch?v=JlZZpC-3XD4)
+
+### Riding on Moving Aircraft Wings
+
+He must ride a motorcycle along the wings of planes flying past and jump between them before each plane despawns. Landing on a moving, sloped surface is the core skill.
+
+**Issues & surprises**
+
+- Wings were extremely slippery for the bike tires
+- A landing glitched his character into a stuck pose
+- Planes vanished fast, so hesitation meant failure
+- Needed to replay the flyby several times to learn the jump timing
+
+**Vehicles:** Motorcycle on moving planes  
+**Design takeaway:** Moving vehicle surfaces as temporary platforms test traction and relative-velocity landing in a memorable way.  
+**Video:** [I Survived 100 Dares In GTA 5](https://www.youtube.com/watch?v=1VbpO3fWtOQ)
+
+### Solar Skydive Obstacle Course
+
+A freefall course built around a model sun: dive through propellers, shrinking hoops, a 'solar twister' tube with jets and windmills, then an S-curve slide and a bullseye landing. Requires trading altitude for speed and back.
+
+**Issues & surprises**
+
+- Spinning propellers and flying jets kept clipping him
+- Hoops shrank progressively and were scored by points
+- Scraping the ceiling was more forgiving than hitting a wall
+- Needed to keep high speed to clear tube sections
+- A chute deploy was needed to reach an isolated platform
+
+**Vehicles:** Skydiving/parachute (no vehicle)  
+**Design takeaway:** Shrinking hoop sequences plus an energy-management element (altitude vs speed) suit any glide or flight vehicle.  
+**Video:** [when you skydive from the sun](https://www.youtube.com/watch?v=ABKUTZDQe2k)
+
+### Transforming Car-Plane-Parachute Relay
+
+Second board: a transform race through heavy traffic where you switch between a car, a plane flown through tiny gaps and tubes, a parachute drop onto a plane's nose, and a jet flown through a tube. Each transform checkpoint changes the vehicle.
+
+**Issues & surprises**
+
+- Dense high-speed traffic was an unexpected hazard
+- Flying the plane into very small openings needed fine control
+- Crashing into a checkpoint still counted it
+- He enjoyed the variety and found it easier than the wall-ride boards
+
+**Vehicles:** Car, small plane, jet, parachute  
+**Design takeaway:** Transform checkpoints that swap vehicle types mid-route keep a course fresh and test how well each handling model works.  
+**Video:** [i completed the most difficult wall ride ever made in GTA 5](https://www.youtube.com/watch?v=D2XxDSWXqAU)
+
+
+## Speed & top-speed tests
+
+### Acceleration Event Tournament
+
+Points-based tournament of acceleration tests: outrun breaking glass from a standstill, accelerate up a 40-degree slope and clear a jump, cross wet ice with slowdown circles in 13 seconds, push a heavy present down a corridor in 9 seconds with an acceleration boost, and a water acceleration tiebreaker in 7.5 seconds.
+
+**Issues & surprises**
+
+- Most cars could not climb the 40-degree slope at all and just slid back down
+- Heavy armoured car with a boost was useless on the glass test
+- On ice, feathering the throttle was faster than flat out
+- Scraping walls while pushing the present killed speed
+- Pre-spinning tires before the wall dropped shaved the tenth needed to win the water test
+- Result ended in a four-way tie before the tiebreaker
+
+**Vehicles:** Neon, Sad car, 'Maybe' tan car, Lambo-style supercar, arena car with boost  
+**Design takeaway:** Test a single stat (acceleration) across many surfaces and loads so the leaderboard shifts with each context.  
+**Video:** [Which car has the best acceleration in GTA 5?](https://www.youtube.com/watch?v=2v5CGNlgeXs)
+
+### Boost-Saturated Highway to Hell
+
+Second board: an all-red track covered in boost pads, forced top-down camera moments, sudden hairpins and a long jump that must be glided onto a distant road.
+
+**Issues & surprises**
+
+- Constant boosts made a normal car nearly uncontrollable
+- A sudden top-down camera switch right before a hairpin caught him out
+- For the long jump he had to lean back rather than forward and never lift off the throttle
+- The default car seemed like the wrong choice for the traction needed
+
+**Vehicles:** Default car  
+**Design takeaway:** Stacking boosts until the vehicle is near its control limit is a cheap way to make a speed course, but camera changes during it feel unfair.  
+**Video:** [speedrunning the world's hardest GTA 5 spike run challenge left me with nothing but regret](https://www.youtube.com/watch?v=GgmkzOVJNcg)
+
+### Long Car Braking Distance Tests
+
+Cars are forced to a fixed speed (69, 99, 169, 199 mph) by boosters, then have to brake to a stop before a cliff on different surfaces: wood, alternating ice and grip panels, snowy speed bumps, and mixed surfaces.
+
+**Issues & surprises**
+
+- Shorter, lighter cars generally stopped better than long ones
+- Starting to brake on a grip panel rather than ice made a big difference
+- Braking over speed bumps was nearly impossible because the tires were off the ground
+- Getting out of the car caused it to slow down by itself
+- The winning stop at 199 mph came from drifting and swinging the back end to shed speed
+
+**Vehicles:** Various long cars, a Chrysler-style sedan, a gun-armed 'murder machine' car  
+**Design takeaway:** Fixed-entry-speed braking tests on alternating surfaces are a clean way to show tire friction and weight effects.  
+**Video:** [Long cars vs brakes in GTA 5](https://www.youtube.com/watch?v=MsIDYJBq4MQ)
+
+### Machines vs Animals Showdown
+
+Each round restricts the vehicle pool to a category and pits it against an animal: outrun a deer, plow through 40 layers of cows in 20 seconds, run someone over faster than a mountain lion, hit two fish in water, and outrace a crocodile through a swamp.
+
+**Issues & surprises**
+
+- Deer beat every slow service vehicle; electric vehicle topped out under 30 mph
+- Cows were extremely heavy, piling on the roof and occasionally popping 30 ft into the air
+- Plow cars were banned in later rounds, forcing weaker vehicles
+- Flamethrower vehicle lost; the small Bandido won the run-over round
+- Most cars flooded out instantly in water; an electric car survived
+- Sherp went faster once its tires touched ground versus floating, narrowly beating the crocodile
+
+**Vehicles:** Service vehicles (tractor, forklift, electric cart), plow car vs 40 layers of cows, Bandido, boost cars, Sherp  
+**Design takeaway:** Racing AI 'animal' pacers with distinct speed profiles gives each vehicle class a clear benchmark to beat.  
+**Video:** [Cars vs animals in GTA 5](https://www.youtube.com/watch?v=75gCKlpFNLA)
+
+### Rocket Boost Multi-Event Comparison
+
+Boost-equipped vehicles compete in separate events: longest boosted jump, launching the driver furthest through the windshield, pushing invincible clowns and buoys off platforms, 100 m off-the-line dash, recharge count in 15 seconds, and highest climb up a measured wall. The final checkpoint is in the air, so only one car can finish.
+
+**Issues & surprises**
+
+- The Scramjet combined jump and boost for the longest jump, especially when pitched nearly parallel to the ground
+- The heavy Vigilante dropped like a rock in the air but dominated pushing contests thanks to its mass
+- Armored cars couldn't eject the driver at all
+- He used parked vehicles as ammo, launching them at the remaining clown with the Vigilante's rear boost
+- Boost only recharged on ground contact, capping height attempts at about two boosts
+- The arena car recharged fastest (17 times in 15s)
+
+**Vehicles:** Oppressor, Batmobile-style Vigilante, Scramjet, amphibious boost car, Voltic-style electric rocket car, arena car (ZR380)  
+**Design takeaway:** Break one vehicle ability (boost) into several measurable events so each vehicle can win a category.  
+**Video:** [What car has the strongest boost in GTA 5?](https://www.youtube.com/watch?v=I7m_vdkgIwM)
+
+### Top Speed Under Pressure Events
+
+Points-based top-speed tests: reach 134 mph on a narrowing tightrope road while dodging corkscrewing windmills, keep speed on an uneven road of block walls before a barrier rises, and drive a 21-second slalom course entirely in reverse. Each event gives one point.
+
+**Issues & surprises**
+
+- Most cars topped out a few mph under the 134 mph target
+- Letting a tyre just catch the edge of the tightrope gave a strange extra burst of speed
+- The electric car's launch plus the course's natural curb-boosting beat faster-top-speed cars on the uneven road
+- Nearly all cars reversed at only about 35-40 mph; the electric car was the only viable reverse runner
+- Reverse driving was hypersensitive and spun out constantly
+
+**Vehicles:** Electric car (Ocelot-style), open-wheel car, several supercars, Italian supercar  
+**Design takeaway:** Testing top speed in reverse or on broken surfaces exposes hidden stats like reverse gearing and acceleration that a straight-line drag race hides.  
+**Video:** [Which car has the best top speed in GTA 5?](https://www.youtube.com/watch?v=Y0HObvOL7Wg)
+
+
+## Other
+
+### Aging Dog Obstacle Run
+
+An on-foot course played as a dog that ages through stages, including a bombardment run, timed colour-mixing path choices, a moving-floor wall ride and a maze with propeller hazards. Not a vehicle challenge, but structured as staged obstacle boards.
+
+**Issues & surprises**
+
+- The 'old' dog did not feel slower, contrary to expectation
+- A moving floor nearly matched the dog's top speed, forcing memorization of the safe line
+- Colour-mixing riddles determined which platforms were real
+- Helicopter rotor gaps had only tiny safe windows
+
+**Vehicles:** Playing as a dog (Chop) at different ages  
+**Design takeaway:** A treadmill floor moving near the player's top speed is a simple way to force route memorization.  
+**Video:** [Surviving 100 years as a DOG in GTA 5](https://www.youtube.com/watch?v=L4hxdTO18FA)
+
+### Animal Form Obstacle Boards
+
+Courses for different animals: flying a bird through attack jets, a chicken crossing traffic, a dog doing military training and swimming.
+
+**Issues & surprises**
+
+- Bird steering was very twitchy
+- Planes got stuck and shuffled across the board
+- Cars teleported in randomly during the chicken crossing
+- The dog swam surprisingly fast
+
+**Vehicles:** Playing as a cormorant bird, chicken, dog  
+**Design takeaway:** Non-vehicle characters can still be used to test obstacle course ideas.  
+**Video:** [Surviving 100 years as every animal in GTA 5](https://www.youtube.com/watch?v=npbi99sU-5s)
+
+### Animal-Form Course: Rat Tightrope to Pigeon Turbine Flight
+
+He completes a course as a sequence of animals: a fragile rat that dies on any contact navigating fire and spinning tightropes, a pigeon threading a dense wind-turbine field with wall contact forbidden, and later animals that rampage and eat enemies.
+
+**Issues & surprises**
+
+- The rat was much faster than expected, which made precision harder
+- Staying in the center of rotating tightropes prevented being flung off
+- Anti-cheat barriers stopped him flying around the turbine field
+- Pigeon flight was smoother than other flyers he had used
+
+**Vehicles:** Rat, pigeon, other animal forms  
+**Design takeaway:** Fragile-hitbox modes where any contact kills turn familiar layouts into precision tests.  
+**Video:** [Playing as Every Animal in GTA 5](https://www.youtube.com/watch?v=MbmqYLh2bDQ)
+
+### Animal-Form Obstacle Gauntlet
+
+He plays as a series of animals: a bird flying through many walls of wind turbines and pallets while blowing up obstacles with sticky bombs, a cat crossing a firestorm tightrope, and a finale rampaging as a fire-breathing deer.
+
+**Issues & surprises**
+
+- Bird flight controls were extremely twitchy and touching board edges was instant death
+- He didn't realize sticky bombs were meant for clearing walls until late
+- Windmills knocked the cat off repeatedly
+- The finale was pure destruction rather than a test
+
+**Vehicles:** Flying hawk, cat, deer rider (animal forms); a motorcycle segment  
+**Design takeaway:** Swapping the player into creatures with odd handling is a cheap way to make the same course feel new.  
+**Video:** [When you evolve cats 1000 times in GTA 5](https://www.youtube.com/watch?v=COyrzd0s3tU)
+
+### Cash-Grab Delete Gun Run
+
+Every prop deleted or collected adds cash that visibly stacks on the player's back, with bigger obstacles paying more. Deleting the wrong prop, like the floor, can break the run; enemies with miniguns and RPGs and teleporting gold planes defend the course.
+
+**Issues & surprises**
+
+- Greed caused failures when he chased bonus gold off the path
+- Deleting floor pieces was possible but risked soft-locking
+- Teleporting planes had to be shot right after they stopped
+- A visibly growing money stack served as score feedback
+
+**Vehicles:** On foot with delete gun; gold-plated jets as targets  
+**Design takeaway:** A visible, physical score stack that grows on the vehicle or rider is a fun feedback idea.  
+**Video:** [When you make INFINITE MONEY in 5 minutes in GTA 5](https://www.youtube.com/watch?v=eLtuyHPVGgE)
+
+### Chatbot-Answer-Inspired Story Boards
+
+Boards built from a chatbot's joke answers: put out a burning car with buckets and a gravity gun, then escape a burning mansion via a thin wall-ride and jump; then a 'fancy dinner' where a drivable table runs themed obstacle courses per course (pumpkin bumps, slippery chip ramps, fruit to knock over, candy-cane windmills) within 96 seconds.
+
+**Issues & surprises**
+
+- The wall-ride ran right beside flames that blew out the tyres
+- Choosing the 'wrong' restaurant was simply instant death
+- Chip ramps removed all tyre traction
+- On the fruit course every single fruit had to be hit, not dodged; missing one forced a full restart
+- No checkpoints within the dinner board made it very long to beat
+
+**Vehicles:** Side-by-side, sports car, a drivable restaurant table  
+**Design takeaway:** Themed mini-courses chained in sequence add variety, but a 'hit every target' rule needs clear signposting.  
+**Video:** [GTA 5 but ChatGPT Controls My Life](https://www.youtube.com/watch?v=gg49FSfmenI)
+
+### Cheap vs Expensive AI Bots Obstacle Events
+
+Four AI characters scripted by different developers with $1/$10/$100/$1000 budgets attempt events: a checkerboard with false tiles and moving teleporters, a mine-filled breakable bridge under minigun fire, crossing chaotic traffic to climb a wall, and a car race through an obstacle course. The cheapest AI that finishes wins the point, and he must also complete each event himself.
+
+**Issues & surprises**
+
+- The $1 AI only ran straight, danced, or tried to sabotage him by ramming his car
+- The $100 AI could zigzag and drive a Jeep well but didn't understand it had to reach the final target
+- The $1000 AI won three events, partly by simply sprinting straight and getting lucky
+- His only usable vehicle for the traffic crossing was a lawnmower capped at 6 mph, which survived anyway
+- In the race he beat the AIs by wall-riding a shortcut, while a racer ahead could trigger a ball that blocked the course
+
+**Vehicles:** AI-controlled pedestrians and their cars (Jeep, race cars), player on foot, lawnmower  
+**Design takeaway:** Racing against AI drivers of tiered competence is a useful way to show off how well (or badly) AI handles your vehicle physics.  
+**Video:** [$1 AI vs $1000 AI in GTA 5](https://www.youtube.com/watch?v=CdZYRBNhzEw)
+
+### Chosen Chaos Power-ups Cross-Map Run
+
+A cross-map checkpoint run where at each stop he picks one of two circles granting three one-use 20-second chaos abilities (super jump, teleport, meteors, black hole), while random anti-chaos effects hinder him.
+
+**Issues & surprises**
+
+- Option labels were vague, so he often didn't know what he picked
+- Disable-random-direction and lock-camera effects hurt driving
+- Super jump negated fall damage and became the best traversal tool
+- A blimp was used to bypass much of the route
+- Combining insane gravity with a black hole unexpectedly helped
+
+**Vehicles:** Any car found en route, blimp, jet, parachute  
+**Design takeaway:** Letting players choose between blind bundles of one-shot powers adds strategic risk to a traversal run.  
+**Video:** [GTA 5, but I control the Chaos](https://www.youtube.com/watch?v=YYFnQb3uWPI)
+
+### Crewmate Organ Heist Story
+
+Story map with combat and a companion animal, ending with a motorcycle jump and a tugboat getaway.
+
+**Issues & surprises**
+
+- Mostly combat and story
+- Companion got stuck on tubes
+- Money spilled from an open box during the getaway
+
+**Vehicles:** Motorcycle, tugboat  
+**Design takeaway:** Not a vehicle challenge; loose cargo spilling during a getaway is a nice touch.  
+**Video:** [I made $670,616,629 SELLING CREWMATES ORGANS in GTA 5](https://www.youtube.com/watch?v=X8iBe1Ils0I)
+
+### Dating Story Map
+
+Comedy story: choose a date, then a cage fight and a judging segment. No real vehicle challenge.
+
+**Issues & surprises**
+
+- No vehicle content beyond a short car scene
+- Mostly dialogue, a cage fight and a choice segment
+
+**Vehicles:** None significant  
+**Design takeaway:** Not vehicle-related.  
+**Video:** [i literally dated Satan's daughter and this happened](https://www.youtube.com/watch?v=geeWNgrLcKA)
+
+### Delete Gun and Teleport Gun Obstacle Boards
+
+Special guns are used to clear boards: a delete gun removes barriers mid-jump but deleting the wrong prop breaks the course, and a teleport gun moves the player to colour-coded squares on a hamster wheel that speeds up every three minutes. A final section pits the teleport gun against a crowd.
+
+**Issues & surprises**
+
+- Shooting a platform by mistake deleted it and made the board unwinnable
+- A ramp moving very fast was nearly impossible to hit
+- Teleporting dropped him from height and his character's knees buckled with no recovery time
+- The wheel accelerated periodically, raising difficulty mid-run
+
+**Vehicles:** Car with delete gun, on foot with teleport gun on a hamster wheel  
+**Design takeaway:** Tools that remove or reposition track pieces in real time can turn a driving course into a reaction puzzle.  
+**Video:** [1 bullet vs 1,000 people in GTA 5](https://www.youtube.com/watch?v=V54YF2h36Ns)
+
+### Escalating Long Jump with Launch Tools
+
+An on-foot long-jump course where gaps keep growing, so the player must use launch methods: jumping off the very edge, being punched by a giant fist, riding a shot-down umbrella, getting batted by windmills, being hit by a 169 mph side-by-side, and finally super-jumping off a moving train to clear a huge gap.
+
+**Issues & surprises**
+
+- Being hit by the car gave more height if he jumped at impact
+- Approaching a windmill from behind gave much better launches
+- Super-jumping from a moving train added the train's speed to the jump
+- Thumbnail holes protected by windmills required angled jumps
+
+**Vehicles:** Mostly on foot; uses windmills, umbrellas, a 169 mph side-by-side and a train as launchers  
+**Design takeaway:** Momentum inherited from moving objects (cars, trains, rotating blades) is a fun mechanic to expose in any physics system.  
+**Video:** [How far can you jump in GTA 5?](https://www.youtube.com/watch?v=elDcpvM-rWo)
+
+### Inception-Parody Story Mission
+
+A comedic story map parodying a heist movie: assemble a team, drug a villain, and dive through dream levels to find his secret. Includes a short truck drive through a hostile dream area and a jump through a hole into the next level.
+
+**Issues & surprises**
+
+- Mostly narrative, little vehicle challenge
+- Truck drive under rocket fire with guiding arrows
+- An NPC drove a bumper train at him as an attack
+
+**Vehicles:** Truck, bumper trains  
+**Design takeaway:** Not a vehicle challenge; story framing can glue short driving segments together.  
+**Video:** [i went into satan's head and this happened](https://www.youtube.com/watch?v=3nEzUATI3FY)
+
+### Judgment Scales Choice Board
+
+A moral-choice story map: pairs of NPCs on scales plead their case and the player sends one to hell and one back to Earth, getting a grade and an ending based on choices.
+
+**Issues & surprises**
+
+- No vehicle content
+- Ending summarizes consequences of each choice in a comedic wrap-up
+
+**Vehicles:** None (on-foot choices)  
+**Design takeaway:** Not vehicle-related; a consequences recap at the end makes choices feel meaningful.  
+**Video:** [i was hired to choose your fate](https://www.youtube.com/watch?v=42QKZxznl3o)
+
+### Lunar Lifetime Story Escape
+
+A custom story map where the player is a clone born on a moon base and ages through life stages while fighting guards and aliens. Progress is gated by areas; vehicles appear as getaway tools (a slow lunar buggy, then gunship spaceships) before a final flight back to Earth.
+
+**Issues & surprises**
+
+- The small lunar buggy handled very poorly, compared to a 'drunken microwave'
+- Buggy kept snagging on cables and wires strewn across the base floor
+- Had to squeeze the buggy through a narrow gap that it barely fit
+- Spaceship flight felt far better than the ground vehicle
+- Ship engine cut out on re-entering Earth's atmosphere, ending in a crash
+
+**Vehicles:** Low-speed moon rover/buggy, armed spaceships  
+**Design takeaway:** Pair a deliberately clumsy low-gravity ground vehicle with tight clutter-filled interiors to make a short escape segment feel tense and funny.  
+**Video:** [i spent 100 years on the moon in GTA 5](https://www.youtube.com/watch?v=-SF_EWaGmkE)
+
+### Megalodon Rampage Sandbox
+
+Not a vehicle challenge: a mod sandbox where he plays as a megalodon, launching out of the water to hit helicopters and planes, then floods the city and leads a swarm of allied sharks.
+
+**Issues & surprises**
+
+- Objects got knocked much higher than he expected
+- Allied megalodons spawned on land died immediately
+- He could hold ships in his mouth and fling them across the map
+- Hundreds of sharks fighting dropped the game to about 4 FPS and a shark got stuck inside a building
+
+**Vehicles:** Playable megalodon, submersible, boats, helicopters, planes as targets  
+**Design takeaway:** Huge impulse forces against vehicles show how a physics system copes with extreme masses and velocities.  
+**Video:** [i forced megalodon sharks to evolve and this happened](https://www.youtube.com/watch?v=SHKXLm_NSYE)
+
+### Mobile GTA Clone Review
+
+Not a vehicle challenge: he plays several ad-heavy mobile GTA imitations and rates them on graphics, map, cars, weapons and how breakable they are. Ratings are jokey and comparative to GTA.
+
+**Issues & surprises**
+
+- One game's floaty, broken car physics made long ramp jumps hilarious, raising its score
+- Sticky bombs stacked endlessly on a car and the car stayed drivable
+- Character got stuck halfway in/out of a vehicle
+- Constant ads interrupted gameplay; the game with no ads scored highest
+
+**Vehicles:** Various cars and bikes in low-budget mobile open-world games  
+**Design takeaway:** Even janky, exaggerated physics can be entertaining if it is consistent and lets players do absurd stunts, while friction outside the driving kills enjoyment.  
+**Video:** [Trying terrible GTA 5 ripoff games](https://www.youtube.com/watch?v=7NInFaa1hYM)
+
+### Modded Creature and Shark Physics Sandbox
+
+Not a driving challenge: a mod sandbox where he spawns Siren Head creatures and great white sharks with boosted physics and drops them into pools, tubes and helicopter blades to watch the ragdoll chaos.
+
+**Issues & surprises**
+
+- Spawned sharks often did nothing or swam on land instead of attacking
+- Bodies flew much farther with boosted physics
+- Low gravity only slowed things down instead of making them more dramatic
+- The helicopter blades stopped working once enough bodies jammed them
+- Dropping lots of Lamborghinis made the physics fall apart
+
+**Vehicles:** Few vehicles; mostly modded creatures, sharks, a helicopter and dropped Lamborghinis  
+**Design takeaway:** Mass-spawn sandbox modes are good stress tests for a physics engine's stability under hundreds of colliding bodies.  
+**Video:** [using 100 siren heads to terrorize innocent people in GTA 5](https://www.youtube.com/watch?v=4E9LHuQhrEI)
+
+### Mystery Box Wall Unlock Puzzle
+
+A puzzle board where the player rams or shoots open 16 mystery boxes on a wall while a helicopter fires rockets. Boxes contain helpful or harmful items (vehicles, repair kits, a hydraulic press, explosives, a hostile NPC carrying sticky bombs, a soccer ball). The goal is to detonate the one correct underwater mine to open the path to the finish.
+
+**Issues & surprises**
+
+- Boxes reset every time the vehicle respawned, wiping progress
+- Using a ramp or rocket boost to punch through boxes worked inconsistently; aiming launches was hard
+- A tank inside one box let him shoot boxes open and finally down the helicopter
+- Mines were guarded by teleporters, so they had to be set off with a pushed soccer ball
+- The floating Sherp could not get low enough to reach the final trigger and had to drive in from the side
+- Some boxes simply contained death traps such as an explosives room
+
+**Vehicles:** Starting rocket car, unlocked jet ski, monster truck, tank, Sherp; on-foot sections  
+**Design takeaway:** Randomised loot boxes that award vehicles and tools mid-level can turn a driving map into an open-ended puzzle.  
+**Video:** [Cars vs mystery boxes in GTA 5](https://www.youtube.com/watch?v=ZCu0vZyNtZQ)
+
+### On-Foot Moving Ladder and Stair Climb with Chaos
+
+An on-foot climbing course into the sky made of spinning ladders, telescoping platforms, a tumbling cube of stairs, fire-floor 'sin' circles and a yeet-power section between wind turbines, while a chaos mod fires every 30 seconds. Some stages give a one-time power-up choice (teleport, double animation speed, super jump/run).
+
+**Issues & surprises**
+
+- A stuck-forward-key chaos effect revealed he could simply run up ladders
+- Zero and extra gravity effects alternately helped and ruined climbs
+- Teleport power-ups covered far more distance than advertised
+- A 'back to the beginning' chaos effect could reset all progress
+- Timing jumps to when rotating stairs peaked was the key trick
+
+**Vehicles:** Mostly on foot (no vehicle focus); falling cars/tanks as chaos hazards  
+**Design takeaway:** Limited one-shot power-up choices before a hard section let players pick their own solution to the same obstacle.  
+**Video:** [Climbing a ladder to heaven but chaos happens every 30 seconds in GTA 5](https://www.youtube.com/watch?v=FShN-XzGtXk)
+
+### On-Foot Speed Bump Ability Course
+
+An on-foot course of deadly 'speed bumps' (saw blades, spikes, medieval walls, spinning blades) where each cleared section unlocks an ability: a self-launching ray gun, being blasted by a jet engine, super jump, then super run. The final giant speed bump must be crossed within 50 seconds.
+
+**Issues & surprises**
+
+- Spike floors did not kill instantly but allowed only a short distance
+- The ray gun launch killed on the second use, so he hid to regenerate health
+- Approaching the jet engine from the side gave much better launches
+- The disappearing final platform turned out to be skippable by jumping far enough
+
+**Vehicles:** None (on foot); jet engine blast used as launcher  
+**Design takeaway:** Unlocking stacking movement abilities after each section lets later obstacles demand combinations of earlier tools.  
+**Video:** [How many speed bumps can I jump in GTA 5?](https://www.youtube.com/watch?v=SxPVAUfVQdg)
+
+### Organ Delivery Story with Stunt Segments
+
+Story map: track targets, then transport them by boat or van, plus a motorcycle wall-ride stunt and loading a body into a van with a forklift.
+
+**Issues & surprises**
+
+- Moped's battery-like slowness
+- A ragdoll stayed inside the boat even during rolls
+- Motorcycle stunt wall ride was harder than expected
+- Used a forklift to toss a body into a van
+
+**Vehicles:** Moped, boat, motorcycles, forklift, van  
+**Design takeaway:** Transporting a loose ragdoll cargo without losing it is a fun physics delivery task.  
+**Video:** [i sold people's organs](https://www.youtube.com/watch?v=VR_Rz7en-_U)
+
+### Playable Animals on Vehicle Obstacle Courses
+
+Animal characters attempt courses normally built for cars: a timed run over giant bottles, balancing on a rolling packing peanut, recovering quickly after falling off a can, tumbling down a Lego staircase, a tightrope past pedestrians, and knocking explosive barrels off a tightrope. One point per event.
+
+**Issues & surprises**
+
+- Animal ragdoll physics were erratic; falls cost a lot of time because getting up was slow
+- The deer had poor acceleration but high top speed and bounced down stairs best, winning overall
+- On the rolling peanut, trotting at a specific speed and running at an angle was the trick
+- The chimp died on touching vertical surfaces
+- The cat recovered fastest after a fall, but its fall kept resetting, so it descended slowly
+
+**Vehicles:** No vehicles: playable cat, dog, chimp, mountain lion, rabbit and deer  
+**Design takeaway:** Get-up and recovery time after a tumble is a gameplay stat in its own right and can decide timed runs.  
+**Video:** [Which animal survives the hardest obstacles?](https://www.youtube.com/watch?v=Z17IasK0bRU)
+
+### Police Recruit Escort Simulator
+
+Target practice with shrinking targets is followed by a patrol where the player rides a speed-limited police bike and shoots criminals while an NPC must get home alive.
+
+**Issues & surprises**
+
+- The bike was capped to 30 mph by speed limit signs
+- The player was invincible but the escort could die, so he used himself as a shield
+- Pointing the vehicle at targets helped aiming
+
+**Vehicles:** Police motorcycle with enforced 30 mph speed limit  
+**Design takeaway:** Enforced speed caps by zone shift focus from driving to positioning and protecting an escort.  
+**Video:** [Ending crime by ending humanity in GTA 5](https://www.youtube.com/watch?v=aGnPpmTmfaw)
+
+### Prison Break Story
+
+Story map: drive a novelty vehicle with a passenger to a prison, blast in, find the target and escape by helicopter to a portal.
+
+**Issues & surprises**
+
+- Bathtub vehicle handled poorly with a passenger
+- Helicopter flying was messy
+- Passenger fell out on a crash
+
+**Vehicles:** Novelty bathtub vehicle with passenger, helicopter  
+**Design takeaway:** Not a challenge; carrying a passenger who can fall out adds stakes to driving.  
+**Video:** [when SpongeBob breaks you out of a GTA 5 prison](https://www.youtube.com/watch?v=NSs-ON-sfB0)
+
+### Rating Knockoff 'GTA 6' Mobile Games
+
+Not a vehicle challenge: he plays three cheap 'GTA 6' clickbait games and rates them on how ridiculous and clickbaity they are, covering floaty car physics, auto-battler bank heists and a glitchy shooter with a six-star wanted level.
+
+**Issues & surprises**
+
+- Car in the first game floated above the ground and could not touch police
+- Traffic cars spawned on top of objects and bounced around
+- A dead police driver caused a permanent traffic jam
+- Forced music with no way to turn it off was a recurring annoyance
+
+**Vehicles:** Various knockoff-game cars (not a vehicle challenge)  
+**Design takeaway:** Poorly grounded vehicle physics and spawn placement are immediately noticeable and become the joke, so ground contact and spawn checks matter.  
+**Video:** [I played GTA 6 clickbait games so you don't have to](https://www.youtube.com/watch?v=4klt4Pq_nCA)
+
+### Right-Angle Waterslide Ragdoll Run
+
+On-foot challenge: slide down waterslides built with sharp 90-degree angles, using gunfire recoil to rotate and nudge the body. Later stages include an accelerating upward tube to fire yourself at a ball target and a 'make your own' stage where you tilt a slide piece with a gravity gun so you can reach the end.
+
+**Issues & surprises**
+
+- Hard 90-degree corners gave the body nothing to bank against, so it either stopped dead or flew off
+- Firing a gun gave slight movement but the direction it pointed was random
+- The accelerating tube turned the character into a human railgun that overshot the target
+- He completed one target by slipping through a crack in the geometry instead of the intended hole
+- Tuning the slide tilt was a fine balance between too little speed and flying off at the first turn
+
+**Vehicles:** On foot (ragdoll body sliding), gravity gun  
+**Design takeaway:** Letting players tilt or adjust a track piece before running it is a neat build-then-test loop that would work equally well for vehicle courses.  
+**Video:** [Testing 90 degree waterslides](https://www.youtube.com/watch?v=93x-yq-VLyg)
+
+### Rocket-Intercept and Vehicle Trick-Shot Gauntlet
+
+A sequence of shooting trick-shot boards with one-hit deaths: shoot a target on a treadmill, survive 13 seconds by shooting incoming rockets out of the air, dodge rockets spawning around him, then a chained sequence of sticky bombs, a 360 revolver shot and a parachute section.
+
+**Issues & surprises**
+
+- He first thought he had to ride the rockets before realizing the trick was to shoot them down
+- The game visibly confirmed a rocket hit, which helped him learn the timing
+- Dodging rocket waves became pattern memorization, like a rhythm game
+- A car trick shot also required landing the vehicle, which he hadn't anticipated
+
+**Vehicles:** On foot; a car for a drive-and-shoot trick shot; parachute  
+**Design takeaway:** Pattern-based projectile waves with clear hit feedback turn chaotic hazards into learnable rhythm challenges.  
+**Video:** [I hit this 0.0001% trick shot challenge in GTA 5](https://www.youtube.com/watch?v=BPVJEtzBe14)
+
+### Staircase to Space On-Foot Parkour
+
+An on-foot climb of 90+ steps that grow taller every level, with a new power-up per tier (ray gun, Jedi force, magnet gun, super run, super jump). Each tier adds hazards like bike riders, teleport traps, force-pushing balls and a rocket-firing angel.
+
+**Issues & surprises**
+
+- Stealing a bike teleported him onto it, letting him skip a wall he couldn't jump
+- Teleport traps could chain-drop him multiple steps
+- Magnet-gun containers worked both as a shield from rockets and as a climbing block, but only when placed flush against the wall
+- Windmill tips were used as launch catapults, requiring exact positioning
+- Each power-up doubled as a checkpoint, which kept the frustration manageable
+
+**Vehicles:** Mostly on foot; stolen BMX bikes, helicopters as platforms, windmill blades as launchers  
+**Design takeaway:** Gate a vertical climb with a new traversal tool per tier and design each section around creatively using that tool.  
+**Video:** [How many steps can I climb to space in GTA 5?](https://www.youtube.com/watch?v=6F76OVGVW8E)
+
+### Super-Jump Parkour over Rock Peaks
+
+An on-foot parkour course with super jump: land exactly on the tips of rock spires (missing teleports you back), cross bulges guarded by a chasing spinning windmill, hop between circling planes, pick the correct coloured platforms among black-hole traps, and cross randomly popping-up props. Checkpoints separate the sections.
+
+**Issues & surprises**
+
+- Landing zones on rock tips were only a few feet wide
+- The stalking windmill could be climbed and ridden as a safe spot
+- Planes were too steep to land on except one, blocking shortcuts
+- Wrong-colour platforms were trial and error with no clues
+- Rubbing against a slope reduced the super jump height
+
+**Vehicles:** None (on foot with super jump)  
+**Design takeaway:** Even without vehicles, tiny landing targets plus moving pushers make a strong precision-jump test that could be adapted to vehicle jump physics.  
+**Video:** [Can you climb giant bulges in GTA 5?](https://www.youtube.com/watch?v=IhPvR91m5Zs)
+
+### Superhero Escort Missions
+
+Story missions escorting heroes: a drunk passenger on a bike across traffic with hidden boosts, and a turret truck run.
+
+**Issues & surprises**
+
+- Hidden boosts on a freeway also hit traffic
+- Passenger fell off the bike repeatedly
+- A small driver could barely see
+
+**Vehicles:** Motorcycle with passenger, convertible, trike, armed truck  
+**Design takeaway:** Hidden boost pads in traffic are chaotic.  
+**Video:** [i destroyed all of society with sharks in GTA 5](https://www.youtube.com/watch?v=y8UOakB1lB4)
+
+### Theme-Park Teen Hunt Story
+
+A story map about collecting NPCs at an amusement park and delivering them in a van, then a stealth-combat section. Includes BMX riding on roller-coaster tracks with windmills.
+
+**Issues & surprises**
+
+- Riding a BMX along a roller coaster track was very hard
+- Windmills placed on the park route launched him
+- Used a bulldozer to shove NPCs into the van and push it to the checkpoint
+
+**Vehicles:** BMX bike, van/bulldozer  
+**Design takeaway:** Using a pusher vehicle to manoeuvre a disabled vehicle to a goal is a fun physics delivery task.  
+**Video:** [I Sold FNAF FREDDY'S ORGANS in GTA 5](https://www.youtube.com/watch?v=BsQyOwXqjr0)
+
+### Time-Travel Heist Story
+
+Comedy time-travel story: travel through a toilet portal, scoop NPCs and dinosaur eggs with a bulldozer into a dump truck, and escape a T-rex.
+
+**Issues & surprises**
+
+- Bulldozer could scoop and dump NPCs from a ledge
+- Eggs fell out of the bucket on the way down a hill
+- Riding a deer up terrain with ragdoll falls
+
+**Vehicles:** Bladed motorcycle, bulldozer, dump truck, rideable deer  
+**Design takeaway:** Scoop-and-deliver with a bulldozer bucket is a fun loose-cargo task.  
+**Video:** [i found a toilet that causes mass extinction](https://www.youtube.com/watch?v=q-h-zzcfiK8)
+
+### Time-Travel Story with Underwater Tube Maze
+
+A comedic time-travel story map. The main driving section is a multiple-choice underwater tube maze driven in a car, where wrong tubes teleport the player back to the start, followed by an ATV dinosaur hunt.
+
+**Issues & surprises**
+
+- Car handled poorly underwater, likened to a washing machine
+- Wrong tubes sent him back to the start, making it a memory test
+- Spinning fans and scissor hazards inside the tubes
+- Forgot the car could fly
+
+**Vehicles:** Flying time-machine car, amphibious/underwater car, ATV  
+**Design takeaway:** A branching tube maze where wrong choices reset you adds a route-learning layer to a driving section.  
+**Video:** [when you create mass extinction in the most effective ways imaginable](https://www.youtube.com/watch?v=AwkSKmIbvRc)
+
+### Timed Deer-Riding Death Run and Boss Fights
+
+Trending-topic themed boards: a one-minute timed run riding a deer through turbines and closing gates, a boss that teleports and throws objects, and a store puzzle where an item lures the deer to break a door.
+
+**Issues & surprises**
+
+- A blocking rock only moved after he headbutted its holder
+- He found he could drift on the deer
+- He made the timed run with about ten seconds to spare
+- The deer mount abandoned him mid-challenge
+
+**Vehicles:** Deer mount  
+**Design takeaway:** Timed gates that close behind you add pressure to an otherwise simple route.  
+**Video:** [Whatever is trending comes to life in GTA 5](https://www.youtube.com/watch?v=YQ_iKTZMR10)
+
+### Tug-of-War Decides the Next Board
+
+Pairs of vehicles or characters play tug of war, and the winner determines which board the player must complete next: a disappearing-platform board using an instant 180 turn ability, a plane flight through buildings, and a wall-ride board with ribbon transfers.
+
+**Issues & surprises**
+
+- The prototype rocket car unexpectedly won its tug of war
+- Platforms appeared only for about 3.5 seconds, demanding timed boosts and instant turns
+- The plane survived losing a wing but the engine nearly failed
+- Bouncing off a building gave a mini wall ride for the plane
+- A bird strike ended a good wall-ride run
+
+**Vehicles:** Rocket car with instant-180 ability, Superman-style flyer vs armored vehicles, plane, wall-ride car  
+**Design takeaway:** Using a physics tug-of-war outcome to choose the next level adds a spectator-style random element.  
+**Video:** [Which vehicle has the strongest pull?](https://www.youtube.com/watch?v=rKheSPdu2m8)
+
+### Underwater Base Escape with Seabed Driving
+
+Story map set in a flooded world where the player fights through an underwater facility over a lifetime. One segment has a car that runs underwater along a seabed route with ramps, wall sections and a launch out of the water onto a platform.
+
+**Issues & surprises**
+
+- Was surprised the car worked normally on the sea floor
+- Tire got caught on underwater piping
+- Hit the only obstacle in the path despite the open route
+- Ramp-to-wall section launched the car out of the water to a landing
+
+**Vehicles:** Car driven on the ocean floor  
+**Design takeaway:** An underwater driving section with normal traction but surreal visuals and pipe snag hazards is an easy way to vary a driving campaign.  
+**Video:** [forcing people to spend 100 years underwater](https://www.youtube.com/watch?v=-rhkMiATK-c)
+
+### Viewer Dare Stunt List
+
+A list of viewer dares: skydive onto your own falling clone, wall-ride an invisible car, flip and defeat a tank using only a ramp buggy, land a jump precisely into a boat, fly a bird through a building, and shoot down a helicopter with an unguided car-mounted gun.
+
+**Issues & surprises**
+
+- Ramp buggy only flipped the tank when hitting it from the side; front hits just bounced off
+- Landing on a boat required hitting the very front to avoid bouncing off
+- Unguided car guns shot far below the aim line, so he had to lead the target heavily
+- An invisible car made wall-riding much harder without visual cues to the body's position
+- Bird flight was easy, but landing on a small target was the hard part
+
+**Vehicles:** Invisible car, ramp buggy vs tank, speedboat, hawk/seagull, rocket car  
+**Design takeaway:** Ramp vehicles that flip opponents depending on contact angle make for a skill-based non-weapon combat option.  
+**Video:** [Completing the most painful dares in GTA 5](https://www.youtube.com/watch?v=7_3GaPKsb5k)
+
+### Viewer Game-Secret Trick Shots
+
+A set of viewer-suggested game tricks turned into challenges: sniping targets while flung by a wind turbine, freefall-steering onto a blimp, surviving a long fall with an ability, and blowing up a plane with a grenade from the wasted screen.
+
+**Issues & surprises**
+
+- Turbine launches gave only short windows for aiming
+- Holding forward and back together gave better control in one trick
+- Fast freefall covered more distance than expected
+- Grenade timing during death worked to take down a plane
+
+**Vehicles:** On foot, sniper, freefall, plane target  
+**Design takeaway:** Turning engine quirks into explicit challenges can reward players who explore system edges.  
+**Video:** [Busting 3000 IQ Secrets in GTA 5](https://www.youtube.com/watch?v=NhVCgeizjik)
+
+### Zombie Date Story
+
+Comedy story; motorcycle rides between scenes and a chase.
+
+**Issues & surprises**
+
+- No real vehicle challenge
+- Motorcycle used only for travel and a short police chase
+
+**Vehicles:** Motorcycle  
+**Design takeaway:** Not vehicle-related.  
+**Video:** [I Dated A ZOMBIE in GTA 5](https://www.youtube.com/watch?v=uHw0XZ_kRUo)
